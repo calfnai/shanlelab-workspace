@@ -57,18 +57,31 @@ for v in [3,2,1]:
     items+=pics(f,f'11.05 · v0{v}','当前方向' if v==3 else '历史版本','空间概念图；v03 按主墙尺寸重新校正比例，施工以尺寸图为准。')
 for v in [13,11]:items+=pics(SHOP/f'booth-3x3-MLBB-TH-v{v}'/'review',f'早期展位 v{v}')
 projects.append(project('mlbb-booth','MLBB 赛事展位','03 / BOOTH','3 × 3 米相邻双开口 · 展示、体验与储物。','d1139134','近期 v01–v03 有渲染与平面图；尚未找到与这版设计对应的可旋转 3D。',items))
-model=NIKO/'tabletop-3d-v07/site'
+# Exactly two current display schemes. Rejected tabletop v01-v06 are excluded.
+model=NIKO/'comparison-v08/site'
 for p in model.rglob('*'):
-    if p.is_file() and not any(part.startswith('.') for part in p.relative_to(model).parts) and p.name!='README.md':copy(p,'demos/niko-v07/'+p.relative_to(model).as_posix())
-items=pics(model/'preview','桌面双面 3D v07','当前 3D')
-for name,label in [('tabletop-double-sided-v06','七件位置 v06'),('tabletop-double-sided-v05','桌面 v05'),('tabletop-double-sided-v04','桌面 v04'),('tabletop-double-sided-v03','桌面 v03'),('tabletop-ebuild-v02','厚纸板插接 v02'),('tabletop-corrugated-v01','纸板展具 v01')]:
-    items+=pics(NIKO/name,label)
-for p in sorted((SHOP/'island-column-20261023/outputs/store-renders-v09').glob('*.png')):
-    if re.match(r'\d\d-',p.name):items.append(image(p,'旧中岛专柜 v09 · '+p.stem,'旧空间方案','与双面桌面 v07 为不同方案线；反向被拒图未纳入。'))
-links=[dict(label='打开可旋转 3D · v07',href='demos/niko-v07/index.html',kind='3d'),dict(label='已有在线 3D',href='https://calfnai.github.io/nikoand-christmas-display/')]
+    if p.is_file() and not any(part.startswith('.') for part in p.relative_to(model).parts):
+        copy(p,'demos/niko-comparison/'+p.relative_to(model).as_posix())
+items=[]
+for scheme,label in [('pipe','水管吊海洋板'),('paper','纯纸板')]:
+    for zone,zlabel in [('island','中岛'),('column','柱子区'),('back','中岛背面'),('overall','整体')]:
+        p=model/'preview'/f'{scheme}-{zone}.png'
+        if p.exists():items.append(image(p,f'{label} · {zlabel}','当前对比','同一底座 200×100×67cm；柱子每面125cm。'))
+if not items:items=[image(model/'assets/front.jpg','联名区正面原稿','设计原稿')]
+links=[]
 for p in sorted((NIKO/'output').glob('*v04*')):
-    if p.suffix == '.pdf':links.append(dict(label='圣诞提案 v04 · '+p.suffix[1:].upper(),href=copy(p,'documents/'+p.name)))
-projects.append(project('niko','niko and… 展位','04 / DISPLAY','双面桌面 v07、七件位置图、纸板结构与旧中岛专柜。','ea860ae7','双面桌面 v07 与旧中岛 v09 为不同版本线；当前 3D 未摆入包包和护照夹。',items,links))
+    if p.suffix=='.pdf':links.append(dict(label='圣诞提案 v04 · PDF',href=copy(p,'documents/'+p.name)))
+projects.append(project('niko','niko and… 展位','04 / DISPLAY','水管吊海洋板 / 纯纸板 · 中岛与柱子区左右对照。','ea860ae7','中岛底座 200×100×67cm，沿用叉车板；柱子每面125cm。先看效果图，再看三维模型，最后看细节和参考。',items,links))
+projects[-1]['comparison']={'root':'demos/niko-comparison/','schemes':[
+ {'id':'pipe','title':'水管吊海洋板','tag':'A / PIPE + MARINE PLYWOOD','summary':'水管支架从上方两点吊挂海洋板；中岛与柱面配套。'},
+ {'id':'paper','title':'纯纸板','tag':'B / CORRUGATED BOARD','summary':'EBUILD 厚纸板立板与阶梯结构；中岛与柱面配套。'}
+], 'withdrawn':'用户截图指定的被否决或严重错误版本已退出成果展示。原始参考资料保留。',
+ 'dimensions':{'base_cm':[200,100,67],'column_face_cm':125,'person_cm':170},
+ 'details':[image(model/'assets/front.jpg','联名及首发区 · 正面原稿','设计原稿'),image(model/'assets/back.jpg','常规商品区 · 背面原稿','设计原稿')],
+ 'references':[]}
+for file,label in [('pipe-plywood-reference.png','水管与海洋板 · 结构参考'),('v03-user-column-zones.png','柱子区 · 原始分区参考')]:
+    p=SHOP/'island-column-20261023/assets'/file
+    if p.exists():projects[-1]['comparison']['references'].append(image(p,label,'参考资料','保留原资料；图中的旧尺寸不替代本次确认尺寸。'))
 items=[]
 for v in [11,10,9,8,7,3]:
     items+=pics(PACK/f'assets/scenes/v{v:02d}',f'陈列评审 v{v:02d}','当前陈列评审' if v==11 else '陈列版本','现场陈列效果稿；现场尺寸与承重仍需核对。')
@@ -96,6 +109,8 @@ for source,destination,title,status in [
  body='\n'.join(line for line in body.splitlines() if not line.startswith('To:'))
  dest=SITE/'documents'/destination
  dest.write_text('<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+escape(title)+'</title><style>body{max-width:850px;margin:50px auto;padding:0 25px;background:#f5f4ef;color:#283c35;font:15px/1.85 system-ui}h1{font-size:28px}aside{padding:16px;background:#e6eadd;font-size:12px}pre{white-space:pre-wrap;font:14px/1.9 system-ui;background:white;padding:30px;border:1px solid #dedfd6}</style><a href="../index.html#mlbb-gift">← 返回赛事赠送款</a><h1>'+escape(title)+'</h1><aside>'+escape(status)+'</aside><pre>'+escape(body)+'</pre></html>')
+conversation_names={'mlbb-retail':'MLBB表情包充值贴纸','mlbb-gift':'MLBB赛事包 MCT赛事Logo贴纸','mlbb-booth':'MLBB展位重设计','niko':'niko and 设计最终版回顾','pouch':'透明软塑料包装袋设计正式目录'}
+for p in projects:p['conversationName']=conversation_names[p['id']]
 (SITE/'data.js').write_text('window.WORKSPACE='+json.dumps(dict(updated='2026-11-06',projects=projects),ensure_ascii=False)+';',encoding='utf8')
 (ROOT/'local-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
 print(f'{len(projects)} projects; {sum(len(p["items"]) for p in projects)} images; {len(manifest)} files')
