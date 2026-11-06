@@ -1,0 +1,167 @@
+{
+  "checkedAt": "2026-11-06T20:38+08:00",
+  "screenshots": [
+    {
+      "file": "documents/overseas-progress/screens/lab-hub-desktop.png",
+      "url": "https://shanle-lab-overseas.vercel.app/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        1440,
+        3147
+      ],
+      "sha256": "4de82c98adf5e6325004c05f412d2d58fdab41e492b9b5954ec72161a32daf7e",
+      "kind": "desktop"
+    },
+    {
+      "file": "documents/overseas-progress/screens/shanle-desktop.png",
+      "url": "https://shanle-product-catalog-vercel.vercel.app/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "0b49caf0477a664cd0cff628528dfcb20bae4fd091eb8085e758a5e62a30443b",
+      "kind": "desktop"
+    },
+    {
+      "file": "documents/overseas-progress/screens/popsticker-desktop.png",
+      "url": "https://shanle-lab-popsticker.vercel.app/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "f32c62399b410e6fdd25df5556f5e6571a27f2f4921e9171ab2d29530ed31bcb",
+      "kind": "desktop"
+    },
+    {
+      "file": "documents/overseas-progress/screens/artsticker-desktop.png",
+      "url": "https://shanle-lab-artsticker-online-list.vercel.app/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "4665829d82c3b8f0f0cc59a71908114e23d8f81896ea810888405c56f77712fb",
+      "kind": "desktop"
+    },
+    {
+      "file": "documents/overseas-progress/screens/downloads-desktop.png",
+      "url": "https://shanle-lab-overseas.vercel.app/downloads/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "b19c5fa4e5428c70dbe42467401deef5a93c815d53d7cb0d21c0a75f6cdb0f67",
+      "kind": "desktop"
+    },
+    {
+      "file": "documents/overseas-progress/screens/customization-desktop.png",
+      "url": "https://shanle-lab-overseas.vercel.app/customization/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "733fbc98ec653d4897b8cd258ce368881564cf02aebf26a73c5a8add083f8810",
+      "kind": "desktop"
+    },
+    {
+      "file": "documents/overseas-progress/screens/lifestyle-desktop.png",
+      "url": "https://shanle-lab-lifestyle-online-list.vercel.app/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "76241b6ed386a86a222695ccbe48a829a233fef395fd669ab6685135dacfeb8b",
+      "kind": "desktop"
+    },
+    {
+      "file": "documents/overseas-progress/screens/pimple-asia-desktop.png",
+      "url": "https://shanle-lab-pimplepatch-online-list.vercel.app/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "8e64e516eb3dd9c330f4131b0dc43fbf6dedf782c1ea608ac46fedfcc37e9f22",
+      "kind": "desktop"
+    },
+    {
+      "file": "documents/overseas-progress/screens/stress-relief-desktop.png",
+      "url": "https://shanle-lab-overseas.vercel.app/stress-relief/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "5d822260b9a0db09d173da906aa19e90e9f73453135061322f28d086c10ccf33",
+      "kind": "desktop"
+    },
+    {
+      "file": "documents/overseas-progress/screens/hub-mobile.png",
+      "url": "https://shanle-lab-overseas.vercel.app/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        390,
+        844
+      ],
+      "sha256": "d6f9bb42065b6b755f2dc2150332b33d783d4ea320908fc3e72a7eb6dfb9d371",
+      "kind": "mobile"
+    },
+    {
+      "file": "documents/overseas-progress/screens/pop-mobile.png",
+      "url": "https://shanle-lab-popsticker.vercel.app/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        390,
+        844
+      ],
+      "sha256": "99841707554d2471c455d8a7dca8d988179479994e497b7e73806e12de411295",
+      "kind": "mobile"
+    },
+    {
+      "file": "documents/overseas-progress/screens/custom-mobile.png",
+      "url": "https://shanle-lab-overseas.vercel.app/customization/",
+      "capturedAt": "2026-11-06T20:38+08:00",
+      "dimensions": [
+        390,
+        844
+      ],
+      "sha256": "94f0d73854f420d296254422f0ca38a5ad042fad5a2d09c36472171dc60d0f2c",
+      "kind": "mobile"
+    }
+  ],
+  "pdfs": [
+    {
+      "key": "popsticker",
+      "url": "https://shanle-lab-overseas.vercel.app/downloads/SHANLE-LAB-PopSticker-Selection-Sheet-2026-10-26.pdf",
+      "pages": 2,
+      "bytes": 1929854,
+      "sha256": "7c60be94268fb87866eadef2954f1f5e34ef63585e88b52c6f134d9a1e638a9d",
+      "matchesLocal": true
+    },
+    {
+      "key": "artsticker",
+      "url": "https://shanle-lab-overseas.vercel.app/downloads/SHANLE-LAB-ArtSticker-Selection-Sheet-2026-10-26.pdf",
+      "pages": 4,
+      "bytes": 4631320,
+      "sha256": "1e57d1645177cf0a42db63da00d713a78b8e00cb5d10ab0138f23ece1abaf4b3",
+      "matchesLocal": true
+    },
+    {
+      "key": "shanle",
+      "url": "https://shanle-product-catalog-vercel.vercel.app/downloads/SHANLE-Product-Catalog-No-Price.pdf",
+      "pages": 43,
+      "bytes": 26077627,
+      "sha256": "7d0872dbcec8daff0e86f3919c937fbecd0db85e6472d8c83310a0e250ac1186",
+      "matchesLocal": true
+    }
+  ],
+  "limits": [
+    "截图和页面可见状态不等同全部交互验收。",
+    "历史发送、客户接收、旧链接逐项兼容均未在本轮验证。"
+  ]
+}

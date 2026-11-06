@@ -3,12 +3,96 @@
   "title": "海外选款目录与客户指引",
   "en": "10 / ONGOING CATALOGS",
   "lifecycle": "ongoing",
-  "description": "长期维护入口：SHANLE、SHANLE LAB 产品目录、客户选款与沟通指引。",
+  "description": "网站现状、真实截图、客户沟通稿与接续任务放在一起；按长期维护项目记录每个阶段。",
   "conversation": "2ec10d3f",
   "conversationName": "SHANLE及SHANLE LAB产品列表与使用说明",
-  "note": "用户明确这是长期项目，不按近期可完结项目管理。持续维护目录内容、客户选款流程和说明；不因为已有英文图解而标记整个项目完成。",
-  "currentFocus": "持续维护产品目录与客户选款指引，按实际需求更新；没有预设近期完结日期。",
+  "note": "这是持续维护项目，不以一次发布或一张图解标记完成。下方区分本轮线上可见、历史交付与尚待复核事项，所有截图和资源核对均注明日期。",
+  "currentFocus": "现有目录、下载和材质介绍已在线；当前接续重点是完整分享链路回归、报价依据复核，以及明确最新数据动态导出的需求。",
   "items": [
+    {
+      "file": "documents/overseas-progress/screens/lab-hub-desktop.png",
+      "thumb": "documents/overseas-progress/screens/lab-hub-desktop.webp",
+      "label": "SHANLE LAB 海外 Hub · 桌面实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/shanle-desktop.png",
+      "thumb": "documents/overseas-progress/screens/shanle-desktop.webp",
+      "label": "SHANLE 产品目录 · 桌面实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/popsticker-desktop.png",
+      "thumb": "documents/overseas-progress/screens/popsticker-desktop.webp",
+      "label": "PopSticker 在线选款 · 桌面实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/artsticker-desktop.png",
+      "thumb": "documents/overseas-progress/screens/artsticker-desktop.webp",
+      "label": "ArtSticker 在线选款 · 桌面实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/downloads-desktop.png",
+      "thumb": "documents/overseas-progress/screens/downloads-desktop.webp",
+      "label": "选款纸下载中心 · 桌面实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/customization-desktop.png",
+      "thumb": "documents/overseas-progress/screens/customization-desktop.webp",
+      "label": "材质与定制规则 · 桌面实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/lifestyle-desktop.png",
+      "thumb": "documents/overseas-progress/screens/lifestyle-desktop.webp",
+      "label": "Lifestyle 生活用品 · 桌面实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/pimple-asia-desktop.png",
+      "thumb": "documents/overseas-progress/screens/pimple-asia-desktop.webp",
+      "label": "PimplePatch 亚洲版 · 桌面实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/stress-relief-desktop.png",
+      "thumb": "documents/overseas-progress/screens/stress-relief-desktop.webp",
+      "label": "解压贴纸 · 桌面实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/hub-mobile.png",
+      "thumb": "documents/overseas-progress/screens/hub-mobile.webp",
+      "label": "海外 Hub · 手机实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/pop-mobile.png",
+      "thumb": "documents/overseas-progress/screens/pop-mobile.webp",
+      "label": "PopSticker 首次进入 · 手机实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
+    {
+      "file": "documents/overseas-progress/screens/custom-mobile.png",
+      "thumb": "documents/overseas-progress/screens/custom-mobile.webp",
+      "label": "定制入口 · 手机实拍",
+      "status": "线上实拍 · 2026-11-06",
+      "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
+    },
     {
       "file": "media/3f909a6326.png",
       "thumb": "thumbs/3f909a6326.webp",
@@ -26,5 +110,278 @@
       "label": "SHANLE LAB 海外目录",
       "href": "https://shanle-lab-overseas.vercel.app/"
     }
-  ]
+  ],
+  "workbench": {
+    "checkedAt": "2026-11-06T20:38+08:00",
+    "summary": "目录与品牌入口已上线；这轮把现状和证据重新整理清楚，未代你给客户发送任何沟通。",
+    "sites": [
+      {
+        "key": "lab-hub",
+        "title": "SHANLE LAB 海外 Hub",
+        "url": "https://shanle-lab-overseas.vercel.app/",
+        "status": "本轮线上可见",
+        "summary": "系列导航、选款纸、定制与品牌资料入口已在线；页面可见 CNY／USD 等币种选项。",
+        "image": 0,
+        "detail": "截图为本次实际部署页面的视口记录。"
+      },
+      {
+        "key": "shanle",
+        "title": "SHANLE 产品目录",
+        "url": "https://shanle-product-catalog-vercel.vercel.app/",
+        "status": "本轮线上可见",
+        "summary": "线上显示 515 条产品、49 类，报价基准为 2026-10-10。已核对 43 页无价格 PDF 与本地发布版一致。",
+        "image": 1,
+        "detail": "截图为本次实际部署页面的视口记录。"
+      },
+      {
+        "key": "popsticker",
+        "title": "PopSticker 在线选款",
+        "url": "https://shanle-lab-popsticker.vercel.app/",
+        "status": "本轮线上可见",
+        "summary": "线上显示 68 款、19 类；共同价格已集中到页首。此截图如实保留首次访问的三步选款教程。",
+        "image": 2,
+        "detail": "已核对页面与截图；本轮没有逐项点选、生成及跨设备打开分享链接，因此不把完整业务链路标为通过。"
+      },
+      {
+        "key": "artsticker",
+        "title": "ArtSticker 在线选款",
+        "url": "https://shanle-lab-artsticker-online-list.vercel.app/",
+        "status": "本轮线上可见",
+        "summary": "线上显示 171 款、5 类，产品卡可见图、货号、规格与价格，提供多选入口。",
+        "image": 3,
+        "detail": "已核对页面与截图；本轮没有逐项点选、生成及跨设备打开分享链接，因此不把完整业务链路标为通过。"
+      },
+      {
+        "key": "downloads",
+        "title": "选款纸下载中心",
+        "url": "https://shanle-lab-overseas.vercel.app/downloads/",
+        "status": "本轮线上可见",
+        "summary": "已上线色块与实物场景版入口；当前下载稿为 PopSticker 2 页、ArtSticker 4 页，两份均已下载并与本地发布版核对。",
+        "image": 4,
+        "detail": "截图为本次实际部署页面的视口记录。"
+      },
+      {
+        "key": "customization",
+        "title": "材质与定制规则",
+        "url": "https://shanle-lab-overseas.vercel.app/customization/",
+        "status": "本轮线上可见",
+        "summary": "页面已呈现 PIPI、CHEWY、PUFFY、YOUNG 四种材质及品牌书图片入口；材料与流程可继续查看。",
+        "image": 5,
+        "detail": "截图为本次实际部署页面的视口记录。"
+      },
+      {
+        "key": "lifestyle",
+        "title": "Lifestyle 生活用品",
+        "url": "https://shanle-lab-lifestyle-online-list.vercel.app/",
+        "status": "本轮线上可见",
+        "summary": "线上显示 11 款，可见货号、报价、MOQ、产品详情与 Select 入口。",
+        "image": 6,
+        "detail": "截图为本次实际部署页面的视口记录。"
+      },
+      {
+        "key": "pimple-asia",
+        "title": "PimplePatch 亚洲版",
+        "url": "https://shanle-lab-pimplepatch-online-list.vercel.app/",
+        "status": "本轮线上可见",
+        "summary": "亚洲版线上显示 4 款，有 US／EU 版入口；欧美版不在本轮截图核对范围内。",
+        "image": 7,
+        "detail": "截图为本次实际部署页面的视口记录。"
+      },
+      {
+        "key": "stress-relief",
+        "title": "解压贴纸",
+        "url": "https://shanle-lab-overseas.vercel.app/stress-relief/",
+        "status": "本轮线上可见",
+        "summary": "线上显示 3 款解压贴纸，可见批发／零售参考价与 MOQ。",
+        "image": 8,
+        "detail": "截图为本次实际部署页面的视口记录。"
+      }
+    ],
+    "mobiles": [
+      {
+        "title": "海外 Hub · 手机",
+        "image": 9,
+        "url": "https://shanle-lab-overseas.vercel.app/"
+      },
+      {
+        "title": "PopSticker 首次进入 · 手机",
+        "image": 10,
+        "url": "https://shanle-lab-popsticker.vercel.app/"
+      },
+      {
+        "title": "定制入口 · 手机",
+        "image": 11,
+        "url": "https://shanle-lab-overseas.vercel.app/customization/"
+      }
+    ],
+    "guideImage": 12,
+    "communications": [
+      {
+        "id": "customer-en",
+        "title": "给海外客户的英文选款说明",
+        "date": "2026-11-04",
+        "status": "可转发稿 · 未核实对外发送",
+        "text": "Explore our SHANLE and SHANLE LAB online product catalogs on your phone or computer. For SHANLE LAB, choose a product series first. Search by product name or item number, open product details to view images, specifications and prices, then select the items you like. When you are ready, click “Review selection” to check your list, then “Create share link” to generate a shareable link. Send us the link along with your required quantities and delivery country or region, and we will confirm the quotation and order details. Please send a separate selection link for each series.\n\nSHANLE Product Catalog:\nhttps://shanle-product-catalog-vercel.vercel.app/\n\nSHANLE LAB Product Catalogs:\nhttps://shanle-lab-overseas.vercel.app/",
+        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f",
+        "download": "documents/overseas-progress/customer-guide-en.txt"
+      }
+    ],
+    "decisions": [
+      {
+        "date": "2026-10-29",
+        "title": "币种由访客自己选择，默认 CNY＋USD",
+        "quote": "就把我之前提到过的币种，都变成显示选项，加进去吧，用户想看什么价格就看什么价格，默认只有CNY和USD",
+        "status": "线上可见",
+        "evidence": "本轮桌面及手机截图都显示 CNY、USD 默认选中，其余币种可选。切换持久化未在本轮交互复测。",
+        "source": "http://100.114.160.99:25808/#/conversation/f69260de"
+      },
+      {
+        "date": "2026-10-28",
+        "title": "选款纸入口与定制页要有印刷稿的色块氛围",
+        "quote": "我想通过网站也能跟我印刷那张纸那样，通过色块来快速让人进入到整个氛围来",
+        "status": "已上线页面可见",
+        "evidence": "下载页与定制页已保留实拍；PDF 内容与现有本地发布版一致。是否达到视觉偏好仍由你判断。",
+        "source": "http://100.114.160.99:25808/#/conversation/8d4f8b67"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "不同材质的介绍使用品牌书原图",
+        "quote": "不同材质的介绍，可以从这里取吗？选款纸上没有高清图只是因为面积太小，网页不存在这样的问题呀",
+        "status": "四种材质已可见",
+        "evidence": "本轮线上文本确认 PIPI、CHEWY、PUFFY、YOUNG 均有对应介绍；图像与内容请从定制页继续审阅。",
+        "source": "http://100.114.160.99:25808/#/conversation/f69260de"
+      },
+      {
+        "date": "2026-10-26",
+        "title": "希望按最新产品数据导出选款纸",
+        "quote": "我想有一个导包含最新产品的选款纸的功能。方便实现吗？",
+        "status": "动态导出待核实",
+        "evidence": "已验证的是两份固定版本 PDF 下载；本轮未找到“当前筛选／最新数据自动排版导出”的上线证据。",
+        "source": "http://100.114.160.99:25808/#/conversation/a5bb2a81"
+      }
+    ],
+    "tasks": [
+      {
+        "priority": "先做",
+        "title": "把选款分享完整走一遍",
+        "body": "分别用 PopSticker、ArtSticker：选款 → Review selection → Create share link → 在另一设备打开。记录实际结果，确认对客文字与按钮名称一致。",
+        "status": "本轮待回归",
+        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+      },
+      {
+        "priority": "先做",
+        "title": "确认下一版报价依据与有效期",
+        "body": "老 SHANLE 页面仍引用 2026-10-10 报价，注明有效期一个月。继续对外使用前复核是否续期、是否收到新表及汇率更新要求。",
+        "status": "需业务确认",
+        "source": "http://100.114.160.99:25808/#/conversation/e63deac7"
+      },
+      {
+        "priority": "接着做",
+        "title": "复核旧选款兼容及待确认项",
+        "body": "上次交付记录提到保留 263 个旧标识，其中 69 项待确认。本轮没有逐一重验，先查这些项是否已经处理，不能沿用旧结论当作当前完成状态。",
+        "status": "依据历史交付 · 待复核",
+        "source": "http://100.114.160.99:25808/#/conversation/a1088050"
+      },
+      {
+        "priority": "接着做",
+        "title": "明确“动态导出最新版选款纸”的范围",
+        "body": "当前可下载的是 PopSticker 2 页和 ArtSticker 4 页的固定 PDF。继续这项需求前，确定导出全部、筛选或已选款，以及价格、语言和版式。",
+        "status": "已有需求 · 待落实",
+        "source": "http://100.114.160.99:25808/#/conversation/a5bb2a81"
+      },
+      {
+        "priority": "维护时做",
+        "title": "检查币种跨站与手机体验",
+        "body": "默认 CNY＋USD 已在实拍中确认；继续检查勾选其他币种后的显示、保存、跨站一致性，以及手机底部选款栏。",
+        "status": "功能可见 · 交互待复测",
+        "source": "http://100.114.160.99:25808/#/conversation/f69260de"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-26",
+        "title": "老 SHANLE 目录数据与 PDF 交付",
+        "body": "当时的交付文本记录 515 条产品、旧链接兼容及 43 页无价格 PDF。本轮重新核对了在线 PDF 的页数和文件一致性。",
+        "source": "http://100.114.160.99:25808/#/conversation/e63deac7",
+        "status": "历史交付＋本轮资源复核"
+      },
+      {
+        "date": "2026-10-28",
+        "title": "下载／定制入口改为品牌色块与产品场景",
+        "body": "当时交付记录为 PopSticker 2 页、ArtSticker 4 页。本轮从线上重新下载，两份都与本地发布版完全一致。",
+        "source": "http://100.114.160.99:25808/#/conversation/8d4f8b67",
+        "status": "资源已复核"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "币种规则改为自由选择；材质介绍补品牌书",
+        "body": "按你最新要求，不再以旧的 IP 隔离方案作为当前目标。四种材质与默认币种的本轮线上证据分别列在页面截图中。",
+        "source": "http://100.114.160.99:25808/#/conversation/f69260de",
+        "status": "页面可见"
+      },
+      {
+        "date": "2026-11-04",
+        "title": "英文客户选款说明与流程图已生成",
+        "body": "已有可转发英文稿和图解；本轮没有找到对外发送或客户收到的证据，仍按“可转发稿”保存。",
+        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f",
+        "status": "稿件已备好 · 发送未核实"
+      },
+      {
+        "date": "2026-11-06",
+        "title": "重建这个长期项目的工作记录",
+        "body": "归档 9 个桌面页面与 3 个手机视口，补入沟通文本、决定、待办及可直接接续的对话。",
+        "source": "https://calfnai.github.io/shanlelab-workspace/#overseas-catalogs",
+        "status": "本轮整理"
+      }
+    ],
+    "resources": [
+      {
+        "title": "PopSticker 选款纸",
+        "detail": "2 页 · 在线文件与本地发布版一致",
+        "href": "https://shanle-lab-overseas.vercel.app/downloads/SHANLE-LAB-PopSticker-Selection-Sheet-2026-10-26.pdf"
+      },
+      {
+        "title": "ArtSticker 选款纸",
+        "detail": "4 页 · 在线文件与本地发布版一致",
+        "href": "https://shanle-lab-overseas.vercel.app/downloads/SHANLE-LAB-ArtSticker-Selection-Sheet-2026-10-26.pdf"
+      },
+      {
+        "title": "SHANLE 无价格目录",
+        "detail": "43 页 · 在线文件与本地发布版一致",
+        "href": "https://shanle-product-catalog-vercel.vercel.app/downloads/SHANLE-Product-Catalog-No-Price.pdf"
+      },
+      {
+        "title": "英文沟通文本 TXT",
+        "detail": "可下载、复制转发；未代为发送",
+        "href": "documents/overseas-progress/customer-guide-en.txt"
+      },
+      {
+        "title": "完整进度记录 Markdown",
+        "detail": "包含现状、决定、待办与接续入口",
+        "href": "documents/overseas-progress/progress-record.md"
+      }
+    ],
+    "conversations": [
+      {
+        "title": "客户选款与沟通稿",
+        "href": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+      },
+      {
+        "title": "币种规则／品牌书材质",
+        "href": "http://100.114.160.99:25808/#/conversation/f69260de"
+      },
+      {
+        "title": "Hub 与选款纸视觉",
+        "href": "http://100.114.160.99:25808/#/conversation/8d4f8b67"
+      },
+      {
+        "title": "最新数据导出需求",
+        "href": "http://100.114.160.99:25808/#/conversation/a5bb2a81"
+      },
+      {
+        "title": "老 SHANLE 交付与迁移讨论",
+        "href": "http://100.114.160.99:25808/#/conversation/a1088050"
+      }
+    ]
+  }
 }

@@ -1,0 +1,7 @@
+Explore our SHANLE and SHANLE LAB online product catalogs on your phone or computer. For SHANLE LAB, choose a product series first. Search by product name or item number, open product details to view images, specifications and prices, then select the items you like. When you are ready, click “Review selection” to check your list, then “Create share link” to generate a shareable link. Send us the link along with your required quantities and delivery country or region, and we will confirm the quotation and order details. Please send a separate selection link for each series.
+
+SHANLE Product Catalog:
+https://shanle-product-catalog-vercel.vercel.app/
+
+SHANLE LAB Product Catalogs:
+https://shanle-lab-overseas.vercel.app/
