@@ -1,0 +1,30 @@
+{
+  "id": "overseas-catalogs",
+  "title": "海外选款目录与客户指引",
+  "en": "10 / ONGOING CATALOGS",
+  "lifecycle": "ongoing",
+  "description": "长期维护入口：SHANLE、SHANLE LAB 产品目录、客户选款与沟通指引。",
+  "conversation": "2ec10d3f",
+  "conversationName": "SHANLE及SHANLE LAB产品列表与使用说明",
+  "note": "用户明确这是长期项目，不按近期可完结项目管理。持续维护目录内容、客户选款流程和说明；不因为已有英文图解而标记整个项目完成。",
+  "currentFocus": "持续维护产品目录与客户选款指引，按实际需求更新；没有预设近期完结日期。",
+  "items": [
+    {
+      "file": "media/3f909a6326.png",
+      "thumb": "thumbs/3f909a6326.webp",
+      "label": "客户选款英文图解 · 2026.11.04",
+      "status": "长期维护中的阶段成果",
+      "note": ""
+    }
+  ],
+  "links": [
+    {
+      "label": "SHANLE 产品目录",
+      "href": "https://shanle-product-catalog-vercel.vercel.app/"
+    },
+    {
+      "label": "SHANLE LAB 海外目录",
+      "href": "https://shanle-lab-overseas.vercel.app/"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="PingFang SC,Microsoft YaHei,sans-serif" viewBox="0 0 420 430" role="img" aria-label="D06 三米乘三米平面，后墙六款主视觉，左侧选款，右侧服务">
+    <rect x="60" y="40" width="300" height="300" fill="#f8f1e7"/><path d="M60 340 V40 H360 V340" fill="none" stroke="#28231e" stroke-width="8"/><rect x="66" y="45" width="288" height="38" fill="#ed6d1f"/><text x="210" y="70" text-anchor="middle" fill="white" font-size="17" font-weight="bold">六款动物图案主墙</text>
+    <rect x="68" y="102" width="39" height="163" rx="4" fill="#e4a647"/><text x="121" y="180" font-size="14">孔板选款</text><text x="121" y="199" font-size="12">约 1.6 m 展示宽 / 6 SKU</text>
+    <rect x="303" y="105" width="49" height="80" rx="4" fill="#dfb494"/><text x="245" y="180" font-size="14" text-anchor="middle">样片 / 咨询</text>
+    <path d="M210 390 V283" stroke="#ed6d1f" stroke-width="5" marker-end="url(#arr)"/><defs><marker id="arr" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="#ed6d1f"/></marker></defs><text x="210" y="416" text-anchor="middle" font-size="15">完整开放入口</text><text x="210" y="27" text-anchor="middle" font-size="12">3 m</text><text x="15" y="192" font-size="12" transform="rotate(-90 15 192)">3 m</text>
+   </svg>

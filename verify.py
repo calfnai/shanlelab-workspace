@@ -3,6 +3,7 @@ from pathlib import Path
 from urllib.parse import unquote,urlsplit
 from html.parser import HTMLParser
 import json,re
+import xml.etree.ElementTree as ET
 from PIL import Image
 ROOT=Path(__file__).resolve().parent/'site'
 data=json.loads((ROOT/'data.js').read_text().removeprefix('window.WORKSPACE=').removesuffix(';'))
@@ -22,7 +23,9 @@ for p in data['projects']:
     assert len(p['conversation'])==8
     for item in p['items']:
         for key in ['file','thumb']:check(item[key],ROOT)
-        with Image.open(ROOT/item['file']) as im:im.verify()
+        if Path(item['file']).suffix.lower()=='.svg':ET.parse(ROOT/item['file'])
+        else:
+            with Image.open(ROOT/item['file']) as im:im.verify()
     for link in p['links']:check(link['href'],ROOT)
 for page in ROOT.rglob('*.html'):
     parser=Links();parser.parent=page.parent;parser.feed(page.read_text())

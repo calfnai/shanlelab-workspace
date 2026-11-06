@@ -1,0 +1,72 @@
+{
+  "id": "fluffycon-d06",
+  "title": "FluffyCon D06 · 三墙展位",
+  "en": "09 / FLUFFYCON D06",
+  "lifecycle": "active",
+  "description": "三面围墙、正面单开：PopSticker 六款主推与沿墙陈列结构。",
+  "conversation": "06ef2687",
+  "conversationName": "Fluffy Con D06展位方案",
+  "note": "当前归档 v03 三墙结构评审，延续 v02 的啵啵贴主推方向。v01 毛绒袋主推方案已否决，不作为当前候选。原对话已归档，保留网页回看入口；结构、主办方高度许可和生产图仍需确认。",
+  "items": [
+    {
+      "file": "documents/fluffy-d06/three-wall-plan.svg",
+      "thumb": "documents/fluffy-d06/three-wall-plan.svg",
+      "label": "D06 · 三面围墙平面结构",
+      "status": "结构评审稿",
+      "note": "提取原 v03 页面中的既有平面图，不是新增效果图或施工定稿。"
+    },
+    {
+      "file": "media/153a910f0e.jpg",
+      "thumb": "thumbs/153a910f0e.webp",
+      "label": "主推系列实图 · SLL-POP-025",
+      "status": "原选品参考",
+      "note": "既有 Furry Good Times 六款实图；商品高清生产原稿另行核对。"
+    },
+    {
+      "file": "media/3b46699583.jpg",
+      "thumb": "thumbs/3b46699583.webp",
+      "label": "主推系列实图 · SLL-POP-041",
+      "status": "原选品参考",
+      "note": "既有 Furry Good Times 六款实图；商品高清生产原稿另行核对。"
+    },
+    {
+      "file": "media/ca9d7ec36e.jpg",
+      "thumb": "thumbs/ca9d7ec36e.webp",
+      "label": "主推系列实图 · SLL-POP-045",
+      "status": "原选品参考",
+      "note": "既有 Furry Good Times 六款实图；商品高清生产原稿另行核对。"
+    },
+    {
+      "file": "media/86495240a0.jpg",
+      "thumb": "thumbs/86495240a0.webp",
+      "label": "主推系列实图 · SLL-POP-046",
+      "status": "原选品参考",
+      "note": "既有 Furry Good Times 六款实图；商品高清生产原稿另行核对。"
+    },
+    {
+      "file": "media/e65e2f077e.jpg",
+      "thumb": "thumbs/e65e2f077e.webp",
+      "label": "主推系列实图 · SLL-POP-050",
+      "status": "原选品参考",
+      "note": "既有 Furry Good Times 六款实图；商品高清生产原稿另行核对。"
+    },
+    {
+      "file": "media/92ff612a51.jpg",
+      "thumb": "thumbs/92ff612a51.webp",
+      "label": "主推系列实图 · SLL-POP-051",
+      "status": "原选品参考",
+      "note": "既有 Furry Good Times 六款实图；商品高清生产原稿另行核对。"
+    }
+  ],
+  "links": [
+    {
+      "label": "v03 三墙结构评审页",
+      "href": "documents/fluffy-d06/index.html"
+    },
+    {
+      "label": "v02 前期布局参考",
+      "href": "documents/fluffy-d06/previous.html"
+    }
+  ],
+  "currentFocus": "从 v03 三墙结构稿接续：核对实际围板、安装规则、陈列模块及高清商品原稿。"
+}
