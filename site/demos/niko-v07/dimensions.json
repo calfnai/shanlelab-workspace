@@ -1,0 +1,36 @@
+{
+  "units": "metres",
+  "table": [
+    2,
+    1,
+    0.6
+  ],
+  "stage_heights_above_table": [
+    0.1,
+    0.2
+  ],
+  "panel_width": 1.3867334167709637,
+  "panel_height": 1.0012515644555695,
+  "overall_height": 1.8012515644555696,
+  "human_bounds": [
+    [
+      -1.706,
+      0.0,
+      -0.1
+    ],
+    [
+      -1.154,
+      1.7000000000000002,
+      0.14
+    ]
+  ],
+  "human_height": 1.7,
+  "artwork_crop_in_1725x1471": [
+    314,
+    39,
+    1422,
+    839
+  ],
+  "status": "visual layout; panel size inferred from supplied artwork; no fabrication or structural approval",
+  "samples": "Seven applied sample positions remain reserved; exact sample artwork not supplied. No invented merchandise added."
+}

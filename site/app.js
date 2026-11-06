@@ -1,0 +1,35 @@
+const $=s=>document.querySelector(s), data=window.WORKSPACE;
+const escapeHTML=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let base='http://127.0.0.1:25808/', shown=[], selected=0;
+try{base=localStorage.getItem('aionui-base')||base;}catch{}
+const chatUrl=id=>base.replace(/\/$/,'')+'/#/conversation/'+encodeURIComponent(id);
+$('#date').textContent=data.updated.replaceAll('-','.');
+$('#navigation').innerHTML='<a href="#home" data-id="home"><small>⌂</small>全部项目</a>'+data.projects.map((p,i)=>`<a href="#${p.id}" data-id="${p.id}"><small>0${i+1}</small>${p.title}</a>`).join('');
+const thumb=(item)=>`<img src="${encodeURI(item.thumb)}" alt="${escapeHTML(item.label)}" loading="lazy">`;
+const config=()=>{$('#aion-base').value=base;$('#configuration').showModal();};
+$('#settings').onclick=config;$('#cancel-config').onclick=()=>$('#configuration').close();
+$('#config-form').onsubmit=e=>{e.preventDefault();try{const u=new URL($('#aion-base').value);if(!['http:','https:'].includes(u.protocol)||u.username||u.password)throw Error();u.hash='';u.search='';base=u.href.replace(/\/$/,'');try{localStorage.setItem('aionui-base',base);}catch{}$('#configuration').close();render();toast('已保存当前浏览器的 AionUi 地址');}catch{toast('请输入有效的 HTTP / HTTPS 地址，不要包含账号密码');}};
+function toast(message){$('#toast').textContent=message;$('#toast').classList.add('show');setTimeout(()=>$('#toast').classList.remove('show'),3000);}
+function card(p){return `<article class="card"><a class="cover" href="#${p.id}">${thumb(p.items[0])}<span class="cover-tag">${p.items[0].status}</span></a><div class="card-body"><div class="card-en">${p.en}</div><a class="card-title" href="#${p.id}"><h2>${p.title}</h2><span class="arrow">↗</span></a><p>${p.description}</p><div class="card-meta"><span>${p.items.length} 张图稿${p.links.some(x=>x.kind==='3d')?' · 可旋转 3D':''}</span><span>进入项目 →</span></div></div></article>`;}
+function art(item,i){return `<article class="art"><button data-image="${i}" aria-label="放大 ${escapeHTML(item.label)}">${thumb(item)}</button><div class="art-body"><span class="art-status">${escapeHTML(item.status)}</span><h3>${escapeHTML(item.label)}</h3>${item.note?`<p>${escapeHTML(item.note)}</p>`:''}</div></article>`;}
+function milestone(p,home=false){
+ const m=p.milestone;if(!m)return '';
+ return `<section class="milestone"><div class="milestone-image">${home?`<a href="#${p.id}">${thumb(p.items[0])}</a>`:`<button data-image="0" aria-label="放大已选定 C 款">${thumb(p.items[0])}</button>`}<span>已选定使用 · ${m.date}</span></div><div class="milestone-copy"><div class="eyebrow">CURRENT MILESTONE / 当前成果</div><h2>${m.title}</h2><p>${m.summary}</p><div class="milestone-state"><b>✓ 已选定</b><span>合作方书面批准状态另行核对</span></div><div class="email-stage"><small>阶段成果 / ${m.email.date}</small><h3>${m.email.title}</h3><p>${m.email.summary}</p><div class="actions"><a href="${m.email.href}" target="_blank" rel="noopener">查看已发送正文 ↗</a><a href="${m.email.latestHref}" target="_blank" rel="noopener">后续完整邮件草稿 ↗</a></div></div>${home?`<a class="action" href="#${p.id}">进入项目继续 →</a>`:`<p class="next-step">${m.next}</p>`}</div></section>`;
+}
+function render(){
+ const id=location.hash.slice(1)||'home',p=data.projects.find(p=>p.id===id);
+ document.querySelectorAll('nav a').forEach(a=>a.classList.toggle('active',a.dataset.id===(p?p.id:'home')));
+ if(!p){document.title='近期工作区 · SHANLE LAB';$('#content').innerHTML=`<section class="hero"><div><div class="eyebrow">A PLACE TO PICK UP WHERE YOU LEFT OFF</div><h1>最近的工作，<br><em>从这里继续。</em></h1><p>找到成果，回看版本，接着把事情做下去。</p></div><div class="hero-note"><div class="stats"><div><strong>05</strong><span>个项目方向</span></div><div><strong>${data.projects.reduce((n,p)=>n+p.items.length,0)}</strong><span>张真实图稿</span></div><div><strong>01</strong><span>个可旋转演示</span></div></div><p>沿用原项目成果与版本。原对话保留完整决策，集合页负责让它们更容易找到。</p></div></section>${milestone(data.projects.find(p=>p.milestone),true)}<div class="toolbar"><h2>项目索引 <small>RECENT PROJECTS</small></h2><input type="search" id="search" placeholder="搜索项目、版本、图稿…" aria-label="搜索项目与图稿"></div><section class="cards" id="results">${data.projects.map(card).join('')}</section>`;
+ $('#search').oninput=e=>{const q=e.target.value.trim().toLowerCase(),ps=data.projects.filter(p=>(p.title+p.description+p.items.map(i=>i.label).join('')).toLowerCase().includes(q));$('#results').innerHTML=ps.map(card).join('')||'<p class="empty">没有找到匹配的项目。</p>';};
+ }else{
+ document.title=p.title+' · 近期工作区';shown=p.items;
+ $('#content').innerHTML=`<section class="work-title"><a href="#home" class="back">← 返回全部项目</a><div class="eyebrow" style="margin-top:25px">${p.en}</div><h1>${p.title}</h1><p>${p.description}</p><div class="notice">${p.note}</div><div class="actions">${p.links.map(l=>`<a href="${encodeURI(l.href)}" target="_blank" rel="noopener" class="${l.kind==='3d'?'primary':''}">${l.label} ↗</a>`).join('')}<a class="primary" href="aionui://navigate?route=${encodeURIComponent('/conversation/'+p.conversation)}">在 AionUi 继续 ↗</a><a href="${escapeHTML(chatUrl(p.conversation))}" target="_blank" rel="noopener">WebUI 对话（待连接）↗</a><button id="copy-chat">复制对话 ID</button><button id="project-settings">更换对话地址</button></div><p class="hint">本机 AionUi 支持原生对话链接 · WebUI 连接待验证 · 当前地址 ${escapeHTML(base)} · 对话 ID ${p.conversation}</p></section>${milestone(p)}<div class="toolbar"><h2>${p.milestone?'其他版本':'图稿与版本'} <small>${p.items.length-(p.milestone?1:0)} IMAGES</small></h2><input type="search" id="version-search" placeholder="筛选版本或关键词…" aria-label="筛选版本或关键词"></div><section class="gallery" id="gallery">${shown.map((item,i)=>p.milestone&&i===0?'':art(item,i)).join('')}</section>`;
+ $('#version-search').oninput=e=>{const q=e.target.value.toLowerCase();$('#gallery').innerHTML=shown.map((item,i)=>(p.milestone&&i===0)||!(item.label+item.status+item.note).toLowerCase().includes(q)?'':art(item,i)).join('')||'<p class="empty">没有找到匹配的图稿。</p>';};
+ $('#project-settings').onclick=config;$('#copy-chat').onclick=async()=>{try{await navigator.clipboard.writeText(p.conversation);toast('已复制对话 ID：'+p.conversation);}catch{toast('对话 ID：'+p.conversation);}};
+ }
+}
+function showImage(i){if(!shown.length)return;selected=(i+shown.length)%shown.length;const item=shown[selected];$('#full-image').src=item.file;$('#full-image').alt=item.label;$('#caption').textContent=item.label+' · '+item.status;$('#position').textContent=`${selected+1} / ${shown.length}`;$('#original').href=item.file;if(!$('#lightbox').open)$('#lightbox').showModal();}
+$('#content').onclick=e=>{const b=e.target.closest('[data-image]');if(b)showImage(Number(b.dataset.image));};
+$('#close-image').onclick=()=>$('#lightbox').close();$('#previous').onclick=()=>showImage(selected-1);$('#next').onclick=()=>showImage(selected+1);
+document.addEventListener('keydown',e=>{if($('#lightbox').open&&e.key==='ArrowLeft')showImage(selected-1);if($('#lightbox').open&&e.key==='ArrowRight')showImage(selected+1);});
+window.addEventListener('hashchange',()=>{render();scrollTo(0,0);});render();
