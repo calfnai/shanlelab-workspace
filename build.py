@@ -69,13 +69,16 @@ links=[dict(label='打开可旋转 3D · v07',href='demos/niko-v07/index.html',k
 for p in sorted((NIKO/'output').glob('*v04*')):
     if p.suffix == '.pdf':links.append(dict(label='圣诞提案 v04 · '+p.suffix[1:].upper(),href=copy(p,'documents/'+p.name)))
 projects.append(project('niko','niko and… 展位','04 / DISPLAY','双面桌面 v07、七件位置图、纸板结构与旧中岛专柜。','ea860ae7','双面桌面 v07 与旧中岛 v09 为不同版本线；当前 3D 未摆入包包和护照夹。',items,links))
-items=[image(PACK/'assets/renders/empty-neutral-zip-v02.png','本白拉链 v02','当前候选','尺寸及生产结构尚未定稿。')]
-for v in [7,6,5,4,3]:items+=pics(PACK/f'assets/renders/v0{v}',f'装袋方向 v0{v}','历史概念','商品及包装比例未验证；不代表当前尺寸。')
+items=[]
+for v in [11,10,9,8,7,3]:
+    items+=pics(PACK/f'assets/scenes/v{v:02d}',f'陈列评审 v{v:02d}','当前陈列评审' if v==11 else '陈列版本','现场陈列效果稿；现场尺寸与承重仍需核对。')
+for v in [7,6,5,4,3]:
+    items+=pics(PACK/f'assets/renders/v{v:02d}',f'装袋方向 v{v:02d}','近期装袋评审' if v==7 else '历史装袋版本','装袋效果与现场尺寸核对分别推进，不视作生产定稿。')
+items.append(image(PACK/'assets/renders/empty-neutral-zip-v02.png','早期本白拉链 v02','早期袋型候选','后续装袋及陈列请优先看当前评审。'))
 items+=pics(PACK/'assets/renders','早期装袋','历史概念','旧装袋比例未验证；旧三档尺寸已撤回。')
-# Deduplicate the current pouch image, which also appears in the older root folder.
 seen=set()
 items=[i for i in items if not (i['file'] in seen or seen.add(i['file']))]
-projects.append(project('pouch','透明外袋','05 / PACKAGING','原始轮廓、本白拉链候选与各轮装袋效果。','11d13a34','仅大、中、小三档通用尺寸；旧尺寸已撤回待核算，历史装袋图仅供回顾。',items,[dict(label='已有在线评审页（可能落后于本机）',href='https://calfnai.github.io/shanlelab-packaging/')]))
+projects.append(project('pouch','透明外袋与店铺陈列','05 / PACKAGING','C 组 v11、暖木展区、Sunday Home 与各轮装袋评审。','cd8b04f8','当前工作接续正式目录对话。最新为 C 组三处陈列评审，暖木展区与 Sunday Home 另有近期图组；均保留现场尺寸核对与生产确认的边界。',items,[dict(label='完整包装与陈列评审页',href='https://calfnai.github.io/shanlelab-packaging/'),dict(label='C 组 · 相机／文具／礼盒',href='https://calfnai.github.io/shanlelab-packaging/#stores')]))
 # Related niko collaboration booklet, copied with its actual assets.
 book=NIKO/'concept-two-pages-v01'
 if book.exists():
