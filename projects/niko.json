@@ -108,8 +108,18 @@
       ],
       "person_cm": 170,
       "column_size_cm": 127,
-      "column_shape": "pending",
-      "column_stand_legs": 4
+      "column_shape": "round",
+      "column_stand_legs": 4,
+      "column_diameter_cm": 127,
+      "column_frame_clear_cm": 130,
+      "column_frame_outer_cm": 136.8,
+      "column_panel_cm": [
+        120,
+        140
+      ],
+      "column_panel_bottom_cm": 70,
+      "column_panel_top_cm": 210,
+      "column_banner_cm": 15
     },
     "details": [
       {
@@ -169,6 +179,13 @@
         "label": "圆形法兰底座 · 用户实物照片",
         "status": "本次底座依据",
         "note": "中岛两只底座采用圆形法兰、四颗螺丝及短套筒；模型直径12cm等尺寸仅为示意，以实物为准。"
+      },
+      {
+        "file": "demos/niko-comparison/reference/column-flat-layout.jpg",
+        "thumb": "demos/niko-comparison/reference/column-flat-layout.jpg",
+        "label": "柱区板面与banner · 用户新稿",
+        "status": "本次设计依据",
+        "note": "以本次文字尺寸为准：板120×140cm，底边70cm，顶端15cm banner。附件中高度标注与文字有出入。商品使用真实图示意，排数按板高及间距安排。"
       }
     ],
     "paperStructure": {
