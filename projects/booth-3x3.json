@@ -5,8 +5,22 @@
   "description": "当前并行：找彩蛋活动版／同事无活动版；PIMPLE 已取消，Nowre 自搭与场地适配待确认。",
   "conversation": "7bb0a45f",
   "conversationName": "3x3双开，2.2米高的长期展位设计",
-  "note": "用户11月6日明确两个版本并行保留。活动版已有三张效果草稿；无活动版已收同事两张平面稿、效果图正在制作。旧3×3通用方案保留，不能直接作为Nowre实际施工尺寸。",
+  "note": "用户11月6日明确两个版本并行保留。活动版已有三张效果草稿；无活动版已有同事两张平面稿，并于21:22补齐整体与POP主墙正面效果图，待评审。旧3×3通用方案保留，不能直接作为Nowre实际施工尺寸。",
   "items": [
+    {
+      "file": "documents/nowre-progress/nonactivity-render-1.png",
+      "thumb": "documents/nowre-progress/nonactivity-render-1.webp",
+      "label": "无活动版 · 整体效果示意",
+      "status": "新效果图 · 待评审",
+      "note": "2026-11-06 21:22原对话交付。承接同事平面稿，PIMPLE已移除，原区域蓝底仅作待定位置示意。生成图的商品细节、数量、灯具及比例可能变化，非精确贴图或生产文件。"
+    },
+    {
+      "file": "documents/nowre-progress/nonactivity-render-2.png",
+      "thumb": "documents/nowre-progress/nonactivity-render-2.webp",
+      "label": "无活动版 · POP主墙正面效果示意",
+      "status": "新效果图 · 待评审",
+      "note": "2026-11-06 21:22原对话交付。承接同事平面稿，PIMPLE已移除，原区域蓝底仅作待定位置示意。生成图的商品细节、数量、灯具及比例可能变化，非精确贴图或生产文件。"
+    },
     {
       "file": "documents/nowre-progress/activity-0.png",
       "thumb": "documents/nowre-progress/activity-0.webp",
@@ -33,14 +47,14 @@
       "thumb": "documents/nowre-progress/nonactivity-0.webp",
       "label": "无活动版 · 01-ART侧墙-同事原稿-PIMPLE已取消",
       "status": "同事原稿 · 已命名",
-      "note": "原图保留，PIMPLE 区已取消，不作为后续设计依据。两张为平面设计稿；新效果图正在制作，不能称已完成。"
+      "note": "原图保留，PIMPLE区已取消，不作为后续设计依据。两张为平面设计来源；对应无活动版效果示意已补齐，仍待评审。"
     },
     {
       "file": "documents/nowre-progress/nonactivity-1.jpg",
       "thumb": "documents/nowre-progress/nonactivity-1.webp",
       "label": "无活动版 · 02-POP主墙-同事原稿",
       "status": "同事原稿 · 已命名",
-      "note": "原图保留，PIMPLE 区已取消，不作为后续设计依据。两张为平面设计稿；新效果图正在制作，不能称已完成。"
+      "note": "原图保留，PIMPLE区已取消，不作为后续设计依据。两张为平面设计来源；对应无活动版效果示意已补齐，仍待评审。"
     },
     {
       "file": "documents/booth-3x3-v13/06-已确认效果图/05-v13-绿色重点补齐-整体效果参考.png",
@@ -464,18 +478,18 @@
     "title": "活动版／无活动版，分开接续",
     "date": "2026-11-06",
     "status": "版本命名已确认",
-    "summary": "活动版是找彩蛋互动稿，已有三个效果视角；无活动版是同事已做的两张平面设计稿。两版取消PIMPLE，保留各自尺寸和来源。",
-    "approvalNote": "命名与取消范围已明确，不等于效果图验收或施工批准。",
-    "next": "无活动版效果图正在制作；主办方自搭许可与分配款式待确认。"
+    "summary": "活动版是找彩蛋互动稿，已有三个效果视角；无活动版沿同事两张平面稿，已补整体和POP主墙正面效果示意。两版取消PIMPLE，保留各自尺寸和来源。",
+    "approvalNote": "版本命名与取消范围已明确；新增两张生成效果图待评审，非施工批准。",
+    "next": "接续：评审无活动版两张新图、确认原PIMPLE区域用途；主办方自搭许可与分配款式仍待确认。"
   },
   "currentFocus": "先比较活动版与无活动版。PIMPLE 两版均取消；无活动版原PIMPLE位置用途待定。Nowre 协议面积4㎡，不等于已允许3×3自搭；需要主办方确认。",
   "progress": {
     "updated": "2026-11-06",
-    "summary": "20:58用户命名活动版与无活动版；21:03要求补无活动版效果图，原对话正在继续。已收活动效果3张、同事原稿2张。",
+    "summary": "20:58用户命名活动版与无活动版；21:22无活动版整体与POP主墙正面效果图已交付。本页现收活动效果3张、无活动效果2张、同事原稿2张；新增效果图尚待用户评审。",
     "next": [
       {
-        "title": "补齐无活动版效果图",
-        "detail": "原对话正在制作；此页先保留平面原稿与未完成状态。PIMPLE移除后的区域不擅自新增用途。"
+        "title": "评审已补齐的无活动版效果图",
+        "detail": "核对同事稿招牌、海报、商品陈列与生成效果的对应；商品细节、数量、灯具及比例不能据生成图验收。原PIMPLE区域蓝底只是暂示，用途仍待定。"
       },
       {
         "title": "确认Nowre的自搭条件",
@@ -498,6 +512,10 @@
     ],
     "history": [
       {
+        "title": "21:22 无活动版效果图已补齐",
+        "detail": "按原对话交付补入整体与POP主墙正面两张生成图；“正在制作”状态结束，进入待评审。原平面稿保持不变。"
+      },
+      {
         "title": "通用3×3原方案仍留档",
         "detail": "v10风格、v13补齐与后续外墙校核为原通用展位历史，不被Nowre版本覆盖。"
       }
@@ -509,5 +527,11 @@
       }
     ]
   },
-  "galleryLabel": "两个当前版本与通用展位历史"
+  "galleryLabel": "两个当前版本与通用展位历史",
+  "sync": {
+    "checkedAt": "2026-11-06T21:31:09+08:00",
+    "sourceConversation": "7bb0a45f",
+    "sourceMilestone": "2026-11-06T21:22:10+08:00",
+    "status": "两张新增效果图已收录，待评审"
+  }
 }
