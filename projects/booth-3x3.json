@@ -2,11 +2,46 @@
   "id": "booth-3x3",
   "title": "SHANLE 普通 3×3 展位",
   "en": "06 / STANDARD BOOTH",
-  "description": "普通品牌展位 · v10 确认风格、v13 重点补齐与历次版本。",
+  "description": "当前并行：找彩蛋活动版／同事无活动版；PIMPLE 已取消，Nowre 自搭与场地适配待确认。",
   "conversation": "7bb0a45f",
   "conversationName": "3x3双开，2.2米高的长期展位设计",
-  "note": "与 MLBB 赛事展位分开。原交接说明明确 v10 风格已确认、v13 补齐绿色重点；v14–v17 为后续外墙／比例校核。历史 v04 三维模型的高度口径与后续要求不同，不当作当前定稿。",
+  "note": "用户11月6日明确两个版本并行保留。活动版已有三张效果草稿；无活动版已收同事两张平面稿、效果图正在制作。旧3×3通用方案保留，不能直接作为Nowre实际施工尺寸。",
   "items": [
+    {
+      "file": "documents/nowre-progress/activity-0.png",
+      "thumb": "documents/nowre-progress/activity-0.webp",
+      "label": "活动版 · Nowre-ART与互动墙-正面视觉草稿",
+      "status": "已命名 · 视觉草稿",
+      "note": "找彩蛋互动版本；PIMPLE 已取消。仍为自带3×3视觉方案，主办方协议为4㎡、自搭与实际尺寸未获确认。"
+    },
+    {
+      "file": "documents/nowre-progress/activity-1.png",
+      "thumb": "documents/nowre-progress/activity-1.webp",
+      "label": "活动版 · Nowre-互动区-整体视觉草稿",
+      "status": "已命名 · 视觉草稿",
+      "note": "找彩蛋互动版本；PIMPLE 已取消。仍为自带3×3视觉方案，主办方协议为4㎡、自搭与实际尺寸未获确认。"
+    },
+    {
+      "file": "documents/nowre-progress/activity-2.png",
+      "thumb": "documents/nowre-progress/activity-2.webp",
+      "label": "活动版 · Nowre-右前方-整体视觉草稿",
+      "status": "已命名 · 视觉草稿",
+      "note": "找彩蛋互动版本；PIMPLE 已取消。仍为自带3×3视觉方案，主办方协议为4㎡、自搭与实际尺寸未获确认。"
+    },
+    {
+      "file": "documents/nowre-progress/nonactivity-0.jpg",
+      "thumb": "documents/nowre-progress/nonactivity-0.webp",
+      "label": "无活动版 · 01-ART侧墙-同事原稿-PIMPLE已取消",
+      "status": "同事原稿 · 已命名",
+      "note": "原图保留，PIMPLE 区已取消，不作为后续设计依据。两张为平面设计稿；新效果图正在制作，不能称已完成。"
+    },
+    {
+      "file": "documents/nowre-progress/nonactivity-1.jpg",
+      "thumb": "documents/nowre-progress/nonactivity-1.webp",
+      "label": "无活动版 · 02-POP主墙-同事原稿",
+      "status": "同事原稿 · 已命名",
+      "note": "原图保留，PIMPLE 区已取消，不作为后续设计依据。两张为平面设计稿；新效果图正在制作，不能称已完成。"
+    },
     {
       "file": "documents/booth-3x3-v13/06-已确认效果图/05-v13-绿色重点补齐-整体效果参考.png",
       "thumb": "thumbs/f7ecb36ecc.webp",
@@ -426,11 +461,53 @@
     }
   ],
   "milestone": {
-    "title": "v10 确认风格 · v13 重点补齐",
-    "status": "风格已确认 · 补齐参考",
-    "date": "2026.10.27",
-    "summary": "按原设计师交接说明归档：保留 v10 四角度风格，v13 补齐海报、横条和斜向装饰。后续外墙与招牌校核独立列为其他版本。",
-    "approvalNote": "图面与结构生产文件仍需分别核对。",
-    "next": "继续处理外墙、招牌等比例和分面生产原稿；历史三维不替代本阶段确认成果。"
-  }
+    "title": "活动版／无活动版，分开接续",
+    "date": "2026-11-06",
+    "status": "版本命名已确认",
+    "summary": "活动版是找彩蛋互动稿，已有三个效果视角；无活动版是同事已做的两张平面设计稿。两版取消PIMPLE，保留各自尺寸和来源。",
+    "approvalNote": "命名与取消范围已明确，不等于效果图验收或施工批准。",
+    "next": "无活动版效果图正在制作；主办方自搭许可与分配款式待确认。"
+  },
+  "currentFocus": "先比较活动版与无活动版。PIMPLE 两版均取消；无活动版原PIMPLE位置用途待定。Nowre 协议面积4㎡，不等于已允许3×3自搭；需要主办方确认。",
+  "progress": {
+    "updated": "2026-11-06",
+    "summary": "20:58用户命名活动版与无活动版；21:03要求补无活动版效果图，原对话正在继续。已收活动效果3张、同事原稿2张。",
+    "next": [
+      {
+        "title": "补齐无活动版效果图",
+        "detail": "原对话正在制作；此页先保留平面原稿与未完成状态。PIMPLE移除后的区域不擅自新增用途。"
+      },
+      {
+        "title": "确认Nowre的自搭条件",
+        "detail": "协议为4㎡、具体款式和净尺寸待主办方通知；先凭视觉方案争取自带展位，不能默认获准3×3。"
+      }
+    ],
+    "decisions": [
+      {
+        "title": "两个版本并行",
+        "quote": "把现在这个稿定义为活动版本的",
+        "detail": "同事两张设计稿称为无活动版，两个版本分开保留。",
+        "conversation": "7bb0a45f"
+      },
+      {
+        "title": "PIMPLE 已确认取消",
+        "quote": "要无视pimple区，因为pimple区已经确认取消了",
+        "detail": "所有后续版本都不恢复该区；同事原图为保留来源而包含它，不代表继续采用。",
+        "conversation": "7bb0a45f"
+      }
+    ],
+    "history": [
+      {
+        "title": "通用3×3原方案仍留档",
+        "detail": "v10风格、v13补齐与后续外墙校核为原通用展位历史，不被Nowre版本覆盖。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "继续活动／无活动版设计",
+        "conversation": "7bb0a45f"
+      }
+    ]
+  },
+  "galleryLabel": "两个当前版本与通用展位历史"
 }

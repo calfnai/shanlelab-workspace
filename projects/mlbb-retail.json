@@ -2,116 +2,228 @@
   "id": "mlbb-retail",
   "title": "MLBB 联名售卖款",
   "en": "01 / COLLABORATION",
-  "description": "表情包贴纸、包装内卡与充值兑奖玩法。",
+  "description": "601钻整套成果、v4大字沟通稿、内卡与背卡确认事项；接续Mars Coolplay回复。",
   "conversation": "a680e3e8",
-  "note": "v15 为当前找到的玩法图稿；价格与兑奖渠道请回原对话核对。",
+  "note": "最新为11月6日v4大字沟通稿，已拆分内部修改与对外确认，替代旧v15作为当前入口。601钻暂定；兑奖顺序、客服和标签信息需对方确认。未核实文件已发送或对方接受。",
   "items": [
+    {
+      "file": "documents/mlbb-retail-progress/mars-01.png",
+      "thumb": "documents/mlbb-retail-progress/mars-01.webp",
+      "label": "v4 大字沟通稿 · 第1页",
+      "status": "当前沟通成果 · 待对方确认",
+      "note": "601钻内部拟定成果及对外逐项确认，非印刷定稿；发送与对方确认未核实。"
+    },
+    {
+      "file": "documents/mlbb-retail-progress/mars-02.png",
+      "thumb": "documents/mlbb-retail-progress/mars-02.webp",
+      "label": "v4 大字沟通稿 · 第2页",
+      "status": "当前沟通成果 · 待对方确认",
+      "note": "601钻内部拟定成果及对外逐项确认，非印刷定稿；发送与对方确认未核实。"
+    },
+    {
+      "file": "documents/mlbb-retail-progress/mars-03.png",
+      "thumb": "documents/mlbb-retail-progress/mars-03.webp",
+      "label": "v4 大字沟通稿 · 第3页",
+      "status": "当前沟通成果 · 待对方确认",
+      "note": "601钻内部拟定成果及对外逐项确认，非印刷定稿；发送与对方确认未核实。"
+    },
+    {
+      "file": "documents/mlbb-retail-progress/mars-04.png",
+      "thumb": "documents/mlbb-retail-progress/mars-04.webp",
+      "label": "v4 大字沟通稿 · 第4页",
+      "status": "当前沟通成果 · 待对方确认",
+      "note": "601钻内部拟定成果及对外逐项确认，非印刷定稿；发送与对方确认未核实。"
+    },
+    {
+      "file": "documents/mlbb-retail-progress/mars-05.png",
+      "thumb": "documents/mlbb-retail-progress/mars-05.webp",
+      "label": "v4 大字沟通稿 · 第5页",
+      "status": "当前沟通成果 · 待对方确认",
+      "note": "601钻内部拟定成果及对外逐项确认，非印刷定稿；发送与对方确认未核实。"
+    },
+    {
+      "file": "documents/mlbb-retail-progress/mars-06.png",
+      "thumb": "documents/mlbb-retail-progress/mars-06.webp",
+      "label": "v4 大字沟通稿 · 第6页",
+      "status": "当前沟通成果 · 待对方确认",
+      "note": "601钻内部拟定成果及对外逐项确认，非印刷定稿；发送与对方确认未核实。"
+    },
     {
       "file": "media/b89e6dbabe.png",
       "thumb": "thumbs/b89e6dbabe.webp",
       "label": "PopSticker-MLBB-完整玩法介绍与兑奖教程-v15",
-      "status": "当前图稿",
-      "note": ""
+      "status": "历史版本",
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/ca420417f0.png",
       "thumb": "thumbs/ca420417f0.webp",
       "label": "PopSticker-MLBB-原背板比例修正-v14",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/15805700d9.png",
       "thumb": "thumbs/15805700d9.webp",
       "label": "PopSticker-MLBB-横向背板与四项卖点修正-v13",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/d4cf982c80.png",
       "thumb": "thumbs/d4cf982c80.webp",
       "label": "PopSticker-MLBB-纯背景内卡与兑奖教程-v12",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/f0501f96af.png",
       "thumb": "thumbs/f0501f96af.webp",
       "label": "PopSticker-MLBB-十二包一中奖-人工兑奖-v11",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/46e5849d76.png",
       "thumb": "thumbs/46e5849d76.webp",
       "label": "PopSticker-EmpeShop-实际页面流程-v10",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/c7500e4ac6.png",
       "thumb": "thumbs/c7500e4ac6.webp",
       "label": "PopSticker-MLBB-白底背面与层次修正版-v09",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/53f3f9ef28.png",
       "thumb": "thumbs/53f3f9ef28.webp",
       "label": "PopSticker-MLBB-结构与包装-SHANLE强化-v08",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/489b12279f.png",
       "thumb": "thumbs/489b12279f.webp",
       "label": "PopSticker-MLBB-三步兑换教程-v07",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/fceaf3ac31.png",
       "thumb": "thumbs/fceaf3ac31.webp",
       "label": "PopSticker-MLBB-新增内卡与英文包装背面-v06",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/4cf3a4aa0c.png",
       "thumb": "thumbs/4cf3a4aa0c.webp",
       "label": "PopSticker-MLBB-内置双面兑换卡-v05",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/8f03e04354.png",
       "thumb": "thumbs/8f03e04354.webp",
       "label": "PopSticker-MLBB-充值流程图解-v04-Layla",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/c9c2c867a4.png",
       "thumb": "thumbs/c9c2c867a4.webp",
       "label": "PopSticker-MLBB-充值流程图解-v03",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/7b3f1246a9.png",
       "thumb": "thumbs/7b3f1246a9.webp",
       "label": "PopSticker-MLBB-充值流程图解-v02",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/f5192f50c6.png",
       "thumb": "thumbs/f5192f50c6.webp",
       "label": "PopSticker-MLBB-充值流程图解-v01",
       "status": "历史版本",
-      "note": ""
+      "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     }
   ],
-  "links": [],
-  "conversationName": "MLBB表情包充值贴纸"
+  "links": [
+    {
+      "label": "Mars Coolplay v4 大字确认稿 · 6页",
+      "href": "documents/mlbb-retail-progress/marscoolplay-v4.pdf",
+      "kind": "document"
+    }
+  ],
+  "conversationName": "MLBB表情包充值贴纸",
+  "currentFocus": "等待确认正式客服入口、服务语言与到账时限、五步兑奖顺序，以及背卡活动信息与本地标签。内部 Claim ID 由我方处理；兑奖内容集中同一面，另一面替代Layla背景。",
+  "milestone": {
+    "title": "601钻整套成果＋v4大字沟通稿",
+    "date": "2026-11-06",
+    "status": "已制作 · 待对方确认",
+    "summary": "当前成果先展示601钻整套结构，再逐页确认客服、兑奖与标签；补齐三张贴纸＋一张lucky card图示。v4对外稿6页，内部修改单3页分别保留在原项目。",
+    "approvalNote": "601钻暂定；发送和对方逐项确认未核实。",
+    "next": "群提醒文字已起草，回沟通对话接续回复与定稿。"
+  },
+  "progress": {
+    "updated": "2026-11-06",
+    "summary": "20:45完成v4；20:52起草群提醒。最新价格讨论已回到采购／寄售／零售三项，并更新寄售结算口径；商业结算内容保留在原对话，不公开采购价或成本。",
+    "next": [
+      {
+        "title": "跟进客服与完整兑奖流程",
+        "detail": "要求逐行核对我方五步指引，重点确认客服确认601钻、剪卡、到账或失败反馈的顺序；如有误，请对方给完整替代流程。"
+      },
+      {
+        "title": "补齐背卡活动与标签信息",
+        "detail": "询问1/12是否需印明、地区、期限、必要许可和客服入口；确认制造商、当地进口商、条码及预留标签位尺寸，尽早直接印刷。"
+      },
+      {
+        "title": "接续最新价格与群提醒",
+        "detail": "价格讨论在原售卖款对话，群提醒草稿在沟通稿对话。草稿完成不等于已发群或对方已收到。"
+      }
+    ],
+    "decisions": [
+      {
+        "title": "内外版本分开",
+        "quote": "一个是给内部的修改，一个是给marscoolplay的修改",
+        "detail": "内部用原图拉线解释；对外先落实内部修改，再给新效果图及待确认事项。",
+        "conversation": "753551e9"
+      },
+      {
+        "title": "兑奖内容集中单面",
+        "quote": "内卡不是双面的，所所有内容要缩到一页之内",
+        "detail": "另一面替代Layla背景；Claim ID我方自行添加。601钻取代旧150／150+。",
+        "conversation": "753551e9"
+      },
+      {
+        "title": "沟通先展示成果，字号放大",
+        "quote": "首先应该展示这一页成果出来",
+        "detail": "v4第一页为601钻总览，后续大字确认页；M5蓝色活动规则块与M6橙色产品信息块分别指向。",
+        "conversation": "753551e9"
+      }
+    ],
+    "history": [
+      {
+        "title": "v3 → v4",
+        "detail": "v3已分内外稿；v4改为成果总览优先、放大字号、修正拉线与色块、补lucky card图示。旧v15保留历史，不再作当前成果。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "继续沟通稿、群提醒与反馈",
+        "conversation": "753551e9"
+      },
+      {
+        "label": "继续零售／采购／寄售讨论",
+        "conversation": "a680e3e8"
+      }
+    ]
+  },
+  "galleryLabel": "当前601钻沟通成果与历史版本"
 }
