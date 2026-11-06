@@ -4,7 +4,7 @@
 
 ## 每个项目独立更新
 
-`projects/<稳定id>.json` 是成果清单的权威来源。`site/data.js` 只由构建命令生成，不直接编辑。现有 id：mlbb-retail、mlbb-gift、mlbb-booth、niko、pouch、booth-3x3、booth-4x4；可以继续新增 SHANLE 项目。
+`projects/<稳定id>.json` 是成果清单的权威来源。`site/data.js` 只由构建命令生成，不直接编辑。现有 id：mlbb-retail、mlbb-gift、mlbb-booth、niko、pouch、booth-3x3、booth-4x4；以 SHANLE 为主，也收录用户明确指定的其他工作，如 LIjiujia 跑步机；保留各自品牌和原项目归属。
 
 ```sh
 python3 /Users/ziqing/Documents/codexprojects/recent-workspace/workspace.py list
@@ -54,3 +54,7 @@ python3 serve.py status
 `overseas-catalogs` 使用独立 overseas.js／overseas.css 展示工作记录。维护时一起核对：线上网站截图与日期、当前可见功能、原始客户沟通稿及是否已发送、关键决定与原对话、阶段交付、待办与接续入口。一张流程图不等于项目进度。截图、下载资源核对、端到端交互验证和用户接受分别说明，不自动互相替代。
 
 用户已明确要求收录本项目的沟通文本；仅整理与项目相关的客户稿及必要决策片段，不上传整段数据库、附件路径或无关私人信息。网站截图保存在 site/documents/overseas-progress/screens，核对依据在同目录 evidence.json。
+
+## 跑步机项目
+
+`lijiujia-treadmill` 为用户指定新增的共用入口，原项目仍为 LIjiujia，不迁移或重建原目录。当前 v03 七张状态图为已生成、待评审，未选定、未向厂商发送；全域跑台与下置电机为明确要求。脚座动作模型与13种历史支撑研究分别直达原网站。维护 `progress` 中的实际进展、关键沟通、待办与来源对话；更新图库时不得把已否决版本自动提升为默认。`progress` 为可选共享字段，普通项目无此字段时保持原页面。

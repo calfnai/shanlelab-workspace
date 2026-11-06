@@ -1,0 +1,60 @@
+{
+  "captured_at": "2026-11-06",
+  "source_project": "LIjiujia",
+  "websites": [
+    "https://calfnai.github.io/lijiujia-z7pro-model/iterations/",
+    "https://calfnai.github.io/lijiujia-z7pro-model/foot-study.html",
+    "https://calfnai.github.io/lijiujia-z7pro-model/research/"
+  ],
+  "assets": [
+    {
+      "file": "documents/treadmill/linear-open.png",
+      "sha256": "6c0dce35708b66c0920d21ebb7e5ddfae67f2cddc884431cfee05e20473f47d2"
+    },
+    {
+      "file": "documents/treadmill/linear-incline.png",
+      "sha256": "61b991dc4b48a0dd1909f1bb450d06be456815e3fe8ce7447c79e7429c22e89c"
+    },
+    {
+      "file": "documents/treadmill/linear-flat.png",
+      "sha256": "e1242a342b27285d570dd0db6d191e422fa8423a84ebdbdea4c3238decdc7074"
+    },
+    {
+      "file": "documents/treadmill/linear-upright.png",
+      "sha256": "f678d4eadfe8d983431d34896da77ce86757de7ed713b7d09d0c26466065b3dc"
+    },
+    {
+      "file": "documents/treadmill/lynmate-open.png",
+      "sha256": "dbab4d4441cdf494ad741b78275f578a8f4efaa322f3cf34bc07372100191264"
+    },
+    {
+      "file": "documents/treadmill/lynmate-half.png",
+      "sha256": "c0bffd022a312ec2ac06cc0d0306941e68fea229ca67077d38115f6daefb1c93"
+    },
+    {
+      "file": "documents/treadmill/lynmate-flat.png",
+      "sha256": "7270539ee714c5809e65a71f0626f24c24a93c6485f3fb40ceb86f697cc3df06"
+    },
+    {
+      "file": "documents/treadmill/image15.png",
+      "sha256": "649070883aed42e89ddacfd0ce5d961a68255f26cd8fb70894fc67b3ff1c21f8"
+    },
+    {
+      "file": "documents/treadmill/image11.png",
+      "sha256": "5f238cc4dff9a48da137d5169f706be151cbd7851c464ed3986dda133afd4b80"
+    },
+    {
+      "file": "documents/treadmill/iterations-website.png",
+      "sha256": "866e7b4d029767988128e293a57ea99dae7eb40fdcadb4122ab6dde67a82ae91"
+    },
+    {
+      "file": "documents/treadmill/foot-website.png",
+      "sha256": "9393a4d609fc506c16c2f1421589599f0f3c5f3e4f26202a29b9cadf7f5c80dd"
+    }
+  ],
+  "limits": [
+    "概念图，不是统一CAD多姿态渲染",
+    "无用户选定及厂商发送确认",
+    "本次不修改原项目设计"
+  ]
+}
