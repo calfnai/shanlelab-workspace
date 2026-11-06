@@ -56,7 +56,13 @@
   ],
   "island_pipe_frame": "single plane; two uprights and one top rail",
   "island_pipe_sway_limiters": 2,
-  "island_pipe_T_feet": 2,
+  "island_pipe_flange_bases": 2,
+  "island_pipe_flange_dimensions_assumed": {
+    "diameter": 0.12,
+    "plate_thickness": 0.008,
+    "socket_height": 0.07,
+    "screws_per_base": 4
+  },
   "unconfirmed": [
     "Sign dimensions follow supplied art aspect ratio",
     "Column height, board thickness, support and fittings are concept assumptions",

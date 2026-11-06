@@ -90,7 +90,7 @@
         "id": "pipe",
         "title": "水管吊海洋板",
         "tag": "A / PIPE + MARINE PLYWOOD",
-        "summary": "中岛单排门形水管架，上方两点吊挂，左右短限位防晃；柱区保留四脚落地管架。"
+        "summary": "中岛单排门形水管架，圆形法兰底座固定，上方两点吊挂，左右短限位防晃；柱区保留四脚落地管架。"
       },
       {
         "id": "paper",
@@ -154,7 +154,7 @@
         "thumb": "demos/niko-comparison/reference/pipe-single-row-user-reference.png",
         "label": "单排管架与左右限位 · 本次用户参考",
         "status": "本次结构依据",
-        "note": "中岛采用单排门形架、顶部两点吊挂、左右短限位；柱区四脚管架另行保留。"
+        "note": "单排门形架、顶部两点吊挂、左右短限位参考；底座以新提供的圆形法兰照片为准。柱区四脚管架另行保留。"
       },
       {
         "file": "media/ad73eadade.png",
@@ -162,6 +162,13 @@
         "label": "水管与海洋板 · 结构参考",
         "status": "保留的材料参考",
         "note": "材料及节点参考保留；中岛管架结构以本次单排门形架参考为准。"
+      },
+      {
+        "file": "demos/niko-comparison/reference/pipe-flange-photo.jpg",
+        "thumb": "demos/niko-comparison/reference/pipe-flange-photo.jpg",
+        "label": "圆形法兰底座 · 用户实物照片",
+        "status": "本次底座依据",
+        "note": "中岛两只底座采用圆形法兰、四颗螺丝及短套筒；模型直径12cm等尺寸仅为示意，以实物为准。"
       }
     ],
     "paperStructure": {
@@ -186,8 +193,10 @@
       "topRails": 1,
       "suspensionPoints": 2,
       "sideSwayLimiters": 2,
-      "TFeet": 2,
-      "plane": "single row"
+      "plane": "single row",
+      "flangeBases": 2,
+      "baseType": "round screw-fixed flange with short socket",
+      "flangeDiameterAssumedCm": 12
     }
   },
   "conversationName": "niko and 设计最终版回顾"
