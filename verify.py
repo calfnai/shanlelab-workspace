@@ -32,11 +32,11 @@ for js in (ROOT/'demos').rglob('*.js'):
         if ref.startswith('.'):check(ref,js.parent)
 assert not list(ROOT.rglob('.git')), 'Nested Git metadata must never be served'
 assert not failures,'\n'.join(failures)
-assert len(data['projects'])==5
+assert len({p['id'] for p in data['projects']})==len(data['projects'])
 gift=next(p for p in data['projects'] if p['id']=='mlbb-gift')
 assert gift['items'][0]['status']=='已选定' and gift['items'][0]['label'].startswith('C — MVP + SAVAGE')
 assert gift['milestone']['email']['href']=='documents/mct-email-sent.html'
 assert 'Production quantity, distribution locations and campaign dates remain to be agreed' in (ROOT/'documents/mct-email-sent.html').read_text()
 assert '800 stickers' in (ROOT/'documents/mct-email-revised.html').read_text()
 assert 'To:' not in (ROOT/'documents/mct-email-sent.html').read_text()
-print(f'PASS: 5 projects, {sum(len(p["items"]) for p in data["projects"])} full images, {len(checked)} local references')
+print(f'PASS: {len(data['projects'])} projects, {sum(len(p["items"]) for p in data["projects"])} full images, {len(checked)} local references')

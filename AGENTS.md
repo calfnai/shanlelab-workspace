@@ -7,3 +7,11 @@
 - Preview only through `serve.py`; do not spawn duplicate servers or kill unrelated processes.
 - Run `python3 verify.py` after changing the asset index and `node --check site/app.js` after editing JavaScript.
 - The user explicitly authorized external GitHub hosting. Repository calfnai/shanlelab-workspace is the sole publication target; existing gh credentials were verified by API despite intermittent TLS failures. AionUi native navigation has a verified protocol but no successful target-navigation check yet; WebUI currently times out.
+
+## Shared SHANLE ownership
+
+- This is the universal SHANLE workspace, editable from multiple source projects and conversations. It does not belong to computerUsage, MLBB, niko, or packaging alone.
+- Read CONTRIBUTING.md before updating. Canonical project records live in projects/*.json. Use workspace.py get/put with revision checks; never edit generated site/data.js directly.
+- build.py only assembles records. Old asset collection moved to refresh_sources.py and requires --project; do not use it as a blanket refresh.
+- Use the shared workspace lock for build/index mutations. Keep each task's project and asset changes separate; preserve other conversations' uncommitted work. Do not force push.
+- Shared reusable entry: skills/shanle-workspace/SKILL.md. New source projects can be added without creating another hub.

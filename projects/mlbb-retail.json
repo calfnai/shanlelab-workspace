@@ -1,0 +1,117 @@
+{
+  "id": "mlbb-retail",
+  "title": "MLBB 联名售卖款",
+  "en": "01 / COLLABORATION",
+  "description": "表情包贴纸、包装内卡与充值兑奖玩法。",
+  "conversation": "a680e3e8",
+  "note": "v15 为当前找到的玩法图稿；价格与兑奖渠道请回原对话核对。",
+  "items": [
+    {
+      "file": "media/b89e6dbabe.png",
+      "thumb": "thumbs/b89e6dbabe.webp",
+      "label": "PopSticker-MLBB-完整玩法介绍与兑奖教程-v15",
+      "status": "当前图稿",
+      "note": ""
+    },
+    {
+      "file": "media/ca420417f0.png",
+      "thumb": "thumbs/ca420417f0.webp",
+      "label": "PopSticker-MLBB-原背板比例修正-v14",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/15805700d9.png",
+      "thumb": "thumbs/15805700d9.webp",
+      "label": "PopSticker-MLBB-横向背板与四项卖点修正-v13",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/d4cf982c80.png",
+      "thumb": "thumbs/d4cf982c80.webp",
+      "label": "PopSticker-MLBB-纯背景内卡与兑奖教程-v12",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/f0501f96af.png",
+      "thumb": "thumbs/f0501f96af.webp",
+      "label": "PopSticker-MLBB-十二包一中奖-人工兑奖-v11",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/46e5849d76.png",
+      "thumb": "thumbs/46e5849d76.webp",
+      "label": "PopSticker-EmpeShop-实际页面流程-v10",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/c7500e4ac6.png",
+      "thumb": "thumbs/c7500e4ac6.webp",
+      "label": "PopSticker-MLBB-白底背面与层次修正版-v09",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/53f3f9ef28.png",
+      "thumb": "thumbs/53f3f9ef28.webp",
+      "label": "PopSticker-MLBB-结构与包装-SHANLE强化-v08",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/489b12279f.png",
+      "thumb": "thumbs/489b12279f.webp",
+      "label": "PopSticker-MLBB-三步兑换教程-v07",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/fceaf3ac31.png",
+      "thumb": "thumbs/fceaf3ac31.webp",
+      "label": "PopSticker-MLBB-新增内卡与英文包装背面-v06",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/4cf3a4aa0c.png",
+      "thumb": "thumbs/4cf3a4aa0c.webp",
+      "label": "PopSticker-MLBB-内置双面兑换卡-v05",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/8f03e04354.png",
+      "thumb": "thumbs/8f03e04354.webp",
+      "label": "PopSticker-MLBB-充值流程图解-v04-Layla",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/c9c2c867a4.png",
+      "thumb": "thumbs/c9c2c867a4.webp",
+      "label": "PopSticker-MLBB-充值流程图解-v03",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/7b3f1246a9.png",
+      "thumb": "thumbs/7b3f1246a9.webp",
+      "label": "PopSticker-MLBB-充值流程图解-v02",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/f5192f50c6.png",
+      "thumb": "thumbs/f5192f50c6.webp",
+      "label": "PopSticker-MLBB-充值流程图解-v01",
+      "status": "历史版本",
+      "note": ""
+    }
+  ],
+  "links": [],
+  "conversationName": "MLBB表情包充值贴纸"
+}

@@ -1,0 +1,336 @@
+{
+  "id": "pouch",
+  "title": "透明外袋与店铺陈列",
+  "en": "05 / PACKAGING",
+  "description": "C 组 v11、暖木展区、Sunday Home 与各轮装袋评审。",
+  "conversation": "cd8b04f8",
+  "note": "当前工作接续正式目录对话。最新为 C 组三处陈列评审，暖木展区与 Sunday Home 另有近期图组；均保留现场尺寸核对与生产确认的边界。",
+  "items": [
+    {
+      "file": "media/62b4d9f9c1.png",
+      "thumb": "thumbs/62b4d9f9c1.webp",
+      "label": "陈列评审 v11 · camera",
+      "status": "当前陈列评审",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/979a828f24.png",
+      "thumb": "thumbs/979a828f24.webp",
+      "label": "陈列评审 v11 · gifts",
+      "status": "当前陈列评审",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/04a27c5ea8.png",
+      "thumb": "thumbs/04a27c5ea8.webp",
+      "label": "陈列评审 v11 · stationery",
+      "status": "当前陈列评审",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/493e290611.png",
+      "thumb": "thumbs/493e290611.webp",
+      "label": "陈列评审 v10 · sunday",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/b97be6eee2.png",
+      "thumb": "thumbs/b97be6eee2.webp",
+      "label": "陈列评审 v10 · warm-fashion",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/ae3a7dd370.png",
+      "thumb": "thumbs/ae3a7dd370.webp",
+      "label": "陈列评审 v10 · warm-island",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/60f1bbb11c.png",
+      "thumb": "thumbs/60f1bbb11c.webp",
+      "label": "陈列评审 v10 · warm-stickers",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/9147f8a6bb.png",
+      "thumb": "thumbs/9147f8a6bb.webp",
+      "label": "陈列评审 v09 · hangzhou",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/ed948086e8.png",
+      "thumb": "thumbs/ed948086e8.webp",
+      "label": "陈列评审 v09 · pegboard",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/c4de79cb3e.png",
+      "thumb": "thumbs/c4de79cb3e.webp",
+      "label": "陈列评审 v08 · hangzhou-hang-stack",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/31acaf34a6.png",
+      "thumb": "thumbs/31acaf34a6.webp",
+      "label": "陈列评审 v08 · sunday-new-island",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/c92f98e6b5.png",
+      "thumb": "thumbs/c92f98e6b5.webp",
+      "label": "陈列评审 v07 · island",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/1ea7f34436.png",
+      "thumb": "thumbs/1ea7f34436.webp",
+      "label": "陈列评审 v07 · pegboard",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/4f5ebcb6b3.png",
+      "thumb": "thumbs/4f5ebcb6b3.webp",
+      "label": "陈列评审 v07 · shelf-175",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/0f214fb331.png",
+      "thumb": "thumbs/0f214fb331.webp",
+      "label": "陈列评审 v07 · shelf-190",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/2590e2761b.png",
+      "thumb": "thumbs/2590e2761b.webp",
+      "label": "陈列评审 v03 · island",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/c00c5fe5d0.png",
+      "thumb": "thumbs/c00c5fe5d0.webp",
+      "label": "陈列评审 v03 · pegboard",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/613e8752b1.png",
+      "thumb": "thumbs/613e8752b1.webp",
+      "label": "陈列评审 v03 · shelf-175",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/17b24e31db.png",
+      "thumb": "thumbs/17b24e31db.webp",
+      "label": "陈列评审 v03 · shelf-190",
+      "status": "陈列版本",
+      "note": "现场陈列效果稿；现场尺寸与承重仍需核对。"
+    },
+    {
+      "file": "media/e80921e809.png",
+      "thumb": "thumbs/e80921e809.webp",
+      "label": "装袋方向 v07 · medium-three",
+      "status": "近期装袋评审",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/8e94661955.png",
+      "thumb": "thumbs/8e94661955.webp",
+      "label": "装袋方向 v05 · small-shared-four",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/e0e01aa5c5.png",
+      "thumb": "thumbs/e0e01aa5c5.webp",
+      "label": "装袋方向 v04 · medium",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/c4107b915b.png",
+      "thumb": "thumbs/c4107b915b.webp",
+      "label": "装袋方向 v04 · small",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/1010b993a2.png",
+      "thumb": "thumbs/1010b993a2.webp",
+      "label": "装袋方向 v03 · SLL-AIR-001",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/6c6ecbfe48.png",
+      "thumb": "thumbs/6c6ecbfe48.webp",
+      "label": "装袋方向 v03 · SLL-BAG-001",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/cfa850c5ab.png",
+      "thumb": "thumbs/cfa850c5ab.webp",
+      "label": "装袋方向 v03 · SLL-BP-001",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/5172012dc6.png",
+      "thumb": "thumbs/5172012dc6.webp",
+      "label": "装袋方向 v03 · SLL-BP-002",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/e5840de22a.png",
+      "thumb": "thumbs/e5840de22a.webp",
+      "label": "装袋方向 v03 · SLL-CS-001",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/6f0037893d.png",
+      "thumb": "thumbs/6f0037893d.webp",
+      "label": "装袋方向 v03 · SLL-DB-001",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/8ed126ae51.png",
+      "thumb": "thumbs/8ed126ae51.webp",
+      "label": "装袋方向 v03 · SLL-MC-001",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/54f1615e5d.png",
+      "thumb": "thumbs/54f1615e5d.webp",
+      "label": "装袋方向 v03 · SLL-NB-001",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/ec9fc3f075.png",
+      "thumb": "thumbs/ec9fc3f075.webp",
+      "label": "装袋方向 v03 · SLL-PW-001",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/15a11acb11.png",
+      "thumb": "thumbs/15a11acb11.webp",
+      "label": "装袋方向 v03 · SLL-PW-002",
+      "status": "历史装袋版本",
+      "note": "装袋效果与现场尺寸核对分别推进，不视作生产定稿。"
+    },
+    {
+      "file": "media/16c6f3e9f4.png",
+      "thumb": "thumbs/16c6f3e9f4.webp",
+      "label": "早期本白拉链 v02",
+      "status": "早期袋型候选",
+      "note": "后续装袋及陈列请优先看当前评审。"
+    },
+    {
+      "file": "media/23599199c5.png",
+      "thumb": "thumbs/23599199c5.webp",
+      "label": "早期装袋 · SLL-AIR-001",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    },
+    {
+      "file": "media/9defac5012.png",
+      "thumb": "thumbs/9defac5012.webp",
+      "label": "早期装袋 · SLL-BAG-001",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    },
+    {
+      "file": "media/7f02d0cc3d.png",
+      "thumb": "thumbs/7f02d0cc3d.webp",
+      "label": "早期装袋 · SLL-BP-001",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    },
+    {
+      "file": "media/fbff5b16b7.png",
+      "thumb": "thumbs/fbff5b16b7.webp",
+      "label": "早期装袋 · SLL-BP-002",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    },
+    {
+      "file": "media/a763cdfa7c.png",
+      "thumb": "thumbs/a763cdfa7c.webp",
+      "label": "早期装袋 · SLL-CS-001",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    },
+    {
+      "file": "media/120a258529.png",
+      "thumb": "thumbs/120a258529.webp",
+      "label": "早期装袋 · SLL-DB-001",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    },
+    {
+      "file": "media/1bd42d78f6.png",
+      "thumb": "thumbs/1bd42d78f6.webp",
+      "label": "早期装袋 · SLL-MC-001",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    },
+    {
+      "file": "media/e7ddc3456c.png",
+      "thumb": "thumbs/e7ddc3456c.webp",
+      "label": "早期装袋 · SLL-NB-001",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    },
+    {
+      "file": "media/f0310a2b2f.png",
+      "thumb": "thumbs/f0310a2b2f.webp",
+      "label": "早期装袋 · SLL-PW-001",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    },
+    {
+      "file": "media/2d2066d7e5.png",
+      "thumb": "thumbs/2d2066d7e5.webp",
+      "label": "早期装袋 · SLL-PW-002",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    },
+    {
+      "file": "media/faddb110b4.png",
+      "thumb": "thumbs/faddb110b4.webp",
+      "label": "早期装袋 · empty-clear-front",
+      "status": "历史概念",
+      "note": "旧装袋比例未验证；旧三档尺寸已撤回。"
+    }
+  ],
+  "links": [
+    {
+      "label": "完整包装与陈列评审页",
+      "href": "https://calfnai.github.io/shanlelab-packaging/"
+    },
+    {
+      "label": "C 组 · 相机／文具／礼盒",
+      "href": "https://calfnai.github.io/shanlelab-packaging/#stores"
+    }
+  ],
+  "conversationName": "透明软塑料包装袋设计正式目录"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "niko",
+  "title": "niko and… 展位",
+  "en": "04 / DISPLAY",
+  "description": "水管吊海洋板 / 纯纸板 · 中岛与柱子区左右对照。",
+  "conversation": "ea860ae7",
+  "note": "中岛底座 200×100×67cm，沿用叉车板；柱子每面125cm。先看效果图，再看三维模型，最后看细节和参考。",
+  "items": [
+    {
+      "file": "media/8a7e711e1f.jpg",
+      "thumb": "thumbs/8a7e711e1f.webp",
+      "label": "联名区正面原稿",
+      "status": "设计原稿",
+      "note": ""
+    }
+  ],
+  "links": [
+    {
+      "label": "水管吊海洋板 · 3D",
+      "href": "demos/niko-comparison/viewer.html?scheme=pipe",
+      "kind": "3d"
+    },
+    {
+      "label": "纯纸板 · 3D",
+      "href": "demos/niko-comparison/viewer.html?scheme=paper",
+      "kind": "3d"
+    },
+    {
+      "label": "圣诞提案 v04 · PDF",
+      "href": "documents/闪乐LAB-nikoand圣诞联动完整方案-v04.pdf"
+    },
+    {
+      "label": "联名创作说明 · 两页",
+      "href": "documents/niko-concept/创作说明.html"
+    }
+  ],
+  "comparison": {
+    "root": "demos/niko-comparison/",
+    "schemes": [
+      {
+        "id": "pipe",
+        "title": "水管吊海洋板",
+        "tag": "A / PIPE + MARINE PLYWOOD",
+        "summary": "水管支架从上方两点吊挂海洋板；中岛与柱面配套。"
+      },
+      {
+        "id": "paper",
+        "title": "纯纸板",
+        "tag": "B / CORRUGATED BOARD",
+        "summary": "EBUILD 厚纸板立板与阶梯结构；中岛与柱面配套。"
+      }
+    ],
+    "withdrawn": "用户截图指定的被否决或严重错误版本已退出成果展示。原始参考资料保留。",
+    "dimensions": {
+      "base_cm": [
+        200,
+        100,
+        67
+      ],
+      "column_face_cm": 125,
+      "person_cm": 170
+    },
+    "details": [
+      {
+        "file": "media/8a7e711e1f.jpg",
+        "thumb": "thumbs/8a7e711e1f.webp",
+        "label": "联名及首发区 · 正面原稿",
+        "status": "设计原稿",
+        "note": ""
+      },
+      {
+        "file": "media/14d9d9b992.jpg",
+        "thumb": "thumbs/14d9d9b992.webp",
+        "label": "常规商品区 · 背面原稿",
+        "status": "设计原稿",
+        "note": ""
+      }
+    ],
+    "references": [
+      {
+        "file": "media/ad73eadade.png",
+        "thumb": "thumbs/ad73eadade.webp",
+        "label": "水管与海洋板 · 结构参考",
+        "status": "参考资料",
+        "note": "保留原资料；图中的旧尺寸不替代本次确认尺寸。"
+      },
+      {
+        "file": "media/66d0093288.png",
+        "thumb": "thumbs/66d0093288.webp",
+        "label": "柱子区 · 原始分区参考",
+        "status": "参考资料",
+        "note": "保留原资料；图中的旧尺寸不替代本次确认尺寸。"
+      }
+    ]
+  },
+  "conversationName": "niko and 设计最终版回顾"
+}

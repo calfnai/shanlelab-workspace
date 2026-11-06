@@ -1,0 +1,68 @@
+{
+  "id": "mlbb-booth",
+  "title": "MLBB 赛事展位",
+  "en": "03 / BOOTH",
+  "description": "3 × 3 米相邻双开口 · 展示、体验与储物。",
+  "conversation": "d1139134",
+  "note": "近期 v01–v03 有渲染与平面图；尚未找到与这版设计对应的可旋转 3D。",
+  "items": [
+    {
+      "file": "media/be4162bafc.png",
+      "thumb": "thumbs/be4162bafc.webp",
+      "label": "11.05 · v03 · 01-booth-render",
+      "status": "当前方向",
+      "note": "空间概念图；v03 按主墙尺寸重新校正比例，施工以尺寸图为准。"
+    },
+    {
+      "file": "media/3569a230d0.png",
+      "thumb": "thumbs/3569a230d0.webp",
+      "label": "11.05 · v02 · 01-booth-render",
+      "status": "历史版本",
+      "note": "空间概念图；v03 按主墙尺寸重新校正比例，施工以尺寸图为准。"
+    },
+    {
+      "file": "media/754bd6264f.png",
+      "thumb": "thumbs/754bd6264f.webp",
+      "label": "11.05 · v02 · 02-layout-plan",
+      "status": "历史版本",
+      "note": "空间概念图；v03 按主墙尺寸重新校正比例，施工以尺寸图为准。"
+    },
+    {
+      "file": "media/ff2da7119b.png",
+      "thumb": "thumbs/ff2da7119b.webp",
+      "label": "11.05 · v01 · 01-booth-render",
+      "status": "历史版本",
+      "note": "空间概念图；v03 按主墙尺寸重新校正比例，施工以尺寸图为准。"
+    },
+    {
+      "file": "media/dee39a503e.png",
+      "thumb": "thumbs/dee39a503e.webp",
+      "label": "11.05 · v01 · 02-layout-plan",
+      "status": "历史版本",
+      "note": "空间概念图；v03 按主墙尺寸重新校正比例，施工以尺寸图为准。"
+    },
+    {
+      "file": "media/b48f7258c1.png",
+      "thumb": "thumbs/b48f7258c1.webp",
+      "label": "早期展位 v13 · 三开位-展示与储物-概念图",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/07956d9d74.png",
+      "thumb": "thumbs/07956d9d74.webp",
+      "label": "早期展位 v11 · 泰国站-v12-中岛MPL-MCT",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/ed928c862f.png",
+      "thumb": "thumbs/ed928c862f.webp",
+      "label": "早期展位 v11 · 泰国站-去PIMPLE-周边层板效果图",
+      "status": "历史版本",
+      "note": ""
+    }
+  ],
+  "links": [],
+  "conversationName": "MLBB展位重设计"
+}

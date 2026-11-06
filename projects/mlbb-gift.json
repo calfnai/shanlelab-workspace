@@ -1,0 +1,152 @@
+{
+  "id": "mlbb-gift",
+  "title": "MLBB 赛事赠送款",
+  "en": "02 / EVENT GIFT",
+  "description": "MCT 赛事包 · 已选定 C 款与邮件阶段成果。",
+  "conversation": "d5ba0668",
+  "note": "当前采用 C — MVP + SAVAGE 原版。其他方向及 C 款修订保留为其他版本；用户选款与合作方批准分别记录。",
+  "items": [
+    {
+      "file": "media/8abc980f7f.png",
+      "thumb": "thumbs/8abc980f7f.webp",
+      "label": "C — MVP + SAVAGE · 已选定使用版",
+      "status": "已选定",
+      "note": "用户于 2026-11-06 明确选择；后续 C 修订并未替代此选择。"
+    },
+    {
+      "file": "media/6486087084.png",
+      "thumb": "thumbs/6486087084.webp",
+      "label": "C 款修订 v03 · 01-C-pack-review",
+      "status": "近期修订",
+      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
+    },
+    {
+      "file": "media/006d772e11.png",
+      "thumb": "thumbs/006d772e11.webp",
+      "label": "C 款修订 v03 · 02-black-case-comparison",
+      "status": "近期修订",
+      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
+    },
+    {
+      "file": "media/b586aac331.png",
+      "thumb": "thumbs/b586aac331.webp",
+      "label": "C 款修订 v02 · 01-C-pack-review",
+      "status": "历史版本",
+      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
+    },
+    {
+      "file": "media/ac6c17db78.png",
+      "thumb": "thumbs/ac6c17db78.webp",
+      "label": "C 款修订 v02 · 02-black-case-comparison",
+      "status": "历史版本",
+      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
+    },
+    {
+      "file": "media/008c41b32b.png",
+      "thumb": "thumbs/008c41b32b.webp",
+      "label": "C 款修订 v01 · 01-C-pack-review",
+      "status": "历史版本",
+      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
+    },
+    {
+      "file": "media/4db7398625.png",
+      "thumb": "thumbs/4db7398625.webp",
+      "label": "C 款修订 v01 · 02-black-case-comparison",
+      "status": "历史版本",
+      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
+    },
+    {
+      "file": "media/7441ca0393.png",
+      "thumb": "thumbs/7441ca0393.webp",
+      "label": "C 款修订 v01 · phone-base",
+      "status": "历史版本",
+      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
+    },
+    {
+      "file": "media/e193b6b01d.png",
+      "thumb": "thumbs/e193b6b01d.webp",
+      "label": "A/B/C 三方向 · A-2026-GGWP",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/b1596c069d.png",
+      "thumb": "thumbs/b1596c069d.webp",
+      "label": "A/B/C 三方向 · B-Bangkok-2026",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/4bb4f3dc91.png",
+      "thumb": "thumbs/4bb4f3dc91.webp",
+      "label": "四方向品牌修订 · 01-mpl",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/aa0881af5d.png",
+      "thumb": "thumbs/aa0881af5d.webp",
+      "label": "四方向品牌修订 · 02-mct-original",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/fc62f0a6c8.png",
+      "thumb": "thumbs/fc62f0a6c8.webp",
+      "label": "四方向品牌修订 · 03-mct-ocean",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/94c30ad81e.png",
+      "thumb": "thumbs/94c30ad81e.webp",
+      "label": "四方向品牌修订 · 04-mct-2026",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/74c2819d2c.png",
+      "thumb": "thumbs/74c2819d2c.webp",
+      "label": "早期官方素材方向 · mct-official-layout",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/ca58332024.png",
+      "thumb": "thumbs/ca58332024.webp",
+      "label": "早期官方素材方向 · mct-product-mockup-v3",
+      "status": "历史版本",
+      "note": ""
+    },
+    {
+      "file": "media/17f22c0a10.png",
+      "thumb": "thumbs/17f22c0a10.webp",
+      "label": "早期官方素材方向 · mct-product-mockup-v4-2026",
+      "status": "历史版本",
+      "note": ""
+    }
+  ],
+  "links": [
+    {
+      "label": "A/B/C 平面矢量预览",
+      "href": "documents/mct-vector.html"
+    }
+  ],
+  "milestone": {
+    "title": "C — MVP + SAVAGE",
+    "status": "已选定使用",
+    "date": "2026.11.06",
+    "summary": "深蓝赛事包，SEA 主贴 + MVP + SAVAGE。以用户本次确认的这张原图作为当前工作版本。",
+    "next": "接续事项：核对官方标志生产原稿、补充平面图与凹凸说明，等待书面审阅意见。",
+    "email": {
+      "title": "设计与用途审批申请 · 已发送阶段稿",
+      "status": "已发送 · 待书面审阅",
+      "date": "2026.11.05",
+      "summary": "设计概念、官方素材与二创边界、赛事包非售卖赠品及社媒用途申请。",
+      "href": "documents/mct-email-sent.html",
+      "latestHref": "documents/mct-email-revised.html",
+      "latestTitle": "后续完整邮件稿 · 含分发数量（草稿）"
+    }
+  },
+  "conversationName": "MLBB赛事包 MCT赛事Logo贴纸"
+}
