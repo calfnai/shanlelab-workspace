@@ -90,7 +90,7 @@
         "id": "pipe",
         "title": "水管吊海洋板",
         "tag": "A / PIPE + MARINE PLYWOOD",
-        "summary": "中岛水管吊海洋板；柱区四脚管架落地，两侧挂海洋板。"
+        "summary": "中岛单排门形水管架，上方两点吊挂，左右短限位防晃；柱区保留四脚落地管架。"
       },
       {
         "id": "paper",
@@ -129,13 +129,6 @@
     ],
     "references": [
       {
-        "file": "media/ad73eadade.png",
-        "thumb": "thumbs/ad73eadade.webp",
-        "label": "水管与海洋板 · 结构参考",
-        "status": "参考资料",
-        "note": "保留原资料；图中的旧尺寸不替代本次确认尺寸。"
-      },
-      {
         "file": "media/66d0093288.png",
         "thumb": "thumbs/66d0093288.webp",
         "label": "柱子区 · 原始分区参考",
@@ -155,6 +148,20 @@
         "label": "纸展台结构 · 用户提供正视参考",
         "status": "本次结构依据",
         "note": "仅椭圆前后面板之间的夹层保留瓦楞纸原色，其余外表面可印刷。白色不表示最终印刷颜色。"
+      },
+      {
+        "file": "demos/niko-comparison/reference/pipe-single-row-user-reference.png",
+        "thumb": "demos/niko-comparison/reference/pipe-single-row-user-reference.png",
+        "label": "单排管架与左右限位 · 本次用户参考",
+        "status": "本次结构依据",
+        "note": "中岛采用单排门形架、顶部两点吊挂、左右短限位；柱区四脚管架另行保留。"
+      },
+      {
+        "file": "media/ad73eadade.png",
+        "thumb": "thumbs/ad73eadade.webp",
+        "label": "水管与海洋板 · 结构参考",
+        "status": "保留的材料参考",
+        "note": "材料及节点参考保留；中岛管架结构以本次单排门形架参考为准。"
       }
     ],
     "paperStructure": {
@@ -173,6 +180,14 @@
         100,
         10
       ]
+    },
+    "islandPipeFrame": {
+      "uprights": 2,
+      "topRails": 1,
+      "suspensionPoints": 2,
+      "sideSwayLimiters": 2,
+      "TFeet": 2,
+      "plane": "single row"
     }
   },
   "conversationName": "niko and 设计最终版回顾"
