@@ -54,6 +54,27 @@
     0.1,
     0.2
   ],
+  "paper_printable_surfaces": [
+    "base wrap",
+    "base deck",
+    "raised platform",
+    "support tabs",
+    "gussets",
+    "front and back oval faces"
+  ],
+  "paper_raw_kraft_only": "central oval core between two printable faces",
+  "paper_oval_depth_assumed": 0.14,
+  "paper_platform_assumed": [
+    1.7,
+    0.65,
+    0.1
+  ],
+  "paper_lower_plinth_assumed": [
+    2,
+    1,
+    0.1
+  ],
+  "paper_white_surface_note": "white denotes printable surface; base artwork not supplied",
   "unconfirmed": [
     "Sign dimensions follow supplied art aspect ratio",
     "Column height, board thickness, support and fittings are concept assumptions",

@@ -96,7 +96,7 @@
         "id": "paper",
         "title": "纯纸板（中岛）",
         "tag": "B / CORRUGATED BOARD",
-        "summary": "中岛采用厚纸板；柱区同样使用四脚落地管架，两侧挂纸板。"
+        "summary": "双面夹层纸板展台：仅椭圆中间夹层露原色，其余外表面可印刷；柱区仍为落地管架挂纸板。"
       }
     ],
     "withdrawn": "用户截图指定的被否决或严重错误版本已退出成果展示。原始参考资料保留。",
@@ -141,8 +141,39 @@
         "label": "柱子区 · 原始分区参考",
         "status": "参考资料",
         "note": "保留原资料；图中的旧尺寸不替代本次确认尺寸。"
+      },
+      {
+        "file": "demos/niko-comparison/reference/paper-structure-side.jpg",
+        "thumb": "demos/niko-comparison/reference/paper-structure-side.jpg",
+        "label": "纸展台结构 · 用户提供侧视参考",
+        "status": "本次结构依据",
+        "note": "仅椭圆前后面板之间的夹层保留瓦楞纸原色，其余外表面可印刷。白色不表示最终印刷颜色。"
+      },
+      {
+        "file": "demos/niko-comparison/reference/paper-structure-front.jpg",
+        "thumb": "demos/niko-comparison/reference/paper-structure-front.jpg",
+        "label": "纸展台结构 · 用户提供正视参考",
+        "status": "本次结构依据",
+        "note": "仅椭圆前后面板之间的夹层保留瓦楞纸原色，其余外表面可印刷。白色不表示最终印刷颜色。"
       }
-    ]
+    ],
+    "paperStructure": {
+      "reference": "user supplied 2026-11-06",
+      "raw_kraft": "oval central core only",
+      "printable": "all other exterior paper surfaces",
+      "unprinted_display": "white",
+      "oval_depth_assumed_cm": 14,
+      "raised_platform_assumed_cm": [
+        170,
+        65,
+        10
+      ],
+      "lower_plinth_assumed_cm": [
+        200,
+        100,
+        10
+      ]
+    }
   },
   "conversationName": "niko and 设计最终版回顾"
 }
