@@ -2,11 +2,11 @@
   "id": "fluffycon-d06",
   "title": "FluffyCon D06 · 三墙展位",
   "en": "09 / FLUFFYCON D06",
-  "lifecycle": "active",
+  "lifecycle": "archived",
   "description": "三面围墙、正面单开：PopSticker 六款主推与沿墙陈列结构。",
   "conversation": "06ef2687",
-  "conversationName": "Fluffy Con D06展位方案",
-  "note": "当前归档 v03 三墙结构评审，延续 v02 的啵啵贴主推方向。v01 毛绒袋主推方案已否决，不作为当前候选。原对话已归档，保留网页回看入口；结构、主办方高度许可和生产图仍需确认。",
+  "conversationName": "【活动已取消】FluffyCon D06 三墙展位",
+  "note": "整个活动已取消，项目与对应话题归档；历史图稿和结构讨论仅保留作记录。",
   "items": [
     {
       "file": "documents/fluffy-d06/three-wall-plan.svg",
@@ -68,5 +68,15 @@
       "href": "documents/fluffy-d06/previous.html"
     }
   ],
-  "currentFocus": "从 v03 三墙结构稿接续：核对实际围板、安装规则、陈列模块及高清商品原稿。"
+  "currentFocus": "活动已取消，不再推进。",
+  "status": "活动已取消",
+  "archivedAt": "2026-11-06",
+  "archiveReason": "用户确认整个 FluffyCon D06 活动已取消，话题直接归档。",
+  "decisions": [
+    {
+      "date": "2026-11-06",
+      "source": "用户明确说明",
+      "summary": "活动整体取消，直接归档，不是移出近期项目后继续等待推进。"
+    }
+  ]
 }
