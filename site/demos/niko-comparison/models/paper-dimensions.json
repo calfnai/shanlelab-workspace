@@ -1,0 +1,54 @@
+{
+  "scheme": "paper",
+  "units": "metres",
+  "base_envelope_xyz": [
+    2,
+    0.67,
+    1
+  ],
+  "base_bounds": [
+    [
+      -1.0,
+      0.0,
+      -0.5
+    ],
+    [
+      1.0,
+      0.67,
+      0.5
+    ]
+  ],
+  "column_footprint": [
+    1.25,
+    1.25
+  ],
+  "column_height_assumed": 3,
+  "human_bounds": [
+    [
+      -1.706,
+      0.0,
+      -0.1
+    ],
+    [
+      -1.154,
+      1.7000000000000002,
+      0.14
+    ]
+  ],
+  "sign": [
+    1.3867334167709637,
+    1.0012515644555695
+  ],
+  "sign_bottom": 0.8700000000000001,
+  "island_top": 1.8712515644555696,
+  "steps_above_base": [
+    0.1,
+    0.2
+  ],
+  "unconfirmed": [
+    "Sign dimensions follow supplied art aspect ratio",
+    "Column height, board thickness, support and fittings are concept assumptions",
+    "Island merchandise and hooks remain part of supplied graphic; not individually modeled",
+    "Column shows supplied SKU examples at 145x105mm and 105x145mm; SKU allocation and stocking count not specified"
+  ]
+}

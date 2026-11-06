@@ -68,7 +68,7 @@ for scheme,label in [('pipe','水管吊海洋板'),('paper','纯纸板')]:
         p=model/'preview'/f'{scheme}-{zone}.png'
         if p.exists():items.append(image(p,f'{label} · {zlabel}','当前对比','同一底座 200×100×67cm；柱子每面125cm。'))
 if not items:items=[image(model/'assets/front.jpg','联名区正面原稿','设计原稿')]
-links=[]
+links=[dict(label='水管吊海洋板 · 3D',href='demos/niko-comparison/viewer.html?scheme=pipe',kind='3d'),dict(label='纯纸板 · 3D',href='demos/niko-comparison/viewer.html?scheme=paper',kind='3d')]
 for p in sorted((NIKO/'output').glob('*v04*')):
     if p.suffix=='.pdf':links.append(dict(label='圣诞提案 v04 · PDF',href=copy(p,'documents/'+p.name)))
 projects.append(project('niko','niko and… 展位','04 / DISPLAY','水管吊海洋板 / 纯纸板 · 中岛与柱子区左右对照。','ea860ae7','中岛底座 200×100×67cm，沿用叉车板；柱子每面125cm。先看效果图，再看三维模型，最后看细节和参考。',items,links))
