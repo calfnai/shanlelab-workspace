@@ -19,8 +19,17 @@
     ]
   ],
   "column_footprint": [
-    1.25,
-    1.25
+    1.27,
+    1.27
+  ],
+  "column_shape": "envelope",
+  "column_shape_note": "127cm maximum envelope; cross-section awaiting clarification",
+  "column_stand_legs": 4,
+  "column_stand_ground_feet": 4,
+  "column_stand_frame_height": 2.13,
+  "column_stand_footprint_assumed": [
+    1.52,
+    1.52
   ],
   "column_height_assumed": 3,
   "human_bounds": [

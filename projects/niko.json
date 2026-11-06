@@ -2,65 +2,65 @@
   "id": "niko",
   "title": "niko and… 展位",
   "en": "04 / DISPLAY",
-  "description": "水管吊海洋板 / 纯纸板 · 中岛与柱子区左右对照。",
+  "description": "海洋板 / 纸板 · 柱区共用四脚落地水管架，整体与局部一键对照。",
   "conversation": "ea860ae7",
-  "note": "中岛底座 200×100×67cm，沿用叉车板；柱子每面125cm。先看效果图，再看三维模型，最后看细节和参考。",
+  "note": "默认看整体；一个开关同步切换整体、中岛、柱子区。中岛200×100×67cm；柱子127cm外轮廓占位，截面待确认。两版柱区均为四脚落地水管架挂板。",
   "items": [
     {
       "file": "demos/niko-comparison/preview/pipe-island.png",
       "thumb": "demos/niko-comparison/preview/pipe-island.png",
       "label": "水管吊海洋板 · 中岛",
       "status": "当前对比",
-      "note": "底座200×100×67cm，柱子每面125cm；170cm人物同地面。"
+      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
     },
     {
       "file": "demos/niko-comparison/preview/pipe-column.png",
       "thumb": "demos/niko-comparison/preview/pipe-column.png",
       "label": "水管吊海洋板 · 柱子区",
       "status": "当前对比",
-      "note": "底座200×100×67cm，柱子每面125cm；170cm人物同地面。"
+      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
     },
     {
       "file": "demos/niko-comparison/preview/pipe-back.png",
       "thumb": "demos/niko-comparison/preview/pipe-back.png",
       "label": "水管吊海洋板 · 中岛背面",
       "status": "当前对比",
-      "note": "底座200×100×67cm，柱子每面125cm；170cm人物同地面。"
+      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
     },
     {
       "file": "demos/niko-comparison/preview/pipe-overall.png",
       "thumb": "demos/niko-comparison/preview/pipe-overall.png",
       "label": "水管吊海洋板 · 整体",
       "status": "当前对比",
-      "note": "底座200×100×67cm，柱子每面125cm；170cm人物同地面。"
+      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
     },
     {
       "file": "demos/niko-comparison/preview/paper-island.png",
       "thumb": "demos/niko-comparison/preview/paper-island.png",
       "label": "纯纸板 · 中岛",
       "status": "当前对比",
-      "note": "底座200×100×67cm，柱子每面125cm；170cm人物同地面。"
+      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
     },
     {
       "file": "demos/niko-comparison/preview/paper-column.png",
       "thumb": "demos/niko-comparison/preview/paper-column.png",
       "label": "纯纸板 · 柱子区",
       "status": "当前对比",
-      "note": "底座200×100×67cm，柱子每面125cm；170cm人物同地面。"
+      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
     },
     {
       "file": "demos/niko-comparison/preview/paper-back.png",
       "thumb": "demos/niko-comparison/preview/paper-back.png",
       "label": "纯纸板 · 中岛背面",
       "status": "当前对比",
-      "note": "底座200×100×67cm，柱子每面125cm；170cm人物同地面。"
+      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
     },
     {
       "file": "demos/niko-comparison/preview/paper-overall.png",
       "thumb": "demos/niko-comparison/preview/paper-overall.png",
       "label": "纯纸板 · 整体",
       "status": "当前对比",
-      "note": "底座200×100×67cm，柱子每面125cm；170cm人物同地面。"
+      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
     }
   ],
   "links": [
@@ -90,13 +90,13 @@
         "id": "pipe",
         "title": "水管吊海洋板",
         "tag": "A / PIPE + MARINE PLYWOOD",
-        "summary": "水管支架从上方两点吊挂海洋板；中岛与柱面配套。"
+        "summary": "中岛水管吊海洋板；柱区四脚管架落地，两侧挂海洋板。"
       },
       {
         "id": "paper",
-        "title": "纯纸板",
+        "title": "纯纸板（中岛）",
         "tag": "B / CORRUGATED BOARD",
-        "summary": "EBUILD 厚纸板立板与阶梯结构；中岛与柱面配套。"
+        "summary": "中岛采用厚纸板；柱区同样使用四脚落地管架，两侧挂纸板。"
       }
     ],
     "withdrawn": "用户截图指定的被否决或严重错误版本已退出成果展示。原始参考资料保留。",
@@ -106,8 +106,10 @@
         100,
         67
       ],
-      "column_face_cm": 125,
-      "person_cm": 170
+      "person_cm": 170,
+      "column_size_cm": 127,
+      "column_shape": "pending",
+      "column_stand_legs": 4
     },
     "details": [
       {
