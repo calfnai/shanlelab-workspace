@@ -55,8 +55,7 @@
     0.2
   ],
   "paper_printable_surfaces": [
-    "base wrap",
-    "base deck",
+    "lower paper plinth",
     "raised platform",
     "support tabs",
     "gussets",
