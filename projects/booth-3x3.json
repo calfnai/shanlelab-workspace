@@ -1,0 +1,436 @@
+{
+  "id": "booth-3x3",
+  "title": "SHANLE 普通 3×3 展位",
+  "en": "06 / STANDARD BOOTH",
+  "description": "普通品牌展位 · v10 确认风格、v13 重点补齐与历次版本。",
+  "conversation": "7bb0a45f",
+  "conversationName": "3x3双开，2.2米高的长期展位设计",
+  "note": "与 MLBB 赛事展位分开。原交接说明明确 v10 风格已确认、v13 补齐绿色重点；v14–v17 为后续外墙／比例校核。历史 v04 三维模型的高度口径与后续要求不同，不当作当前定稿。",
+  "items": [
+    {
+      "file": "documents/booth-3x3-v13/06-已确认效果图/05-v13-绿色重点补齐-整体效果参考.png",
+      "thumb": "thumbs/f7ecb36ecc.webp",
+      "label": "v13 · 绿色重点补齐整体参考",
+      "status": "确认风格的补齐参考",
+      "note": "沿用已确认 v10 风格；本图补齐重点，非可印刷生产文件。"
+    },
+    {
+      "file": "media/b2e7159e97.png",
+      "thumb": "thumbs/b2e7159e97.webp",
+      "label": "v17 · 后墙-源稿等比尺寸核对",
+      "status": "后续校核",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/c18c888f37.png",
+      "thumb": "thumbs/c18c888f37.webp",
+      "label": "v16 · A03-外墙A-蓝色-贴纸主角",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/4bfbfb8d04.png",
+      "thumb": "thumbs/4bfbfb8d04.webp",
+      "label": "v16 · A04-外墙B-橙色-贴纸主角",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/25fd1c5dcf.png",
+      "thumb": "thumbs/25fd1c5dcf.webp",
+      "label": "v15 · A03-外侧墙A-蓝色-POP-YOUR-MIND",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/394069a441.png",
+      "thumb": "thumbs/394069a441.webp",
+      "label": "v15 · A04-外侧墙B-橙粉-NOW-IN-LEATHER",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/0697a08818.png",
+      "thumb": "thumbs/0697a08818.webp",
+      "label": "v15 · 双外墙-外转角合看-方向效果",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/e7c0a43bd5.png",
+      "thumb": "thumbs/e7c0a43bd5.webp",
+      "label": "v14 · A03-朝外后墙-品牌形象墙",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/01-墙面/A01-后墙内侧正视-平面参考.png",
+      "thumb": "thumbs/e9077513dc.webp",
+      "label": "v13 · A01-后墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/01-墙面/A02-右墙内侧正视-平面参考.png",
+      "thumb": "thumbs/3a4c87cdae.webp",
+      "label": "v13 · A02-右墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/01-墙面/A03-后墙外侧-品牌画面参考.png",
+      "thumb": "thumbs/886037936f.webp",
+      "label": "v13 · A03-后墙外侧-品牌画面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/01-墙面/A04-右墙外侧-品牌画面参考.png",
+      "thumb": "thumbs/ab2663fe2f.webp",
+      "label": "v13 · A04-右墙外侧-品牌画面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B01-中岛正面-正视参考.png",
+      "thumb": "thumbs/d6745dcf74.webp",
+      "label": "v13 · B01-中岛正面-正视参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B02-中岛左侧-正视参考.png",
+      "thumb": "thumbs/57ad575b89.webp",
+      "label": "v13 · B02-中岛左侧-正视参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B03-中岛右侧-素面参考.png",
+      "thumb": "thumbs/baa5369d1d.webp",
+      "label": "v13 · B03-中岛右侧-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B04-中岛背面-素面参考.png",
+      "thumb": "thumbs/145623a730.webp",
+      "label": "v13 · B04-中岛背面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B05-中岛台面-素面参考.png",
+      "thumb": "thumbs/31dde813a4.webp",
+      "label": "v13 · B05-中岛台面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B06-中岛台上介绍牌正面-正视参考.png",
+      "thumb": "thumbs/19b8d2ad37.webp",
+      "label": "v13 · B06-中岛台上介绍牌正面-正视参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B07-中岛介绍牌背面-素面参考.png",
+      "thumb": "thumbs/240cd4c81a.webp",
+      "label": "v13 · B07-中岛介绍牌背面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/03-地柜/C01-后墙地柜正面-正视参考.png",
+      "thumb": "thumbs/df1d183544.webp",
+      "label": "v13 · C01-后墙地柜正面-正视参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/03-地柜/C02-后墙地柜左侧-素面参考.png",
+      "thumb": "thumbs/0548d6da18.webp",
+      "label": "v13 · C02-后墙地柜左侧-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/03-地柜/C03-后墙地柜右侧-素面参考.png",
+      "thumb": "thumbs/d84a44062a.webp",
+      "label": "v13 · C03-后墙地柜右侧-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/03-地柜/C04-后墙地柜背面-素面参考.png",
+      "thumb": "thumbs/5d9128301f.webp",
+      "label": "v13 · C04-后墙地柜背面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/03-地柜/C05-后墙地柜台面-素面参考.png",
+      "thumb": "thumbs/317e5f7179.webp",
+      "label": "v13 · C05-后墙地柜台面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/04-补充素面/D01-地面-素面参考.png",
+      "thumb": "thumbs/48fcc9597c.webp",
+      "label": "v13 · D01-地面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/4eb75f2cc0.png",
+      "thumb": "thumbs/4eb75f2cc0.webp",
+      "label": "v12 · A01-后墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/dcf8b9cb44.png",
+      "thumb": "thumbs/dcf8b9cb44.webp",
+      "label": "v12 · A02-右墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/ae9017fcc6.png",
+      "thumb": "thumbs/ae9017fcc6.webp",
+      "label": "v11 · A01-后墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/3d04385577.png",
+      "thumb": "thumbs/3d04385577.webp",
+      "label": "v11 · A02-右墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/72ed1d67fd.png",
+      "thumb": "thumbs/72ed1d67fd.webp",
+      "label": "v10 · 01-左前方-品牌标识整合",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/3e68a8914c.png",
+      "thumb": "thumbs/3e68a8914c.webp",
+      "label": "v10 · 02-正面-品牌标识整合",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/e651be1f48.png",
+      "thumb": "thumbs/e651be1f48.webp",
+      "label": "v10 · 03-右前方-品牌标识整合",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/a15c38eeaf.png",
+      "thumb": "thumbs/a15c38eeaf.webp",
+      "label": "v10 · 04-俯视-品牌标识整合",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/81999b6adc.png",
+      "thumb": "thumbs/81999b6adc.webp",
+      "label": "v09 · 效果图-v09-上下分区草稿",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/895c5e96f2.png",
+      "thumb": "thumbs/895c5e96f2.webp",
+      "label": "v08 · 效果图-v08-实物相对比例调整稿",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/65ae2de684.png",
+      "thumb": "thumbs/65ae2de684.webp",
+      "label": "v07 · 效果图-v07-ART与痘痘贴分区草稿",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/f1eaa24d91.png",
+      "thumb": "thumbs/f1eaa24d91.webp",
+      "label": "v06 · 效果图-v06-视觉草稿",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/6ac5ba1d02.png",
+      "thumb": "thumbs/6ac5ba1d02.webp",
+      "label": "v05 · dimension-sheet-1",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/85106be1c9.png",
+      "thumb": "thumbs/85106be1c9.webp",
+      "label": "v05 · dimension-sheet-2",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/8ef44a7c7f.png",
+      "thumb": "thumbs/8ef44a7c7f.webp",
+      "label": "v05 · eye",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/401dce00ee.png",
+      "thumb": "thumbs/401dce00ee.webp",
+      "label": "v05 · inside",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/8e10f3cfeb.png",
+      "thumb": "thumbs/8e10f3cfeb.webp",
+      "label": "v05 · iso",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/43efc75904.png",
+      "thumb": "thumbs/43efc75904.webp",
+      "label": "v05 · shelf-dimensions",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/068f02febe.png",
+      "thumb": "thumbs/068f02febe.webp",
+      "label": "v05 · top",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/a95e89f6f6.png",
+      "thumb": "thumbs/a95e89f6f6.webp",
+      "label": "v04 · eye",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/55eab080b3.png",
+      "thumb": "thumbs/55eab080b3.webp",
+      "label": "v04 · inside",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/17a658d762.png",
+      "thumb": "thumbs/17a658d762.webp",
+      "label": "v04 · iso",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/e3c91e74f8.png",
+      "thumb": "thumbs/e3c91e74f8.webp",
+      "label": "v04 · shelf-dimensions",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/53d1569e35.png",
+      "thumb": "thumbs/53d1569e35.webp",
+      "label": "v04 · top",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/019abb5281.png",
+      "thumb": "thumbs/019abb5281.webp",
+      "label": "v03 · eye",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/aab9229f9a.png",
+      "thumb": "thumbs/aab9229f9a.webp",
+      "label": "v03 · inside",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/7b4de73c73.png",
+      "thumb": "thumbs/7b4de73c73.webp",
+      "label": "v03 · iso",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/95aaec6529.png",
+      "thumb": "thumbs/95aaec6529.webp",
+      "label": "v03 · top",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/981210c345.png",
+      "thumb": "thumbs/981210c345.webp",
+      "label": "v02 · 平面布局.svg",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/3231dcc9a2.png",
+      "thumb": "thumbs/3231dcc9a2.webp",
+      "label": "v02 · 纸板展位-联名台-v02",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/c79647a578.png",
+      "thumb": "thumbs/c79647a578.webp",
+      "label": "v01 · 后墙立面.svg",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/47734822fc.png",
+      "thumb": "thumbs/47734822fc.webp",
+      "label": "v01 · 平面布局.svg",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/690f8570cb.png",
+      "thumb": "thumbs/690f8570cb.webp",
+      "label": "v01 · 概念效果图",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    }
+  ],
+  "links": [
+    {
+      "label": "v13 全部分面与交接参考",
+      "href": "documents/booth-3x3-v13/全部面预览.html"
+    },
+    {
+      "label": "历史 v04 · 可旋转 3D（旧高度口径）",
+      "href": "demos/booth-3x3-v04/index.html",
+      "kind": "3d"
+    }
+  ],
+  "milestone": {
+    "title": "v10 确认风格 · v13 重点补齐",
+    "status": "风格已确认 · 补齐参考",
+    "date": "2026.10.27",
+    "summary": "按原设计师交接说明归档：保留 v10 四角度风格，v13 补齐海报、横条和斜向装饰。后续外墙与招牌校核独立列为其他版本。",
+    "approvalNote": "图面与结构生产文件仍需分别核对。",
+    "next": "继续处理外墙、招牌等比例和分面生产原稿；历史三维不替代本阶段确认成果。"
+  }
+}

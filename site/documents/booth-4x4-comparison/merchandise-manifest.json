@@ -1,0 +1,407 @@
+[
+  {
+    "slot": "POP-1-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-001.jpg",
+    "sha256": "248987dcc7a07f0c1f4862a967b536440d4507b99c73b53b85787cf45637f527"
+  },
+  {
+    "slot": "POP-1-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-002.jpg",
+    "sha256": "7120f65af59f633a6e605101f9e26a6bbd1e49bd6dd36a6aab0c522ddc4aae96"
+  },
+  {
+    "slot": "POP-1-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-007.jpg",
+    "sha256": "fdd4389ad867833a5e952ad1d816912cf87bfee5dcf73cea6856d948e04a2582"
+  },
+  {
+    "slot": "POP-1-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-003.jpg",
+    "sha256": "eeb37449c0e3d3a1a071ffa44866250eda43474f523e8425ee65b4324c27a637"
+  },
+  {
+    "slot": "POP-1-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-004.jpg",
+    "sha256": "b6bd8a9550506f6c9a8d4440a7b63e50c3406f3ab07e902ced24392209f7a163"
+  },
+  {
+    "slot": "POP-1-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-005.jpg",
+    "sha256": "8b445a77709acae56874eb41274d298d40d02837be9ee8319fb17bf16b21885d"
+  },
+  {
+    "slot": "POP-2-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-010.jpg",
+    "sha256": "103bcf3ab76e519a34a0879213e0430c2fa031faa87b7b7cc6ca830a8092cd6b"
+  },
+  {
+    "slot": "POP-2-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-006.jpg",
+    "sha256": "dc71137a65a25e5940cc11ed172ded8a8119b19adcb83528f96655bb436e8455"
+  },
+  {
+    "slot": "POP-2-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-012.jpg",
+    "sha256": "fca49be9ae91280460ca34789c6936b6683a79212d2d152edbd2361926d14ccb"
+  },
+  {
+    "slot": "POP-2-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-027.jpg",
+    "sha256": "9220186c1df24daf8d7f115647f255d7214587b52116fea57e86bfc1476007f8"
+  },
+  {
+    "slot": "POP-2-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-008.jpg",
+    "sha256": "6024aaa2ab2667b5403eaf928db6c56440b6fcc5a0bd3a930f83bb21dc725193"
+  },
+  {
+    "slot": "POP-2-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-013.jpg",
+    "sha256": "e41a0d4525ec90947eab1d578baa2d63f6033ce92027713bbee50b5a73affa27"
+  },
+  {
+    "slot": "POP-2-7",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-014.jpg",
+    "sha256": "640eeca6fcd66d464834d6eeb498c60df76b680b6dfdf30a2dbf76a9a06793be"
+  },
+  {
+    "slot": "POP-3-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-015.jpg",
+    "sha256": "779fcc1a31da7bf0d629c6c1086b7933888cc40603787af6cefae6e53f115eff"
+  },
+  {
+    "slot": "POP-3-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-016.jpg",
+    "sha256": "639024e1a419d50c738f2cd4e660fcdd03b6a1ee2fe0c29b9691333b6963c8a1"
+  },
+  {
+    "slot": "POP-3-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-009.jpg",
+    "sha256": "101b70df1d1c5ef674e42292a0fb00ec7ff96f882236a05693be335b6138a104"
+  },
+  {
+    "slot": "POP-3-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-036.jpg",
+    "sha256": "03e8ec0de2eba14f2d8a7d94331b0331a7dda3c793570c15676c852cf6e6be8c"
+  },
+  {
+    "slot": "POP-3-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-038.jpg",
+    "sha256": "e5dfa6b2b36fd0641ba86b4472a2abecaf8e8f668110b2e0aa4b21d34399e48f"
+  },
+  {
+    "slot": "POP-3-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-042.jpg",
+    "sha256": "1313b62dfb06dca97b42932d506a0e88539c72f4f762df3df1ffe2f91b3d2776"
+  },
+  {
+    "slot": "POP-3-7",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-047.jpg",
+    "sha256": "ce73e39b31df29791e92dc060d46aa9970a2f64d322212eb18055fed035bdf68"
+  },
+  {
+    "slot": "POP-4-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-019.jpg",
+    "sha256": "e7e7fa363e68c94e587908893dbccc4773b3a84b155e5418b7d02e188de2f1ee"
+  },
+  {
+    "slot": "POP-4-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-026.jpg",
+    "sha256": "c2c96389d8e27fd454a74d5540b7c2c8dd90cb832803184f14a920adaae80fb9"
+  },
+  {
+    "slot": "POP-4-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-029.jpg",
+    "sha256": "4a0eb1db4a187cda3a5e036b5e7a532fd45d453b8020e7afd5328827a6a24417"
+  },
+  {
+    "slot": "POP-4-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-048.jpg",
+    "sha256": "15c179150f8ff85a9c92f4030dbe48d2d92092662cd3a9cf9ba7c13536b2bf95"
+  },
+  {
+    "slot": "POP-4-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-021.jpg",
+    "sha256": "0cd572b647bff4aa5cae0d57e30a6c3212976fa200e29cf80f42f0aa448108a3"
+  },
+  {
+    "slot": "POP-4-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-022.jpg",
+    "sha256": "27ee2e3b8bc13c5367577b507ebc0a6609b1c808ebf25b7c8bec2ff334f83c27"
+  },
+  {
+    "slot": "POP-4-7",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-023.jpg",
+    "sha256": "5b6419d6fce690c60e6c84c04a885351227ad44784c7968a42d29ad616c0dc40"
+  },
+  {
+    "slot": "POP-5-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-024.jpg",
+    "sha256": "ba7d5c952209b1c46801fe5610eb81db64c83654ba1112991dc39b1ffb1021dc"
+  },
+  {
+    "slot": "POP-5-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-052.jpg",
+    "sha256": "7ca2359331945f627f5550f96d3919e42edafb81ba6489f07073366b9ab365d7"
+  },
+  {
+    "slot": "POP-5-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-030.jpg",
+    "sha256": "857ade2969d3fb3fe79959e04b594a6d1eaed4a5b771cc7b835e89b16fcef23e"
+  },
+  {
+    "slot": "POP-5-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-031.jpg",
+    "sha256": "3c003164a0b1998c12d00407ff9409ca2516569c8fa26fea8549d98e27ca4811"
+  },
+  {
+    "slot": "POP-5-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-032.jpg",
+    "sha256": "6d2567c4cae50fedd6d0c48d9a15d871293b6caa1cc6faf61a0b4fea6014a755"
+  },
+  {
+    "slot": "POP-5-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-POP-033.jpg",
+    "sha256": "88b5a55462468a8df022523e007f4f7c129e0d9859e003fe43eebf737b25288d"
+  },
+  {
+    "slot": "ART-1-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-049.webp",
+    "sha256": "222e54de79e10338b5074beb768d06a4bf1fc2dafecff56205003b356dc191f3"
+  },
+  {
+    "slot": "ART-1-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-053.webp",
+    "sha256": "5472b1a31dc73f3a61b094aed0d2b126e6dfdf461fb8733792c83d11bd8dfa0f"
+  },
+  {
+    "slot": "ART-1-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-054.webp",
+    "sha256": "ac1dec228b8d2b10d1bab80999daffac8ec27373923a4793b48fc8abeccfbb9d"
+  },
+  {
+    "slot": "ART-1-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-055.webp",
+    "sha256": "f54acec8dd7310bcd33e98e4bda75d63994d5145f68d4ba07172bd200b93693d"
+  },
+  {
+    "slot": "ART-1-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-058.webp",
+    "sha256": "345622a15b58a901e8c2e0509442ffd12eb9cbf970c42ad2283f5bd10ea96a0f"
+  },
+  {
+    "slot": "ART-1-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-059.webp",
+    "sha256": "6d23048097247f23ff2a58b3b9c537dfa1afd0ea5e831903782a2d5b8bc198de"
+  },
+  {
+    "slot": "ART-2-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-064.webp",
+    "sha256": "3e2c1733bf4bb3e2053f292614e79c18092e7edd6a67d7bc30c012ac1e8dad1d"
+  },
+  {
+    "slot": "ART-2-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-065.webp",
+    "sha256": "75d190ceb69b650c72017c33060289be9cbfbae66291085ad6c7740b2f81a35d"
+  },
+  {
+    "slot": "ART-2-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-066.webp",
+    "sha256": "492a2151b4bb796cdbc51d438d890d34b45a10d8bda22767608459c14cd5cf7c"
+  },
+  {
+    "slot": "ART-2-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-067.webp",
+    "sha256": "1c91a67b5df57b2ae362a27342c139e14f3d03af78e8e3ea6b7fa3590c6a3342"
+  },
+  {
+    "slot": "ART-2-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-001.webp",
+    "sha256": "a433e24bbd793b786bc9e75cca63d79b24f091671a9cdeeb86bf5c0177e27fb9"
+  },
+  {
+    "slot": "ART-2-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-002.webp",
+    "sha256": "dd273d933a74170461b78cc66022d473e56ae8d435c8c29c741f5873cffa78af"
+  },
+  {
+    "slot": "ART-3-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-003.webp",
+    "sha256": "92631f221960a338d2dadd89c7e7ad47bbea4485a530992708617d3d7bc979af"
+  },
+  {
+    "slot": "ART-3-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-004.webp",
+    "sha256": "566ed26ad60607f38a940243529e99b7aedf18ace19efb81139668d17218820c"
+  },
+  {
+    "slot": "ART-3-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-005.webp",
+    "sha256": "d7776a755aa9b2db901079580960a6fb5aa4bc237ea5315c711a3b786780ba8d"
+  },
+  {
+    "slot": "ART-3-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-006.webp",
+    "sha256": "2a81ebee0453ed401c6b8a02313b3e6c53bd828dff86e38b01859138032e8ff3"
+  },
+  {
+    "slot": "ART-3-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-007.webp",
+    "sha256": "783d3474d6ffa7a2054aa210e865dc5c5856af13c026fdce31ec17c7a3f197e4"
+  },
+  {
+    "slot": "ART-3-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-SE-025.webp",
+    "sha256": "a6b43622d6cd5a638f21e903f93575f22925be994ffea6d5b8d9993e43dde33a"
+  },
+  {
+    "slot": "ART-4-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-SE-026.webp",
+    "sha256": "f7a0acb75827254da85b43dfac2ab7adad2e95545acadd219a9142086724626d"
+  },
+  {
+    "slot": "ART-4-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-123.webp",
+    "sha256": "5475b70c11b445bdcb04ba12c6377f758841f1ced547ac8bbf0d37b8a0e3c716"
+  },
+  {
+    "slot": "ART-4-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-124.webp",
+    "sha256": "fff79d1322c09d3adff01a8379bd548b90d8cda43712af141fd0e4d50b59a52d"
+  },
+  {
+    "slot": "ART-4-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-068.webp",
+    "sha256": "bf6de68c63d0f0fad3457a13c0c251772705372c4cbe07051e4c5af616830d0e"
+  },
+  {
+    "slot": "ART-4-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-111.webp",
+    "sha256": "16992f34dfdcc406b8b0d16085ba097161ab3af0899599097475097b51ace871"
+  },
+  {
+    "slot": "ART-4-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-112.webp",
+    "sha256": "8f2e109e2d14cf3e28e0660e2f729ebfbbc9fff2ac2fd29d1fc5d19f83c81e56"
+  },
+  {
+    "slot": "ART-5-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-113.webp",
+    "sha256": "3f879e2c42514bd4d6970394619740206d00b918eca9d15d78f600688d2ff071"
+  },
+  {
+    "slot": "ART-5-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-114.webp",
+    "sha256": "bdc5f772b0877107b94202c8b9b7a1d974813ac418ae17aa8031c85903b87029"
+  },
+  {
+    "slot": "ART-5-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-089.webp",
+    "sha256": "271513e7d1ea60883c6844aec68d05177d9ed36d9af6177678fa4afbf4b04b9c"
+  },
+  {
+    "slot": "ART-5-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-056.webp",
+    "sha256": "5a9d0489959aac5fce48aecaf5ef402f81023bd12781af4294aec99dd73a77b2"
+  },
+  {
+    "slot": "ART-5-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-025.webp",
+    "sha256": "e661bacd96c7573757e0b1aa4fcc2fc04c07082df24e7df040482c1dc171f043"
+  },
+  {
+    "slot": "ART-5-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-ART-026.webp",
+    "sha256": "a3a25b6d6e90363f52dfcc47699f1108b50af13e9436eb0810a735ccb6417226"
+  },
+  {
+    "slot": "ART-6-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-049.webp",
+    "sha256": "222e54de79e10338b5074beb768d06a4bf1fc2dafecff56205003b356dc191f3"
+  },
+  {
+    "slot": "ART-6-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-053.webp",
+    "sha256": "5472b1a31dc73f3a61b094aed0d2b126e6dfdf461fb8733792c83d11bd8dfa0f"
+  },
+  {
+    "slot": "ART-6-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-054.webp",
+    "sha256": "ac1dec228b8d2b10d1bab80999daffac8ec27373923a4793b48fc8abeccfbb9d"
+  },
+  {
+    "slot": "ART-6-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-055.webp",
+    "sha256": "f54acec8dd7310bcd33e98e4bda75d63994d5145f68d4ba07172bd200b93693d"
+  },
+  {
+    "slot": "ART-6-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-058.webp",
+    "sha256": "345622a15b58a901e8c2e0509442ffd12eb9cbf970c42ad2283f5bd10ea96a0f"
+  },
+  {
+    "slot": "ART-6-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-059.webp",
+    "sha256": "6d23048097247f23ff2a58b3b9c537dfa1afd0ea5e831903782a2d5b8bc198de"
+  },
+  {
+    "slot": "ART-7-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-064.webp",
+    "sha256": "3e2c1733bf4bb3e2053f292614e79c18092e7edd6a67d7bc30c012ac1e8dad1d"
+  },
+  {
+    "slot": "ART-7-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-065.webp",
+    "sha256": "75d190ceb69b650c72017c33060289be9cbfbae66291085ad6c7740b2f81a35d"
+  },
+  {
+    "slot": "ART-7-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-066.webp",
+    "sha256": "492a2151b4bb796cdbc51d438d890d34b45a10d8bda22767608459c14cd5cf7c"
+  },
+  {
+    "slot": "ART-7-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-067.webp",
+    "sha256": "1c91a67b5df57b2ae362a27342c139e14f3d03af78e8e3ea6b7fa3590c6a3342"
+  },
+  {
+    "slot": "ART-7-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-001.webp",
+    "sha256": "a433e24bbd793b786bc9e75cca63d79b24f091671a9cdeeb86bf5c0177e27fb9"
+  },
+  {
+    "slot": "ART-7-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-002.webp",
+    "sha256": "dd273d933a74170461b78cc66022d473e56ae8d435c8c29c741f5873cffa78af"
+  },
+  {
+    "slot": "ART-8-1",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-003.webp",
+    "sha256": "92631f221960a338d2dadd89c7e7ad47bbea4485a530992708617d3d7bc979af"
+  },
+  {
+    "slot": "ART-8-2",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-004.webp",
+    "sha256": "566ed26ad60607f38a940243529e99b7aedf18ace19efb81139668d17218820c"
+  },
+  {
+    "slot": "ART-8-3",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-005.webp",
+    "sha256": "d7776a755aa9b2db901079580960a6fb5aa4bc237ea5315c711a3b786780ba8d"
+  },
+  {
+    "slot": "ART-8-4",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-006.webp",
+    "sha256": "2a81ebee0453ed401c6b8a02313b3e6c53bd828dff86e38b01859138032e8ff3"
+  },
+  {
+    "slot": "ART-8-5",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-OD-007.webp",
+    "sha256": "783d3474d6ffa7a2054aa210e865dc5c5856af13c026fdce31ec17c7a3f197e4"
+  },
+  {
+    "slot": "ART-8-6",
+    "source": "web/public/versions/ver.sep27-8/product-assets/SLL-SE-025.webp",
+    "sha256": "a6b43622d6cd5a638f21e903f93575f22925be994ffea6d5b8d9993e43dde33a"
+  }
+]

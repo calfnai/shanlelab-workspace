@@ -1,0 +1,59 @@
+{
+  "id": "booth-4x4",
+  "title": "4×4 展位 · 凡几归属待核对",
+  "en": "07 / BOOTH COMPARISON",
+  "description": "已找到的 3×3／4×4 玩法对比稿、写实图和平面。",
+  "conversation": "fa4897db",
+  "conversationName": "SHANLE LAB 3×3与4×4展位对比",
+  "note": "已将找到的 4×4 成果单独收录；原目录和交接尚未标注“凡几”，与本次提到的凡几项目是否同一条线仍待核对。4×2 已否决，不混入本项目。v02 写实图仍有灯数、商品排数与招牌比例问题，不能视为最终确认。",
+  "items": [
+    {
+      "file": "documents/booth-4x4-comparison/render-4x4-v02-light-review.png",
+      "thumb": "thumbs/662097b34e.webp",
+      "label": "4×4 · v02 灯具校核稿",
+      "status": "当前比较提案",
+      "note": "4×4 场地、双开口及 2.2m 墙高为原比较稿的待核实假设；不是供应商定稿。"
+    },
+    {
+      "file": "documents/booth-4x4-comparison/plan-4x4.png",
+      "thumb": "thumbs/8f01fd459f.webp",
+      "label": "4×4 · 同尺度平面",
+      "status": "平面提案",
+      "note": "4×4 场地、双开口及 2.2m 墙高为原比较稿的待核实假设；不是供应商定稿。"
+    },
+    {
+      "file": "media/04750c619d.png",
+      "thumb": "thumbs/04750c619d.webp",
+      "label": "4×4 · v01 初稿",
+      "status": "其他版本",
+      "note": "4×4 场地、双开口及 2.2m 墙高为原比较稿的待核实假设；不是供应商定稿。"
+    },
+    {
+      "file": "documents/booth-4x4-comparison/render-3x3-v01.png",
+      "thumb": "thumbs/c2da99d6de.webp",
+      "label": "3×3 · 同组比较图",
+      "status": "对比参考",
+      "note": "4×4 场地、双开口及 2.2m 墙高为原比较稿的待核实假设；不是供应商定稿。"
+    },
+    {
+      "file": "documents/booth-4x4-comparison/plans-comparison.png",
+      "thumb": "thumbs/a3190d312d.webp",
+      "label": "3×3／4×4 · 同尺度平面对照",
+      "status": "比较提案",
+      "note": "4×4 场地、双开口及 2.2m 墙高为原比较稿的待核实假设；不是供应商定稿。"
+    },
+    {
+      "file": "documents/booth-4x4-comparison/merchandise-check.png",
+      "thumb": "thumbs/78f2d792ae.webp",
+      "label": "真实商品陈列数量核对",
+      "status": "图稿核对",
+      "note": "4×4 场地、双开口及 2.2m 墙高为原比较稿的待核实假设；不是供应商定稿。"
+    }
+  ],
+  "links": [
+    {
+      "label": "完整 3×3／4×4 比较评审",
+      "href": "documents/booth-4x4-comparison/index.html"
+    }
+  ]
+}

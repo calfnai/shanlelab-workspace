@@ -4,7 +4,7 @@
 
 ## 每个项目独立更新
 
-`projects/<稳定id>.json` 是成果清单的权威来源。`site/data.js` 只由构建命令生成，不直接编辑。现有 id：mlbb-retail、mlbb-gift、mlbb-booth、niko、pouch；可以继续新增 SHANLE 项目。
+`projects/<稳定id>.json` 是成果清单的权威来源。`site/data.js` 只由构建命令生成，不直接编辑。现有 id：mlbb-retail、mlbb-gift、mlbb-booth、niko、pouch、booth-3x3、booth-4x4；可以继续新增 SHANLE 项目。
 
 ```sh
 python3 /Users/ziqing/Documents/codexprojects/recent-workspace/workspace.py list
@@ -36,3 +36,5 @@ python3 serve.py status
 ## 在新对话调用
 
 使用 `shanle-workspace` 技能，或把本文件绝对路径交给该对话。现有运行中对话不会自动重新载入新增技能，也不会自动收集新成果；用户要求“把这次成果同步到 SHANLE 共享工作区”时再执行更新。
+
+网页对话地址已统一内置为现有 Tailscale WebUI `http://100.114.160.99:25808/`；不要恢复手填地址弹窗或唤起本机应用的协议。目标访问者须连接同一 Tailscale 并登录，不能将根页面 HTTP 200 当作登录后目标对话已验证。
