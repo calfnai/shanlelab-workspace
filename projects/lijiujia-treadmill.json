@@ -2,59 +2,101 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "凌序四状态、灵伴三步折叠，以及辅助竖放“小墩墩”脚座；从最新图稿接着推进。",
+  "description": "依据11月7日新模型截图制作室内放置渲染与折叠条件推演；保留上一轮状态图及辅助竖放脚座入口。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "当前为概念稿阶段。v03 已出图、尚待用户评审；未确认选案，未向厂商发送。原项目仍由 LIjiujia 独立维护，本页作为跨项目共用入口。",
-  "currentFocus": "先评审 v03 对同事设计的承接与四状态表达，再收敛脚座的轮廓、接地和安装关系。全域跑台、下置电机为明确要求，不能退回 v02 的上凸机头。",
+  "note": "当前为概念稿阶段。v04两张室内图与折叠分析已生成、待评审，未选定、未向厂商发送。上部拨杆和真实轴系尚待确认，不能将分析假设当成已有结构。",
+  "currentFocus": "评审新模型的居家材质与外形承接；确认上部拨杆、真实上下轴心和折平包络。全域跑台与下置电机持续有效。",
   "items": [
+    {
+      "file": "documents/treadmill/v04-20261107/interior-living.png",
+      "thumb": "documents/treadmill/v04-20261107/interior-living.webp",
+      "label": "v04 / 新结构 · 室内三分之四视角",
+      "status": "最新生成 · 待评审",
+      "note": "依据新收到的模型截图；保留宽扁立柱、连续肩部、方形尾端及下置机头。室内与CMF为本次提议。"
+    },
+    {
+      "file": "documents/treadmill/v04-20261107/interior-side.png",
+      "thumb": "documents/treadmill/v04-20261107/interior-side.webp",
+      "label": "v04 / 新结构 · 室内近侧面",
+      "status": "最新生成 · 待评审",
+      "note": "同一居家风格中观察新模型轮廓；生成图不能测量尺寸或净距。"
+    },
+    {
+      "file": "documents/treadmill/v04-20261107/fold-study.svg",
+      "thumb": "documents/treadmill/v04-20261107/fold-study.webp",
+      "label": "v04 / 新结构 · 折叠条件推演",
+      "status": "分析图 · 轴系待确认",
+      "note": "比较仅转下轴的刚性假设与上部可翻转时的路径；不是现有CAD的已验证折叠动作。"
+    },
+    {
+      "file": "documents/treadmill/v04-20261107/overall.jpg",
+      "thumb": "documents/treadmill/v04-20261107/overall.webp",
+      "label": "2026-11-07 / 新收到的整机模型",
+      "status": "设计来源",
+      "note": "用户提供的整机截图，本轮造型依据。"
+    },
+    {
+      "file": "documents/treadmill/v04-20261107/side.jpg",
+      "thumb": "documents/treadmill/v04-20261107/side.webp",
+      "label": "2026-11-07 / 新收到的侧面模型",
+      "status": "设计来源",
+      "note": "上部拨杆及转轴功能仍需确认；不把旧版上轴提议当成此图已有结构。"
+    },
+    {
+      "file": "documents/treadmill/v04-20261107/underside.jpg",
+      "thumb": "documents/treadmill/v04-20261107/underside.webp",
+      "label": "2026-11-07 / 新收到的机底结构",
+      "status": "设计来源",
+      "note": "辅助理解下置体量；截图不等于已取得新装配模型。"
+    },
     {
       "file": "documents/treadmill/linear-open.png",
       "thumb": "documents/treadmill/linear-open.webp",
       "label": "v03 / 凌序 · 平放使用",
-      "status": "最新生成 · 待评审",
+      "status": "上一轮生成 · 待评审",
       "note": "全域跑台、下置电机。 生成式概念图，跨姿态局部几何尚未统一。"
     },
     {
       "file": "documents/treadmill/linear-incline.png",
       "thumb": "documents/treadmill/linear-incline.webp",
       "label": "v03 / 凌序 · 爬坡",
-      "status": "最新生成 · 待评审",
+      "status": "上一轮生成 · 待评审",
       "note": "15°为目标，不能用生成图测量角度。 生成式概念图，跨姿态局部几何尚未统一。"
     },
     {
       "file": "documents/treadmill/linear-flat.png",
       "thumb": "documents/treadmill/linear-flat.webp",
       "label": "v03 / 凌序 · 折平",
-      "status": "最新生成 · 待评审",
+      "status": "上一轮生成 · 待评审",
       "note": "扶手与面板先翻转，立柱落下。 生成式概念图，跨姿态局部几何尚未统一。"
     },
     {
       "file": "documents/treadmill/linear-upright.png",
       "thumb": "documents/treadmill/linear-upright.webp",
       "label": "v03 / 凌序 · 竖放",
-      "status": "最新生成 · 待评审",
+      "status": "上一轮生成 · 待评审",
       "note": "跑面朝墙、机底朝房间，轮脚分工。 生成式概念图，跨姿态局部几何尚未统一。"
     },
     {
       "file": "documents/treadmill/lynmate-open.png",
       "thumb": "documents/treadmill/lynmate-open.webp",
       "label": "v03 / 灵伴 · 展开",
-      "status": "最新生成 · 待评审",
+      "status": "上一轮生成 · 待评审",
       "note": "保留大C轮廓，固定下梁与活动立柱分开。 生成式概念图，跨姿态局部几何尚未统一。"
     },
     {
       "file": "documents/treadmill/lynmate-half.png",
       "thumb": "documents/treadmill/lynmate-half.webp",
       "label": "v03 / 灵伴 · 半折",
-      "status": "最新生成 · 待评审",
+      "status": "上一轮生成 · 待评审",
       "note": "上轴翻转让位，下轴带动立柱收下。 生成式概念图，跨姿态局部几何尚未统一。"
     },
     {
       "file": "documents/treadmill/lynmate-flat.png",
       "thumb": "documents/treadmill/lynmate-flat.webp",
       "label": "v03 / 灵伴 · 折平",
-      "status": "最新生成 · 待评审",
+      "status": "上一轮生成 · 待评审",
       "note": "固定下梁不动，上下两层构件收纳。 生成式概念图，跨姿态局部几何尚未统一。"
     },
     {
@@ -88,9 +130,14 @@
   ],
   "links": [
     {
-      "label": "当前 v03 图稿与折叠演示",
+      "label": "当前 v04 · 室内渲染与折叠推演",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/",
       "kind": "review"
+    },
+    {
+      "label": "上一轮 v03 · 四状态与灵伴折叠",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/v03.html",
+      "kind": "history"
     },
     {
       "label": "小墩墩 · 脚座 3D 动作模型",
@@ -113,33 +160,39 @@
       "kind": "history"
     }
   ],
-  "galleryLabel": "当前图稿、同事原稿与网站截图",
+  "galleryLabel": "新结构室内渲染、折叠分析、原图与历史版本",
   "milestone": {
-    "title": "v03：凌序四状态＋灵伴三步折叠",
-    "date": "2026-11-04",
-    "status": "已出稿 · 待评审",
-    "summary": "已有 7 张状态概念图与可拖动的二维侧视动作示意。凌序包含使用、爬坡、折平和竖放；灵伴包含展开、半折、折平。",
-    "approvalNote": "尚未选定；不同姿态并非同一精确 CAD 模型渲染。",
-    "next": "接续：先看当前评审页，再看下方决定、待办与同事原稿。"
+    "title": "v04：新结构进入居家场景",
+    "date": "2026-11-07",
+    "status": "已出图与分析 · 待评审",
+    "summary": "两张室内概念图直接依据新收到的整机、侧面及机底截图；四格侧视图解释刚性上部的折叠限制与条件路径。",
+    "approvalNote": "未选定。图片为生成式表达；上部自由度与折叠机构未由CAD验证。",
+    "next": "接续：核对上部拨杆控制的锁止、真实轴心与收折包络。"
   },
   "progress": {
-    "updated": "2026-11-06",
-    "summary": "最新设计进展为 11 月 4 日 v03；11 月 6 日补入共用工作区并核对线上页面。两款已有状态表达；一键折叠、上部翻转轴仍需深化。脚座已有局部动作模型和历史研究，尺寸与稳定性未定。",
+    "updated": "2026-11-07",
+    "summary": "已接收3张新模型截图，完成v04两张居家渲染及折叠条件推演。按截图近似比例，若上部刚性连接，仅转下轴的压平终态会有扶手下探问题；上部能否翻转仍需核对。v03保留历史，脚座模型继续独立维护。",
     "next": [
       {
-        "title": "评审最新整机图稿",
-        "detail": "逐项对照同事凌序、灵伴原稿，确认外观与机构关系是否承接；记录选定及需改部位。目前没有找到 v03 已获用户选定的依据。"
+        "title": "核对新模型上下轴系与拨杆功能",
+        "detail": "优先确认肩部是否可翻转、下轴位置、联动与限位。若上部刚性，需要结构修改才能继续解决折平；截图不能确认。"
+      },
+      {
+        "title": "评审两张室内图",
+        "detail": "核对宽扁立柱、连续肩部、方形尾端和下置机头的承接；室内材质及界面是本次视觉提议，未锁定。"
       },
       {
         "title": "继续推进辅助竖放脚座",
         "detail": "固定主梁端座优先，180°旋转脚座为独立候选。需比较轮廓、长短尺寸、接地范围、墙距与转轴避让；研究页的 13 个编号不是 13 个现行候选。"
-      },
-      {
-        "title": "把状态概念收敛为一致的结构表达",
-        "detail": "现有连续示意仅为二维假设；上部翻转轴属本轮新提议。锁止、防夹、走线、三维干涉、承重和竖放稳定性仍未验证。"
       }
     ],
     "decisions": [
+      {
+        "title": "以新收到的三张结构图继续",
+        "quote": "生成能够显示匹配这种风格的室内放置着跑步机的渲染图，然后尝试根据这个结构来看一下，他应该是怎么样折叠起来的",
+        "detail": "使用新模型作为造型依据，折叠结论区分图中可见特征和条件假设，不沿用旧v03上轴为既有事实。",
+        "conversation": "5669f0c6"
+      },
       {
         "title": "全域跑台不能被草图继承覆盖",
         "quote": "怎么就无视了我说过一万遍的全域跑台呢？",
@@ -174,6 +227,10 @@
       }
     ],
     "history": [
+      {
+        "title": "v03七张状态图保留为上一轮",
+        "detail": "2026-11-04的凌序四状态、灵伴三步和二维动作示意仍可查看，但不是11月7日新结构的已验证折叠。"
+      },
       {
         "title": "同事设计来源已接回",
         "detail": "7页同事稿与191页原汇报联合理解；灵伴大C、凌序旗舰感、蝶悦圆管家族感各有设计意图。原件仍在原项目。"
