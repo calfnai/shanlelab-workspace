@@ -363,14 +363,14 @@
       "file": "documents/popsticker-handbook/complete-v01/cover.png",
       "thumb": "documents/popsticker-handbook/complete-v01/cover.webp",
       "label": "PopSticker 完整产品手册 v01 · 54页",
-      "status": "已生成并检查 · 待用户审阅",
+      "status": "历史v01 · 已被v02修订",
       "note": "整本PDF在资源入口；19系列68款，含纵向选款／定制附件。"
     },
     {
       "file": "documents/popsticker-handbook/complete-v01/PopSticker-19-Series-KV-Overview.jpg",
       "thumb": "documents/popsticker-handbook/complete-v01/PopSticker-19-Series-KV-Overview.webp",
       "label": "PopSticker 19系列 KV 总览",
-      "status": "已编入完整手册 · 待用户审阅",
+      "status": "历史v01 · 已被v02修订",
       "note": "复用v08与原始详情素材；两张新KV产品区换回真实图并依标准轮廓编排。"
     },
     {
@@ -393,6 +393,20 @@
       "label": "Hasbro 销售区域紧邻标题",
       "status": "两平台已上线 · 待用户查看",
       "note": "2026-11-07 线上截图；桌面和手机交互检查通过。"
+    },
+    {
+      "file": "documents/popsticker-handbook/complete-v02/Revision-v02-Preview.jpg",
+      "thumb": "documents/popsticker-handbook/complete-v02/Revision-v02-Preview.webp",
+      "label": "PopSticker 产品手册v02 · 修正预览",
+      "status": "已生成并检查 · 待用户审阅",
+      "note": "57页完整版；清理叠盖标志，保留创意与真实产品，补完整口号和网站包装图解。"
+    },
+    {
+      "file": "documents/popsticker-handbook/complete-v02/packaging-front-back.png",
+      "thumb": "documents/popsticker-handbook/complete-v02/packaging-front-back.webp",
+      "label": "网站正反面包装图解已融入手册",
+      "status": "已编入v02 · 待用户审阅",
+      "note": "包装侧视、同一张背卡双面印刷及开封说明来自用户指定定制页。"
     }
   ],
   "links": [
@@ -948,17 +962,34 @@
         "body": "定制入口改为 ArtSticker 1,000 / 三材质、PopSticker 5,000 / 单一 PU 的对比；共用流程前置，包装进入独立指南。Pimple 默认 US/EU，中文款按钮切换；授权区域紧邻品牌，八站统一 favicon。",
         "source": "https://shanle-lab-overseas.pages.dev/customization/",
         "status": "已部署并检查 · 待用户查看"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "修复手册盖标与拼接，补完整口号和网站图解",
+        "body": "v02扩展至57页。清理KV中覆盖标题的品牌色条与液体喵底部残缺标志，玩乐态度等重做连续背景并保留真实产品。补齐STICK ON FASHION! STICK WITH PASSION!及STICKER, NOW IN LEATHER!。直接融入当前定制页的包装侧视、正反面、开封、流程和订单信息；MOQ同步网页现行5000件/款。19系列68款仍齐全，待用户审阅。",
+        "source": "documents/popsticker-handbook/complete-v02/PopSticker-Complete-Product-Handbook-v02.pdf",
+        "status": "修订稿已生成并检查 · 待用户审阅"
       }
     ],
     "resources": [
       {
+        "title": "PopSticker 完整产品手册 v02 · 57页",
+        "detail": "修复盖标及拼接，补齐两组完整口号和当前网站图解；19系列68款。",
+        "href": "documents/popsticker-handbook/complete-v02/PopSticker-Complete-Product-Handbook-v02.pdf"
+      },
+      {
+        "title": "手册v02重点修正预览",
+        "detail": "封面完整口号、网站包装图解及重点KV。",
+        "href": "documents/popsticker-handbook/complete-v02/Revision-v02-Preview.jpg"
+      },
+      {
         "title": "PopSticker 完整产品手册 v01 · 54页",
-        "detail": "19系列／68款；横向主体＋纵向选款与定制附件。约16.1MB，已生成并检查，待用户审阅。",
+        "detail": "历史v01，含本轮已指出的盖标、拼接与旧口径问题；请查看v02。",
         "href": "documents/popsticker-handbook/complete-v01/PopSticker-Complete-Product-Handbook-v01.pdf"
       },
       {
         "title": "19个系列KV总览",
-        "detail": "19张已纳入手册的系列KV；独立高清图保存在原项目。",
+        "detail": "历史v01，含本轮已指出的盖标、拼接与旧口径问题；请查看v02。",
         "href": "documents/popsticker-handbook/complete-v01/PopSticker-19-Series-KV-Overview.jpg"
       },
       {
