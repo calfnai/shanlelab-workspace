@@ -1,0 +1,30 @@
+{
+  "pop": {
+    "categories": 20,
+    "total": 68,
+    "heroEntryPoints": 3,
+    "selectedPreserved": true
+  },
+  "art": {
+    "categories": 6,
+    "total": 171,
+    "licensedSectionsPreserved": true
+  },
+  "lifestyle": {
+    "total": 11,
+    "categories": 6
+  },
+  "pimple-asia": {
+    "total": 4,
+    "categories": 3
+  },
+  "pimple-us-eu": {
+    "total": 4,
+    "categories": 3
+  },
+  "stress-relief": {
+    "total": 3,
+    "categories": 2
+  },
+  "errors": []
+}

@@ -7,7 +7,7 @@
   "conversation": "2ec10d3f",
   "conversationName": "SHANLE及SHANLE LAB产品列表与使用说明",
   "note": "这是持续维护项目，不以一次发布或一张图解标记完成。下方区分本轮线上可见、历史交付与尚待复核事项，所有截图和资源核对均注明日期。",
-  "currentFocus": "统一导航与 ArtSticker 授权商品末尾分区已上线，待用户复核；ArtSticker 材质分类口径仍待核准。",
+  "currentFocus": "分类优先展示已上线并验证，等待用户复核；ArtSticker 材质分类口径仍待核准。",
   "items": [
     {
       "file": "documents/overseas-progress/screens/lab-hub-desktop.png",
@@ -218,6 +218,27 @@
       "label": "Lifestyle · 统一 Header",
       "status": "已上线验证 · 待用户复核",
       "note": "普通款152款在前，Disney15款、Hasbro小马宝莉4款分区在后；销售地区放各区标题下。统一 Back to Hub 导航。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-priority-20261107/live-pop-priority.png",
+      "thumb": "documents/overseas-progress/catalog-priority-20261107/pop-priority.webp",
+      "label": "PopSticker · 分类优先展示全部68款",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "分类改为 Show first，单选稳定排序，全部商品保留；切换分类清除关键词搜索。关键词搜索本身仍可找具体商品。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-priority-20261107/live-pop-mobile.png",
+      "thumb": "documents/overseas-progress/catalog-priority-20261107/pop-mobile.webp",
+      "label": "PopSticker 优先展示 · 手机",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "分类改为 Show first，单选稳定排序，全部商品保留；切换分类清除关键词搜索。关键词搜索本身仍可找具体商品。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-priority-20261107/live-art-priority.png",
+      "thumb": "documents/overseas-progress/catalog-priority-20261107/art-priority.webp",
+      "label": "ArtSticker · 材质优先与授权分区",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "分类改为 Show first，单选稳定排序，全部商品保留；切换分类清除关键词搜索。关键词搜索本身仍可找具体商品。"
     }
   ],
   "links": [
@@ -232,7 +253,7 @@
   ],
   "workbench": {
     "checkedAt": "2026-11-07T14:29+08:00",
-    "summary": "各目录与资源页 Header 统一，明确 Back to Hub；ArtSticker 普通款在前，Disney 与 Hasbro 在末尾独立分区，地区限制直接归属各区。",
+    "summary": "分类按钮统一为 Show first：所选类型排前，全部商品继续显示。PopSticker 68款、ArtSticker 171款；Disney与Hasbro仍位于末尾独立分区。",
     "sites": [
       {
         "key": "lab-hub",
@@ -256,19 +277,19 @@
         "key": "popsticker",
         "title": "PopSticker 在线选款",
         "url": "https://shanle-lab-popsticker.vercel.app/",
-        "status": "2026-11-07 混款纠错已上线",
+        "status": "2026-11-07 Show first 已上线",
         "summary": "68 款；50 款新白底图。31 款有经核对的纯单款场景／近景；19 款仅白底图，其余 18 款沿用旧图。不再使用系列总览或混款背景。",
-        "image": 13,
-        "detail": "针对全部 50 款图片清单完成视觉核对；线上脚本确认映射与审阅清单一致。City Signal 和 Eyes Ears Mouth 两个用户指出的案例已专项验证。搜索、切图、选款、分享与 CSV 回归通过。 本轮 Header 已统一，固定提供 Back to Hub。"
+        "image": 30,
+        "detail": "20个分类选项与3个场景入口逐一点击：始终显示68款，优先组顺序正确，已选商品保留；新图片映射沿用逐SKU审查结果。"
       },
       {
         "key": "artsticker",
         "title": "ArtSticker 在线选款",
         "url": "https://shanle-lab-artsticker-online-list.vercel.app/",
-        "status": "2026-11-07 分区纠正已上线",
+        "status": "2026-11-07 Show first 已上线",
         "summary": "普通系列152款、Disney15款、Hasbro小马宝莉4款，两个授权系列独立放在末尾并列明地区。",
-        "image": 24,
-        "detail": "Header 统一 Back to Hub；开头地区提示已移除。线上检查分组无重复或遗漏，搜索、选款、列表切换与手机版通过。"
+        "image": 32,
+        "detail": "6个材质选项逐一点击：始终显示171款，各分区内匹配类型优先，普通／Disney／Hasbro边界保持。"
       },
       {
         "key": "downloads",
@@ -295,7 +316,7 @@
         "status": "本轮线上可见",
         "summary": "线上显示 11 款，可见货号、报价、MOQ、产品详情与 Select 入口。",
         "image": 6,
-        "detail": "截图为本次实际部署页面的视口记录。 本轮 Header 已统一，固定提供 Back to Hub。"
+        "detail": "截图为本次实际部署页面的视口记录。 本轮 Header 已统一，固定提供 Back to Hub。 分类控件已统一为优先展示，点击不再缩减商品总数。"
       },
       {
         "key": "pimple-asia",
@@ -304,7 +325,7 @@
         "status": "本轮线上可见",
         "summary": "亚洲版线上显示 4 款，有 US／EU 版入口；欧美版不在本轮截图核对范围内。",
         "image": 7,
-        "detail": "截图为本次实际部署页面的视口记录。 本轮 Header 已统一，固定提供 Back to Hub。"
+        "detail": "截图为本次实际部署页面的视口记录。 本轮 Header 已统一，固定提供 Back to Hub。 分类控件已统一为优先展示，点击不再缩减商品总数。"
       },
       {
         "key": "stress-relief",
@@ -313,7 +334,7 @@
         "status": "本轮线上可见",
         "summary": "线上显示 3 款解压贴纸，可见批发／零售参考价与 MOQ。",
         "image": 8,
-        "detail": "截图为本次实际部署页面的视口记录。 本轮 Header 已统一，固定提供 Back to Hub。"
+        "detail": "截图为本次实际部署页面的视口记录。 本轮 Header 已统一，固定提供 Back to Hub。 分类控件已统一为优先展示，点击不再缩减商品总数。"
       },
       {
         "key": "pop-customization",
@@ -524,6 +545,13 @@
         "title": "统一 Header，并将 Disney / Hasbro 商品移至末尾分区",
         "body": "根据用户纠正撤掉开头地区提示。普通152款先展示，Disney15款与Hasbro4款独立置后，地区说明放各区标题下。9个页面验证 Back to Hub、手机布局及 ArtSticker 搜索选款通过。",
         "source": "https://shanle-lab-artsticker-online-list.vercel.app/",
+        "status": "已上线验证 · 待用户复核"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "分类筛选改为优先展示，统一按钮操作",
+        "body": "根据用户要求，分类只调整先后顺序，不隐藏其他商品。PopSticker场景入口同规则；关键词搜索独立保留，分类点击会清空旧搜索。六个目录页面在线遍历分类验证，产品数量和顺序正确，手机无横向溢出。",
+        "source": "https://shanle-lab-popsticker.vercel.app/",
         "status": "已上线验证 · 待用户复核"
       }
     ],
