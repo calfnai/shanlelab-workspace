@@ -1,0 +1,200 @@
+[
+  {
+    "host": "shanle-lab-overseas.vercel.app",
+    "width": 1440,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 210,
+        "h": 210,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 210,
+        "h": 210,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 210,
+        "h": 210,
+        "nw": 800,
+        "nh": 800
+      }
+    ]
+  },
+  {
+    "host": "shanle-lab-overseas.vercel.app",
+    "width": 390,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 140,
+        "h": 140,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 140,
+        "h": 140,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 140,
+        "h": 140,
+        "nw": 800,
+        "nh": 800
+      }
+    ]
+  },
+  {
+    "host": "shanle-lab-navigation-indonesia.vercel.app",
+    "width": 1440,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 210,
+        "h": 210,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 210,
+        "h": 210,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 210,
+        "h": 210,
+        "nw": 800,
+        "nh": 800
+      }
+    ]
+  },
+  {
+    "host": "shanle-lab-navigation-indonesia.vercel.app",
+    "width": 390,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 140,
+        "h": 140,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 140,
+        "h": 140,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 140,
+        "h": 140,
+        "nw": 800,
+        "nh": 800
+      }
+    ]
+  },
+  {
+    "host": "shanle-lab-overseas.pages.dev",
+    "width": 1440,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 210,
+        "h": 210,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 210,
+        "h": 210,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 210,
+        "h": 210,
+        "nw": 800,
+        "nh": 800
+      }
+    ]
+  },
+  {
+    "host": "shanle-lab-overseas.pages.dev",
+    "width": 390,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 140,
+        "h": 140,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 140,
+        "h": 140,
+        "nw": 800,
+        "nh": 800
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036-original.webp",
+        "clip": "none",
+        "fit": "contain",
+        "w": 140,
+        "h": 140,
+        "nw": 800,
+        "nh": 800
+      }
+    ]
+  }
+]
