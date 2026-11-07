@@ -2,24 +2,38 @@
   "id": "booth-3x3",
   "title": "SHANLE 普通 3×3 展位",
   "en": "06 / STANDARD BOOTH",
-  "description": "活动版／无活动版并行；无活动版v02将取消PIMPLE后的空区改成贴饰包袋应用展示，新增桃红色椭圆包。",
+  "description": "活动版与无活动版并行；无活动版v03按11项Lifestyle表补齐全系列，PIMPLE取消。",
   "conversation": "7bb0a45f",
   "conversationName": "3x3双开，2.2米高的长期展位设计",
-  "note": "活动版保持独立。2026-11-07用户指定原空区展示衣服搭配贴饰包的用法，并补上桃红色椭圆包；v02整体与右墙正面图已生成待评审，同事原稿与v01留档。Nowre自搭和实际场地尺寸仍待确认。",
+  "note": "用户指出v02过空，并要求使用已有产品表。已核对当前Lifestyle表11条及实物照片，补齐全系列整体与右墙正面图；v03待评审。活动版、同事原稿及历史v01/v02均保留。",
   "items": [
+    {
+      "file": "documents/nowre-nonactivity-v03/overall.png",
+      "thumb": "documents/nowre-nonactivity-v03/overall.webp",
+      "label": "无活动版v03 · Lifestyle全系列整体",
+      "status": "新生成 · 待评审",
+      "note": "按最新Lifestyle表11条及真实产品照片展开：包袋、PU与牛仔护照夹、5色磁吸卡套、6色挂绳卡套、黄色笔记本。保留穿搭示范与桃红包，补齐右区。图像级核对11类可见，仍非实尺寸或生产文件。"
+    },
+    {
+      "file": "documents/nowre-nonactivity-v03/right-wall.png",
+      "thumb": "documents/nowre-nonactivity-v03/right-wall.webp",
+      "label": "无活动版v03 · ART＋Lifestyle全系列正面",
+      "status": "新生成 · 待评审",
+      "note": "按最新Lifestyle表11条及真实产品照片展开：包袋、PU与牛仔护照夹、5色磁吸卡套、6色挂绳卡套、黄色笔记本。保留穿搭示范与桃红包，补齐右区。图像级核对11类可见，仍非实尺寸或生产文件。"
+    },
     {
       "file": "documents/nowre-nonactivity-v02/overall.png",
       "thumb": "documents/nowre-nonactivity-v02/overall.webp",
       "label": "无活动版v02 · 包袋应用整体效果",
-      "status": "新生成 · 待评审",
-      "note": "2026-11-07按用户实拍补齐原PIMPLE位置：挂衣＋棕色贴饰小包，独立展示桃红色椭圆包。包袋为贴饰日常应用示范；生成图非精确尺寸、商品图案或安装承重证明。"
+      "status": "历史对照 · 用户指出过空",
+      "note": "2026-11-07按用户实拍补齐原PIMPLE位置：挂衣＋棕色贴饰小包，独立展示桃红色椭圆包。包袋为贴饰日常应用示范；生成图非精确尺寸、商品图案或安装承重证明。 用户随后要求按完整Lifestyle产品表展开，现由v03继续修订。"
     },
     {
       "file": "documents/nowre-nonactivity-v02/right-wall.png",
       "thumb": "documents/nowre-nonactivity-v02/right-wall.webp",
       "label": "无活动版v02 · ART与包袋应用正面",
-      "status": "新生成 · 待评审",
-      "note": "2026-11-07按用户实拍补齐原PIMPLE位置：挂衣＋棕色贴饰小包，独立展示桃红色椭圆包。包袋为贴饰日常应用示范；生成图非精确尺寸、商品图案或安装承重证明。"
+      "status": "历史对照 · 用户指出过空",
+      "note": "2026-11-07按用户实拍补齐原PIMPLE位置：挂衣＋棕色贴饰小包，独立展示桃红色椭圆包。包袋为贴饰日常应用示范；生成图非精确尺寸、商品图案或安装承重证明。 用户随后要求按完整Lifestyle产品表展开，现由v03继续修订。"
     },
     {
       "file": "documents/nowre-progress/nonactivity-render-1.png",
@@ -479,6 +493,10 @@
   ],
   "links": [
     {
+      "label": "无活动版v03 · Lifestyle陈列核对表（无价格）",
+      "href": "documents/nowre-nonactivity-v03/display-checklist.csv"
+    },
+    {
       "label": "v13 全部分面与交接参考",
       "href": "documents/booth-3x3-v13/全部面预览.html"
     },
@@ -489,21 +507,21 @@
     }
   ],
   "milestone": {
-    "title": "无活动版v02 · 包袋应用展示",
+    "title": "无活动版v03 · Lifestyle全系列陈列",
     "date": "2026-11-07",
-    "status": "方向已指定 · 新图待评审",
-    "summary": "将此前蓝底空区改为用户实拍所示的挂衣与贴饰包使用示范，补上桃红色椭圆POPSTICKER包；新增整体和右墙正面两张效果草稿。",
-    "approvalNote": "用户指定展示内容，不等于已接受新生成图；尺寸和安装结构未验证。",
-    "next": "核对两只包的实际大小、挂杆及固定方式，再深化陈列。"
+    "status": "按反馈修订 · 新图待评审",
+    "summary": "右区按完整11条产品表展示包袋、护照夹、卡套及笔记本；5色磁吸卡套、6色挂绳卡套、4色PU护照夹均展开。",
+    "approvalNote": "用户要求补齐选品，不代表已接受生成图。颜色、尺寸、商品细节与安装承重尚待实物核对。",
+    "next": "评审陈列密度和各品类位置，再以实物尺寸校准。"
   },
-  "currentFocus": "评审无活动版v02的包袋应用展示：挂衣＋棕色贴饰小包，桃红色椭圆包独立展示；贴饰主墙仍是主角。PIMPLE取消，不加入活动区。",
+  "currentFocus": "评审无活动版v03全系列陈列：右区纳入11项Lifestyle产品与多色小件，替代此前过空的衣服＋两包方案；尺寸与连接方式待深化。",
   "progress": {
     "updated": "2026-11-07",
-    "summary": "无活动版v02已补整体与右墙正面图；原PIMPLE区域改为包袋使用展示，不再待定蓝底。活动版、同事原稿和旧图并行保留。",
+    "summary": "按用户对v02过空的反馈，核对最新11条Lifestyle表，完成v03两张新图；PIMPLE不恢复。",
     "next": [
       {
-        "title": "评审包袋应用区新图",
-        "detail": "检查挂衣搭配棕色贴饰小包、桃红椭圆包的比例和视觉层级；不把包袋放成品牌主角。实际尺寸、连接及承重仍需深化。"
+        "title": "评审完整Lifestyle陈列",
+        "detail": "检查11项产品与多色小件是否清晰易选，并核对真实尺寸、层板位置和承重。"
       },
       {
         "title": "确认Nowre自搭条件",
@@ -511,6 +529,11 @@
       }
     ],
     "decisions": [
+      {
+        "title": "使用完整Lifestyle表，扩大右区陈列密度",
+        "detail": "用户指出衣服＋两包过空，要求护照夹、卡套等所有Lifestyle产品都列入展示。按最新11条资料修订，不使用旧7项汇总。",
+        "conversation": "7bb0a45f"
+      },
       {
         "title": "取消区域用于包袋应用展示",
         "detail": "用户提供挂衣搭配棕色贴饰包实拍，并要求补上桃红色椭圆包；PIMPLE不恢复，活动版不被覆盖。",
@@ -530,6 +553,10 @@
       }
     ],
     "history": [
+      {
+        "title": "无活动版v03两张新图与陈列核对表",
+        "detail": "按真实照片确认11个条目；笔记本表内3色但仅有黄色图，不虚构其他颜色。生成稿仍待评审。"
+      },
       {
         "title": "2026-11-07 无活动版v02两张新图",
         "detail": "整体和ART／包袋应用墙正面均已生成、检查内容并归档，待用户评审。"
@@ -554,6 +581,6 @@
   "sync": {
     "checkedAt": "2026-11-07",
     "sourceConversation": "7bb0a45f",
-    "status": "无活动版v02两张新图已收录，待评审"
+    "status": "无活动版v03两张新图及11项清单已收录，待评审"
   }
 }
