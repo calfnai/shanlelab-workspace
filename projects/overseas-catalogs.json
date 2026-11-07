@@ -358,6 +358,20 @@
       "label": "PopSticker · 恢复创意构图与标准轮廓 · 手机",
       "status": "已上线并检查 · 待用户查看",
       "note": "保留蓝底、旋转错落、轨道线和橙色贴纸。使用用户标准图的外缘蒙版，移除椭圆近似；原创产品画面等比例显示。"
+    },
+    {
+      "file": "documents/popsticker-handbook/complete-v01/cover.png",
+      "thumb": "documents/popsticker-handbook/complete-v01/cover.webp",
+      "label": "PopSticker 完整产品手册 v01 · 54页",
+      "status": "已生成并检查 · 待用户审阅",
+      "note": "整本PDF在资源入口；19系列68款，含纵向选款／定制附件。"
+    },
+    {
+      "file": "documents/popsticker-handbook/complete-v01/PopSticker-19-Series-KV-Overview.jpg",
+      "thumb": "documents/popsticker-handbook/complete-v01/PopSticker-19-Series-KV-Overview.webp",
+      "label": "PopSticker 19系列 KV 总览",
+      "status": "已编入完整手册 · 待用户审阅",
+      "note": "复用v08与原始详情素材；两张新KV产品区换回真实图并依标准轮廓编排。"
     }
   ],
   "links": [
@@ -891,9 +905,26 @@
         "body": "用户指出只要求保持比例，不能牺牲原概念。本轮恢复蓝底、错落旋转产品、轨道及橙色贴纸；外缘由标准原图提取，产品等比例显示。三个地址、六个视口检查通过。",
         "source": "https://shanle-lab-overseas.pages.dev/",
         "status": "已上线 · 待用户查看"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "完成54页PopSticker电子产品手册初版",
+        "body": "50页横向主体＋4页纵向附件；19系列各1张KV及全款页，68个不同SKU已逐项核对。融入材质、包装、应用和定制流程；P2保留版式并更新联系区，定制附件重编为PopSticker专用2页。已渲染全书检查，19处目录跳转、21个书签及旧联系方式清理检查通过。PDF约16.1MB。",
+        "source": "documents/popsticker-handbook/complete-v01/PopSticker-Complete-Product-Handbook-v01.pdf",
+        "status": "完整初版已生成并检查 · 待用户审阅"
       }
     ],
     "resources": [
+      {
+        "title": "PopSticker 完整产品手册 v01 · 54页",
+        "detail": "19系列／68款；横向主体＋纵向选款与定制附件。约16.1MB，已生成并检查，待用户审阅。",
+        "href": "documents/popsticker-handbook/complete-v01/PopSticker-Complete-Product-Handbook-v01.pdf"
+      },
+      {
+        "title": "19个系列KV总览",
+        "detail": "19张已纳入手册的系列KV；独立高清图保存在原项目。",
+        "href": "documents/popsticker-handbook/complete-v01/PopSticker-19-Series-KV-Overview.jpg"
+      },
       {
         "title": "PopSticker用户确认的固定轮廓",
         "detail": "所有网站、包装、KV和效果图遵循；不得用近似椭圆裁切改变轮廓。",
