@@ -636,6 +636,13 @@
         "body": "以原选款纸包装图和品牌手册为依据，英文标注四项组成，并区分 PIPI、CHEWY、YOUNG 贴纸本体。未编造厚度、装配固定方式或固定贴纸数量。桌面与手机已核对。",
         "source": "https://shanle-lab-overseas.vercel.app/customization/#packaging",
         "status": "已上线 · 待用户复核"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "现场纸修正1与修正2融合成三页稿",
+        "body": "共同介绍页仅保留一次，后接定制说明与选款总览。邮箱及 WhatsApp 按用户提供信息更新；原文件保留。融合稿已生成，待用户审阅。",
+        "source": "http://100.114.160.99:50297/#A5",
+        "status": "融合稿已生成 · 待用户确认"
       }
     ],
     "resources": [
@@ -668,6 +675,11 @@
         "title": "选款纸逐版看稿",
         "detail": "英文已采用 A2／P2；10 份／28 页保留放大与原文件入口。需 Tailscale，本机预览运行期间可用。",
         "href": "http://100.114.160.99:50297/"
+      },
+      {
+        "title": "ArtSticker 现场纸融合稿 A5",
+        "detail": "3 页：介绍、定制说明、选款总览；支持放大。待用户审阅，需 Tailscale。",
+        "href": "http://100.114.160.99:50297/#A5"
       }
     ],
     "conversations": [
