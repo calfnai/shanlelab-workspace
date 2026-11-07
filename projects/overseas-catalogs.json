@@ -300,15 +300,15 @@
       "file": "documents/popsticker-handbook/crush-band-aid-kv-v01.png",
       "thumb": "documents/popsticker-handbook/crush-band-aid-kv-v01.webp",
       "label": "心动创可贴 · 横向KV v01",
-      "status": "AI视觉稿已生成 · 待用户审阅",
-      "note": "6款；真实产品参考的AI视觉稿。细小印刷与包装细节待正式成稿复核。"
+      "status": "AI历史草稿 · 需按用户固定轮廓纠正",
+      "note": "6款；真实产品参考的AI视觉稿。细小印刷与包装细节待正式成稿复核。 用户已指定固定轮廓，现稿不可直接用于最终手册。"
     },
     {
       "file": "documents/popsticker-handbook/playful-attitude-kv-v01.png",
       "thumb": "documents/popsticker-handbook/playful-attitude-kv-v01.webp",
       "label": "玩乐态度 · 横向KV v01",
-      "status": "AI视觉稿已生成 · 待用户审阅",
-      "note": "3款；真实产品参考的AI视觉稿。细小印刷与包装细节待正式成稿复核。"
+      "status": "AI历史草稿 · 需按用户固定轮廓纠正",
+      "note": "3款；真实产品参考的AI视觉稿。细小印刷与包装细节待正式成稿复核。 用户已指定固定轮廓，现稿不可直接用于最终手册。"
     },
     {
       "file": "documents/overseas-progress/pop-temu-details-20261107/eyes-detail.png",
@@ -605,6 +605,13 @@
         "status": "动态导出待核实",
         "evidence": "已验证的是两份固定版本 PDF 下载；本轮未找到“当前筛选／最新数据自动排版导出”的上线证据。",
         "source": "http://100.114.160.99:25808/#/conversation/a5bb2a81"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "PopSticker轮廓必须统一，禁止魔改",
+        "body": "用户提供固定轮廓原图。所有KV、手册、包装、网站与AI图必须保持整体比例、边界曲率和两侧弧形细节。两张新AI KV需按标准复核纠正，不作为最终成稿。",
+        "source": "documents/popsticker-handbook/fixed-outline-standard.md",
+        "status": "用户明确要求 · 持续适用"
       }
     ],
     "tasks": [
@@ -881,6 +888,11 @@
         "title": "v08与19系列的复用映射",
         "detail": "15上架组／12正式系列／41个SKU，列明补款范围。",
         "href": "documents/popsticker-handbook/v08-series-map.md"
+      },
+      {
+        "title": "PopSticker 固定轮廓标准",
+        "detail": "用户提供标准原图；所有设计及AI生成均须遵循。",
+        "href": "documents/popsticker-handbook/fixed-outline-standard.md"
       }
     ],
     "conversations": [
