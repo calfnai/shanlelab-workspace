@@ -504,6 +504,14 @@
     "decisions": [
       {
         "date": "2026-11-07",
+        "title": "PopSticker标准轮廓固定，不得魔改",
+        "quote": "记得在任何时候都不要魔改popsticker的这个轮廓，必须保持统一",
+        "status": "用户强制规范 · 已写入项目约定",
+        "evidence": "固定整体比例、外缘曲率及左右弧形开口的位置、宽度和端部；不得自由重画、拉伸或用椭圆遮罩近似裁切。使用用户提供的标准原图。",
+        "source": "https://calfnai.github.io/shanlelab-workspace/documents/overseas-progress/popsticker-outline-standard.png"
+      },
+      {
+        "date": "2026-11-07",
         "title": "复用v08图片补充PopSticker详情",
         "quote": "这堆图你没用上吗？可作为popsticker的详情",
         "status": "用户建议 · 已实施",
@@ -826,9 +834,21 @@
         "body": "从193张候选中选61张，覆盖41款；新增41张材质近照及20张单款场景，网页图约11.5MB。两站逐张加载与切换通过，54款现有多图详情。",
         "source": "https://shanle-lab-popsticker.pages.dev/",
         "status": "两站已上线并检查 · 待用户查看"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "固定PopSticker轮廓规范",
+        "body": "用户标准原图已永久保存并与附件校验一致，规则写入项目约定。发现Hub现有椭圆裁切与此规范不符，记录为待纠正，未将其认定为标准轮廓。",
+        "status": "规范已记录 · 首页裁切待纠正",
+        "source": "https://calfnai.github.io/shanlelab-workspace/documents/overseas-progress/popsticker-outline-standard.png"
       }
     ],
     "resources": [
+      {
+        "title": "PopSticker用户确认的固定轮廓",
+        "detail": "所有网站、包装、KV和效果图遵循；不得用近似椭圆裁切改变轮廓。",
+        "href": "https://calfnai.github.io/shanlelab-workspace/documents/overseas-progress/popsticker-outline-standard.png"
+      },
       {
         "title": "ArtSticker A6 网页压缩版",
         "detail": "1.46MB，PDF Squeezer压缩；四页内容，原始大文件另存。",
