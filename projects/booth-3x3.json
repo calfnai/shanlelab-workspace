@@ -2,17 +2,24 @@
   "id": "booth-3x3",
   "title": "SHANLE 普通3×3／凡几展位",
   "en": "06 / STANDARD BOOTH",
-  "description": "当前Lifestyle全系列方案归为凡几展位；Nowre找彩蛋活动版另外保留，PIMPLE均取消。",
+  "description": "凡几Lifestyle全系列展位保留矩形前台；Nowre活动版与新增双面道具分别留档，PIMPLE取消。",
   "conversation": "7bb0a45f",
   "conversationName": "3x3双开，2.2米高的长期展位设计",
   "note": "用户明确将当前Lifestyle全系列展位定义为凡几，而非Nowre。当前两张图未重新生成，图内旧Nowre字样作为历史标签说明；Nowre活动版保留独立来源。凡几场地条件待对应资料确认。",
   "items": [
     {
+      "file": "documents/fanji-v04-reception/overall.png",
+      "thumb": "documents/fanji-v04-reception/overall.webp",
+      "label": "凡几v04 · 保留前台与Lifestyle全系列",
+      "status": "要求已确认 · 修正图待评审",
+      "note": "按用户纠正补回原蓝橙矩形前台，两面墙与Lifestyle全系列保留；双面展架为独立新增道具，不替代前台。图像级可见1前台、8灯与11类Lifestyle，非实尺寸或通道验证。"
+    },
+    {
       "file": "documents/nowre-nonactivity-v03/overall.png",
       "thumb": "documents/nowre-nonactivity-v03/overall.webp",
       "label": "凡几展位v03 · Lifestyle全系列整体",
-      "status": "新生成 · 待评审",
-      "note": "用户已更正本套归属为凡几，非Nowre。图内Nowre为旧历史标签，本次仅更正项目定义，未重新生成设计。按最新Lifestyle表11条及真实产品照片展开：包袋、PU与牛仔护照夹、5色磁吸卡套、6色挂绳卡套、黄色笔记本。保留穿搭示范与桃红包，补齐右区。图像级核对11类可见，仍非实尺寸或生产文件。"
+      "status": "历史对照 · 遗漏前台已由v04修正",
+      "note": "用户已更正本套归属为凡几，非Nowre。图内Nowre为旧历史标签，本次仅更正项目定义，未重新生成设计。按最新Lifestyle表11条及真实产品照片展开：包袋、PU与牛仔护照夹、5色磁吸卡套、6色挂绳卡套、黄色笔记本。保留穿搭示范与桃红包，补齐右区。图像级核对11类可见，仍非实尺寸或生产文件。 用户随后明确前台必须保留；本图缺少前台，整体方案以v04修正稿继续。"
     },
     {
       "file": "documents/nowre-nonactivity-v03/right-wall.png",
@@ -507,6 +514,10 @@
   ],
   "links": [
     {
+      "label": "凡几v04 · 保留前台修正稿",
+      "href": "documents/fanji-v04-reception/index.html"
+    },
+    {
       "label": "凡几展位v03 · Lifestyle陈列核对表（无价格）",
       "href": "documents/nowre-nonactivity-v03/display-checklist.csv"
     },
@@ -525,18 +536,22 @@
     }
   ],
   "milestone": {
-    "title": "凡几展位v03 · Lifestyle全系列",
+    "title": "凡几v04 · 前台保留修正",
     "date": "2026-11-07",
-    "status": "项目归属已确认 · 图稿待评审",
-    "summary": "当前完整Lifestyle展位正式归属凡几，不属于Nowre；11项陈列方案和两张效果图保留。",
-    "approvalNote": "用户要求补齐选品，不代表已接受生成图。颜色、尺寸、商品细节与安装承重尚待实物核对。",
-    "next": "评审陈列密度和各品类位置，再以实物尺寸校准。"
+    "status": "前台保留已确认 · 新图待评审",
+    "summary": "补回矩形蓝橙前台，保留两面产品墙和完整Lifestyle陈列。",
+    "approvalNote": "用户确认保留前台，不等于已接受本次生成图；尺寸与通行未实测。",
+    "next": "评审前台位置与正常通行，双面道具另行定位。"
   },
-  "currentFocus": "凡几展位v03：完整11项Lifestyle陈列与多色护照夹、卡套、包袋应用。不得将本方案继续称作Nowre或套用Nowre协议面积、日期和现成结构限制。",
+  "currentFocus": "凡几v04：前台必须保留，继续完整11项Lifestyle及POP／ART陈列。双面展架是独立新增道具，不替代前台。凡几与Nowre场地口径继续分开。",
   "progress": {
     "updated": "2026-11-07",
-    "summary": "用户将本套Lifestyle全系列展位更正为凡几；本轮修改归属和交付文件名称，Nowre活动版不受影响。",
+    "summary": "凡几v03遗漏前台，用户要求保留；v04已补回蓝橙前台并保留Lifestyle全系列，图稿待评审。",
     "next": [
+      {
+        "title": "核对凡几前台位置",
+        "detail": "已保留前台；以新图评审工作人员操作与入场通道。双面道具位置另外核定。"
+      },
       {
         "title": "评审凡几Lifestyle全系列新图",
         "detail": "核对陈列密度、真实款色和尺寸。图内旧Nowre标签待下一轮正式出图统一替换，不重新解释为Nowre方案。"
@@ -547,6 +562,11 @@
       }
     ],
     "decisions": [
+      {
+        "title": "凡几前台必须保留",
+        "detail": "保留原矩形前台。双面展架是独立新增道具，不能替代前台；不据此变更凡几与Nowre活动归属。",
+        "conversation": "fa4897db"
+      },
       {
         "title": "当前全系列展位归属凡几",
         "detail": "用户明确：本套展位为凡几，不是Nowre。对应原v03素材和布局归凡几；Nowre活动版继续独立保留。",
@@ -582,6 +602,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-07 凡几v04补回前台",
+        "detail": "补回1个蓝橙矩形前台，保留两面墙、8盏灯与Lifestyle全系列；修正图待评审。"
+      },
+      {
         "title": "2026-11-07 双面展架正反面方向图与版面",
         "detail": "已生成并检查16挂位、单张题卡与减免流程；题卡已做缩小修正。联名货盘和优惠金额待定，图稿待评审。"
       },
@@ -613,6 +637,10 @@
       },
       {
         "label": "双面联名展示与减免游戏道具",
+        "conversation": "fa4897db"
+      },
+      {
+        "label": "凡几前台保留修正",
         "conversation": "fa4897db"
       }
     ]
