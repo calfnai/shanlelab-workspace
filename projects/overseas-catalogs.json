@@ -295,6 +295,20 @@
       "label": "Cloudflare 海外 Hub",
       "status": "已上线 · 自动检查通过 · 待用户查看",
       "note": "八个独立 Pages 站点；站内导航与分享链接使用 Cloudflare 地址，Vercel 版本保留。"
+    },
+    {
+      "file": "documents/popsticker-handbook/crush-band-aid-kv-v01.png",
+      "thumb": "documents/popsticker-handbook/crush-band-aid-kv-v01.webp",
+      "label": "心动创可贴 · 横向KV v01",
+      "status": "AI视觉稿已生成 · 待用户审阅",
+      "note": "6款；真实产品参考的AI视觉稿。细小印刷与包装细节待正式成稿复核。"
+    },
+    {
+      "file": "documents/popsticker-handbook/playful-attitude-kv-v01.png",
+      "thumb": "documents/popsticker-handbook/playful-attitude-kv-v01.webp",
+      "label": "玩乐态度 · 横向KV v01",
+      "status": "AI视觉稿已生成 · 待用户审阅",
+      "note": "3款；真实产品参考的AI视觉稿。细小印刷与包装细节待正式成稿复核。"
     }
   ],
   "links": [
@@ -762,6 +776,13 @@
         "body": "已核对19系列68款，形成逐系列KV方向、正文与附件页序。按用户补充：主体横向，尾部可保留纵向选款纸、定制纸，并融合网站材质、包装和流程。当前仅策划稿，KV和完整PDF尚未制作。",
         "source": "documents/popsticker-handbook/plan-v01.md",
         "status": "策划v01已拟 · 待审阅"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "纳入v08图源并补两张系列AI KV",
+        "body": "v08的15个上架组归并为12系列41款；情绪小绿喵、哈基米假日、液体喵已有主图及场景，改为优先复用。心动创可贴与玩乐态度两张横向AI KV v01已生成，待审阅；完整手册尚未完成。",
+        "source": "documents/popsticker-handbook/plan-v02.md",
+        "status": "KV已生成 · 待审阅"
       }
     ],
     "resources": [
@@ -814,6 +835,16 @@
         "title": "PopSticker 产品手册策划 v01",
         "detail": "19系列68款；横向正文＋纵向选款／定制附件。策划初稿，非完整成品。",
         "href": "documents/popsticker-handbook/plan-v01.md"
+      },
+      {
+        "title": "PopSticker 产品手册策划 v02",
+        "detail": "已纳入v08图源并修正后5系列素材状态；附2张新AI KV。",
+        "href": "documents/popsticker-handbook/plan-v02.md"
+      },
+      {
+        "title": "v08与19系列的复用映射",
+        "detail": "15上架组／12正式系列／41个SKU，列明补款范围。",
+        "href": "documents/popsticker-handbook/v08-series-map.md"
       }
     ],
     "conversations": [
