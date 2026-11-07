@@ -90,7 +90,7 @@
         "id": "pipe",
         "title": "水管吊海洋板",
         "tag": "A / PIPE + MARINE PLYWOOD",
-        "summary": "中岛单排门形水管架，圆形法兰底座固定，上方两点吊挂，左右短限位防晃；柱区保留四脚落地管架。"
+        "summary": "中岛单排水管架以圆形法兰固定原台面，不加高台座，商品直接摆台面；顶部两点吊挂、左右短限位。柱区用四脚落地管架围住127×127cm方柱。"
       },
       {
         "id": "paper",
@@ -108,9 +108,8 @@
       ],
       "person_cm": 170,
       "column_size_cm": 127,
-      "column_shape": "round",
+      "column_shape": "square",
       "column_stand_legs": 4,
-      "column_diameter_cm": 127,
       "column_frame_clear_cm": 130,
       "column_frame_outer_cm": 136.8,
       "column_panel_cm": [
@@ -119,7 +118,14 @@
       ],
       "column_panel_bottom_cm": 70,
       "column_panel_top_cm": 210,
-      "column_banner_cm": 15
+      "column_banner_cm": 15,
+      "column_section_cm": [
+        127,
+        127
+      ],
+      "column_height": "continues beyond view",
+      "pipe_island_raised_plinth": false,
+      "pipe_island_surface_cm": 67
     },
     "details": [
       {
@@ -185,7 +191,7 @@
         "thumb": "demos/niko-comparison/reference/column-flat-layout.jpg",
         "label": "柱区板面与banner · 用户新稿",
         "status": "本次设计依据",
-        "note": "以本次文字尺寸为准：板120×140cm，底边70cm，顶端15cm banner。附件中高度标注与文字有出入。商品使用真实图示意，排数按板高及间距安排。"
+        "note": "板120×140cm，底边70cm，顶端15cm banner。承重柱已依用户最新说明修正为127×127cm方柱；附件中高度标注与文字有出入。商品使用真实图示意。"
       }
     ],
     "paperStructure": {

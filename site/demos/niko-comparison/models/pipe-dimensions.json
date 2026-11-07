@@ -22,7 +22,7 @@
     1.27,
     1.27
   ],
-  "column_shape": "round",
+  "column_shape": "square",
   "column_shape_note": "specified cross-section",
   "column_stand_legs": 4,
   "column_stand_ground_feet": 4,
@@ -53,7 +53,8 @@
     0.055,
     0.045
   ],
-  "column_height_assumed": 3,
+  "column_visible_model_segment": 6,
+  "column_height": "continues beyond view; not specified",
   "human_bounds": [
     [
       -1.706,
@@ -72,10 +73,8 @@
   ],
   "sign_bottom": 0.91,
   "island_top": 2.0162515644555694,
-  "steps_above_base": [
-    0.1,
-    0.2
-  ],
+  "steps_above_base": [],
+  "island_merchandise_surface_height": 0.67,
   "island_pipe_frame": "single plane; two uprights and one top rail",
   "island_pipe_sway_limiters": 2,
   "island_pipe_flange_bases": 2,
@@ -87,7 +86,7 @@
   },
   "unconfirmed": [
     "Sign dimensions follow supplied art aspect ratio",
-    "130cm interpreted as frame internal clearance; column height, board thickness and fittings remain concept assumptions",
+    "130cm interpreted as frame internal clearance; board thickness and fittings remain concept assumptions; column continues beyond view",
     "Island merchandise and hooks remain part of supplied graphic; not individually modeled",
     "Column shows supplied SKU examples at 145x105mm and 105x145mm; SKU allocation and stocking count not specified"
   ],
