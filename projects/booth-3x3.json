@@ -2,17 +2,38 @@
   "id": "booth-3x3",
   "title": "SHANLE 普通3×3／凡几展位",
   "en": "06 / STANDARD BOOTH",
-  "description": "凡几Lifestyle全系列展位保留矩形前台；Nowre活动版与新增双面道具分别留档，PIMPLE取消。",
+  "description": "凡几v05整合保留前台、双面联名/减免游戏架、完整Lifestyle与商品提示背卡；Nowre历史活动分支独立保留。",
   "conversation": "7bb0a45f",
   "conversationName": "3x3双开，2.2米高的长期展位设计",
-  "note": "用户明确将当前Lifestyle全系列展位定义为凡几，而非Nowre。当前两张图未重新生成，图内旧Nowre字样作为历史标签说明；Nowre活动版保留独立来源。凡几场地条件待对应资料确认。",
+  "note": "当前凡几v05将前台、双面联名/游戏架与商品提示背卡合并展示，图稿待评审。历史v03的Nowre字样只属旧标签；Nowre活动原分支独立保留，凡几不套用其场地协议。",
   "items": [
+    {
+      "file": "documents/fanji-v05-integrated/collab-out.png",
+      "thumb": "documents/fanji-v05-integrated/collab-out.webp",
+      "label": "凡几v05 · 前台＋联名架＋商品背卡整合",
+      "status": "新整合稿 · 待评审",
+      "note": "主摆法：前台保留，一座双面架联名面朝外；POP商品后补限定款及热卖款背卡示意。 具体联名货盘、限定/热卖标注货品尚未确认。生成图非实尺寸、商品原图或生产文件。"
+    },
+    {
+      "file": "documents/fanji-v05-integrated/game-out.png",
+      "thumb": "documents/fanji-v05-integrated/game-out.webp",
+      "label": "凡几v05 · 游戏面朝外的摆法对照",
+      "status": "新整合稿 · 待评审",
+      "note": "同一双面架转向游戏面朝外的另一摆法；前台保留。不是严格相机反向图，也不增加第二座架。 具体联名货盘、限定/热卖标注货品尚未确认。生成图非实尺寸、商品原图或生产文件。"
+    },
+    {
+      "file": "documents/fanji-v05-integrated/plan.png",
+      "thumb": "documents/fanji-v05-integrated/plan.webp",
+      "label": "凡几v05 · 整合位置与站位提案",
+      "status": "新整合稿 · 待评审",
+      "note": "标称3×3的静态位置提案；前台800×500规划，双面架626×500。人物圈不等于满负荷容量或实际通行验收。 具体联名货盘、限定/热卖标注货品尚未确认。生成图非实尺寸、商品原图或生产文件。"
+    },
     {
       "file": "documents/fanji-v04-reception/overall.png",
       "thumb": "documents/fanji-v04-reception/overall.webp",
       "label": "凡几v04 · 保留前台与Lifestyle全系列",
-      "status": "要求已确认 · 修正图待评审",
-      "note": "按用户纠正补回原蓝橙矩形前台，两面墙与Lifestyle全系列保留；双面展架为独立新增道具，不替代前台。图像级可见1前台、8灯与11类Lifestyle，非实尺寸或通道验证。"
+      "status": "阶段参考 · 前台已补回",
+      "note": "按用户纠正补回原蓝橙矩形前台，两面墙与Lifestyle全系列保留；双面展架为独立新增道具，不替代前台。图像级可见1前台、8灯与11类Lifestyle，非实尺寸或通道验证。 后续由v05继续整合双面架和商品提示背卡。"
     },
     {
       "file": "documents/nowre-nonactivity-v03/overall.png",
@@ -514,6 +535,10 @@
   ],
   "links": [
     {
+      "label": "凡几v05 · 整合方案与商品背卡用法",
+      "href": "documents/fanji-v05-integrated/index.html"
+    },
+    {
       "label": "凡几v04 · 保留前台修正稿",
       "href": "documents/fanji-v04-reception/index.html"
     },
@@ -536,21 +561,25 @@
     }
   ],
   "milestone": {
-    "title": "凡几v04 · 前台保留修正",
+    "title": "凡几v05 · 整合道具与商品提示背卡",
     "date": "2026-11-07",
-    "status": "前台保留已确认 · 新图待评审",
-    "summary": "补回矩形蓝橙前台，保留两面产品墙和完整Lifestyle陈列。",
-    "approvalNote": "用户确认保留前台，不等于已接受本次生成图；尺寸与通行未实测。",
-    "next": "评审前台位置与正常通行，双面道具另行定位。"
+    "status": "整合要求明确 · 图稿待评审",
+    "summary": "前台保留，双面架与两面商品墙同场呈现，补上限定/热卖提示背卡。",
+    "approvalNote": "未确认本次联名货盘或真实限定/热卖SKU，标注只是用法示意；布局与生成图仍待评审。",
+    "next": "评审架体朝向、前台操作与选购通行，再用实物包装核对背卡刀版。"
   },
-  "currentFocus": "凡几v04：前台必须保留，继续完整11项Lifestyle及POP／ART陈列。双面展架是独立新增道具，不替代前台。凡几与Nowre场地口径继续分开。",
+  "currentFocus": "凡几v05：把商品墙、Lifestyle全系列、前台和一座双面展架放入同一套方案，补齐限定款/热卖款异形提示背卡实际用法。前台必须保留；两张新图是展架不同朝向的摆法对照，实际场地和商品标注待确认。",
   "progress": {
     "updated": "2026-11-07",
-    "summary": "凡几v03遗漏前台，用户要求保留；v04已补回蓝橙前台并保留Lifestyle全系列，图稿待评审。",
+    "summary": "按用户要求把凡几展位、前台、双面架放在一起，并补齐挂在商品后面的限定款/热卖款异形背卡。v05两种朝向图与位置提案已生成，待评审。",
     "next": [
       {
-        "title": "核对凡几前台位置",
-        "detail": "已保留前台；以新图评审工作人员操作与入场通道。双面道具位置另外核定。"
+        "title": "评审整合布局",
+        "detail": "确定联名面或游戏面朝外，核对前台操作与选购路线；实际凡几尺寸待核实。"
+      },
+      {
+        "title": "核对背卡货品与刀版",
+        "detail": "只对确认的限定/热卖款使用；按实物包装核对孔位、轮廓、凸字与挂距，不标记活动答案。"
       },
       {
         "title": "评审凡几Lifestyle全系列新图",
@@ -562,6 +591,11 @@
       }
     ],
     "decisions": [
+      {
+        "title": "整合放置并补商品提示背卡",
+        "detail": "用户要求各道具与展位放一起，并提供限定款原图、热卖款实拍及商品墙实拍，强调背卡挂在商品后、同挂钩并露出橙色轮廓与右上凸字。具体标注货品尚未指定。",
+        "conversation": "fa4897db"
+      },
       {
         "title": "凡几前台必须保留",
         "detail": "保留原矩形前台。双面展架是独立新增道具，不能替代前台；不据此变更凡几与Nowre活动归属。",
@@ -601,6 +635,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-07 凡几v05整合与背卡用法",
+        "detail": "新增联名面朝外、游戏面朝外两种转向摆法和位置平面；均保留前台。图像可见2个商品提示背卡示意。"
+      },
       {
         "title": "2026-11-07 凡几v04补回前台",
         "detail": "补回1个蓝橙矩形前台，保留两面墙、8盏灯与Lifestyle全系列；修正图待评审。"
@@ -642,10 +680,14 @@
       {
         "label": "凡几前台保留修正",
         "conversation": "fa4897db"
+      },
+      {
+        "label": "凡几整合道具与商品背卡用法",
+        "conversation": "fa4897db"
       }
     ]
   },
-  "galleryLabel": "两个当前版本与通用展位历史",
+  "galleryLabel": "凡几整合稿、双面道具与历史版本",
   "sync": {
     "checkedAt": "2026-11-07",
     "sourceConversation": "7bb0a45f",
