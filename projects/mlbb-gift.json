@@ -130,6 +130,10 @@
     {
       "label": "A/B/C 平面矢量预览",
       "href": "documents/mct-vector.html"
+    },
+    {
+      "label": "分发安排补充邮件 · 800份／每天100份 · 待发送",
+      "href": "documents/mct-email-distribution-20261107.html"
     }
   ],
   "milestone": {
@@ -142,10 +146,10 @@
       "title": "设计与用途审批申请 · 已发送阶段稿",
       "status": "已发送 · 待书面审阅",
       "date": "2026.11.05",
-      "summary": "设计概念、官方素材与二创边界、赛事包非售卖赠品及社媒用途申请。",
+      "summary": "已发送阶段稿未包含分发数量。2026-11-07已明确总共800份、每天100份（官方50份／摊位50份），补充邮件待发送；待官方书面审阅。",
       "href": "documents/mct-email-sent.html",
       "latestHref": "documents/mct-email-revised.html",
-      "latestTitle": "后续完整邮件稿 · 含分发数量（草稿）"
+      "latestTitle": "后续完整邮件稿 · 总共800份／每天100份（待发送）"
     }
   },
   "conversationName": "MLBB赛事包 MCT赛事Logo贴纸"

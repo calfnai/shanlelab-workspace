@@ -40,6 +40,8 @@ gift=next(p for p in data['projects'] if p['id']=='mlbb-gift')
 assert gift['items'][0]['status']=='已选定' and gift['items'][0]['label'].startswith('C — MVP + SAVAGE')
 assert gift['milestone']['email']['href']=='documents/mct-email-sent.html'
 assert 'Production quantity, distribution locations and campaign dates remain to be agreed' in (ROOT/'documents/mct-email-sent.html').read_text()
-assert '800 stickers' in (ROOT/'documents/mct-email-revised.html').read_text()
+revised_email=(ROOT/'documents/mct-email-revised.html').read_text()
+assert all(text in revised_email for text in ['800 sticker sets', '100 sets per day', '50 sets', 'the other 50 sets'])
+assert '800 stickers' not in revised_email
 assert 'To:' not in (ROOT/'documents/mct-email-sent.html').read_text()
 print(f'PASS: {len(data['projects'])} projects, {sum(len(p["items"]) for p in data["projects"])} full images, {len(checked)} local references')
