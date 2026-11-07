@@ -180,6 +180,13 @@
       "label": "PopSticker-MLBB-充值流程图解-v01",
       "status": "历史版本",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
+    },
+    {
+      "file": "documents/mlbb-retail-progress/partner-reference/chinese-translation.png",
+      "thumb": "documents/mlbb-retail-progress/partner-reference/chinese-translation.png",
+      "label": "合作方参考卡 · 原文完整中文图译",
+      "status": "参考译图 · 非本款生产稿",
+      "note": "保留原卡5,000／1,000钻、隐藏版身份、网站/二维码、兑换前保管及之后官方销毁的完整原意；不改写为601钻。"
     }
   ],
   "links": [
@@ -242,6 +249,10 @@
       }
     ],
     "history": [
+      {
+        "title": "合作方原图中文翻译",
+        "detail": "按用户要求直接在图片上翻译全部原卡文案，原奖额与身份保留，仅供理解对方原意。"
+      },
       {
         "title": "11月7日 · 内部v7完整文案及结构修正",
         "detail": "完整解读对方参考卡，补齐祝贺、奖品、网站、二维码、保管及销毁说明；正面固定贴纸背景，中奖与普通为两种背面。原二维码解码一致。"
