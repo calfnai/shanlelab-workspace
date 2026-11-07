@@ -280,7 +280,7 @@
         "status": "2026-11-07 已上线并验证",
         "summary": "仅介绍 PU 皮革与背胶，独立 MOQ、报价、定制流程。800px 原图约51KB，最大400 CSS px展示。",
         "image": 19,
-        "detail": "旧 #popsticker 锚点自动转入专用页面；桌面和手机已检查。"
+        "detail": "旧 #popsticker 锚点自动转入专用页面；桌面和手机已检查。 用户反馈后已移除首屏 Start your PopSticker brief 邮件按钮。"
       }
     ],
     "mobiles": [
@@ -455,6 +455,13 @@
         "body": "替换低清图，PopSticker 定制入口改到海外独立单材质页；ArtSticker 显示用户指定的 IP 地区。Soroll 8 款按新附件逐项核对一致，无需改价。",
         "source": "https://shanle-lab-overseas.vercel.app/customization/popsticker/",
         "status": "线上已验证 · 待用户复核"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "移除 PopSticker 首屏多余邮件按钮",
+        "body": "用户认为 Start your PopSticker brief 跳转没有必要。已移除首屏该按钮，保留定制说明，线上已验证。",
+        "source": "https://shanle-lab-overseas.vercel.app/customization/popsticker/",
+        "status": "已上线"
       }
     ],
     "resources": [
