@@ -1,25 +1,25 @@
 {
   "id": "booth-3x3",
-  "title": "SHANLE 普通 3×3 展位",
+  "title": "SHANLE 普通3×3／凡几展位",
   "en": "06 / STANDARD BOOTH",
-  "description": "活动版与无活动版并行；无活动版v03按11项Lifestyle表补齐全系列，PIMPLE取消。",
+  "description": "当前Lifestyle全系列方案归为凡几展位；Nowre找彩蛋活动版另外保留，PIMPLE均取消。",
   "conversation": "7bb0a45f",
   "conversationName": "3x3双开，2.2米高的长期展位设计",
-  "note": "用户指出v02过空，并要求使用已有产品表。已核对当前Lifestyle表11条及实物照片，补齐全系列整体与右墙正面图；v03待评审。活动版、同事原稿及历史v01/v02均保留。",
+  "note": "用户明确将当前Lifestyle全系列展位定义为凡几，而非Nowre。当前两张图未重新生成，图内旧Nowre字样作为历史标签说明；Nowre活动版保留独立来源。凡几场地条件待对应资料确认。",
   "items": [
     {
       "file": "documents/nowre-nonactivity-v03/overall.png",
       "thumb": "documents/nowre-nonactivity-v03/overall.webp",
-      "label": "无活动版v03 · Lifestyle全系列整体",
+      "label": "凡几展位v03 · Lifestyle全系列整体",
       "status": "新生成 · 待评审",
-      "note": "按最新Lifestyle表11条及真实产品照片展开：包袋、PU与牛仔护照夹、5色磁吸卡套、6色挂绳卡套、黄色笔记本。保留穿搭示范与桃红包，补齐右区。图像级核对11类可见，仍非实尺寸或生产文件。"
+      "note": "用户已更正本套归属为凡几，非Nowre。图内Nowre为旧历史标签，本次仅更正项目定义，未重新生成设计。按最新Lifestyle表11条及真实产品照片展开：包袋、PU与牛仔护照夹、5色磁吸卡套、6色挂绳卡套、黄色笔记本。保留穿搭示范与桃红包，补齐右区。图像级核对11类可见，仍非实尺寸或生产文件。"
     },
     {
       "file": "documents/nowre-nonactivity-v03/right-wall.png",
       "thumb": "documents/nowre-nonactivity-v03/right-wall.webp",
-      "label": "无活动版v03 · ART＋Lifestyle全系列正面",
+      "label": "凡几展位v03 · ART＋Lifestyle全系列正面",
       "status": "新生成 · 待评审",
-      "note": "按最新Lifestyle表11条及真实产品照片展开：包袋、PU与牛仔护照夹、5色磁吸卡套、6色挂绳卡套、黄色笔记本。保留穿搭示范与桃红包，补齐右区。图像级核对11类可见，仍非实尺寸或生产文件。"
+      "note": "用户已更正本套归属为凡几，非Nowre。图内Nowre为旧历史标签，本次仅更正项目定义，未重新生成设计。按最新Lifestyle表11条及真实产品照片展开：包袋、PU与牛仔护照夹、5色磁吸卡套、6色挂绳卡套、黄色笔记本。保留穿搭示范与桃红包，补齐右区。图像级核对11类可见，仍非实尺寸或生产文件。"
     },
     {
       "file": "documents/nowre-nonactivity-v02/overall.png",
@@ -493,7 +493,7 @@
   ],
   "links": [
     {
-      "label": "无活动版v03 · Lifestyle陈列核对表（无价格）",
+      "label": "凡几展位v03 · Lifestyle陈列核对表（无价格）",
       "href": "documents/nowre-nonactivity-v03/display-checklist.csv"
     },
     {
@@ -507,28 +507,33 @@
     }
   ],
   "milestone": {
-    "title": "无活动版v03 · Lifestyle全系列陈列",
+    "title": "凡几展位v03 · Lifestyle全系列",
     "date": "2026-11-07",
-    "status": "按反馈修订 · 新图待评审",
-    "summary": "右区按完整11条产品表展示包袋、护照夹、卡套及笔记本；5色磁吸卡套、6色挂绳卡套、4色PU护照夹均展开。",
+    "status": "项目归属已确认 · 图稿待评审",
+    "summary": "当前完整Lifestyle展位正式归属凡几，不属于Nowre；11项陈列方案和两张效果图保留。",
     "approvalNote": "用户要求补齐选品，不代表已接受生成图。颜色、尺寸、商品细节与安装承重尚待实物核对。",
     "next": "评审陈列密度和各品类位置，再以实物尺寸校准。"
   },
-  "currentFocus": "评审无活动版v03全系列陈列：右区纳入11项Lifestyle产品与多色小件，替代此前过空的衣服＋两包方案；尺寸与连接方式待深化。",
+  "currentFocus": "凡几展位v03：完整11项Lifestyle陈列与多色护照夹、卡套、包袋应用。不得将本方案继续称作Nowre或套用Nowre协议面积、日期和现成结构限制。",
   "progress": {
     "updated": "2026-11-07",
-    "summary": "v03按11条Lifestyle资料补齐陈列；已应用户要求向calfnmac发送打包文件，工具报告完成，收件打开未独立确认。效果稿仍待评审。",
+    "summary": "用户将本套Lifestyle全系列展位更正为凡几；本轮修改归属和交付文件名称，Nowre活动版不受影响。",
     "next": [
       {
-        "title": "评审完整Lifestyle陈列",
-        "detail": "检查11项产品与多色小件是否清晰易选，并核对真实尺寸、层板位置和承重。"
+        "title": "评审凡几Lifestyle全系列新图",
+        "detail": "核对陈列密度、真实款色和尺寸。图内旧Nowre标签待下一轮正式出图统一替换，不重新解释为Nowre方案。"
       },
       {
-        "title": "确认Nowre自搭条件",
-        "detail": "场地面积和分配结构需主办方确认，自带3×3视觉稿不表示获准自搭。"
+        "title": "确认凡几场地条件",
+        "detail": "使用凡几活动对应资料；不套用Nowre协议的4㎡面积、日期或预设结构。"
       }
     ],
     "decisions": [
+      {
+        "title": "当前全系列展位归属凡几",
+        "detail": "用户明确：本套展位为凡几，不是Nowre。对应原v03素材和布局归凡几；Nowre活动版继续独立保留。",
+        "conversation": "7bb0a45f"
+      },
       {
         "title": "使用完整Lifestyle表，扩大右区陈列密度",
         "detail": "用户指出衣服＋两包过空，要求护照夹、卡套等所有Lifestyle产品都列入展示。按最新11条资料修订，不使用旧7项汇总。",
@@ -585,6 +590,6 @@
   "sync": {
     "checkedAt": "2026-11-07",
     "sourceConversation": "7bb0a45f",
-    "status": "v03发送里程碑已记录；收件与打开未独立确认"
+    "status": "凡几项目归属已更正，Nowre活动版独立保留"
   }
 }
