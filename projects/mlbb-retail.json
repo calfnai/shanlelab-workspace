@@ -2,15 +2,29 @@
   "id": "mlbb-retail",
   "title": "MLBB 联名售卖款",
   "en": "01 / COLLABORATION",
-  "description": "内部v6：采用对方原二维码，删除入口占位及销毁执行方字样，扩大Claim ID喷码留白区。601钻保持。",
+  "description": "内部v7：明确共同正面为贴纸背景，中奖/普通为二选一背面；中奖背面补齐完整601钻改写、网站及原二维码。",
   "conversation": "a680e3e8",
-  "note": "二维码已复制且数字解码与原图一致，指向WhatsApp；未进行客服会话或兑奖测试。当前为内部v6，未发送或批准。",
+  "note": "上一版仅提取兑换段落，本版补齐祝贺与MLBB601钻奖品说明；正面不承载兑奖。保留Claim ID留白及原二维码，内部稿待审、未发送。",
   "items": [
+    {
+      "file": "documents/mlbb-retail-progress/v7/structure.png",
+      "thumb": "documents/mlbb-retail-progress/v7/structure.png",
+      "label": "内部v7 · 正面背景／背面二选一",
+      "status": "内部修订完成 · 待审",
+      "note": "共同正面为Layla贴纸背景；所有兑奖信息只在中奖背面，普通背面为替代版本。"
+    },
+    {
+      "file": "documents/mlbb-retail-progress/v7/winning-back.png",
+      "thumb": "documents/mlbb-retail-progress/v7/winning-back.png",
+      "label": "内部v7 · 中奖背面完整文案",
+      "status": "内部修订完成 · 待审",
+      "note": "补齐祝贺、MLBB601钻、网站和原二维码、保管及销毁；Claim ID留白，原码解码一致。"
+    },
     {
       "file": "documents/mlbb-retail-progress/v6/inner-card.png",
       "thumb": "documents/mlbb-retail-progress/v6/inner-card.png",
       "label": "内部v6 · 原二维码与Claim ID留白",
-      "status": "内部拟稿 · 二维码解码核对通过",
+      "status": "历史内部v6 · 文案与结构由v7补全",
       "note": "采用对方WhatsApp二维码；删去占位及销毁执行方字样；Claim ID扩大留白、不预印编号。未测试真实兑奖或印刷。"
     },
     {
@@ -176,18 +190,18 @@
     }
   ],
   "conversationName": "MLBB表情包充值贴纸",
-  "currentFocus": "Claim ID留白已扩大，最终喷码尺寸与容差按刀模及印厂核定；兑奖细节、到账时限和当地标签资料继续待补。",
+  "currentFocus": "背面结构及完整文案已修正；后续核定实际喷码留白尺寸、完整兑换执行及本地标签。",
   "milestone": {
-    "title": "内部v6：原二维码与喷码留白",
+    "title": "内部v7：单背面结构与完整文案",
     "date": "2026-11-07",
-    "status": "已生成 · 原码解码核对通过",
-    "summary": "内部v6：采用对方原二维码，删除入口占位及销毁执行方字样，扩大Claim ID喷码留白区。601钻保持。",
-    "approvalNote": "用户指定采用原二维码并简化销毁文案，奖额601钻不变；未确认印刷适配及完整兑奖执行。",
+    "status": "修订完成 · 用户待审",
+    "summary": "内部v7：明确共同正面为贴纸背景，中奖/普通为二选一背面；中奖背面补齐完整601钻改写、网站及原二维码。",
+    "approvalNote": "根据用户纠正补全翻译和结构表达；未声称新稿已获用户或合作方批准。",
     "next": "确认601钻适用的正式入口、完整兑换步骤及官方销毁卡片的时点，再修订卡面。"
   },
   "progress": {
     "updated": "2026-11-07",
-    "summary": "内部v6：采用对方原二维码，删除入口占位及销毁执行方字样，扩大Claim ID喷码留白区。601钻保持。",
+    "summary": "内部v7：明确共同正面为贴纸背景，中奖/普通为二选一背面；中奖背面补齐完整601钻改写、网站及原二维码。",
     "next": [
       {
         "title": "补齐兑换执行细节",
@@ -228,6 +242,10 @@
       }
     ],
     "history": [
+      {
+        "title": "11月7日 · 内部v7完整文案及结构修正",
+        "detail": "完整解读对方参考卡，补齐祝贺、奖品、网站、二维码、保管及销毁说明；正面固定贴纸背景，中奖与普通为两种背面。原二维码解码一致。"
+      },
       {
         "title": "11月7日 · 内部v6完成",
         "detail": "复制对方原二维码并核对解码；删掉Redemption entry和by authorized staff，扩大Claim ID留白，保留601钻。"
