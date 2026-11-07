@@ -50,6 +50,20 @@
       "note": "2026-11-06 21:22原对话交付。承接同事平面稿，PIMPLE已移除，原区域蓝底仅作待定位置示意。生成图的商品细节、数量、灯具及比例可能变化，非精确贴图或生产文件。"
     },
     {
+      "file": "documents/double-sided-collab-game-v01/render.png",
+      "thumb": "documents/double-sided-collab-game-v01/render.webp",
+      "label": "双面展架 · 联名展示 × 减免游戏",
+      "status": "结构与用途已指定 · 新图待评审",
+      "note": "2026-11-07本对话：沿用626×500×1840mm双面结构。A面16挂位联名展示样图，B面谁先下班了找彩蛋减免。联名货盘与优惠金额未定；同一架两面，场地归属未指定。生成图非尺寸、商品原图或承载证明，题卡尺寸以版面稿为准。"
+    },
+    {
+      "file": "documents/double-sided-collab-game-v01/layout.png",
+      "thumb": "documents/double-sided-collab-game-v01/layout.webp",
+      "label": "双面展架 · 版面与尺寸核对",
+      "status": "排版提案 · 待供应商复核",
+      "note": "同尺度正反面：总宽626、总深500、总高1840mm；原侧视610与1550标注存在冲突。只公开当天题卡，不包含答案或协议原件。"
+    },
+    {
       "file": "documents/nowre-progress/activity-0.png",
       "thumb": "documents/nowre-progress/activity-0.webp",
       "label": "活动版 · Nowre-ART与互动墙-正面视觉草稿",
@@ -504,6 +518,10 @@
       "label": "历史 v04 · 可旋转 3D（旧高度口径）",
       "href": "demos/booth-3x3-v04/index.html",
       "kind": "3d"
+    },
+    {
+      "label": "双面展架 · 联名展示与减免游戏对照",
+      "href": "documents/double-sided-collab-game-v01/index.html"
     }
   ],
   "milestone": {
@@ -555,9 +573,18 @@
         "quote": "要无视pimple区，因为pimple区已经确认取消了",
         "detail": "所有后续版本都不恢复该区；同事原图为保留来源而包含它，不代表继续采用。",
         "conversation": "7bb0a45f"
+      },
+      {
+        "title": "新增双面展架用途",
+        "detail": "用户指定新结构一面展示联名款、另一面用于谁先下班了找彩蛋减免游戏；独立道具提案，不改变凡几展位归属或既有Nowre分支。",
+        "conversation": "fa4897db"
       }
     ],
     "history": [
+      {
+        "title": "2026-11-07 双面展架正反面方向图与版面",
+        "detail": "已生成并检查16挂位、单张题卡与减免流程；题卡已做缩小修正。联名货盘和优惠金额待定，图稿待评审。"
+      },
       {
         "title": "2026-11-07 v03已向calfnmac发起文件投递",
         "detail": "发送两张效果图、预览页、无价格清单、版本说明与产品参考总览。传输工具报告发送完成；目标电脑收件路径、文件校验与成功打开尚未独立确认，不表示用户或接收方已接受设计。"
@@ -583,6 +610,10 @@
       {
         "label": "继续活动／无活动版设计",
         "conversation": "7bb0a45f"
+      },
+      {
+        "label": "双面联名展示与减免游戏道具",
+        "conversation": "fa4897db"
       }
     ]
   },
