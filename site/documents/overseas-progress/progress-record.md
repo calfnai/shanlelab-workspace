@@ -72,3 +72,8 @@ https://shanle-lab-overseas.vercel.app/
 ## 2026-11-07 · 定制入口与可售范围纠正
 
 PopSticker 定制页已独立，只介绍 PU 材质；推广图改为 800px 原图压缩 WebP，最大400px展示。目录按钮统一 overseas 入口，旧 Indonesia 别名本轮同步。ArtSticker 列表前及相关单品详情明确小马宝莉11个可售地区与 Disney 中国大陆限定。Soroll 8 款与新报价表一致，不改数值。三个正式页面与本地字节匹配，桌面／手机检查通过。ArtSticker 三种材质口径待用户核准。
+
+
+## 2026-11-07 · 统一导航与授权商品末尾分区
+
+用户否决开头 Please check your destination 提示。已移除该方式；普通152款在前，Disney15款及Hasbro小马宝莉4款分别放在页面末尾，限制地区写在分区标题下。各目录及定制／下载页统一 Header 和 Back to Hub。线上9个页面导航、分组数量、搜索、选款和列表切换通过，手机无横向溢出。

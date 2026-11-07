@@ -1,0 +1,30 @@
+{
+  "headers": [
+    "shanle-lab-overseas.vercel.app/customization/popsticker/",
+    "shanle-lab-overseas.vercel.app/customization/",
+    "shanle-lab-overseas.vercel.app/downloads/",
+    "shanle-lab-overseas.vercel.app/stress-relief/",
+    "shanle-lab-lifestyle-online-list.vercel.app/",
+    "shanle-lab-popsticker.vercel.app/",
+    "shanle-lab-pimplepatch-online-list.vercel.app/",
+    "shanle-lab-pimplepatch-online-list.vercel.app/us-eu/",
+    "shanle-lab-artsticker-online-list.vercel.app/"
+  ],
+  "groups": [
+    {
+      "id": "collection-original",
+      "count": 152
+    },
+    {
+      "id": "collection-disney",
+      "count": 15
+    },
+    {
+      "id": "collection-hasbro",
+      "count": 4
+    }
+  ],
+  "filterAndSelection": true,
+  "mobileOverflow": false,
+  "errors": []
+}
