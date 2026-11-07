@@ -57,3 +57,8 @@ https://shanle-product-catalog-vercel.vercel.app/
 
 SHANLE LAB Product Catalogs:
 https://shanle-lab-overseas.vercel.app/
+
+
+## 2026-11-07 · PopSticker 图片展示更新
+
+已发布至原网址 https://shanle-lab-popsticker.vercel.app/ 。14 系列的 50 款更新为压缩白底图与最多四张切换图，首页只展示少量场景；其余 18 款保留原图。68 条产品业务数据、价格与分享地址格式未改动。线上搜索、筛选、切图、选款、分享页及 CSV 数量导出通过；328 个图库资源可访问，390px 手机无横向溢出。跨设备接收、XLSX/PDF 本轮未复测，用户视觉接受待确认。截图与机器核对记录：popsticker-20261107/。

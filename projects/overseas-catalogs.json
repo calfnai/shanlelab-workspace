@@ -7,7 +7,7 @@
   "conversation": "2ec10d3f",
   "conversationName": "SHANLE及SHANLE LAB产品列表与使用说明",
   "note": "这是持续维护项目，不以一次发布或一张图解标记完成。下方区分本轮线上可见、历史交付与尚待复核事项，所有截图和资源核对均注明日期。",
-  "currentFocus": "现有目录、下载和材质介绍已在线；当前接续重点是完整分享链路回归、报价依据复核，以及明确最新数据动态导出的需求。",
+  "currentFocus": "PopSticker 图像展示已更新上线，等待视觉反馈；其余目录的分享回归、报价依据与动态导出仍按原待办推进。",
   "items": [
     {
       "file": "documents/overseas-progress/screens/lab-hub-desktop.png",
@@ -27,7 +27,7 @@
       "file": "documents/overseas-progress/screens/popsticker-desktop.png",
       "thumb": "documents/overseas-progress/screens/popsticker-desktop.webp",
       "label": "PopSticker 在线选款 · 桌面实拍",
-      "status": "线上实拍 · 2026-11-06",
+      "status": "历史截图 · 2026-11-06",
       "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
     },
     {
@@ -83,7 +83,7 @@
       "file": "documents/overseas-progress/screens/pop-mobile.png",
       "thumb": "documents/overseas-progress/screens/pop-mobile.webp",
       "label": "PopSticker 首次进入 · 手机实拍",
-      "status": "线上实拍 · 2026-11-06",
+      "status": "历史截图 · 2026-11-06",
       "note": "实际部署页面截图；记录本次抓取视口，不代替所有交互已验收。"
     },
     {
@@ -99,6 +99,34 @@
       "label": "客户选款英文图解 · 2026.11.04",
       "status": "长期维护中的阶段成果",
       "note": ""
+    },
+    {
+      "file": "documents/overseas-progress/popsticker-20261107/live-desktop.png",
+      "thumb": "documents/overseas-progress/popsticker-20261107/thumb-desktop.webp",
+      "label": "PopSticker 新版首页 · 桌面",
+      "status": "线上实拍 · 2026-11-07 · 待用户视觉验收",
+      "note": "真实英文素材；50 款四图切换，白底主图与场景图已压缩。"
+    },
+    {
+      "file": "documents/overseas-progress/popsticker-20261107/live-detail-desktop.png",
+      "thumb": "documents/overseas-progress/popsticker-20261107/thumb-detail-desktop.webp",
+      "label": "PopSticker 四图详情 · 桌面",
+      "status": "线上实拍 · 2026-11-07 · 待用户视觉验收",
+      "note": "真实英文素材；50 款四图切换，白底主图与场景图已压缩。"
+    },
+    {
+      "file": "documents/overseas-progress/popsticker-20261107/live-mobile.png",
+      "thumb": "documents/overseas-progress/popsticker-20261107/thumb-mobile.webp",
+      "label": "PopSticker 新版首页 · 手机",
+      "status": "线上实拍 · 2026-11-07 · 待用户视觉验收",
+      "note": "真实英文素材；50 款四图切换，白底主图与场景图已压缩。"
+    },
+    {
+      "file": "documents/overseas-progress/popsticker-20261107/live-detail-mobile.png",
+      "thumb": "documents/overseas-progress/popsticker-20261107/thumb-detail-mobile.webp",
+      "label": "PopSticker 四图详情 · 手机",
+      "status": "线上实拍 · 2026-11-07 · 待用户视觉验收",
+      "note": "真实英文素材；50 款四图切换，白底主图与场景图已压缩。"
     }
   ],
   "links": [
@@ -112,8 +140,8 @@
     }
   ],
   "workbench": {
-    "checkedAt": "2026-11-06T20:38+08:00",
-    "summary": "目录与品牌入口已上线；这轮把现状和证据重新整理清楚，未代你给客户发送任何沟通。",
+    "checkedAt": "2026-11-07T14:10+08:00",
+    "summary": "2026-11-07 更新 PopSticker 英文实物图与简洁四图详情，并完成该站线上交互回归；其他站点沿用各自注明日期的证据。",
     "sites": [
       {
         "key": "lab-hub",
@@ -137,10 +165,10 @@
         "key": "popsticker",
         "title": "PopSticker 在线选款",
         "url": "https://shanle-lab-popsticker.vercel.app/",
-        "status": "本轮线上可见",
-        "summary": "线上显示 68 款、19 类；共同价格已集中到页首。此截图如实保留首次访问的三步选款教程。",
-        "image": 2,
-        "detail": "已核对页面与截图；本轮没有逐项点选、生成及跨设备打开分享链接，因此不把完整业务链路标为通过。"
+        "status": "2026-11-07 更新已上线",
+        "summary": "68 款、19 类；14 个系列的 50 款使用新版白底图，点击产品可切换最多四张图片。首页展示少量场景，保留简洁选款。",
+        "image": 13,
+        "detail": "线上验证：搜索／筛选、图片切换、选款／Review／生成分享链接、同一浏览器打开分享页、CSV 数量导出与手机无横向溢出。328 个图库资源可访问。尚未做跨设备接收验收；本轮未复测 XLSX/PDF。"
       },
       {
         "key": "artsticker",
@@ -204,8 +232,8 @@
         "url": "https://shanle-lab-overseas.vercel.app/"
       },
       {
-        "title": "PopSticker 首次进入 · 手机",
-        "image": 10,
+        "title": "PopSticker 新版首页 · 手机",
+        "image": 15,
         "url": "https://shanle-lab-popsticker.vercel.app/"
       },
       {
@@ -227,6 +255,14 @@
       }
     ],
     "decisions": [
+      {
+        "date": "2026-11-07",
+        "title": "用压缩白底图与少量场景图做简洁产品详情",
+        "quote": "在网站上使用的时候要压缩一下再用……在简洁的页面下可以看到部分场景图，不用真的像详情页下拉无限长那样展示。",
+        "status": "已上线 · 待视觉验收",
+        "evidence": "使用所提供图片包，50 款对应白底图，详情最多四图切换；系列共用场景和总览明确标注。其余 18 款保留原图。",
+        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+      },
       {
         "date": "2026-10-29",
         "title": "币种由访客自己选择，默认 CNY＋USD",
@@ -264,8 +300,8 @@
       {
         "priority": "先做",
         "title": "把选款分享完整走一遍",
-        "body": "分别用 PopSticker、ArtSticker：选款 → Review selection → Create share link → 在另一设备打开。记录实际结果，确认对客文字与按钮名称一致。",
-        "status": "本轮待回归",
+        "body": "2026-11-07 已完成 PopSticker 选款 → Review → Create share link → 同浏览器打开分享页，及 CSV 数量导出。另一设备打开与 ArtSticker 回归仍待完成。",
+        "status": "PopSticker 同浏览器回归通过；跨设备与 ArtSticker 待验",
         "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
       },
       {
@@ -332,6 +368,13 @@
         "body": "归档 9 个桌面页面与 3 个手机视口，补入沟通文本、决定、待办及可直接接续的对话。",
         "source": "https://calfnai.github.io/shanlelab-workspace/#overseas-catalogs",
         "status": "本轮整理"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "PopSticker 白底主图与紧凑图库上线",
+        "body": "50 款 / 14 系列对应新版素材；选用的约 142 MB 原素材压缩至约 19 MB（含缩略图，按需加载）。保持 68 条产品数据、价格与分享格式；原 Vercel 网址已发布并线上验证。",
+        "source": "https://shanle-lab-popsticker.vercel.app/",
+        "status": "已上线 · 视觉接受待确认"
       }
     ],
     "resources": [

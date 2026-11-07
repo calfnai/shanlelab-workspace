@@ -1,0 +1,47 @@
+{
+  "live": true,
+  "products": 68,
+  "updatedProductGalleries": 50,
+  "photosPerGallery": 4,
+  "seriesFiltering": true,
+  "sceneSwitch": true,
+  "selection": true,
+  "share": true,
+  "csvQuantity": true,
+  "unmatchedFallback": true,
+  "mobileOverflow": false,
+  "mediaCheck": {
+    "sources": 328,
+    "missing": []
+  },
+  "errors": [],
+  "capturedAt": "2026-11-07T14:10+08:00",
+  "screenshots": [
+    {
+      "file": "documents/overseas-progress/popsticker-20261107/live-desktop.png",
+      "url": "https://shanle-lab-popsticker.vercel.app/",
+      "capturedAt": "2026-11-07T14:10+08:00",
+      "sha256": "816acc49da7efe48452bed75da5637a71a5d76dbfca7d1022f939feb5ffd4e2f"
+    },
+    {
+      "file": "documents/overseas-progress/popsticker-20261107/live-detail-desktop.png",
+      "url": "https://shanle-lab-popsticker.vercel.app/",
+      "capturedAt": "2026-11-07T14:10+08:00",
+      "sha256": "be20a8654304e55c4a417fb6b58eeeaab52b3e170ec63521faaa3be5f95fd1e0"
+    },
+    {
+      "file": "documents/overseas-progress/popsticker-20261107/live-mobile.png",
+      "url": "https://shanle-lab-popsticker.vercel.app/",
+      "capturedAt": "2026-11-07T14:10+08:00",
+      "sha256": "e806892b4a75f082adefa2bd34683ef7745d1565b9a434593582baa9ecf0f17d"
+    },
+    {
+      "file": "documents/overseas-progress/popsticker-20261107/live-detail-mobile.png",
+      "url": "https://shanle-lab-popsticker.vercel.app/",
+      "capturedAt": "2026-11-07T14:10+08:00",
+      "sha256": "ba1c969e5024ede9114fa2d36ed0e433239235b7dd5841e6a0ec059c96a6a1e7"
+    }
+  ],
+  "deployment": "dpl_EJ5hm2bydv35jzZkkgfLjx46VniH",
+  "status": "published, user visual acceptance pending"
+}
