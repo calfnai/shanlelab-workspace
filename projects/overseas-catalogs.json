@@ -7,7 +7,7 @@
   "conversation": "2ec10d3f",
   "conversationName": "SHANLE及SHANLE LAB产品列表与使用说明",
   "note": "这是持续维护项目，不以一次发布或一张图解标记完成。下方区分本轮线上可见、历史交付与尚待复核事项，所有截图和资源核对均注明日期。",
-  "currentFocus": "分类优先展示已上线并验证，等待用户复核；ArtSticker 材质分类口径仍待核准。",
+  "currentFocus": "补齐 International、Pimple Patches Box Asia 与 Catalog 2026 的统一 Header；13 个入口更新联系方式。A2/P2 两份 A4 双页选款纸已公开下载。包装结构英文图解仅放 PopSticker 定制页。",
   "items": [
     {
       "file": "documents/overseas-progress/screens/lab-hub-desktop.png",
@@ -239,6 +239,27 @@
       "label": "ArtSticker · 材质优先与授权分区",
       "status": "已上线并验证 · 待用户复核",
       "note": "分类改为 Show first，单选稳定排序，全部商品保留；切换分类清除关键词搜索。关键词搜索本身仍可找具体商品。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-completion-20261107/live-05-international.png",
+      "thumb": "documents/overseas-progress/catalog-completion-20261107/live-05-international.webp",
+      "label": "International · 统一导航",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "补齐 International、Pimple Patches Box Asia 与 Catalog 2026 的统一 Header；13 个入口更新联系方式。A2/P2 两份 A4 双页选款纸已公开下载。包装结构英文图解仅放 PopSticker 定制页。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-completion-20261107/live-06-pimple-patches-box-en-asia-mobile.png",
+      "thumb": "documents/overseas-progress/catalog-completion-20261107/live-06-pimple-patches-box-en-asia-mobile.webp",
+      "label": "Pimple Patches Box · 手机导航",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "补齐 International、Pimple Patches Box Asia 与 Catalog 2026 的统一 Header；13 个入口更新联系方式。A2/P2 两份 A4 双页选款纸已公开下载。包装结构英文图解仅放 PopSticker 定制页。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-completion-20261107/packaging-1440.png",
+      "thumb": "documents/overseas-progress/catalog-completion-20261107/packaging-1440.webp",
+      "label": "PopSticker · 英文包装结构",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "补齐 International、Pimple Patches Box Asia 与 Catalog 2026 的统一 Header；13 个入口更新联系方式。A2/P2 两份 A4 双页选款纸已公开下载。包装结构英文图解仅放 PopSticker 定制页。"
     }
   ],
   "links": [
@@ -252,8 +273,8 @@
     }
   ],
   "workbench": {
-    "checkedAt": "2026-11-07T14:29+08:00",
-    "summary": "分类按钮统一为 Show first：所选类型排前，全部商品继续显示。PopSticker 68款、ArtSticker 171款；Disney与Hasbro仍位于末尾独立分区。",
+    "checkedAt": "2026-11-07T15:16+08:00",
+    "summary": "补齐 International、Pimple Patches Box Asia 与 Catalog 2026 的统一 Header；13 个入口更新联系方式。A2/P2 两份 A4 双页选款纸已公开下载。包装结构英文图解仅放 PopSticker 定制页。",
     "sites": [
       {
         "key": "lab-hub",
@@ -295,10 +316,10 @@
         "key": "downloads",
         "title": "选款纸下载中心",
         "url": "https://shanle-lab-overseas.vercel.app/downloads/",
-        "status": "本轮线上可见",
-        "summary": "已上线色块与实物场景版入口；当前下载稿为 PopSticker 2 页、ArtSticker 4 页，两份均已下载并与本地发布版核对。",
+        "status": "2026-11-07 原稿上线并核验",
+        "summary": "采用用户指定 A2 ArtSticker、P2 PopSticker 原稿，两份均为 A4、2 页，公开下载逐字节一致。",
         "image": 4,
-        "detail": "截图为本次实际部署页面的视口记录。 本轮 Header 已统一，固定提供 Back to Hub。"
+        "detail": "原 PDF 内旧联系方式未改写；网页注明当前邮箱 sheris@jhteam.cn 与 WhatsApp +86 18520631763。"
       },
       {
         "key": "customization",
@@ -341,9 +362,27 @@
         "title": "PopSticker 独立定制",
         "url": "https://shanle-lab-overseas.vercel.app/customization/popsticker/",
         "status": "2026-11-07 已上线并验证",
-        "summary": "仅介绍 PU 皮革与背胶，独立 MOQ、报价、定制流程。800px 原图约51KB，最大400 CSS px展示。",
-        "image": 19,
-        "detail": "旧 #popsticker 锚点自动转入专用页面；桌面和手机已检查。 用户反馈后已移除首屏 Start your PopSticker brief 邮件按钮。 本轮 Header 已统一，固定提供 Back to Hub。"
+        "summary": "PopSticker · 英文包装结构",
+        "image": 35,
+        "detail": "13 个入口桌面/手机、翻页、联系方式与原 PDF 下载核对。包装图为非比例示意，不包含抽奖内卡或 MLBB 专属内容。"
+      },
+      {
+        "key": "international",
+        "title": "International · 统一导航",
+        "url": "https://shanlelab-international.vercel.app/#page-01",
+        "image": 33,
+        "status": "2026-11-07 已上线并验证",
+        "summary": "International · 统一导航",
+        "detail": "13 个入口桌面/手机、翻页、联系方式与原 PDF 下载核对。包装图为非比例示意，不包含抽奖内卡或 MLBB 专属内容。"
+      },
+      {
+        "key": "pimple-box",
+        "title": "Pimple Patches Box · 手机导航",
+        "url": "https://shanle-lab-pimple-patches-box-en-as.vercel.app/",
+        "image": 34,
+        "status": "2026-11-07 已上线并验证",
+        "summary": "Pimple Patches Box · 手机导航",
+        "detail": "13 个入口桌面/手机、翻页、联系方式与原 PDF 下载核对。包装图为非比例示意，不包含抽奖内卡或 MLBB 专属内容。"
       }
     ],
     "mobiles": [
@@ -376,6 +415,14 @@
       }
     ],
     "decisions": [
+      {
+        "date": "2026-11-07",
+        "title": "包装结构仅用于 PopSticker 定制介绍",
+        "quote": "PopSticker 的定制页面比较需要加入英文版包装说明，选款页面倒不是必须的",
+        "status": "已实施",
+        "evidence": "透明 PET 外壳、PU 贴纸、带挂孔纸背板三部分；贴纸数量按款式变化。移除抽奖内卡、兑奖与 MLBB 专属内容，选款页不增加说明区。",
+        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+      },
       {
         "date": "2026-11-07",
         "title": "英文选款纸采用 A2 与 P2",
@@ -465,7 +512,7 @@
       {
         "priority": "接着做",
         "title": "明确“动态导出最新版选款纸”的范围",
-        "body": "当前可下载的是 PopSticker 2 页和 ArtSticker 4 页的固定 PDF。继续这项需求前，确定导出全部、筛选或已选款，以及价格、语言和版式。",
+        "body": "当前可下载的是 PopSticker 2 页和 ArtSticker 2 页的固定 PDF。继续这项需求前，确定导出全部、筛选或已选款，以及价格、语言和版式。",
         "status": "已有需求 · 待落实",
         "source": "http://100.114.160.99:25808/#/conversation/a5bb2a81"
       },
@@ -568,6 +615,13 @@
         "body": "A2（ArtSticker）、P2（PopSticker）已确认采用；看稿页标记采用状态。联系信息已登记，PDF 内联系文字尚待另存修订。",
         "source": "http://100.114.160.99:50297/",
         "status": "用户已采用 · 联系信息待写入 PDF"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "补齐阅读器导航、原稿下载与定制包装说明",
+        "body": "补齐 International、Pimple Patches Box Asia 与 Catalog 2026 的统一 Header；13 个入口更新联系方式。A2/P2 两份 A4 双页选款纸已公开下载。包装结构英文图解仅放 PopSticker 定制页。 邮箱 sheris@jhteam.cn；WhatsApp +86 18520631763。两份原 PDF 保留旧印刷联系方式。",
+        "source": "https://shanle-lab-overseas.vercel.app/downloads/",
+        "status": "已上线并验证 · 待用户复核"
       }
     ],
     "resources": [
