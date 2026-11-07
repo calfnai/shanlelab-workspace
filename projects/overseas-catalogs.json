@@ -7,7 +7,7 @@
   "conversation": "2ec10d3f",
   "conversationName": "SHANLE及SHANLE LAB产品列表与使用说明",
   "note": "这是持续维护项目，不以一次发布或一张图解标记完成。下方区分本轮线上可见、历史交付与尚待复核事项，所有截图和资源核对均注明日期。",
-  "currentFocus": "补齐 International、Pimple Patches Box Asia 与 Catalog 2026 的统一 Header；13 个入口更新联系方式。A2/P2 两份 A4 双页选款纸已公开下载。包装结构英文图解仅放 PopSticker 定制页。",
+  "currentFocus": "分类优先改为明确分区：所选类别独立展示，结束后用全宽横向区域分隔其他款式，不在同排混排。六个选款页面统一；ArtSticker 授权分区仍固定在末尾。",
   "items": [
     {
       "file": "documents/overseas-progress/screens/lab-hub-desktop.png",
@@ -267,6 +267,20 @@
       "label": "ArtSticker · 英文包装组成图",
       "status": "已上线 · 待用户复核",
       "note": "依据选款纸与品牌手册：开窗纸外壳、透明 PET、贴纸、印刷背卡。组成说明非工程剖面；不同材质另行标注。仅更新定制页。"
+    },
+    {
+      "file": "documents/overseas-progress/priority-sections-20261107/live-emoji-sections.png",
+      "thumb": "documents/overseas-progress/priority-sections-20261107/live-emoji-sections.webp",
+      "label": "PopSticker · Emoji 独立区与其他款式分隔",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "所选分类独立成区；全宽标题带与其他产品分隔，禁止同排混入其他分类，全部款式保留。"
+    },
+    {
+      "file": "documents/overseas-progress/priority-sections-20261107/live-art-priority.png",
+      "thumb": "documents/overseas-progress/priority-sections-20261107/live-art-priority.webp",
+      "label": "ArtSticker · 材质分区与授权区",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "所选分类独立成区；全宽标题带与其他产品分隔，禁止同排混入其他分类，全部款式保留。"
     }
   ],
   "links": [
@@ -280,8 +294,8 @@
     }
   ],
   "workbench": {
-    "checkedAt": "2026-11-07T15:16+08:00",
-    "summary": "补齐 International、Pimple Patches Box Asia 与 Catalog 2026 的统一 Header；13 个入口更新联系方式。A2/P2 两份 A4 双页选款纸已公开下载。包装结构英文图解仅放 PopSticker 定制页。",
+    "checkedAt": "2026-11-07T15:23+08:00",
+    "summary": "分类优先改为明确分区：所选类别独立展示，结束后用全宽横向区域分隔其他款式，不在同排混排。六个选款页面统一；ArtSticker 授权分区仍固定在末尾。",
     "sites": [
       {
         "key": "lab-hub",
@@ -305,19 +319,19 @@
         "key": "popsticker",
         "title": "PopSticker 在线选款",
         "url": "https://shanle-lab-popsticker.vercel.app/",
-        "status": "2026-11-07 Show first 已上线",
+        "status": "分类独立分区已上线 · 待复核",
         "summary": "68 款；50 款新白底图。31 款有经核对的纯单款场景／近景；19 款仅白底图，其余 18 款沿用旧图。不再使用系列总览或混款背景。",
-        "image": 30,
-        "detail": "20个分类选项与3个场景入口逐一点击：始终显示68款，优先组顺序正确，已选商品保留；新图片映射沿用逐SKU审查结果。"
+        "image": 37,
+        "detail": "20个分类选项与3个场景入口逐一点击：始终显示68款，优先组顺序正确，已选商品保留；新图片映射沿用逐SKU审查结果。 2026-11-07 按用户纠正加入深绿分类标题与浅橙其他款式全宽分隔带，末排不混入其他款式。"
       },
       {
         "key": "artsticker",
         "title": "ArtSticker 在线选款",
         "url": "https://shanle-lab-artsticker-online-list.vercel.app/",
-        "status": "2026-11-07 Show first 已上线",
+        "status": "分类独立分区已上线 · 待复核",
         "summary": "普通系列152款、Disney15款、Hasbro小马宝莉4款，两个授权系列独立放在末尾并列明地区。",
-        "image": 32,
-        "detail": "6个材质选项逐一点击：始终显示171款，各分区内匹配类型优先，普通／Disney／Hasbro边界保持。"
+        "image": 38,
+        "detail": "6个材质选项逐一点击：始终显示171款，各分区内匹配类型优先，普通／Disney／Hasbro边界保持。 2026-11-07 按用户纠正加入深绿分类标题与浅橙其他款式全宽分隔带，末排不混入其他款式。"
       },
       {
         "key": "downloads",
@@ -422,6 +436,14 @@
       }
     ],
     "decisions": [
+      {
+        "date": "2026-11-07",
+        "title": "排在前面必须形成独立横向区域",
+        "quote": "要跟后面的不属于同款的有很大的区分一条横向区域的区分",
+        "status": "已实施 · 待视觉复核",
+        "evidence": "取代只排序方案。选中分类展示完整后留间距，其他款式由全宽色带开始，始终保留全部商品；授权区边界保持。",
+        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+      },
       {
         "date": "2026-11-07",
         "title": "包装结构仅用于 PopSticker 定制介绍",
@@ -643,6 +665,13 @@
         "body": "共同介绍页仅保留一次，后接定制说明与选款总览。邮箱及 WhatsApp 按用户提供信息更新；原文件保留。融合稿已生成，待用户审阅。",
         "source": "http://100.114.160.99:50297/#A5",
         "status": "融合稿已生成 · 待用户确认"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "纠正分类优先展示的视觉边界",
+        "body": "分类优先改为明确分区：所选类别独立展示，结束后用全宽横向区域分隔其他款式，不在同排混排。六个选款页面统一；ArtSticker 授权分区仍固定在末尾。 PopSticker Emoji 6款与其余62款分开。已测分类数量、分隔带整行宽度、前后卡片换行、选择保留及列表模式。",
+        "source": "https://shanle-lab-popsticker.vercel.app/",
+        "status": "已上线并验证 · 待用户复核"
       }
     ],
     "resources": [
