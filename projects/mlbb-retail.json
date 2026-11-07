@@ -186,13 +186,25 @@
       "thumb": "documents/mlbb-retail-progress/partner-reference/chinese-translation.png",
       "label": "合作方参考卡 · 原文完整中文图译",
       "status": "参考译图 · 非本款生产稿",
-      "note": "保留原卡5,000／1,000钻、隐藏版身份、网站/二维码、兑换前保管及之后官方销毁的完整原意；不改写为601钻。"
+      "note": "保留原卡5,000／1,000钻、隐藏版身份、网站/二维码、兑换前保管及之后官方销毁的完整原意；不改写为601钻。 译图内二维码失真不可用于扫码，请用单独高清二维码。"
+    },
+    {
+      "file": "documents/mlbb-retail-progress/qr-hd/qr.png",
+      "thumb": "documents/mlbb-retail-progress/qr-hd/qr.png",
+      "label": "高清兑奖二维码 · 1968px",
+      "status": "原地址重新编码 · 解码核对一致",
+      "note": "中文译图二维码失真不可用；从合作方原图解出地址后重新编码，保持同一WhatsApp地址。二维码图形与原图可不同，内容一致。"
     }
   ],
   "links": [
     {
       "label": "历史对外v4 · 兑换流程已修订",
       "href": "documents/mlbb-retail-progress/marscoolplay-v4.pdf",
+      "kind": "document"
+    },
+    {
+      "label": "高清兑奖二维码 · 同原码地址 / SVG矢量版",
+      "href": "documents/mlbb-retail-progress/qr-hd/qr.svg",
       "kind": "document"
     }
   ],
@@ -249,6 +261,10 @@
       }
     ],
     "history": [
+      {
+        "title": "高清二维码补充",
+        "detail": "核对译图二维码无法识别；原图地址成功解出，导出1968px PNG及SVG，解码结果与原地址一致。"
+      },
       {
         "title": "合作方原图中文翻译",
         "detail": "按用户要求直接在图片上翻译全部原卡文案，原奖额与身份保留，仅供理解对方原意。"
