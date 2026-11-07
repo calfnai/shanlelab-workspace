@@ -335,15 +335,29 @@
       "file": "documents/overseas-progress/pop-outline-fix-20261107/hub-1440.png",
       "thumb": "documents/overseas-progress/pop-outline-fix-20261107/hub-1440.webp",
       "label": "PopSticker首页 · 保留原图轮廓",
-      "status": "三地址已上线并检查 · 待用户查看",
-      "note": "首页三张旧图替换为真实白底产品原图，移除椭圆裁切与遮挡布局，保持原图比例。"
+      "status": "用户否决 · 历史白底方卡方案",
+      "note": "用户要求保留原创意，仅修正比例轮廓；此白底方卡处理已撤回，不作为当前成果。"
     },
     {
       "file": "documents/overseas-progress/pop-outline-fix-20261107/hub-390.png",
       "thumb": "documents/overseas-progress/pop-outline-fix-20261107/hub-390.webp",
       "label": "PopSticker首页 · 保留原图轮廓 · 手机",
-      "status": "三地址已上线并检查 · 待用户查看",
-      "note": "首页三张旧图替换为真实白底产品原图，移除椭圆裁切与遮挡布局，保持原图比例。"
+      "status": "用户否决 · 历史白底方卡方案",
+      "note": "用户要求保留原创意，仅修正比例轮廓；此白底方卡处理已撤回，不作为当前成果。"
+    },
+    {
+      "file": "documents/overseas-progress/pop-outline-concept-20261107/hub-1440.png",
+      "thumb": "documents/overseas-progress/pop-outline-concept-20261107/hub-1440.webp",
+      "label": "PopSticker · 恢复创意构图与标准轮廓",
+      "status": "已上线并检查 · 待用户查看",
+      "note": "保留蓝底、旋转错落、轨道线和橙色贴纸。使用用户标准图的外缘蒙版，移除椭圆近似；原创产品画面等比例显示。"
+    },
+    {
+      "file": "documents/overseas-progress/pop-outline-concept-20261107/hub-390.png",
+      "thumb": "documents/overseas-progress/pop-outline-concept-20261107/hub-390.webp",
+      "label": "PopSticker · 恢复创意构图与标准轮廓 · 手机",
+      "status": "已上线并检查 · 待用户查看",
+      "note": "保留蓝底、旋转错落、轨道线和橙色贴纸。使用用户标准图的外缘蒙版，移除椭圆近似；原创产品画面等比例显示。"
     }
   ],
   "links": [
@@ -365,26 +379,26 @@
     }
   ],
   "workbench": {
-    "checkedAt": "2026-11-07T16:26+08:00",
-    "summary": "已实际修正首页PopSticker轮廓：移除椭圆裁切，换用完整真实产品原图；Cloudflare及两个Vercel地址均已发布和检查。",
+    "checkedAt": "2026-11-07T16:31+08:00",
+    "summary": "按用户纠正恢复PopSticker首页原创意构图，只修正轮廓与比例；白底方卡方案已撤回。两平台及旧别名均已更新。",
     "sites": [
       {
         "key": "cloudflare-hub",
         "title": "Cloudflare 海外 Hub",
         "url": "https://shanle-lab-overseas.pages.dev/",
-        "status": "首页轮廓已纠正并上线 · 待用户查看",
+        "status": "原创意已恢复 · 标准轮廓已上线 · 待用户查看",
         "summary": "八个目录站点使用 pages.dev 地址；含选款、定制和下载入口。",
-        "image": 46,
-        "detail": "首页三张产品图改用完整真实产品照片，取消椭圆裁切。Cloudflare、Vercel海外及旧Indonesia别名均已检查桌面和手机端，新图已加载且保持原图宽高比。"
+        "image": 48,
+        "detail": "撤回白底方卡；保留原蓝底旋转错落构图。使用用户标准外缘蒙版，保持原图比例。三个生产地址、桌面和手机端已检查。"
       },
       {
         "key": "lab-hub",
         "title": "SHANLE LAB 海外 Hub",
         "url": "https://shanle-lab-overseas.vercel.app/",
-        "status": "首页轮廓已纠正并上线 · 待用户查看",
+        "status": "原创意已恢复 · 标准轮廓已上线 · 待用户查看",
         "summary": "系列导航、选款纸、定制与品牌资料入口已在线；页面可见 CNY／USD 等币种选项。",
-        "image": 46,
-        "detail": "首页三张产品图改用完整真实产品照片，取消椭圆裁切。Cloudflare、Vercel海外及旧Indonesia别名均已检查桌面和手机端，新图已加载且保持原图宽高比。"
+        "image": 48,
+        "detail": "撤回白底方卡；保留原蓝底旋转错落构图。使用用户标准外缘蒙版，保持原图比例。三个生产地址、桌面和手机端已检查。"
       },
       {
         "key": "shanle",
@@ -516,6 +530,14 @@
       }
     ],
     "decisions": [
+      {
+        "date": "2026-11-07",
+        "title": "修轮廓必须保留原创意",
+        "quote": "我叫你保持比例而已，你怎么把之前创作出来的这么好的概念，改成了白底的无聊东西？",
+        "status": "用户明确纠正 · 已实施",
+        "evidence": "白底方卡撤回；原创意构图恢复，标准蒙版替代椭圆。",
+        "source": "https://shanle-lab-overseas.pages.dev/"
+      },
       {
         "date": "2026-11-07",
         "title": "PopSticker标准轮廓固定，不得魔改",
@@ -862,6 +884,13 @@
         "body": "上一轮仅记录规范未改页面，本轮替换三张旧图、移除ellipse裁切，并使用无遮挡原图排列。三个生产地址、两个屏宽的图片加载、无裁切和原始比例检查通过。",
         "source": "https://shanle-lab-overseas.pages.dev/",
         "status": "已上线并检查 · 待用户查看"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "撤回白底方卡，恢复原创意并修正轮廓",
+        "body": "用户指出只要求保持比例，不能牺牲原概念。本轮恢复蓝底、错落旋转产品、轨道及橙色贴纸；外缘由标准原图提取，产品等比例显示。三个地址、六个视口检查通过。",
+        "source": "https://shanle-lab-overseas.pages.dev/",
+        "status": "已上线 · 待用户查看"
       }
     ],
     "resources": [

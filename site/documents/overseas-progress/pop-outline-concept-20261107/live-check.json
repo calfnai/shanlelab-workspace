@@ -1,0 +1,218 @@
+[
+  {
+    "host": "shanle-lab-overseas.vercel.app",
+    "width": 1440,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 330,
+        "h": 235,
+        "nw": 447,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 362,
+        "h": 258,
+        "nw": 449,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 316,
+        "h": 225,
+        "nw": 446,
+        "nh": 320
+      }
+    ]
+  },
+  {
+    "host": "shanle-lab-overseas.vercel.app",
+    "width": 390,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 164,
+        "h": 117,
+        "nw": 447,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 182,
+        "h": 129,
+        "nw": 449,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 164,
+        "h": 117,
+        "nw": 446,
+        "nh": 320
+      }
+    ]
+  },
+  {
+    "host": "shanle-lab-navigation-indonesia.vercel.app",
+    "width": 1440,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-navigation-indonesia.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 330,
+        "h": 235,
+        "nw": 447,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-navigation-indonesia.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 362,
+        "h": 258,
+        "nw": 449,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-navigation-indonesia.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 316,
+        "h": 225,
+        "nw": 446,
+        "nh": 320
+      }
+    ]
+  },
+  {
+    "host": "shanle-lab-navigation-indonesia.vercel.app",
+    "width": 390,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-navigation-indonesia.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 164,
+        "h": 117,
+        "nw": 447,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-navigation-indonesia.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 182,
+        "h": 129,
+        "nw": 449,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-navigation-indonesia.vercel.app/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 164,
+        "h": 117,
+        "nw": 446,
+        "nh": 320
+      }
+    ]
+  },
+  {
+    "host": "shanle-lab-overseas.pages.dev",
+    "width": 1440,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.pages.dev/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 330,
+        "h": 235,
+        "nw": 447,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.pages.dev/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 362,
+        "h": 258,
+        "nw": 449,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.pages.dev/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 316,
+        "h": 225,
+        "nw": 446,
+        "nh": 320
+      }
+    ]
+  },
+  {
+    "host": "shanle-lab-overseas.pages.dev",
+    "width": 390,
+    "facts": [
+      {
+        "src": "/hub-assets/SLL-POP-013.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.pages.dev/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 164,
+        "h": 117,
+        "nw": 447,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-005.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.pages.dev/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 182,
+        "h": 129,
+        "nw": 449,
+        "nh": 320
+      },
+      {
+        "src": "/hub-assets/SLL-POP-036.jpeg",
+        "clip": "none",
+        "mask": "url(\"https://shanle-lab-overseas.pages.dev/hub-assets/popsticker-standard-outline.svg\")",
+        "fit": "contain",
+        "w": 164,
+        "h": 117,
+        "nw": 446,
+        "nh": 320
+      }
+    ]
+  }
+]
