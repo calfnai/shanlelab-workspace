@@ -298,6 +298,10 @@
     {
       "label": "SHANLE LAB 海外目录",
       "href": "https://shanle-lab-overseas.vercel.app/"
+    },
+    {
+      "label": "ArtSticker A6 · 4页选款纸备份",
+      "href": "documents/overseas-selection-sheets/SHANLE-LAB-ArtSticker-Selection-Sheet-A6.pdf"
     }
   ],
   "workbench": {
@@ -344,10 +348,10 @@
         "key": "downloads",
         "title": "选款纸下载中心",
         "url": "https://shanle-lab-overseas.vercel.app/downloads/",
-        "status": "2026-11-07 原稿上线并核验",
-        "summary": "采用用户指定 A2 ArtSticker、P2 PopSticker 原稿，两份均为 A4、2 页，公开下载逐字节一致。",
+        "status": "2026-11-07 ArtSticker A6 已替换",
+        "summary": "ArtSticker 改用用户指定 A6：A4四页，包含定制说明与独立授权款式页。PopSticker P2保持两页。",
         "image": 4,
-        "detail": "原 PDF 内旧联系方式未改写；网页注明当前邮箱 sheris@jhteam.cn 与 WhatsApp +86 18520631763。"
+        "detail": "A6 原文件保存项目归档、Vercel公开下载与GitHub版本库备份；SHA-256校验一致，旧A2保留。"
       },
       {
         "key": "customization",
@@ -445,6 +449,14 @@
     "decisions": [
       {
         "date": "2026-11-07",
+        "title": "ArtSticker A6 取代 A2 作为当前选款纸",
+        "quote": "artsticker选款纸换用这个文件……你自己再备一份",
+        "status": "用户指定 · 已实施",
+        "evidence": "A6四页原稿完整保存；旧A2作为历史版本保留。PopSticker仍使用P2。",
+        "source": "https://shanle-lab-overseas.vercel.app/downloads/SHANLE-LAB-ArtSticker-Selection-Sheet-A6.pdf"
+      },
+      {
+        "date": "2026-11-07",
         "title": "ArtSticker 选款纸按授权分区，授权款置末页",
         "quote": "迪斯尼和 hasbro 的单独放在页面最后",
         "status": "用户要求已落实为 A6 稿 · 待审阅",
@@ -528,7 +540,7 @@
       {
         "priority": "先做",
         "title": "用户逐版审阅选款纸",
-        "body": "英文已确认 A2（ArtSticker）和 P2（PopSticker）；其余资料继续按编号和页码记录用户意见。联系信息登记为 sheris@jhteam.cn、WhatsApp +86 18520631763；原始 PDF 未改写。",
+        "body": "英文已确认 A6（ArtSticker，4页）和 P2（PopSticker）；其余资料继续按编号和页码记录用户意见。联系信息登记为 sheris@jhteam.cn、WhatsApp +86 18520631763；原始 PDF 未改写。",
         "status": "英文已选定；其余继续审阅",
         "source": "http://100.114.160.99:50297/"
       },
@@ -556,7 +568,7 @@
       {
         "priority": "接着做",
         "title": "明确“动态导出最新版选款纸”的范围",
-        "body": "当前可下载的是 PopSticker 2 页和 ArtSticker 2 页的固定 PDF。继续这项需求前，确定导出全部、筛选或已选款，以及价格、语言和版式。",
+        "body": "当前可下载的是 PopSticker 2 页和 ArtSticker 4 页的固定 PDF。继续这项需求前，确定导出全部、筛选或已选款，以及价格、语言和版式。",
         "status": "已有需求 · 待落实",
         "source": "http://100.114.160.99:25808/#/conversation/a5bb2a81"
       },
@@ -701,6 +713,13 @@
         "body": "主定制页入口标题由口号改为 POPSTICKER CUSTOMIZATION。专页保留侧视图，补斜前方、背面、双面印刷与沿虚线撕开提示。原资料未清楚显示撕开线，暂不将路线标到包装背面；已向用户询问位置。",
         "source": "https://shanle-lab-overseas.vercel.app/customization/popsticker/#packaging",
         "status": "已上线 · 局部路线位置待确认"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "ArtSticker 选款纸改用 A6 并留独立备份",
+        "body": "用户指定 A6 原稿，4页A4，下载入口已替换；原文件不改写。本地版本归档、公开下载、共享GitHub备份及校验值已保存，旧A2保留。",
+        "source": "https://shanle-lab-overseas.vercel.app/downloads/SHANLE-LAB-ArtSticker-Selection-Sheet-A6.pdf",
+        "status": "用户指定版本 · 上线校验完成"
       }
     ],
     "resources": [
