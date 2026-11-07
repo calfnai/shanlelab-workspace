@@ -260,6 +260,13 @@
       "label": "PopSticker · 英文包装结构",
       "status": "已上线并验证 · 待用户复核",
       "note": "补齐 International、Pimple Patches Box Asia 与 Catalog 2026 的统一 Header；13 个入口更新联系方式。A2/P2 两份 A4 双页选款纸已公开下载。包装结构英文图解仅放 PopSticker 定制页。"
+    },
+    {
+      "file": "documents/overseas-progress/artsticker-structure-20261107/structure.png",
+      "thumb": "documents/overseas-progress/artsticker-structure-20261107/structure.webp",
+      "label": "ArtSticker · 英文包装组成图",
+      "status": "已上线 · 待用户复核",
+      "note": "依据选款纸与品牌手册：开窗纸外壳、透明 PET、贴纸、印刷背卡。组成说明非工程剖面；不同材质另行标注。仅更新定制页。"
     }
   ],
   "links": [
@@ -327,8 +334,8 @@
         "url": "https://shanle-lab-overseas.vercel.app/customization/",
         "status": "本轮线上可见",
         "summary": "页面已呈现 PIPI、CHEWY、PUFFY、YOUNG 四种材质及品牌书图片入口；材料与流程可继续查看。",
-        "image": 5,
-        "detail": "PopSticker 已独立为单一 PU 材质页。ArtSticker 资料列 PIPI/Chewy/Puffy/Young，用户所述三种材质分类待核准，未擅自删除。 本轮 Header 已统一，固定提供 Back to Hub。"
+        "image": 36,
+        "detail": "PopSticker 已独立为单一 PU 材质页。ArtSticker 资料列 PIPI/Chewy/Puffy/Young，用户所述三种材质分类待核准，未擅自删除。 本轮 Header 已统一，固定提供 Back to Hub。 2026-11-07 补充英文包装组成图，保留原包装实图对照。"
       },
       {
         "key": "lifestyle",
@@ -622,6 +629,13 @@
         "body": "补齐 International、Pimple Patches Box Asia 与 Catalog 2026 的统一 Header；13 个入口更新联系方式。A2/P2 两份 A4 双页选款纸已公开下载。包装结构英文图解仅放 PopSticker 定制页。 邮箱 sheris@jhteam.cn；WhatsApp +86 18520631763。两份原 PDF 保留旧印刷联系方式。",
         "source": "https://shanle-lab-overseas.vercel.app/downloads/",
         "status": "已上线并验证 · 待用户复核"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "ArtSticker 定制页补充包装组成图",
+        "body": "以原选款纸包装图和品牌手册为依据，英文标注四项组成，并区分 PIPI、CHEWY、YOUNG 贴纸本体。未编造厚度、装配固定方式或固定贴纸数量。桌面与手机已核对。",
+        "source": "https://shanle-lab-overseas.vercel.app/customization/#packaging",
+        "status": "已上线 · 待用户复核"
       }
     ],
     "resources": [
