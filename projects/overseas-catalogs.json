@@ -438,6 +438,14 @@
     "decisions": [
       {
         "date": "2026-11-07",
+        "title": "ArtSticker 选款纸按授权分区，授权款置末页",
+        "quote": "迪斯尼和 hasbro 的单独放在页面最后",
+        "status": "用户要求已落实为 A6 稿 · 待审阅",
+        "evidence": "普通款在前；末页单列 Hasbro／My Little Pony 与 Disney。Hasbro 可售：中国大陆、新加坡、马来西亚、文莱、印度尼西亚、泰国、菲律宾、越南、老挝、柬埔寨、缅甸；Disney：China Mainland only。范围依据用户提供信息。",
+        "source": "http://100.114.160.99:50297/#A6"
+      },
+      {
+        "date": "2026-11-07",
         "title": "排在前面必须形成独立横向区域",
         "quote": "要跟后面的不属于同款的有很大的区分一条横向区域的区分",
         "status": "已实施 · 待视觉复核",
@@ -672,6 +680,13 @@
         "body": "分类优先改为明确分区：所选类别独立展示，结束后用全宽横向区域分隔其他款式，不在同排混排。六个选款页面统一；ArtSticker 授权分区仍固定在末尾。 PopSticker Emoji 6款与其余62款分开。已测分类数量、分隔带整行宽度、前后卡片换行、选择保留及列表模式。",
         "source": "https://shanle-lab-popsticker.vercel.app/",
         "status": "已上线并验证 · 待用户复核"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "A6 现场纸融合稿增加授权区域分组",
+        "body": "共4页：介绍、定制、普通款、授权款。原选款页115款全部保留，分为96款普通款、4款Hasbro、15款Disney；末页分别注明可售区域。联系信息沿用用户确认信息。原版及A5保留。",
+        "source": "http://100.114.160.99:50297/#A6",
+        "status": "新稿已生成 · 待用户审阅"
       }
     ],
     "resources": [
@@ -709,6 +724,11 @@
         "title": "ArtSticker 现场纸融合稿 A5",
         "detail": "3 页：介绍、定制说明、选款总览；支持放大。待用户审阅，需 Tailscale。",
         "href": "http://100.114.160.99:50297/#A5"
+      },
+      {
+        "title": "ArtSticker 授权分区融合稿 A6",
+        "detail": "4页；末页单列Hasbro与Disney及各自可售区域。原115款保留，待用户审阅。需Tailscale。",
+        "href": "http://100.114.160.99:50297/#A6"
       }
     ],
     "conversations": [
