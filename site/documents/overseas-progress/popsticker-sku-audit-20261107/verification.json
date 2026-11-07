@@ -1,0 +1,21 @@
+{
+  "live": true,
+  "products": 68,
+  "updatedProductImages": 50,
+  "exclusiveGalleries": 31,
+  "maxPhotosPerGallery": 2,
+  "seriesFiltering": true,
+  "sceneSwitch": true,
+  "selection": true,
+  "share": true,
+  "csvQuantity": true,
+  "unmatchedFallback": true,
+  "mobileOverflow": false,
+  "mediaCheck": {
+    "sources": 162,
+    "missing": []
+  },
+  "errors": [],
+  "deployment": "dpl_HDeABntQsp9AEEv1czJDVWUjE28r",
+  "visualReview": "50 SKU references reviewed; reject other SKU artwork even in the background. 31 exclusive two-photo galleries, 19 updated white-only images, 18 original images."
+}
