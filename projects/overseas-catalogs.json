@@ -755,6 +755,13 @@
         "body": "完成八个Pages站点发布及导航、选款分享、授权分区与手机布局检查。A6压缩91%，四页文字核对一致；原稿归档保留。国际目录仅Cloudflare下载副本压缩至9.8MB，47页保留。",
         "source": "https://shanle-lab-overseas.pages.dev/",
         "status": "已上线并检查 · 待用户查看"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "拟定 PopSticker 系列 KV 与电子产品手册",
+        "body": "已核对19系列68款，形成逐系列KV方向、正文与附件页序。按用户补充：主体横向，尾部可保留纵向选款纸、定制纸，并融合网站材质、包装和流程。当前仅策划稿，KV和完整PDF尚未制作。",
+        "source": "documents/popsticker-handbook/plan-v01.md",
+        "status": "策划v01已拟 · 待审阅"
       }
     ],
     "resources": [
@@ -802,6 +809,11 @@
         "title": "ArtSticker 授权分区融合稿 A6",
         "detail": "4页；末页单列Hasbro与Disney及各自可售区域。原115款保留，待用户审阅。需Tailscale。",
         "href": "http://100.114.160.99:50297/#A6"
+      },
+      {
+        "title": "PopSticker 产品手册策划 v01",
+        "detail": "19系列68款；横向正文＋纵向选款／定制附件。策划初稿，非完整成品。",
+        "href": "documents/popsticker-handbook/plan-v01.md"
       }
     ],
     "conversations": [
