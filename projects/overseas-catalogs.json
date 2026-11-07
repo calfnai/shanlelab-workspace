@@ -365,6 +365,13 @@
     "tasks": [
       {
         "priority": "先做",
+        "title": "用户逐版审阅选款纸",
+        "body": "按 P1–P5、A1–A4、C1 和页码逐个记录用户意见；当前下载状态不视为用户批准。",
+        "status": "等待用户审阅",
+        "source": "http://100.114.160.99:50297/"
+      },
+      {
+        "priority": "先做",
         "title": "把选款分享完整走一遍",
         "body": "2026-11-07 已完成 PopSticker 选款 → Review → Create share link → 同浏览器打开分享页，及 CSV 数量导出。另一设备打开与 ArtSticker 回归仍待完成。",
         "status": "PopSticker 同浏览器回归通过；跨设备与 ArtSticker 待验",
@@ -462,6 +469,13 @@
         "body": "用户认为 Start your PopSticker brief 跳转没有必要。已移除首屏该按钮，保留定制说明，线上已验证。",
         "source": "https://shanle-lab-overseas.vercel.app/customization/popsticker/",
         "status": "已上线"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "整理选款纸逐版看稿页面",
+        "body": "原始稿、历史排版与当前下载文件共 10 份／28 页，保留固定编号、高清缩放及原文件入口。由用户逐个判断；本次未选择或替换任何版本。历史 ArtSticker 15 页文件尚未找到。",
+        "source": "http://100.114.160.99:50297/",
+        "status": "看稿页已生成 · 待用户逐版确认"
       }
     ],
     "resources": [
@@ -489,6 +503,11 @@
         "title": "完整进度记录 Markdown",
         "detail": "包含现状、决定、待办与接续入口",
         "href": "documents/overseas-progress/progress-record.md"
+      },
+      {
+        "title": "选款纸逐版看稿",
+        "detail": "10 份／28 页；点击放大、查看原文件及填写本机备注。需连接 Tailscale，本机预览服务运行期间可用。",
+        "href": "http://100.114.160.99:50297/"
       }
     ],
     "conversations": [
