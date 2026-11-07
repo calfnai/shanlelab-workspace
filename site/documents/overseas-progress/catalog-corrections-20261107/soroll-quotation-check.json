@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "SLL-SE-048",
+    "sourceRow": 163,
+    "wholesale": 12.8,
+    "retail": 49.9,
+    "matches": true
+  },
+  {
+    "sku": "SLL-SE-049",
+    "sourceRow": 164,
+    "wholesale": 12.8,
+    "retail": 49.9,
+    "matches": true
+  },
+  {
+    "sku": "SLL-SE-050",
+    "sourceRow": 165,
+    "wholesale": 12.8,
+    "retail": 49.9,
+    "matches": true
+  },
+  {
+    "sku": "SLL-SE-051",
+    "sourceRow": 166,
+    "wholesale": 12.8,
+    "retail": 49.9,
+    "matches": true
+  },
+  {
+    "sku": "SLL-SE-052",
+    "sourceRow": 167,
+    "wholesale": 12.8,
+    "retail": 49.9,
+    "matches": true
+  },
+  {
+    "sku": "SLL-SE-053",
+    "sourceRow": 168,
+    "wholesale": 12.8,
+    "retail": 49.9,
+    "matches": true
+  },
+  {
+    "sku": "SLL-SE-054",
+    "sourceRow": 169,
+    "wholesale": 12.8,
+    "retail": 49.9,
+    "matches": true
+  },
+  {
+    "sku": "SLL-SE-055",
+    "sourceRow": 170,
+    "wholesale": 12.8,
+    "retail": 49.9,
+    "matches": true
+  }
+]

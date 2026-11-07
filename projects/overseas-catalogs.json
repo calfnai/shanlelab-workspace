@@ -7,7 +7,7 @@
   "conversation": "2ec10d3f",
   "conversationName": "SHANLE及SHANLE LAB产品列表与使用说明",
   "note": "这是持续维护项目，不以一次发布或一张图解标记完成。下方区分本轮线上可见、历史交付与尚待复核事项，所有截图和资源核对均注明日期。",
-  "currentFocus": "PopSticker 混款详情已纠正并上线，等待用户复核；其他目录既有待办继续保留。",
+  "currentFocus": "PopSticker 独立定制页、高清图和 ArtSticker IP 可售地区已上线；ArtSticker 三种材质的分类口径待核准。",
   "items": [
     {
       "file": "documents/overseas-progress/screens/lab-hub-desktop.png",
@@ -141,6 +141,41 @@
       "label": "Eyes Ears Mouth · 仅保留白底图",
       "status": "线上实拍 · 单款内容纠错后 · 待用户复核",
       "note": "逐款视觉比对；图片中出现其他 SKU 即不纳入详情。31 款有专属场景／近景，19 款只保留新白底，18 款沿用旧图。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-corrections-20261107/live-pop-customization.png",
+      "thumb": "documents/overseas-progress/catalog-corrections-20261107/pop-customization.webp",
+      "label": "PopSticker 独立定制页 · 高清原图",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "2026-11-07 实际线上页面截图。PopSticker 单一 PU 材质；ArtSticker IP 销售地区依据用户指定范围；Soroll 8 款与新附件一致。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-corrections-20261107/live-pop-mobile.png",
+      "thumb": "documents/overseas-progress/catalog-corrections-20261107/pop-mobile.webp",
+      "label": "PopSticker 定制页 · 手机",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "2026-11-07 实际线上页面截图。PopSticker 单一 PU 材质；ArtSticker IP 销售地区依据用户指定范围；Soroll 8 款与新附件一致。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-corrections-20261107/live-art-territories.png",
+      "thumb": "documents/overseas-progress/catalog-corrections-20261107/art-territories.webp",
+      "label": "ArtSticker · IP 可售地区提示",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "2026-11-07 实际线上页面截图。PopSticker 单一 PU 材质；ArtSticker IP 销售地区依据用户指定范围；Soroll 8 款与新附件一致。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-corrections-20261107/live-soroll-price.png",
+      "thumb": "documents/overseas-progress/catalog-corrections-20261107/soroll-price.webp",
+      "label": "Soroll · 报价表核对",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "2026-11-07 实际线上页面截图。PopSticker 单一 PU 材质；ArtSticker IP 销售地区依据用户指定范围；Soroll 8 款与新附件一致。"
+    },
+    {
+      "file": "documents/overseas-progress/catalog-corrections-20261107/live-art-mobile.png",
+      "thumb": "documents/overseas-progress/catalog-corrections-20261107/art-mobile.webp",
+      "label": "ArtSticker 地区提示 · 手机",
+      "status": "已上线并验证 · 待用户复核",
+      "note": "2026-11-07 实际线上页面截图。PopSticker 单一 PU 材质；ArtSticker IP 销售地区依据用户指定范围；Soroll 8 款与新附件一致。"
     }
   ],
   "links": [
@@ -154,17 +189,17 @@
     }
   ],
   "workbench": {
-    "checkedAt": "2026-11-07T14:22+08:00",
-    "summary": "PopSticker 前版错误地把同系列混款图放入单款详情；现已逐款视觉重审并上线修正。31 款保留专属场景／近景，其余保持单图，不凑固定张数。",
+    "checkedAt": "2026-11-07T14:29+08:00",
+    "summary": "海外入口已更新；PopSticker 拆为单材质定制页并替换高清图。ArtSticker 添加 IP 可售地区，Soroll 8 款已按附件核对。",
     "sites": [
       {
         "key": "lab-hub",
         "title": "SHANLE LAB 海外 Hub",
         "url": "https://shanle-lab-overseas.vercel.app/",
-        "status": "本轮线上可见",
+        "status": "2026-11-07 已更新海外入口",
         "summary": "系列导航、选款纸、定制与品牌资料入口已在线；页面可见 CNY／USD 等币种选项。",
         "image": 0,
-        "detail": "截图为本次实际部署页面的视口记录。"
+        "detail": "目录定制链接改用 overseas；旧 Indonesia 入口兼容，两个别名本轮均已核对。"
       },
       {
         "key": "shanle",
@@ -188,10 +223,10 @@
         "key": "artsticker",
         "title": "ArtSticker 在线选款",
         "url": "https://shanle-lab-artsticker-online-list.vercel.app/",
-        "status": "本轮线上可见",
-        "summary": "线上显示 171 款、5 类，产品卡可见图、货号、规格与价格，提供多选入口。",
-        "image": 3,
-        "detail": "已核对页面与截图；本轮没有逐项点选、生成及跨设备打开分享链接，因此不把完整业务链路标为通过。"
+        "status": "2026-11-07 IP 地区说明已上线",
+        "summary": "171 款；列表前与相关单品详情增加小马宝莉／Disney 可售地区。Soroll 8 款批发与零售价均与用户新附件一致。",
+        "image": 21,
+        "detail": "线上确认地区文字、Soroll 详情价格、手机无横向溢出。"
       },
       {
         "key": "downloads",
@@ -209,7 +244,7 @@
         "status": "本轮线上可见",
         "summary": "页面已呈现 PIPI、CHEWY、PUFFY、YOUNG 四种材质及品牌书图片入口；材料与流程可继续查看。",
         "image": 5,
-        "detail": "截图为本次实际部署页面的视口记录。"
+        "detail": "PopSticker 已独立为单一 PU 材质页。ArtSticker 资料列 PIPI/Chewy/Puffy/Young，用户所述三种材质分类待核准，未擅自删除。"
       },
       {
         "key": "lifestyle",
@@ -237,6 +272,15 @@
         "summary": "线上显示 3 款解压贴纸，可见批发／零售参考价与 MOQ。",
         "image": 8,
         "detail": "截图为本次实际部署页面的视口记录。"
+      },
+      {
+        "key": "pop-customization",
+        "title": "PopSticker 独立定制",
+        "url": "https://shanle-lab-overseas.vercel.app/customization/popsticker/",
+        "status": "2026-11-07 已上线并验证",
+        "summary": "仅介绍 PU 皮革与背胶，独立 MOQ、报价、定制流程。800px 原图约51KB，最大400 CSS px展示。",
+        "image": 19,
+        "detail": "旧 #popsticker 锚点自动转入专用页面；桌面和手机已检查。"
       }
     ],
     "mobiles": [
@@ -404,6 +448,13 @@
         "body": "取消所有系列封面和混款场景，修正错配；图片数量按真实可用内容决定。两个截图案例已专项检查，原网址已更新。",
         "source": "https://shanle-lab-popsticker.vercel.app/",
         "status": "纠错已上线 · 待用户复核"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "修正定制入口、推广图清晰度与 IP 销售范围",
+        "body": "替换低清图，PopSticker 定制入口改到海外独立单材质页；ArtSticker 显示用户指定的 IP 地区。Soroll 8 款按新附件逐项核对一致，无需改价。",
+        "source": "https://shanle-lab-overseas.vercel.app/customization/popsticker/",
+        "status": "线上已验证 · 待用户复核"
       }
     ],
     "resources": [

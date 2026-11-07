@@ -1,0 +1,17 @@
+{
+  "image": {
+    "natural": 800,
+    "display": 400
+  },
+  "popSingleMaterial": true,
+  "overseasLinks": [
+    "https://shanle-lab-overseas.vercel.app/customization/popsticker/",
+    "https://shanle-lab-overseas.vercel.app/customization/popsticker/"
+  ],
+  "sorollItems": 8,
+  "sorollWholesale": 12.8,
+  "sorollRetail": 49.9,
+  "territoryNotice": true,
+  "mobileOverflow": false,
+  "errors": []
+}

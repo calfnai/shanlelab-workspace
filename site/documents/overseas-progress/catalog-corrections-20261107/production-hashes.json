@@ -1,0 +1,14 @@
+[
+  {
+    "host": "shanle-lab-overseas.vercel.app",
+    "matchesLocal": true
+  },
+  {
+    "host": "shanle-lab-artsticker-online-list.vercel.app",
+    "matchesLocal": true
+  },
+  {
+    "host": "shanle-lab-popsticker.vercel.app",
+    "matchesLocal": true
+  }
+]
