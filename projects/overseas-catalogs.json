@@ -309,6 +309,27 @@
       "label": "玩乐态度 · 横向KV v01",
       "status": "AI视觉稿已生成 · 待用户审阅",
       "note": "3款；真实产品参考的AI视觉稿。细小印刷与包装细节待正式成稿复核。"
+    },
+    {
+      "file": "documents/overseas-progress/pop-temu-details-20261107/eyes-detail.png",
+      "thumb": "documents/overseas-progress/pop-temu-details-20261107/eyes-detail.webp",
+      "label": "PopSticker · 单款材质特写",
+      "status": "Vercel与Cloudflare已上线 · 待用户查看",
+      "note": "v08逐款核对后加入41张材质特写及20张单款场景图；每款最多3张，排除混款整图。"
+    },
+    {
+      "file": "documents/overseas-progress/pop-temu-details-20261107/cat-detail.png",
+      "thumb": "documents/overseas-progress/pop-temu-details-20261107/cat-detail.webp",
+      "label": "PopSticker · Kitty Holiday 原图细节",
+      "status": "Vercel与Cloudflare已上线 · 待用户查看",
+      "note": "v08逐款核对后加入41张材质特写及20张单款场景图；每款最多3张，排除混款整图。"
+    },
+    {
+      "file": "documents/overseas-progress/pop-temu-details-20261107/cat-mobile.png",
+      "thumb": "documents/overseas-progress/pop-temu-details-20261107/cat-mobile.webp",
+      "label": "PopSticker · 手机详情图集",
+      "status": "Vercel与Cloudflare已上线 · 待用户查看",
+      "note": "v08逐款核对后加入41张材质特写及20张单款场景图；每款最多3张，排除混款整图。"
     }
   ],
   "links": [
@@ -330,8 +351,8 @@
     }
   ],
   "workbench": {
-    "checkedAt": "2026-11-07T16:00+08:00",
-    "summary": "Cloudflare 独立版本已上线，Vercel继续保留；A6压缩至1.46MB，原稿另存。",
+    "checkedAt": "2026-11-07T16:13+08:00",
+    "summary": "PopSticker从v08补充61张经SKU核对的细节及场景图，覆盖41款；Vercel与Cloudflare均已更新并检查。",
     "sites": [
       {
         "key": "cloudflare-hub",
@@ -364,10 +385,10 @@
         "key": "popsticker",
         "title": "PopSticker 在线选款",
         "url": "https://shanle-lab-popsticker.vercel.app/",
-        "status": "分类独立分区已上线 · 待复核",
-        "summary": "68 款；50 款新白底图。31 款有经核对的纯单款场景／近景；19 款仅白底图，其余 18 款沿用旧图。不再使用系列总览或混款背景。",
-        "image": 37,
-        "detail": "20个分类选项与3个场景入口逐一点击：始终显示68款，优先组顺序正确，已选商品保留；新图片映射沿用逐SKU审查结果。 2026-11-07 按用户纠正加入深绿分类标题与浅橙其他款式全宽分隔带，末排不混入其他款式。"
+        "status": "v08单款详情图已上线 · 待用户查看",
+        "summary": "68款；保留50款新白底图，补充v08的41张材质特写与20张单款场景图。54款有多图详情，每款最多3张。",
+        "image": 43,
+        "detail": "已浏览v08全部193张候选并按SKU核对，排除混款主图、参数页和系列细节页。61张新增图逐张切换并检查加载；两站各41款通过，桌面和手机版缩略图保持单排。原图不改动。"
       },
       {
         "key": "artsticker",
@@ -481,6 +502,14 @@
       }
     ],
     "decisions": [
+      {
+        "date": "2026-11-07",
+        "title": "复用v08图片补充PopSticker详情",
+        "quote": "这堆图你没用上吗？可作为popsticker的详情",
+        "status": "用户建议 · 已实施",
+        "evidence": "逐SKU核对，只使用单款图片，不将系列混款整图塞入某一款详情。",
+        "source": "https://shanle-lab-popsticker.pages.dev/"
+      },
       {
         "date": "2026-11-07",
         "title": "先使用Cloudflare默认域名",
@@ -783,6 +812,13 @@
         "body": "v08的15个上架组归并为12系列41款；情绪小绿喵、哈基米假日、液体喵已有主图及场景，改为优先复用。心动创可贴与玩乐态度两张横向AI KV v01已生成，待审阅；完整手册尚未完成。",
         "source": "documents/popsticker-handbook/plan-v02.md",
         "status": "KV已生成 · 待审阅"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "PopSticker接入Temu v08单款详情素材",
+        "body": "从193张候选中选61张，覆盖41款；新增41张材质近照及20张单款场景，网页图约11.5MB。两站逐张加载与切换通过，54款现有多图详情。",
+        "source": "https://shanle-lab-popsticker.pages.dev/",
+        "status": "两站已上线并检查 · 待用户查看"
       }
     ],
     "resources": [
