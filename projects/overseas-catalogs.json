@@ -281,6 +281,13 @@
       "label": "ArtSticker · 材质分区与授权区",
       "status": "已上线并验证 · 待用户复核",
       "note": "所选分类独立成区；全宽标题带与其他产品分隔，禁止同排混入其他分类，全部款式保留。"
+    },
+    {
+      "file": "documents/overseas-progress/pop-packaging-views-20261107/views.png",
+      "thumb": "documents/overseas-progress/pop-packaging-views-20261107/views.webp",
+      "label": "PopSticker · 正背面与双面印刷说明",
+      "status": "已上线 · 撕开路线位置待确认",
+      "note": "保留侧视结构，新增约45°斜前方与背面示意；明确同一张背卡双面印刷。开封提示采用独立虚线局部示意，未猜测包装上的路线位置。"
     }
   ],
   "links": [
@@ -384,8 +391,8 @@
         "url": "https://shanle-lab-overseas.vercel.app/customization/popsticker/",
         "status": "2026-11-07 已上线并验证",
         "summary": "PopSticker · 英文包装结构",
-        "image": 35,
-        "detail": "13 个入口桌面/手机、翻页、联系方式与原 PDF 下载核对。包装图为非比例示意，不包含抽奖内卡或 MLBB 专属内容。"
+        "image": 39,
+        "detail": "13 个入口桌面/手机、翻页、联系方式与原 PDF 下载核对。包装图为非比例示意，不包含抽奖内卡或 MLBB 专属内容。 补充斜前视图、背面、背卡双面印刷及开封说明；准确撕开线位置待用户确认。"
       },
       {
         "key": "international",
@@ -687,6 +694,13 @@
         "body": "共4页：介绍、定制、普通款、授权款。原选款页115款全部保留，分为96款普通款、4款Hasbro、15款Disney；末页分别注明可售区域。联系信息沿用用户确认信息。原版及A5保留。",
         "source": "http://100.114.160.99:50297/#A6",
         "status": "新稿已生成 · 待用户审阅"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "PopSticker 定制入口和包装说明更清楚",
+        "body": "主定制页入口标题由口号改为 POPSTICKER CUSTOMIZATION。专页保留侧视图，补斜前方、背面、双面印刷与沿虚线撕开提示。原资料未清楚显示撕开线，暂不将路线标到包装背面；已向用户询问位置。",
+        "source": "https://shanle-lab-overseas.vercel.app/customization/popsticker/#packaging",
+        "status": "已上线 · 局部路线位置待确认"
       }
     ],
     "resources": [
