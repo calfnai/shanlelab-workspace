@@ -288,9 +288,20 @@
       "label": "PopSticker · 正背面与双面印刷说明",
       "status": "已上线 · 撕开路线位置待确认",
       "note": "保留侧视结构，新增约45°斜前方与背面示意；明确同一张背卡双面印刷。开封提示采用独立虚线局部示意，未猜测包装上的路线位置。"
+    },
+    {
+      "file": "documents/overseas-progress/cloudflare-20261107/hub-desktop.png",
+      "thumb": "documents/overseas-progress/cloudflare-20261107/hub-desktop.webp",
+      "label": "Cloudflare 海外 Hub",
+      "status": "已上线 · 自动检查通过 · 待用户查看",
+      "note": "八个独立 Pages 站点；站内导航与分享链接使用 Cloudflare 地址，Vercel 版本保留。"
     }
   ],
   "links": [
+    {
+      "label": "Cloudflare 海外 Hub",
+      "href": "https://shanle-lab-overseas.pages.dev/"
+    },
     {
       "label": "SHANLE 产品目录",
       "href": "https://shanle-product-catalog-vercel.vercel.app/"
@@ -305,9 +316,18 @@
     }
   ],
   "workbench": {
-    "checkedAt": "2026-11-07T15:23+08:00",
-    "summary": "分类优先改为明确分区：所选类别独立展示，结束后用全宽横向区域分隔其他款式，不在同排混排。六个选款页面统一；ArtSticker 授权分区仍固定在末尾。",
+    "checkedAt": "2026-11-07T16:00+08:00",
+    "summary": "Cloudflare 独立版本已上线，Vercel继续保留；A6压缩至1.46MB，原稿另存。",
     "sites": [
+      {
+        "key": "cloudflare-hub",
+        "title": "Cloudflare 海外 Hub",
+        "url": "https://shanle-lab-overseas.pages.dev/",
+        "status": "已上线 · 待用户查看",
+        "summary": "八个目录站点使用 pages.dev 地址；含选款、定制和下载入口。",
+        "image": 40,
+        "detail": "已检查八站页面、站内链接、PopSticker 68款与分享链接、ArtSticker 171款及授权分区、Hub手机布局。"
+      },
       {
         "key": "lab-hub",
         "title": "SHANLE LAB 海外 Hub",
@@ -351,7 +371,7 @@
         "status": "2026-11-07 ArtSticker A6 已替换",
         "summary": "ArtSticker 改用用户指定 A6：A4四页，包含定制说明与独立授权款式页。PopSticker P2保持两页。",
         "image": 4,
-        "detail": "A6 原文件保存项目归档、Vercel公开下载与GitHub版本库备份；SHA-256校验一致，旧A2保留。"
+        "detail": "A6 网页下载版经 PDF Squeezer 压缩为1.46MB，四页文字一致；原16.84MB文件另存本地与GitHub备份。Vercel与Cloudflare下载文件逐字节一致。"
       },
       {
         "key": "customization",
@@ -447,6 +467,14 @@
       }
     ],
     "decisions": [
+      {
+        "date": "2026-11-07",
+        "title": "先使用Cloudflare默认域名",
+        "quote": "不考虑域名问题，可以做一份Cloudflare版本",
+        "status": "已实施",
+        "evidence": "独立Cloudflare副本；现有Vercel保留，未绑定自有域名。",
+        "source": "https://shanle-lab-overseas.pages.dev/"
+      },
       {
         "date": "2026-11-07",
         "title": "ArtSticker A6 取代 A2 作为当前选款纸",
@@ -720,9 +748,21 @@
         "body": "用户指定 A6 原稿，4页A4，下载入口已替换；原文件不改写。本地版本归档、公开下载、共享GitHub备份及校验值已保存，旧A2保留。",
         "source": "https://shanle-lab-overseas.vercel.app/downloads/SHANLE-LAB-ArtSticker-Selection-Sheet-A6.pdf",
         "status": "用户指定版本 · 上线校验完成"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "Cloudflare独立版本与A6压缩版上线",
+        "body": "完成八个Pages站点发布及导航、选款分享、授权分区与手机布局检查。A6压缩91%，四页文字核对一致；原稿归档保留。国际目录仅Cloudflare下载副本压缩至9.8MB，47页保留。",
+        "source": "https://shanle-lab-overseas.pages.dev/",
+        "status": "已上线并检查 · 待用户查看"
       }
     ],
     "resources": [
+      {
+        "title": "ArtSticker A6 网页压缩版",
+        "detail": "1.46MB，PDF Squeezer压缩；四页内容，原始大文件另存。",
+        "href": "https://shanle-lab-overseas.pages.dev/downloads/SHANLE-LAB-ArtSticker-Selection-Sheet-A6.pdf"
+      },
       {
         "title": "PopSticker 选款纸",
         "detail": "2 页 · 在线文件与本地发布版一致",
