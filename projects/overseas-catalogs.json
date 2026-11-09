@@ -407,6 +407,13 @@
       "label": "网站正反面包装图解已融入手册",
       "status": "已编入v02 · 待用户审阅",
       "note": "包装侧视、同一张背卡双面印刷及开封说明来自用户指定定制页。"
+    },
+    {
+      "file": "documents/artsticker-handbook/v01/ArtSticker-Handbook-Preview-v01.jpg",
+      "thumb": "documents/artsticker-handbook/v01/ArtSticker-Handbook-Preview-v01.webp",
+      "label": "ArtSticker 完整产品手册 v01 · 110页重点预览",
+      "status": "已生成 · 待用户审阅 · 2026-11-09",
+      "note": "42个系列/目录分组KV、171款完整展示，网站材质/包装内容、定制与8页纵向附录；Hasbro/Disney末尾分区。两款源名称待确认，原稿/现行A6保留。"
     }
   ],
   "links": [
@@ -969,9 +976,36 @@
         "body": "v02扩展至57页。清理KV中覆盖标题的品牌色条与液体喵底部残缺标志，玩乐态度等重做连续背景并保留真实产品。补齐STICK ON FASHION! STICK WITH PASSION!及STICKER, NOW IN LEATHER!。直接融入当前定制页的包装侧视、正反面、开封、流程和订单信息；MOQ同步网页现行5000件/款。19系列68款仍齐全，待用户审阅。",
         "source": "documents/popsticker-handbook/complete-v02/PopSticker-Complete-Product-Handbook-v02.pdf",
         "status": "修订稿已生成并检查 · 待用户审阅"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "ArtSticker 产品手册 v01 已生成",
+        "body": "110页（102横向＋8纵向）、42个系列/分组KV、171个不同SKU。复用真实产品图和网站材质/包装/定制内容；全部SKU在主产品页和选款附录各收录一次，42个目录跳转通过。Hasbro4款、Disney15款在末尾分区。两款源名称TBD保留待确认；四款面包设计按包装可见名称区分。保留现行A6，不自动替代用户选择。",
+        "source": "documents/artsticker-handbook/v01/index.html",
+        "status": "已生成并检查 · 待用户视觉审阅"
       }
     ],
     "resources": [
+      {
+        "title": "ArtSticker 产品手册 v01 · 在线预览",
+        "detail": "完整110页、42张KV、171款；材质／包装／定制和纵向选款；生成待审阅。",
+        "href": "documents/artsticker-handbook/v01/index.html"
+      },
+      {
+        "title": "ArtSticker 完整产品手册 v01 · PDF",
+        "detail": "102横向＋8纵向；42个可点击目录；171个不同SKU；30.6MB。",
+        "href": "documents/artsticker-handbook/v01/ArtSticker-Complete-Product-Handbook-v01.pdf"
+      },
+      {
+        "title": "ArtSticker 42张独立KV · ZIP",
+        "detail": "真实产品原图编排，各目录分组一张；约7.7MB。",
+        "href": "documents/artsticker-handbook/v01/ArtSticker-42-Collection-KVs-v01.zip"
+      },
+      {
+        "title": "ArtSticker 全部42张KV总览",
+        "detail": "查看整组视觉；v01待用户审阅。",
+        "href": "documents/artsticker-handbook/v01/ArtSticker-42-Collection-KV-Overview-v01.jpg"
+      },
       {
         "title": "PopSticker 完整产品手册 v02 · 57页",
         "detail": "修复盖标及拼接，补齐两组完整口号和当前网站图解；19系列68款。",
