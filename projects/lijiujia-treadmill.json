@@ -2,11 +2,11 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "已撤下用户否决的居家图，正在按原模型重绘。Option 1／200㎡使用图为已确认外观；爬坡饰板修订待验收。",
+  "description": "已删除用户否决的8张居家图及旧爬坡图。Option 2重新生成5张版面，成人、儿童及折叠状态直接展开；Option 1饰板修订待验收。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "错误图不再展示；新版按原扶手长度、原轴位与全域跑台重绘中。",
-  "currentFocus": "以已确认外观和原模型重新锁定扶手、轴心及部件长度；先纠正折叠关系，再恢复居家状态图。Option 3仍待资料。",
+  "note": "新修订均待用户验收。Option 1的80/130/200㎡收折图已删除，正确扶手翻转方向待用户确认后重绘；已确认的200㎡使用图保留。",
+  "currentFocus": "验收Option 2重绘的扶手、关节与儿童比例；确认Option 1扶手翻转方向后补回三张折叠图。",
   "items": [
     {
       "file": "documents/treadmill/homes-v06-20261109/option1-home200-use.webp",
@@ -21,6 +21,41 @@
       "label": "Option 1 / 爬坡抬升架饰板包覆修订",
       "status": "新修订 · 待用户验收",
       "note": "按用户要求包覆外露抬升架；饰板造型为本次修订，尚未获用户确认。机构净距仍需校核。"
+    },
+    {
+      "file": "documents/treadmill/rebuild-v08-20261109/option2-home80-use.webp",
+      "thumb": "documents/treadmill/rebuild-v08-20261109/option2-home80-use-thumb.webp",
+      "label": "Option 2 / 80㎡ · 成人使用",
+      "status": "重新生成 · 待用户验收",
+      "note": "对照原模型重绘短U形扶手、上部圆孔关节、斜立柱与前端圆形根轴；170cm成人。 住宅沿用已列案例，人体与尺度为视觉近似。"
+    },
+    {
+      "file": "documents/treadmill/rebuild-v08-20261109/option2-home80-fold.webp",
+      "thumb": "documents/treadmill/rebuild-v08-20261109/option2-home80-fold-thumb.webp",
+      "label": "Option 2 / 80㎡ · 折平与竖放",
+      "status": "重新生成 · 待用户验收",
+      "note": "左：沿原前端根轴收合，短U形扶手绕上部肩轴回收；右：同一折平整机竖起，跑面向室内，扶手保持在跑面侧。成人手扶示意，脚座稳定性待验证。 住宅沿用已列案例，人体与尺度为视觉近似。"
+    },
+    {
+      "file": "documents/treadmill/rebuild-v08-20261109/option2-home130-child.webp",
+      "thumb": "documents/treadmill/rebuild-v08-20261109/option2-home130-child-thumb.webp",
+      "label": "Option 2 / 130㎡ · 儿童低档适配",
+      "status": "重新生成 · 待用户验收",
+      "note": "保持短U形扶手长度，以立柱绕根轴降低、扶手绕肩轴保持水平的姿态提议适配120cm儿童；170cm成人陪同，静态站立。低档锁止为新增提议，尚待工程验证。 住宅沿用已列案例，人体与尺度为视觉近似。"
+    },
+    {
+      "file": "documents/treadmill/rebuild-v08-20261109/option2-home130-fold.webp",
+      "thumb": "documents/treadmill/rebuild-v08-20261109/option2-home130-fold-thumb.webp",
+      "label": "Option 2 / 130㎡ · 中途收合与折平",
+      "status": "重新生成 · 待用户验收",
+      "note": "前端根轴保持在机头，肩轴随整根立柱运动；短U形扶手与立柱分层回收。170cm成人对照；屏幕收平及关节净距待装配验证。 住宅沿用已列案例，人体与尺度为视觉近似。"
+    },
+    {
+      "file": "documents/treadmill/rebuild-v08-20261109/option2-home200-use.webp",
+      "thumb": "documents/treadmill/rebuild-v08-20261109/option2-home200-use-thumb.webp",
+      "label": "Option 2 / 200㎡ · 成人使用",
+      "status": "重新生成 · 待用户验收",
+      "note": "以同一短U形上架、圆形关节与斜立柱重绘会客区旁的使用状态；170cm成人。 住宅沿用已列案例，人体与尺度为视觉近似。"
     },
     {
       "file": "documents/treadmill/reference-20261109/overall.jpg",
@@ -191,22 +226,22 @@
       "kind": "history"
     }
   ],
-  "galleryLabel": "已确认外观、最新修订与设计来源",
+  "galleryLabel": "重新生成的修订图 · 直接展开",
   "milestone": {
-    "title": "已确认外观与纠错修订",
+    "title": "错误图已删除，修订图替换中",
     "date": "2026-11-09",
-    "status": "纠错重绘进行中",
-    "summary": "已撤下用户否决的居家图，正在按原模型重绘。Option 1／200㎡使用图为已确认外观；爬坡饰板修订待验收。",
+    "status": "Option 2五张重绘已生成 · 待验收",
+    "summary": "已删除用户否决的8张居家图及旧爬坡图。Option 2重新生成5张版面，成人、儿童及折叠状态直接展开；Option 1饰板修订待验收。",
     "approvalNote": "确认仅限Option 1／200㎡使用图的外观；不扩展至折叠、竖放或儿童机构。",
-    "next": "以已确认外观和原模型重新锁定扶手、轴心及部件长度；先纠正折叠关系，再恢复居家状态图。Option 3仍待资料。"
+    "next": "验收Option 2重绘的扶手、关节与儿童比例；确认Option 1扶手翻转方向后补回三张折叠图。"
   },
   "progress": {
     "updated": "2026-11-09",
-    "summary": "已撤下用户否决的居家图，正在按原模型重绘。Option 1／200㎡使用图为已确认外观；爬坡饰板修订待验收。",
+    "summary": "已删除用户否决的8张居家图及旧爬坡图。Option 2重新生成5张版面，成人、儿童及折叠状态直接展开；Option 1饰板修订待验收。 新修订均待用户验收。Option 1的80/130/200㎡收折图已删除，正确扶手翻转方向待用户确认后重绘；已确认的200㎡使用图保留。",
     "next": [
       {
-        "title": "纠正折叠关系后再恢复场景图",
-        "detail": "Option1扶手翻转方向、Option2上下轴心与折后关系必须先锁定；不得缩短立柱、拉长扶手或挪动转轴迁就终态。"
+        "title": "补回Option 1三张折叠图",
+        "detail": "先明确扶手自由端起始翻转方向；原错误图已删除。显示屏参与主折叠，保持原立柱与扶手长度。"
       },
       {
         "title": "验收爬坡饰板修订",
@@ -297,6 +332,10 @@
     ],
     "history": [
       {
+        "title": "v08删除错误图并重绘Option 2",
+        "detail": "删除8张点名居家图及旧爬坡图的公开资源，旧稿仅在原项目本地保留。重新生成5张Option 2版面，修正短扶手、圆形轴位、儿童比例与竖放连接；尚待用户验收。"
+      },
+      {
         "title": "v06批量居家图未通过结构评审",
         "detail": "8张点名错误已撤出，另4张未点名图保留为待复核。v05相关姿态同步暂停作为机构依据。原文件未删除。"
       },
@@ -327,27 +366,48 @@
     ],
     "visualGroups": [
       {
-        "title": "用户确认正确的外观",
-        "note": "Option 1／200㎡使用图。保留原图，不改造型。",
+        "title": "Option 1 · 已确认的200㎡使用外观",
+        "note": "保留已认可原图。",
         "files": [
           "documents/treadmill/homes-v06-20261109/option1-home200-use.webp"
         ]
       },
       {
-        "title": "抬升架包覆修订 · 待验收",
-        "note": "按本次意见新增饰板；这张修订尚未获得确认。",
+        "title": "Option 1 · 爬坡饰板包覆修订",
+        "note": "已遮蔽外露抬升架；修订待验收。80/130/200㎡收折图待翻转方向明确后补回。",
         "files": [
           "documents/treadmill/corrections-v07-20261109/option1-incline-covered.webp"
         ]
       },
       {
-        "title": "原模型 · 重新核对结构的依据",
-        "note": "以原始扶手长度与连接关系为准。",
+        "title": "Option 2 · 80㎡重新生成",
+        "note": "短U形扶手和原圆形轴位；使用、折平、竖放同页查看。",
+        "files": [
+          "documents/treadmill/rebuild-v08-20261109/option2-home80-use.webp",
+          "documents/treadmill/rebuild-v08-20261109/option2-home80-fold.webp"
+        ]
+      },
+      {
+        "title": "Option 2 · 130㎡重新生成",
+        "note": "儿童短扶手低档适配与收合过程。均为待验收的概念修订。",
+        "files": [
+          "documents/treadmill/rebuild-v08-20261109/option2-home130-child.webp",
+          "documents/treadmill/rebuild-v08-20261109/option2-home130-fold.webp"
+        ]
+      },
+      {
+        "title": "Option 2 · 200㎡重新生成",
+        "note": "保留原模型的U形上架与圆形关节。",
+        "files": [
+          "documents/treadmill/rebuild-v08-20261109/option2-home200-use.webp"
+        ]
+      },
+      {
+        "title": "原模型 · 造型对照",
+        "note": "按原部件长度与轴位继续核对。",
         "files": [
           "documents/treadmill/reference-20261109/overall.jpg",
-          "documents/treadmill/v04-20261107/overall.jpg",
-          "documents/treadmill/v04-20261107/side.jpg",
-          "documents/treadmill/v04-20261107/underside.jpg"
+          "documents/treadmill/v04-20261107/overall.jpg"
         ]
       }
     ]
@@ -361,27 +421,6 @@
       "note": "未获确认；因本轮机构一致性错误，暂待复核"
     },
     {
-      "file": "documents/treadmill/homes-v06-20261109/option1-home80-fold.webp",
-      "thumb": "documents/treadmill/homes-v06-20261109/option1-home80-fold-thumb.webp",
-      "label": "Option 1 / 80㎡ / 折平 / 竖放",
-      "status": "用户指出错误 · 退出当前展示",
-      "note": "扶手折叠方向错误"
-    },
-    {
-      "file": "documents/treadmill/homes-v06-20261109/option2-home80-use-final.webp",
-      "thumb": "documents/treadmill/homes-v06-20261109/option2-home80-use-final-thumb.webp",
-      "label": "Option 2 / 80㎡ / 成人步行使用",
-      "status": "用户指出错误 · 退出当前展示",
-      "note": "扶手造型错误"
-    },
-    {
-      "file": "documents/treadmill/homes-v06-20261109/option2-home80-fold.webp",
-      "thumb": "documents/treadmill/homes-v06-20261109/option2-home80-fold-thumb.webp",
-      "label": "Option 2 / 80㎡ / 折平 / 竖放",
-      "status": "用户指出错误 · 退出当前展示",
-      "note": "折叠转轴错误"
-    },
-    {
       "file": "documents/treadmill/homes-v06-20261109/option1-home130-use.webp",
       "thumb": "documents/treadmill/homes-v06-20261109/option1-home130-use-thumb.webp",
       "label": "Option 1 / 130㎡ / 成人步行使用",
@@ -389,46 +428,11 @@
       "note": "未获确认；因本轮机构一致性错误，暂待复核"
     },
     {
-      "file": "documents/treadmill/homes-v06-20261109/option1-home130-fold.webp",
-      "thumb": "documents/treadmill/homes-v06-20261109/option1-home130-fold-thumb.webp",
-      "label": "Option 1 / 130㎡ / 收合中途 / 折平",
-      "status": "用户指出错误 · 退出当前展示",
-      "note": "整体折叠结构错误"
-    },
-    {
       "file": "documents/treadmill/homes-v06-20261109/option2-home130-use.webp",
       "thumb": "documents/treadmill/homes-v06-20261109/option2-home130-use-thumb.webp",
       "label": "Option 2 / 130㎡ / 成人步行使用",
       "status": "待复核 · 退出当前展示",
       "note": "未获确认；因本轮机构一致性错误，暂待复核"
-    },
-    {
-      "file": "documents/treadmill/homes-v06-20261109/option2-home130-fold-final.webp",
-      "thumb": "documents/treadmill/homes-v06-20261109/option2-home130-fold-final-thumb.webp",
-      "label": "Option 2 / 130㎡ / 收合中途 / 折平",
-      "status": "用户指出错误 · 退出当前展示",
-      "note": "折叠关系与折后状态错误"
-    },
-    {
-      "file": "documents/treadmill/homes-v06-20261109/option2-home130-child.webp",
-      "thumb": "documents/treadmill/homes-v06-20261109/option2-home130-child-thumb.webp",
-      "label": "Option 2 / 130㎡ / 儿童低扶手使用状态",
-      "status": "用户指出错误 · 退出当前展示",
-      "note": "儿童扶手被错误拉长"
-    },
-    {
-      "file": "documents/treadmill/homes-v06-20261109/option1-home200-fold.webp",
-      "thumb": "documents/treadmill/homes-v06-20261109/option1-home200-fold-thumb.webp",
-      "label": "Option 1 / 200㎡ / 备用收折 / 竖放",
-      "status": "用户指出错误 · 退出当前展示",
-      "note": "靠墙竖放状态错误"
-    },
-    {
-      "file": "documents/treadmill/homes-v06-20261109/option2-home200-use.webp",
-      "thumb": "documents/treadmill/homes-v06-20261109/option2-home200-use-thumb.webp",
-      "label": "Option 2 / 200㎡ / 成人步行使用",
-      "status": "用户指出错误 · 退出当前展示",
-      "note": "仅有些相似，仍不正确"
     },
     {
       "file": "documents/treadmill/homes-v06-20261109/option2-home200-fold.webp",
@@ -443,13 +447,6 @@
       "label": "Option 1 / 平放使用",
       "status": "待复核 · 退出当前展示",
       "note": "未获确认；因本轮机构一致性错误，暂待复核"
-    },
-    {
-      "file": "documents/treadmill/options-v05-20261109/option1-incline.webp",
-      "thumb": "documents/treadmill/options-v05-20261109/option1-incline-thumb.webp",
-      "label": "Option 1 / 爬坡使用",
-      "status": "用户指出错误 · 退出当前展示",
-      "note": "抬升架需饰板包覆，已另出修订"
     },
     {
       "file": "documents/treadmill/options-v05-20261109/option1-main-steps-v2.webp",
