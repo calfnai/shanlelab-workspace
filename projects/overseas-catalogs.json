@@ -414,6 +414,20 @@
       "label": "ArtSticker 完整产品手册 v01 · 110页重点预览",
       "status": "已生成 · 待用户审阅 · 2026-11-09",
       "note": "42个系列/目录分组KV、171款完整展示，网站材质/包装内容、定制与8页纵向附录；Hasbro/Disney末尾分区。两款源名称待确认，原稿/现行A6保留。"
+    },
+    {
+      "file": "documents/artsticker-handbook/v02/ArtSticker-Classification-Corrections-v02.jpg",
+      "thumb": "documents/artsticker-handbook/v02/ArtSticker-Classification-Corrections-v02.webp",
+      "label": "ArtSticker v02 · 分类修正与封面",
+      "status": "已生成并检查 · 待用户审阅 · 小红书KV待补",
+      "note": "SIGU WORKS旗下3个IP、cimmy、Memehey（么么黑）分开。047美人鱼小狗独立，联名logo名称待核实；使用用户原图。"
+    },
+    {
+      "file": "documents/artsticker-handbook/v02/ArtSticker-Handbook-Preview-v02.jpg",
+      "thumb": "documents/artsticker-handbook/v02/ArtSticker-Handbook-Preview-v02.webp",
+      "label": "ArtSticker v02 · 原版KV融入手册",
+      "status": "22个系列封面复用原版KV · 其余21个以产品原图编排",
+      "note": "KV从用户已有130页品牌书提取，不拉伸、不重绘，不标成小红书来源。"
     }
   ],
   "links": [
@@ -983,27 +997,49 @@
         "body": "110页（102横向＋8纵向）、42个系列/分组KV、171个不同SKU。复用真实产品图和网站材质/包装/定制内容；全部SKU在主产品页和选款附录各收录一次，42个目录跳转通过。Hasbro4款、Disney15款在末尾分区。两款源名称TBD保留待确认；四款面包设计按包装可见名称区分。保留现行A6，不自动替代用户选择。",
         "source": "documents/artsticker-handbook/v01/index.html",
         "status": "已生成并检查 · 待用户视觉审阅"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "按用户新截图修正ArtSticker分类并补系列封面",
+        "body": "v02为112页、171款、43个封面。原混合分组拆为Memehey（么么黑）045/046、047美人鱼小狗及ART-137独立设计；SIGU WORKS为037-042的联名方，下分Angry Aimee/Rokka/Puffkoala，cimmy043/044独立。A Dirty Monkey与Dirty Monkey统一7款。22个封面复用原版品牌书KV。指定小红书账号读取遇verification_required，尚未完成该账号检索；其余21封面目前为真实产品原图编排，未冒称官方KV。",
+        "source": "documents/artsticker-handbook/v02/index.html",
+        "status": "分类修订与43封面稿已生成 · 小红书来源补充待验证码"
       }
     ],
     "resources": [
       {
-        "title": "ArtSticker 产品手册 v01 · 在线预览",
-        "detail": "完整110页、42张KV、171款；材质／包装／定制和纵向选款；生成待审阅。",
+        "title": "ArtSticker v02 · 分类与封面修订预览",
+        "detail": "112页、43个分组封面；22个封面复用原版KV。指定小红书账号检索暂遇验证码，待补较新KV。",
+        "href": "documents/artsticker-handbook/v02/index.html"
+      },
+      {
+        "title": "ArtSticker 完整产品手册 v02 · PDF",
+        "detail": "171款完整保留；SIGU WORKS/IP层级、Memehey、cimmy、美人鱼小狗分组纠正；36.3MB。",
+        "href": "documents/artsticker-handbook/v02/ArtSticker-Complete-Product-Handbook-v02.pdf"
+      },
+      {
+        "title": "ArtSticker 43张系列封面 · v02",
+        "detail": "22个原版品牌书KV封面＋21个真实产品图编排封面。",
+        "href": "documents/artsticker-handbook/v02/ArtSticker-43-Collection-Covers-v02.zip"
+      },
+      {
+        "title": "历史v01 / ArtSticker 产品手册 v01 · 在线预览",
+        "detail": "用户指出分类错误，已另存v02修订；原稿保留。",
         "href": "documents/artsticker-handbook/v01/index.html"
       },
       {
-        "title": "ArtSticker 完整产品手册 v01 · PDF",
-        "detail": "102横向＋8纵向；42个可点击目录；171个不同SKU；30.6MB。",
+        "title": "历史v01 / ArtSticker 完整产品手册 v01 · PDF",
+        "detail": "用户指出分类错误，已另存v02修订；原稿保留。",
         "href": "documents/artsticker-handbook/v01/ArtSticker-Complete-Product-Handbook-v01.pdf"
       },
       {
-        "title": "ArtSticker 42张独立KV · ZIP",
-        "detail": "真实产品原图编排，各目录分组一张；约7.7MB。",
+        "title": "历史v01 / ArtSticker 42张独立KV · ZIP",
+        "detail": "用户指出分类错误，已另存v02修订；原稿保留。",
         "href": "documents/artsticker-handbook/v01/ArtSticker-42-Collection-KVs-v01.zip"
       },
       {
-        "title": "ArtSticker 全部42张KV总览",
-        "detail": "查看整组视觉；v01待用户审阅。",
+        "title": "历史v01 / ArtSticker 全部42张KV总览",
+        "detail": "用户指出分类错误，已另存v02修订；原稿保留。",
         "href": "documents/artsticker-handbook/v01/ArtSticker-42-Collection-KV-Overview-v01.jpg"
       },
       {
