@@ -335,6 +335,55 @@
         ]
       },
       {
+        "title": "80㎡ · 逐图反馈，原图直接展开",
+        "note": "下列图仅供对照错误与修改意见；已否决和待复核状态不变。",
+        "files": [
+          "documents/treadmill/homes-v06-20261109/option1-home80-use-v2.webp",
+          "documents/treadmill/homes-v06-20261109/option1-home80-fold.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home80-use-final.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home80-fold.webp"
+        ]
+      },
+      {
+        "title": "130㎡ · 逐图反馈，原图直接展开",
+        "note": "下列图仅供对照错误与修改意见；已否决和待复核状态不变。",
+        "files": [
+          "documents/treadmill/homes-v06-20261109/option1-home130-use.webp",
+          "documents/treadmill/homes-v06-20261109/option1-home130-fold.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home130-use.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home130-fold-final.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home130-child.webp"
+        ]
+      },
+      {
+        "title": "200㎡ · 逐图反馈，原图直接展开",
+        "note": "下列图仅供对照错误与修改意见；已否决和待复核状态不变。",
+        "files": [
+          "documents/treadmill/homes-v06-20261109/option1-home200-fold.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home200-use.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home200-fold.webp"
+        ]
+      },
+      {
+        "title": "上一轮状态图 · 待复核原图",
+        "note": "直接展开以便对照。仍为历史记录，不作为已确认的折叠依据。",
+        "files": [
+          "documents/treadmill/options-v05-20261109/option1-adult.webp",
+          "documents/treadmill/options-v05-20261109/option1-incline.webp",
+          "documents/treadmill/options-v05-20261109/option1-main-steps-v2.webp",
+          "documents/treadmill/options-v05-20261109/option1-main-flat-v2.webp",
+          "documents/treadmill/options-v05-20261109/option1-backup-final.webp",
+          "documents/treadmill/options-v05-20261109/option1-upright-final.webp",
+          "documents/treadmill/options-v05-20261109/option2-adult-fixed.webp",
+          "documents/treadmill/options-v05-20261109/option2-incline.webp",
+          "documents/treadmill/options-v05-20261109/option2-child-final.webp",
+          "documents/treadmill/options-v05-20261109/option2-main-steps-final.webp",
+          "documents/treadmill/options-v05-20261109/option2-main-flat-single.webp",
+          "documents/treadmill/options-v05-20261109/option2-backup-final.webp",
+          "documents/treadmill/options-v05-20261109/option2-upright-final.webp"
+        ]
+      },
+      {
         "title": "原模型 · 重新核对结构的依据",
         "note": "以原始扶手长度与连接关系为准。",
         "files": [
