@@ -2,58 +2,149 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "11月9日补入上下圆形关节结构图；已有v04室内渲染与折叠条件推演，继续核对折叠路径。",
+  "description": "Option 1与Option 2完成成人使用、爬坡、主/备用折叠和竖放渲染；Option 2增加儿童使用状态，等待验收。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "当前为概念稿阶段。v04两张室内图与折叠分析已生成、待评审，未选定、未向厂商发送。上部拨杆和真实轴系尚待确认，不能将分析假设当成已有结构。",
-  "currentFocus": "核对11月9日新增图与此前版本的关系、上下关节的自由度和折平包络；继续遵循全域跑台与下置电机。",
+  "note": "13张渲染版面，17个场景。待验收、未选定、未向厂商发送。170 cm成人与120 cm儿童为生成目标；新增屏轴、儿童中间锁止档与脚座仍需装配校核。",
+  "currentFocus": "验收两组造型承接、人物比例与折叠表达；选定方向后校核真实轴位、完整干涉与锁止。Option 3待资料。",
   "items": [
+    {
+      "file": "documents/treadmill/options-v05-20261109/option1-adult.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option1-adult-thumb.webp",
+      "label": "Option 1 / 平放使用",
+      "status": "新渲染 · 待验收",
+      "note": "170 cm 成年人 · 全域跑台。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option1-incline.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option1-incline-thumb.webp",
+      "label": "Option 1 / 爬坡使用",
+      "status": "新渲染 · 待验收",
+      "note": "170 cm 成年人 · 下部升降支撑为结构提案，图中坡度为近似表达。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option1-main-steps-v2.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option1-main-steps-v2-thumb.webp",
+      "label": "Option 1 / 主折叠 · 翻屏与中途收合",
+      "status": "新渲染 · 待验收",
+      "note": "左图显示屏独立翻转；右图扶手回折、立柱沿原机头底轴收下。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option1-main-flat-v2.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option1-main-flat-v2-thumb.webp",
+      "label": "Option 1 / 主折叠 · 折平终态",
+      "status": "新渲染 · 待验收",
+      "note": "显示屏收平，扶手回折叠放；成年人站在机旁作尺度参照。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option1-backup-final.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option1-backup-final-thumb.webp",
+      "label": "Option 1 / 备用折叠 · 整组翻转与终态",
+      "status": "新渲染 · 待验收",
+      "note": "上部组件整体让位；最终面板保持倾角，扶手沿跑台方向展开。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option1-upright-final.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option1-upright-final-thumb.webp",
+      "label": "Option 1 / 竖放收纳",
+      "status": "新渲染 · 待验收",
+      "note": "跑面朝墙、机底朝房间；固定软脚承地、搬运轮离地的布置设想。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option2-adult-fixed.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option2-adult-fixed-thumb.webp",
+      "label": "Option 2 / 平放使用",
+      "status": "新渲染 · 待验收",
+      "note": "170 cm 成年人 · 圆形关节与斜立柱轮廓。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option2-incline.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option2-incline-thumb.webp",
+      "label": "Option 2 / 爬坡使用",
+      "status": "新渲染 · 待验收",
+      "note": "170 cm 成年人 · 下部升降支撑为结构提案，图中坡度为近似表达。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option2-child-final.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option2-child-final-thumb.webp",
+      "label": "Option 2 / 儿童使用状态",
+      "status": "新渲染 · 待验收",
+      "note": "120 cm 儿童与170 cm 成人 · 降低立柱、调平扶手的中间锁止档位设想；成人在旁。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option2-main-steps-final.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option2-main-steps-final-thumb.webp",
+      "label": "Option 2 / 主折叠 · 窄横屏翻转与中途收合",
+      "status": "新渲染 · 待验收",
+      "note": "左图窄横屏独立翻折；右图上部框架回折到立柱旁。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option2-main-flat-single.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option2-main-flat-single-thumb.webp",
+      "label": "Option 2 / 主折叠 · 折平终态",
+      "status": "新渲染 · 待验收",
+      "note": "窄横屏收平，圆形关节与双立柱沿跑台叠合；尾端由跑带包覆。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option2-backup-final.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option2-backup-final-thumb.webp",
+      "label": "Option 2 / 备用折叠 · 整组翻转与终态",
+      "status": "新渲染 · 待验收",
+      "note": "通过上下关节收合整组框架；横屏原安装关系保留，终态净距待核对。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
+    {
+      "file": "documents/treadmill/options-v05-20261109/option2-upright-final.webp",
+      "thumb": "documents/treadmill/options-v05-20261109/option2-upright-final-thumb.webp",
+      "label": "Option 2 / 竖放收纳",
+      "status": "新渲染 · 待验收",
+      "note": "圆弧尾端朝上，机头朝下；机底外壳及固定脚座为本轮视觉提议。生成式概念图，人体比例为近似，折叠机构仍需装配校核。"
+    },
     {
       "file": "documents/treadmill/reference-20261109/overall.jpg",
       "thumb": "documents/treadmill/reference-20261109/overall.webp",
-      "label": "2026-11-09 / 新增结构参考 · 上下圆形关节",
-      "status": "新收到 · 版本关系待确认",
-      "note": "可见倾斜立柱、上下圆形连接处与圆弧尾端。为双转轴折叠提供线索；真实转动范围、锁止和联动待核对。"
+      "label": "Option 2 / 用户提供的斜立柱圆形关节模型",
+      "status": "设计来源 · 选项归属已明确",
+      "note": "11月9日新增图为独立Option 2。上部屏轴与儿童中间锁止档位是本轮新增提议。"
     },
     {
       "file": "documents/treadmill/tail-fix-20261109/interior-living-tail-fixed.png",
       "thumb": "documents/treadmill/tail-fix-20261109/interior-living-tail-fixed.webp",
       "label": "v04 / 新结构 · 室内三分之四视角",
-      "status": "11月9日尾端已修正 · 待评审",
+      "status": "上一轮 · 保留追溯",
       "note": "依据新收到的模型截图；保留宽扁立柱、连续肩部、方形尾端及下置机头。室内与CMF为本次提议。 用户确认尾端为内置转轴，现按跑带包覆修正。"
     },
     {
       "file": "documents/treadmill/tail-fix-20261109/interior-side-tail-fixed.png",
       "thumb": "documents/treadmill/tail-fix-20261109/interior-side-tail-fixed.webp",
       "label": "v04 / 新结构 · 室内近侧面",
-      "status": "11月9日尾端已修正 · 待评审",
+      "status": "上一轮 · 保留追溯",
       "note": "同一居家风格中观察新模型轮廓；生成图不能测量尺寸或净距。 用户确认尾端为内置转轴，现按跑带包覆修正。"
     },
     {
       "file": "documents/treadmill/v04-20261107/fold-study.svg",
       "thumb": "documents/treadmill/v04-20261107/fold-study.webp",
       "label": "v04 / 新结构 · 折叠条件推演",
-      "status": "分析图 · 轴系待确认",
+      "status": "上一轮 · 保留追溯",
       "note": "比较仅转下轴的刚性假设与上部可翻转时的路径；不是现有CAD的已验证折叠动作。"
     },
     {
       "file": "documents/treadmill/v04-20261107/overall.jpg",
       "thumb": "documents/treadmill/v04-20261107/overall.webp",
-      "label": "2026-11-07 / 新收到的整机模型",
+      "label": "Option 1 / 整机模型",
       "status": "设计来源",
       "note": "用户提供的整机截图，本轮造型依据。"
     },
     {
       "file": "documents/treadmill/v04-20261107/side.jpg",
       "thumb": "documents/treadmill/v04-20261107/side.webp",
-      "label": "2026-11-07 / 新收到的侧面模型",
+      "label": "Option 1 / 侧面模型",
       "status": "设计来源",
       "note": "上部拨杆及转轴功能仍需确认；不把旧版上轴提议当成此图已有结构。"
     },
     {
       "file": "documents/treadmill/v04-20261107/underside.jpg",
       "thumb": "documents/treadmill/v04-20261107/underside.webp",
-      "label": "2026-11-07 / 新收到的机底结构",
+      "label": "Option 1 / 机底结构",
       "status": "设计来源",
       "note": "辅助理解下置体量；截图不等于已取得新装配模型。"
     },
@@ -137,9 +228,14 @@
   ],
   "links": [
     {
-      "label": "当前 v04 · 室内渲染与折叠推演",
+      "label": "当前 · Option 1 / Option 2 完整评审",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/",
       "kind": "review"
+    },
+    {
+      "label": "上一轮 v04 · 室内与折叠条件推演",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/v04.html",
+      "kind": "history"
     },
     {
       "label": "上一轮 v03 · 四状态与灵伴折叠",
@@ -167,26 +263,30 @@
       "kind": "history"
     }
   ],
-  "galleryLabel": "新结构室内渲染、折叠分析、原图与历史版本",
+  "galleryLabel": "Option 1 / Option 2 · 人体尺度与折叠渲染、原图及历史版本",
   "milestone": {
-    "title": "v04：新结构进入居家场景",
-    "date": "2026-11-07",
-    "status": "已出图与分析 · 待评审",
-    "summary": "两张室内概念图直接依据新收到的整机、侧面及机底截图；四格侧视图解释刚性上部的折叠限制与条件路径。 11月9日两张室内图完成尾端包覆修正。",
-    "approvalNote": "未选定。图片为生成式表达；上部自由度与折叠机构未由CAD验证。",
-    "next": "接续：核对上部拨杆控制的锁止、真实轴心与收折包络。"
+    "title": "两个Option：从使用到收纳",
+    "date": "2026-11-09",
+    "status": "渲染已生成 · 待验收",
+    "summary": "13张版面包括170 cm成人、两种折叠路径和竖放；Option 2增加120 cm儿童场景。Option 1尾端转轴内置要求延续。",
+    "approvalNote": "未选定。主折叠新增屏幕独立轴，儿童高度档与竖放脚座为提案；未完成真实装配验证。",
+    "next": "验收造型及动作表达，随后核对机构；第三个Option待提供。"
   },
   "progress": {
     "updated": "2026-11-09",
-    "summary": "11月9日补入上下圆形关节结构图，并按用户纠正修复两张室内图的尾端：转轴位于跑带内部，外观呈跑带包覆。补充图的上下关节、倾斜立柱与圆弧尾端已归档，其版本关系、锁止、联动和折平净距继续核对。",
+    "summary": "Option 1与Option 2完成成人使用、爬坡、主/备用折叠和竖放渲染；Option 2增加儿童使用状态，等待验收。 主路径由显示屏独立翻折参与，备用路径由整个上部组件翻转。保留同事原始模型对照，全域跑台与下置电机继续有效。",
     "next": [
       {
-        "title": "核对新增图的版本关系与上下关节",
-        "detail": "按本图轴位研究上部翻转让位、立柱向尾端收合；确认轴件、转动范围、锁止及是否联动，再校核折平包络。"
+        "title": "验收两个Option的渲染",
+        "detail": "对照原图审阅造型、成人/儿童比例、主路径、备用路径与竖放。"
       },
       {
-        "title": "评审两张室内图",
-        "detail": "核对宽扁立柱、连续肩部、方形尾端和下置机头的承接；室内材质及界面是本次视觉提议，未锁定。"
+        "title": "装配验证折叠与儿童高度档",
+        "detail": "确认真实上下轴、独立屏轴、走线和锁止，验证全程三维干涉与竖放稳定性。人物图与估读姿态模型不替代工程验证。"
+      },
+      {
+        "title": "补充第三个Option",
+        "detail": "待用户提供设计资料；不恢复已否决的历史方案。"
       },
       {
         "title": "继续推进辅助竖放脚座",
@@ -194,6 +294,12 @@
       }
     ],
     "decisions": [
+      {
+        "title": "两个Option分别制作完整渲染",
+        "quote": "新增的一个option……上一个截图给你的修改是option1 的修改",
+        "detail": "前三张模型为Option 1；11月9日斜立柱圆形关节模型为Option 2。两组均补主/备用折叠和170 cm成人，Option 2另补120 cm儿童场景；预计第三组尚待资料。",
+        "conversation": "5669f0c6"
+      },
       {
         "title": "尾端转轴由跑带包覆",
         "quote": "不是多了一条外露的金属圆管，而是表示这个地方是一条在跑道里头的转轴而已",
@@ -240,6 +346,10 @@
       }
     ],
     "history": [
+      {
+        "title": "v04转为上一轮",
+        "detail": "保留两张尾端已修正的居家图与折叠条件示意，当前入口更新为两组完整渲染。"
+      },
       {
         "title": "11月9日补入一张结构参考",
         "detail": "新增图与前三张在立柱倾角、圆形轴座和尾端轮廓上有差异，作为补充资料收录；本轮完成原图归档与结构观察。"
