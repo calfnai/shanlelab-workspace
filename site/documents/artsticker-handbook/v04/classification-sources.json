@@ -1,0 +1,26 @@
+{
+  "checked": "2026-11-10",
+  "themes": [
+    "CARTOON LIFE",
+    "DOPE-AMINE",
+    "S&P",
+    "MYSTIC FOURTUNE",
+    "LIFE KIT"
+  ],
+  "counts": {
+    "CARTOON LIFE": 48,
+    "DOPE-AMINE": 23,
+    "S&P": 32,
+    "MYSTIC FOURTUNE": 19,
+    "LIFE KIT": 30
+  },
+  "officialMatched": 31,
+  "editorialExtensions": 121,
+  "sources": [
+    "https://shanle-lab.com/collections/cartoon-life",
+    "https://shanle-lab.com/collections/dope-amine",
+    "https://shanle-lab.com/collections/s-p",
+    "https://shanle-lab.com/collections/mystic-fortune",
+    "https://shanle-lab.com/collections/life-kit"
+  ]
+}

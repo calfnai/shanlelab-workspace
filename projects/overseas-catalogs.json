@@ -10,10 +10,17 @@
   "currentFocus": "分类优先改为明确分区：所选类别独立展示，结束后用全宽横向区域分隔其他款式，不在同排混排。六个选款页面统一；ArtSticker 授权分区仍固定在末尾。",
   "items": [
     {
+      "file": "documents/artsticker-handbook/v04/ArtSticker-Corrections-v04.jpg",
+      "thumb": "documents/artsticker-handbook/v04/ArtSticker-Corrections-v04.webp",
+      "label": "ArtSticker v04 · 花款合页、系列归属与官网主题分章",
+      "status": "已生成并检查 · 待用户审阅",
+      "note": "12款星座花合在第82页；RichToo、Mushroomee131、Go ART140、Starfy137–139已纠正。官网五主题作大章，艺术家作子章；未上架款按内容延展归类，待复核。"
+    },
+    {
       "file": "documents/artsticker-handbook/v03/ArtSticker-Official-Account-KVs-v03.jpg",
       "thumb": "documents/artsticker-handbook/v03/ArtSticker-Official-Account-KVs-v03.webp",
       "label": "ArtSticker v03 · 官方账号KV补充",
-      "status": "已生成并检查 · 待用户审阅",
+      "status": "历史v03 · 系列归属已在v04修订",
       "note": "Firecrawl取得指定官方账号公开封面，补入Go ART、DIDIPAWS、发财和Mickey & Friends；24个封面使用官方视觉，19个使用真实产品图编排。"
     },
     {
@@ -1018,22 +1025,44 @@
         "body": "读取指定闪乐LAB账号公开主页30条卡片，下载27张封面，视觉核对后采用Go ART、DIDIPAWS、发财和Mickey & Friends共4张。v03为112页、43封面、171款；24个官方视觉封面与19个真实产品图编排封面来源区分。没有取得单篇链接，也未声称完成全账号检索。",
         "source": "documents/artsticker-handbook/v03/index.html",
         "status": "已生成并检查 · 待用户审阅"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "按用户纠错重排ArtSticker v04",
+        "body": "原38/39页星座花合为新第82页12款同页；RichToo更名，131为Mushroomee，140独立Go ART，137–139归Starfy。按shanle-lab.com五主题作大章、艺术家系列作子章，ART综合组拆入对应主题；Disney/Hasbro仍最后。119页、171款、45子系列封面，官网31款直接或SKU别名对齐，另121款按内容延展归类待复核；在线目录未覆盖。",
+        "source": "documents/artsticker-handbook/v04/index.html",
+        "status": "已生成并检查 · 待用户审阅"
       }
     ],
     "resources": [
       {
-        "title": "ArtSticker v03 · 官方账号KV补充预览",
-        "detail": "112页、171款、43封面；24个使用官方视觉，19个使用真实产品图编排。",
+        "title": "ArtSticker v04 · 系列纠错与官网主题分章预览",
+        "detail": "119页、171款；12款星座花同页，RichToo／Mushroomee／Go ART／Starfy修正。",
+        "href": "documents/artsticker-handbook/v04/index.html"
+      },
+      {
+        "title": "ArtSticker 完整产品手册 v04 · PDF",
+        "detail": "39.3MB；5主题、45子系列封面、171款；未上架产品为延展归类待复核。",
+        "href": "documents/artsticker-handbook/v04/ArtSticker-Complete-Product-Handbook-v04.pdf"
+      },
+      {
+        "title": "ArtSticker 45张子系列封面 · v04",
+        "detail": "24个官方视觉封面＋21个真实产品图编排封面。",
+        "href": "documents/artsticker-handbook/v04/ArtSticker-45-Collection-Covers-v04.zip"
+      },
+      {
+        "title": "历史v03 / ArtSticker v03 · 官方账号KV补充预览",
+        "detail": "保留原稿；最新分类与命名修订见v04。",
         "href": "documents/artsticker-handbook/v03/index.html"
       },
       {
-        "title": "ArtSticker 完整产品手册 v03 · PDF",
-        "detail": "39.3MB；分类修正沿用v02，4张指定小红书官方账号图片已融入。",
+        "title": "历史v03 / ArtSticker 完整产品手册 v03 · PDF",
+        "detail": "保留原稿；最新分类与命名修订见v04。",
         "href": "documents/artsticker-handbook/v03/ArtSticker-Complete-Product-Handbook-v03.pdf"
       },
       {
-        "title": "ArtSticker 43张独立系列封面 · v03",
-        "detail": "20个品牌书KV＋4个官方账号视觉＋19个真实产品图编排。",
+        "title": "历史v03 / ArtSticker 43张独立系列封面 · v03",
+        "detail": "保留原稿；最新分类与命名修订见v04。",
         "href": "documents/artsticker-handbook/v03/ArtSticker-43-Collection-Covers-v03.zip"
       },
       {
