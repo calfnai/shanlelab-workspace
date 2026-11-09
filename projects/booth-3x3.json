@@ -5,8 +5,15 @@
   "description": "凡几v05整合保留前台、双面联名/减免游戏架、完整Lifestyle与商品提示背卡；Nowre历史活动分支独立保留。",
   "conversation": "7bb0a45f",
   "conversationName": "3x3双开，2.2米高的长期展位设计",
-  "note": "当前凡几v05将前台、双面联名/游戏架与商品提示背卡合并展示，图稿待评审。历史v03的Nowre字样只属旧标签；Nowre活动原分支独立保留，凡几不套用其场地协议。",
+  "note": "当前凡几v05将前台、双面联名/游戏架与商品提示背卡合并展示，图稿待评审。历史v03的Nowre字样只属旧标签；Nowre活动原分支独立保留，凡几不套用其场地协议。 NOWRE新分支已按用户所供A1基础小亭制作陈列提案，单独标注为待评审，不据此覆盖凡几方案或认定A1最终选定。",
   "items": [
+    {
+      "file": "documents/nowre-a1-basic-v01/display.png",
+      "thumb": "documents/nowre-a1-basic-v01/display.webp",
+      "label": "NOWRE A1基础款 · 产品陈列与附件预配",
+      "status": "新场地结构适配 · 待评审及实测",
+      "note": "按用户2026-11-09提供A1结构另做小亭陈列，不沿用凡几3×3墙体。暂排左右各12挂位、2桌面补货架、2包袋示范与中间试贴区；拟配30短挂钩含6备用。基础配置与孔距净尺寸待主办方确认；不是完整SKU展齐或安装容量证明，生成图非商品原稿、加工文件或品牌标识源文件。"
+    },
     {
       "file": "documents/fanji-v05-integrated/collab-out.png",
       "thumb": "documents/fanji-v05-integrated/collab-out.webp",
@@ -535,6 +542,10 @@
   ],
   "links": [
     {
+      "label": "NOWRE A1 · 附件数量与待核尺寸",
+      "href": "documents/nowre-a1-basic-v01/accessories.md"
+    },
+    {
       "label": "凡几v05 · 整合方案与商品背卡用法",
       "href": "documents/fanji-v05-integrated/index.html"
     },
@@ -635,6 +646,11 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-09 NOWRE A1基础款陈列演示",
+        "detail": "用户要求以A1演示产品摆放并估算附件；新增选款挂售、桌面补货、包袋示范与试贴分区。附件为预配，不考虑赔偿金额；基座配件包含范围和尺寸仍待确认。",
+        "conversation": "138009de"
+      },
       {
         "title": "2026-11-07 凡几v05整合与背卡用法",
         "detail": "新增联名面朝外、游戏面朝外两种转向摆法和位置平面；均保留前台。图像可见2个商品提示背卡示意。"
