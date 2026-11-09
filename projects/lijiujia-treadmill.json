@@ -2,10 +2,10 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "本轮评审已纠正状态：仅Option 1／200㎡使用图获明确外观确认。错误居家图已退出当前展示；爬坡饰板包覆修订待验收。",
+  "description": "已撤下用户否决的居家图，正在按原模型重绘。Option 1／200㎡使用图为已确认外观；爬坡饰板修订待验收。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "已点名的8张居家错误图撤出当前展示，其余未点名图待复核。旧渲染原文件保留追溯，不再作为正确折叠依据。",
+  "note": "错误图不再展示；新版按原扶手长度、原轴位与全域跑台重绘中。",
   "currentFocus": "以已确认外观和原模型重新锁定扶手、轴心及部件长度；先纠正折叠关系，再恢复居家状态图。Option 3仍待资料。",
   "items": [
     {
@@ -195,14 +195,14 @@
   "milestone": {
     "title": "已确认外观与纠错修订",
     "date": "2026-11-09",
-    "status": "1张外观确认 · 饰板修订待验收",
-    "summary": "本轮评审已纠正状态：仅Option 1／200㎡使用图获明确外观确认。错误居家图已退出当前展示；爬坡饰板包覆修订待验收。",
+    "status": "纠错重绘进行中",
+    "summary": "已撤下用户否决的居家图，正在按原模型重绘。Option 1／200㎡使用图为已确认外观；爬坡饰板修订待验收。",
     "approvalNote": "确认仅限Option 1／200㎡使用图的外观；不扩展至折叠、竖放或儿童机构。",
     "next": "以已确认外观和原模型重新锁定扶手、轴心及部件长度；先纠正折叠关系，再恢复居家状态图。Option 3仍待资料。"
   },
   "progress": {
     "updated": "2026-11-09",
-    "summary": "本轮评审已纠正状态：仅Option 1／200㎡使用图获明确外观确认。错误居家图已退出当前展示；爬坡饰板包覆修订待验收。",
+    "summary": "已撤下用户否决的居家图，正在按原模型重绘。Option 1／200㎡使用图为已确认外观；爬坡饰板修订待验收。",
     "next": [
       {
         "title": "纠正折叠关系后再恢复场景图",
@@ -226,6 +226,12 @@
       }
     ],
     "decisions": [
+      {
+        "title": "删除错误图并重新生成替换",
+        "quote": "把错的删掉，然后重新生成，再放上来",
+        "detail": "取消错误原图的同页展示。根据原模型重绘，完成后直接展开在GitHub评审页。",
+        "conversation": "5669f0c6"
+      },
       {
         "title": "用户逐图否决并限定确认范围",
         "quote": "只有这张是对的",
@@ -332,55 +338,6 @@
         "note": "按本次意见新增饰板；这张修订尚未获得确认。",
         "files": [
           "documents/treadmill/corrections-v07-20261109/option1-incline-covered.webp"
-        ]
-      },
-      {
-        "title": "80㎡ · 逐图反馈，原图直接展开",
-        "note": "下列图仅供对照错误与修改意见；已否决和待复核状态不变。",
-        "files": [
-          "documents/treadmill/homes-v06-20261109/option1-home80-use-v2.webp",
-          "documents/treadmill/homes-v06-20261109/option1-home80-fold.webp",
-          "documents/treadmill/homes-v06-20261109/option2-home80-use-final.webp",
-          "documents/treadmill/homes-v06-20261109/option2-home80-fold.webp"
-        ]
-      },
-      {
-        "title": "130㎡ · 逐图反馈，原图直接展开",
-        "note": "下列图仅供对照错误与修改意见；已否决和待复核状态不变。",
-        "files": [
-          "documents/treadmill/homes-v06-20261109/option1-home130-use.webp",
-          "documents/treadmill/homes-v06-20261109/option1-home130-fold.webp",
-          "documents/treadmill/homes-v06-20261109/option2-home130-use.webp",
-          "documents/treadmill/homes-v06-20261109/option2-home130-fold-final.webp",
-          "documents/treadmill/homes-v06-20261109/option2-home130-child.webp"
-        ]
-      },
-      {
-        "title": "200㎡ · 逐图反馈，原图直接展开",
-        "note": "下列图仅供对照错误与修改意见；已否决和待复核状态不变。",
-        "files": [
-          "documents/treadmill/homes-v06-20261109/option1-home200-fold.webp",
-          "documents/treadmill/homes-v06-20261109/option2-home200-use.webp",
-          "documents/treadmill/homes-v06-20261109/option2-home200-fold.webp"
-        ]
-      },
-      {
-        "title": "上一轮状态图 · 待复核原图",
-        "note": "直接展开以便对照。仍为历史记录，不作为已确认的折叠依据。",
-        "files": [
-          "documents/treadmill/options-v05-20261109/option1-adult.webp",
-          "documents/treadmill/options-v05-20261109/option1-incline.webp",
-          "documents/treadmill/options-v05-20261109/option1-main-steps-v2.webp",
-          "documents/treadmill/options-v05-20261109/option1-main-flat-v2.webp",
-          "documents/treadmill/options-v05-20261109/option1-backup-final.webp",
-          "documents/treadmill/options-v05-20261109/option1-upright-final.webp",
-          "documents/treadmill/options-v05-20261109/option2-adult-fixed.webp",
-          "documents/treadmill/options-v05-20261109/option2-incline.webp",
-          "documents/treadmill/options-v05-20261109/option2-child-final.webp",
-          "documents/treadmill/options-v05-20261109/option2-main-steps-final.webp",
-          "documents/treadmill/options-v05-20261109/option2-main-flat-single.webp",
-          "documents/treadmill/options-v05-20261109/option2-backup-final.webp",
-          "documents/treadmill/options-v05-20261109/option2-upright-final.webp"
         ]
       },
       {
