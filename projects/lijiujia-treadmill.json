@@ -30,11 +30,11 @@
       "note": "对照原模型重绘短U形扶手、上部圆孔关节、斜立柱与前端圆形根轴；170cm成人。 住宅沿用已列案例，人体与尺度为视觉近似。"
     },
     {
-      "file": "documents/treadmill/rebuild-v08-20261109/option2-home80-fold.webp",
-      "thumb": "documents/treadmill/rebuild-v08-20261109/option2-home80-fold-thumb.webp",
+      "file": "documents/treadmill/rebuild-v08-20261109/option2-home80-fold-wall.webp",
+      "thumb": "documents/treadmill/rebuild-v08-20261109/option2-home80-fold-wall-thumb.webp",
       "label": "Option 2 / 80㎡ · 折平与竖放",
       "status": "重新生成 · 待用户验收",
-      "note": "左：沿原前端根轴收合，短U形扶手绕上部肩轴回收；右：同一折平整机竖起，跑面向室内，扶手保持在跑面侧。成人手扶示意，脚座稳定性待验证。 住宅沿用已列案例，人体与尺度为视觉近似。"
+      "note": "左：沿原前端根轴收合，短U形扶手绕上部肩轴回收；右：同一折平整机竖起，跑面朝墙、机底朝室内，扶手收在跑面与墙之间。成人手扶示意，脚座稳定性待验证。 住宅沿用已列案例，人体与尺度为视觉近似。"
     },
     {
       "file": "documents/treadmill/rebuild-v08-20261109/option2-home130-child.webp",
@@ -384,7 +384,7 @@
         "note": "短U形扶手和原圆形轴位；使用、折平、竖放同页查看。",
         "files": [
           "documents/treadmill/rebuild-v08-20261109/option2-home80-use.webp",
-          "documents/treadmill/rebuild-v08-20261109/option2-home80-fold.webp"
+          "documents/treadmill/rebuild-v08-20261109/option2-home80-fold-wall.webp"
         ]
       },
       {
