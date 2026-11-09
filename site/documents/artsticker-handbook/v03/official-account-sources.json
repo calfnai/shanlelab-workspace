@@ -1,0 +1,31 @@
+{
+  "retrieved": "2026-11-09",
+  "method": "Firecrawl public profile",
+  "scope": "30 visible cards; not a full account archive",
+  "sources": [
+    {
+      "series": "Fortune Fortune Series",
+      "title": "麻将人速冲！这麻将贴纸自带好运🤑",
+      "profile": "https://www.xiaohongshu.com/user/profile/63f710fc000000000f01152b",
+      "sha256": "5794c4969c3105b0226ff24a30dd3ee28c963077cd4d80c20cf51eadd17d8288"
+    },
+    {
+      "series": "Disney Mickey & Friends",
+      "title": "爱玩贴纸的小女孩有福了...",
+      "profile": "https://www.xiaohongshu.com/user/profile/63f710fc000000000f01152b",
+      "sha256": "9801eb5ee5f2eca9df5290f1c85dbf263ed3dc232af15cae5302a09aa2a57680"
+    },
+    {
+      "series": "Go ART",
+      "title": "叮咚🔔蘑菇星球访客抵达闪乐LAB！",
+      "profile": "https://www.xiaohongshu.com/user/profile/63f710fc000000000f01152b",
+      "sha256": "5addc9d2e5555246ad37b213b4e535712d9fa26f39f9c9e3b8181b2131c8b40f"
+    },
+    {
+      "series": "DIDIPAWS",
+      "title": "闪乐LAB x 帝帝耶联动来袭🐾旅博会现场见",
+      "profile": "https://www.xiaohongshu.com/user/profile/63f710fc000000000f01152b",
+      "sha256": "f0b9304cf7b37d23cbf2f9220ed1c3f69360869f1f21bc2543f484c0f3ca5c5b"
+    }
+  ]
+}

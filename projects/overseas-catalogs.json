@@ -10,6 +10,13 @@
   "currentFocus": "分类优先改为明确分区：所选类别独立展示，结束后用全宽横向区域分隔其他款式，不在同排混排。六个选款页面统一；ArtSticker 授权分区仍固定在末尾。",
   "items": [
     {
+      "file": "documents/artsticker-handbook/v03/ArtSticker-Official-Account-KVs-v03.jpg",
+      "thumb": "documents/artsticker-handbook/v03/ArtSticker-Official-Account-KVs-v03.webp",
+      "label": "ArtSticker v03 · 官方账号KV补充",
+      "status": "已生成并检查 · 待用户审阅",
+      "note": "Firecrawl取得指定官方账号公开封面，补入Go ART、DIDIPAWS、发财和Mickey & Friends；24个封面使用官方视觉，19个使用真实产品图编排。"
+    },
+    {
       "file": "documents/overseas-progress/screens/lab-hub-desktop.png",
       "thumb": "documents/overseas-progress/screens/lab-hub-desktop.webp",
       "label": "SHANLE LAB 海外 Hub · 桌面实拍",
@@ -419,14 +426,14 @@
       "file": "documents/artsticker-handbook/v02/ArtSticker-Classification-Corrections-v02.jpg",
       "thumb": "documents/artsticker-handbook/v02/ArtSticker-Classification-Corrections-v02.webp",
       "label": "ArtSticker v02 · 分类修正与封面",
-      "status": "已生成并检查 · 待用户审阅 · 小红书KV待补",
+      "status": "历史v02 · 官方账号KV已另存v03",
       "note": "SIGU WORKS旗下3个IP、cimmy、Memehey（么么黑）分开。047美人鱼小狗独立，联名logo名称待核实；使用用户原图。"
     },
     {
       "file": "documents/artsticker-handbook/v02/ArtSticker-Handbook-Preview-v02.jpg",
       "thumb": "documents/artsticker-handbook/v02/ArtSticker-Handbook-Preview-v02.webp",
       "label": "ArtSticker v02 · 原版KV融入手册",
-      "status": "22个系列封面复用原版KV · 其余21个以产品原图编排",
+      "status": "历史v02 · 官方账号KV已另存v03",
       "note": "KV从用户已有130页品牌书提取，不拉伸、不重绘，不标成小红书来源。"
     }
   ],
@@ -1004,22 +1011,44 @@
         "body": "v02为112页、171款、43个封面。原混合分组拆为Memehey（么么黑）045/046、047美人鱼小狗及ART-137独立设计；SIGU WORKS为037-042的联名方，下分Angry Aimee/Rokka/Puffkoala，cimmy043/044独立。A Dirty Monkey与Dirty Monkey统一7款。22个封面复用原版品牌书KV。指定小红书账号读取遇verification_required，尚未完成该账号检索；其余21封面目前为真实产品原图编排，未冒称官方KV。",
         "source": "documents/artsticker-handbook/v02/index.html",
         "status": "分类修订与43封面稿已生成 · 小红书来源补充待验证码"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "Firecrawl补入4张官方账号ArtSticker视觉",
+        "body": "读取指定闪乐LAB账号公开主页30条卡片，下载27张封面，视觉核对后采用Go ART、DIDIPAWS、发财和Mickey & Friends共4张。v03为112页、43封面、171款；24个官方视觉封面与19个真实产品图编排封面来源区分。没有取得单篇链接，也未声称完成全账号检索。",
+        "source": "documents/artsticker-handbook/v03/index.html",
+        "status": "已生成并检查 · 待用户审阅"
       }
     ],
     "resources": [
       {
-        "title": "ArtSticker v02 · 分类与封面修订预览",
-        "detail": "112页、43个分组封面；22个封面复用原版KV。指定小红书账号检索暂遇验证码，待补较新KV。",
+        "title": "ArtSticker v03 · 官方账号KV补充预览",
+        "detail": "112页、171款、43封面；24个使用官方视觉，19个使用真实产品图编排。",
+        "href": "documents/artsticker-handbook/v03/index.html"
+      },
+      {
+        "title": "ArtSticker 完整产品手册 v03 · PDF",
+        "detail": "39.3MB；分类修正沿用v02，4张指定小红书官方账号图片已融入。",
+        "href": "documents/artsticker-handbook/v03/ArtSticker-Complete-Product-Handbook-v03.pdf"
+      },
+      {
+        "title": "ArtSticker 43张独立系列封面 · v03",
+        "detail": "20个品牌书KV＋4个官方账号视觉＋19个真实产品图编排。",
+        "href": "documents/artsticker-handbook/v03/ArtSticker-43-Collection-Covers-v03.zip"
+      },
+      {
+        "title": "历史v02 / ArtSticker v02 · 分类与封面修订预览",
+        "detail": "保留分类修订原稿；指定小红书官方账号KV补充见v03。",
         "href": "documents/artsticker-handbook/v02/index.html"
       },
       {
-        "title": "ArtSticker 完整产品手册 v02 · PDF",
-        "detail": "171款完整保留；SIGU WORKS/IP层级、Memehey、cimmy、美人鱼小狗分组纠正；36.3MB。",
+        "title": "历史v02 / ArtSticker 完整产品手册 v02 · PDF",
+        "detail": "保留分类修订原稿；指定小红书官方账号KV补充见v03。",
         "href": "documents/artsticker-handbook/v02/ArtSticker-Complete-Product-Handbook-v02.pdf"
       },
       {
-        "title": "ArtSticker 43张系列封面 · v02",
-        "detail": "22个原版品牌书KV封面＋21个真实产品图编排封面。",
+        "title": "历史v02 / ArtSticker 43张系列封面 · v02",
+        "detail": "保留分类修订原稿；指定小红书官方账号KV补充见v03。",
         "href": "documents/artsticker-handbook/v02/ArtSticker-43-Collection-Covers-v02.zip"
       },
       {
