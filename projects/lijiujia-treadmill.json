@@ -476,6 +476,71 @@
         "title": "被否决与已纠正版本保留追溯",
         "detail": "主案 v01 三图被否决，不作为后续基础；三方向 v01 承接不足，v02 上凸机头已由 v03 纠正。历史入口不代表当前默认版本。"
       }
+    ],
+    "visualGroups": [
+      {
+        "title": "80㎡ · Option 1 与 Option 2",
+        "note": "两组方案的使用、折平与竖放，全部直接展开。",
+        "files": [
+          "documents/treadmill/homes-v06-20261109/option1-home80-use-v2.webp",
+          "documents/treadmill/homes-v06-20261109/option1-home80-fold.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home80-use-final.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home80-fold.webp"
+        ]
+      },
+      {
+        "title": "130㎡ · Option 1 与 Option 2",
+        "note": "两组成人使用与收合过程，另含Option 2儿童状态。",
+        "files": [
+          "documents/treadmill/homes-v06-20261109/option1-home130-use.webp",
+          "documents/treadmill/homes-v06-20261109/option1-home130-fold.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home130-use.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home130-fold-final.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home130-child.webp"
+        ]
+      },
+      {
+        "title": "200㎡ · Option 1 与 Option 2",
+        "note": "两组成人使用、备用收折与竖放。",
+        "files": [
+          "documents/treadmill/homes-v06-20261109/option1-home200-use.webp",
+          "documents/treadmill/homes-v06-20261109/option1-home200-fold.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home200-use.webp",
+          "documents/treadmill/homes-v06-20261109/option2-home200-fold.webp"
+        ]
+      },
+      {
+        "title": "Option 1 · 使用、爬坡与完整折叠",
+        "note": "上一轮详细图稿直接展开；机构仍待装配验证。",
+        "files": [
+          "documents/treadmill/options-v05-20261109/option1-adult.webp",
+          "documents/treadmill/options-v05-20261109/option1-incline.webp",
+          "documents/treadmill/options-v05-20261109/option1-main-steps-v2.webp",
+          "documents/treadmill/options-v05-20261109/option1-main-flat-v2.webp",
+          "documents/treadmill/options-v05-20261109/option1-backup-final.webp",
+          "documents/treadmill/options-v05-20261109/option1-upright-final.webp"
+        ]
+      },
+      {
+        "title": "Option 2 · 使用、爬坡与完整折叠",
+        "note": "上一轮详细图稿直接展开；机构仍待装配验证。",
+        "files": [
+          "documents/treadmill/options-v05-20261109/option2-adult-fixed.webp",
+          "documents/treadmill/options-v05-20261109/option2-incline.webp",
+          "documents/treadmill/options-v05-20261109/option2-child-final.webp",
+          "documents/treadmill/options-v05-20261109/option2-main-steps-final.webp",
+          "documents/treadmill/options-v05-20261109/option2-main-flat-single.webp",
+          "documents/treadmill/options-v05-20261109/option2-backup-final.webp",
+          "documents/treadmill/options-v05-20261109/option2-upright-final.webp"
+        ]
+      },
+      {
+        "title": "辅助竖放脚座 · 已有研究",
+        "note": "以下为已有研究页截图。固定主梁端座优先；历史13编号不是13个现行候选。Option 3尚无图稿。",
+        "files": [
+          "documents/treadmill/foot-website.png"
+        ]
+      }
     ]
   }
 }
