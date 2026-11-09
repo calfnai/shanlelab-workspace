@@ -2,12 +2,103 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "Option 1与Option 2完成成人使用、爬坡、主/备用折叠和竖放渲染；Option 2增加儿童使用状态，等待验收。",
+  "description": "Option 1与Option 2新增80/130/200㎡住宅场景：成人使用、折平、中途收合、备用收折与竖放；Option 2另有儿童图。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "13张渲染版面，17个场景。待验收、未选定、未向厂商发送。170 cm成人与120 cm儿童为生成目标；新增屏轴、儿童中间锁止档与脚座仍需装配校核。",
-  "currentFocus": "验收两组造型承接、人物比例与折叠表达；选定方向后校核真实轴位、完整干涉与锁止。Option 3待资料。",
+  "note": "13张新版面、19个场景，依据上海金沙蜜地、杭州康锦苑和苏州狮子山澜庭公开案例。整屋面积与房间净尺寸分开；人物比例近似，待验收、未选定、未向厂商发送。",
+  "currentFocus": "验收三类住宅中的占地感与收纳表达；继续校核真实轴位、干涉、儿童档位与竖放稳定性。Option 3待资料。",
   "items": [
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option1-home80-use-v2.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option1-home80-use-v2-thumb.webp",
+      "label": "Option 1 / 80㎡ / 成人步行使用",
+      "status": "居家新渲染 · 待验收",
+      "note": "170 cm 成人比例目标；全域跑台、下置电机，尾轴包覆在跑带内。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option1-home80-fold.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option1-home80-fold-thumb.webp",
+      "label": "Option 1 / 80㎡ / 折平 / 竖放",
+      "status": "居家新渲染 · 待验收",
+      "note": "左：折平后仍保留整机长度，展示时调整了朝向；右：移至沙发侧竖放，恢复活动地面。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option2-home80-use-final.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option2-home80-use-final-thumb.webp",
+      "label": "Option 2 / 80㎡ / 成人步行使用",
+      "status": "居家新渲染 · 待验收",
+      "note": "170 cm 成人比例目标；全域跑台、下置电机，尾轴包覆在跑带内。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option2-home80-fold.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option2-home80-fold-thumb.webp",
+      "label": "Option 2 / 80㎡ / 折平 / 竖放",
+      "status": "居家新渲染 · 待验收",
+      "note": "左：折平后仍保留整机长度，展示时调整了朝向；右：移至沙发侧竖放，恢复活动地面。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option1-home130-use.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option1-home130-use-thumb.webp",
+      "label": "Option 1 / 130㎡ / 成人步行使用",
+      "status": "居家新渲染 · 待验收",
+      "note": "170 cm 成人比例目标；全域跑台、下置电机，尾轴包覆在跑带内。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option1-home130-fold.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option1-home130-fold-thumb.webp",
+      "label": "Option 1 / 130㎡ / 收合中途 / 折平",
+      "status": "居家新渲染 · 待验收",
+      "note": "左：主路径收合中途；右：上部组件与立柱落下后的折平。屏幕独立转轴为新增提议。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option2-home130-use.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option2-home130-use-thumb.webp",
+      "label": "Option 2 / 130㎡ / 成人步行使用",
+      "status": "居家新渲染 · 待验收",
+      "note": "170 cm 成人比例目标；全域跑台、下置电机，尾轴包覆在跑带内。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option2-home130-fold-final.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option2-home130-fold-final-thumb.webp",
+      "label": "Option 2 / 130㎡ / 收合中途 / 折平",
+      "status": "居家新渲染 · 待验收",
+      "note": "左：主路径收合中途；右：上部组件与立柱落下后的折平。屏幕独立转轴为新增提议。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option2-home130-child.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option2-home130-child-thumb.webp",
+      "label": "Option 2 / 130㎡ / 儿童低扶手使用状态",
+      "status": "居家新渲染 · 待验收",
+      "note": "120 cm 儿童与170 cm 成人比例目标；成人在旁。降低立柱并调平扶手的中间锁止档为设计提案，尚未验证儿童适用性。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option1-home200-use.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option1-home200-use-thumb.webp",
+      "label": "Option 1 / 200㎡ / 成人步行使用",
+      "status": "居家新渲染 · 待验收",
+      "note": "170 cm 成人比例目标；全域跑台、下置电机，尾轴包覆在跑带内。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option1-home200-fold.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option1-home200-fold-thumb.webp",
+      "label": "Option 1 / 200㎡ / 备用收折 / 竖放",
+      "status": "居家新渲染 · 待验收",
+      "note": "左：保持屏幕与上部组件安装关系的备用收折；右：机头朝下、机底朝房间的竖放布置。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option2-home200-use.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option2-home200-use-thumb.webp",
+      "label": "Option 2 / 200㎡ / 成人步行使用",
+      "status": "居家新渲染 · 待验收",
+      "note": "170 cm 成人比例目标；全域跑台、下置电机，尾轴包覆在跑带内。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
+    {
+      "file": "documents/treadmill/homes-v06-20261109/option2-home200-fold.webp",
+      "thumb": "documents/treadmill/homes-v06-20261109/option2-home200-fold-thumb.webp",
+      "label": "Option 2 / 200㎡ / 备用收折 / 竖放",
+      "status": "居家新渲染 · 待验收",
+      "note": "左：保持屏幕与上部组件安装关系的备用收折；右：机头朝下、机底朝房间的竖放布置。 基于公开住宅案例的生成式布置，整屋面积并非客厅尺寸；比例近似，机构待校核。"
+    },
     {
       "file": "documents/treadmill/options-v05-20261109/option1-adult.webp",
       "thumb": "documents/treadmill/options-v05-20261109/option1-adult-thumb.webp",
@@ -228,9 +319,14 @@
   ],
   "links": [
     {
-      "label": "当前 · Option 1 / Option 2 完整评审",
+      "label": "当前 · 三种住宅尺度 / Option 1 & 2",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/",
       "kind": "review"
+    },
+    {
+      "label": "v05 · 原图、完整折叠与爬坡",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/v05.html",
+      "kind": "history"
     },
     {
       "label": "上一轮 v04 · 室内与折叠条件推演",
@@ -263,19 +359,23 @@
       "kind": "history"
     }
   ],
-  "galleryLabel": "Option 1 / Option 2 · 人体尺度与折叠渲染、原图及历史版本",
+  "galleryLabel": "80 / 130 / 200㎡ 居家评审 · 两个Option",
   "milestone": {
-    "title": "两个Option：从使用到收纳",
+    "title": "两组方案进入三类住宅",
     "date": "2026-11-09",
-    "status": "渲染已生成 · 待验收",
-    "summary": "13张版面包括170 cm成人、两种折叠路径和竖放；Option 2增加120 cm儿童场景。Option 1尾端转轴内置要求延续。",
-    "approvalNote": "未选定。主折叠新增屏幕独立轴，儿童高度档与竖放脚座为提案；未完成真实装配验证。",
-    "next": "验收造型及动作表达，随后核对机构；第三个Option待提供。"
+    "status": "13张版面已生成 · 待验收",
+    "summary": "Option 1与Option 2新增80/130/200㎡住宅场景：成人使用、折平、中途收合、备用收折与竖放；Option 2另有儿童图。",
+    "approvalNote": "基于真实案例的概念布置。无房间实测尺寸；人体比例和跨状态细节为近似，未完成装配验证。",
+    "next": "验收三类住宅中的占地感与收纳表达；继续校核真实轴位、干涉、儿童档位与竖放稳定性。Option 3待资料。"
   },
   "progress": {
     "updated": "2026-11-09",
-    "summary": "Option 1与Option 2完成成人使用、爬坡、主/备用折叠和竖放渲染；Option 2增加儿童使用状态，等待验收。 主路径由显示屏独立翻折参与，备用路径由整个上部组件翻转。保留同事原始模型对照，全域跑台与下置电机继续有效。",
+    "summary": "Option 1与Option 2新增80/130/200㎡住宅场景：成人使用、折平、中途收合、备用收折与竖放；Option 2另有儿童图。 来源与面积口径已列在评审页；上一轮结构与爬坡图保留。",
     "next": [
+      {
+        "title": "验收三类住宅中的空间感",
+        "detail": "比较80㎡地面腾让、130㎡家庭共用与200㎡会客区旁运动角；选定后按真实房间尺寸和产品净距深化。"
+      },
       {
         "title": "验收两个Option的渲染",
         "detail": "对照原图审阅造型、成人/儿童比例、主路径、备用路径与竖放。"
@@ -294,6 +394,12 @@
       }
     ],
     "decisions": [
+      {
+        "title": "住宅场景必须有实际案例依据",
+        "quote": "80平米房子和130平房子和200平房子的感觉……不要瞎想",
+        "detail": "以三处公开案例为依据，保留家具与空间类型；不把整屋面积等同于客厅净尺寸，不把生成图当成实装照片。",
+        "conversation": "5669f0c6"
+      },
       {
         "title": "两个Option分别制作完整渲染",
         "quote": "新增的一个option……上一个截图给你的修改是option1 的修改",
@@ -346,6 +452,10 @@
       }
     ],
     "history": [
+      {
+        "title": "v06居家场景新增，v05结构图保留",
+        "detail": "13张版面19场景；两个Option分别放入三类住宅。原始设计、爬坡和主/备用折叠说明保留在v05页面。"
+      },
       {
         "title": "v04转为上一轮",
         "detail": "保留两张尾端已修正的居家图与折叠条件示意，当前入口更新为两组完整渲染。"
