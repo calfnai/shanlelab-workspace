@@ -16,18 +16,18 @@
       "note": "可见倾斜立柱、上下圆形连接处与圆弧尾端。为双转轴折叠提供线索；真实转动范围、锁止和联动待核对。"
     },
     {
-      "file": "documents/treadmill/v04-20261107/interior-living.png",
-      "thumb": "documents/treadmill/v04-20261107/interior-living.webp",
+      "file": "documents/treadmill/tail-fix-20261109/interior-living-tail-fixed.png",
+      "thumb": "documents/treadmill/tail-fix-20261109/interior-living-tail-fixed.webp",
       "label": "v04 / 新结构 · 室内三分之四视角",
-      "status": "最新生成 · 待评审",
-      "note": "依据新收到的模型截图；保留宽扁立柱、连续肩部、方形尾端及下置机头。室内与CMF为本次提议。"
+      "status": "11月9日尾端已修正 · 待评审",
+      "note": "依据新收到的模型截图；保留宽扁立柱、连续肩部、方形尾端及下置机头。室内与CMF为本次提议。 用户确认尾端为内置转轴，现按跑带包覆修正。"
     },
     {
-      "file": "documents/treadmill/v04-20261107/interior-side.png",
-      "thumb": "documents/treadmill/v04-20261107/interior-side.webp",
+      "file": "documents/treadmill/tail-fix-20261109/interior-side-tail-fixed.png",
+      "thumb": "documents/treadmill/tail-fix-20261109/interior-side-tail-fixed.webp",
       "label": "v04 / 新结构 · 室内近侧面",
-      "status": "最新生成 · 待评审",
-      "note": "同一居家风格中观察新模型轮廓；生成图不能测量尺寸或净距。"
+      "status": "11月9日尾端已修正 · 待评审",
+      "note": "同一居家风格中观察新模型轮廓；生成图不能测量尺寸或净距。 用户确认尾端为内置转轴，现按跑带包覆修正。"
     },
     {
       "file": "documents/treadmill/v04-20261107/fold-study.svg",
@@ -172,13 +172,13 @@
     "title": "v04：新结构进入居家场景",
     "date": "2026-11-07",
     "status": "已出图与分析 · 待评审",
-    "summary": "两张室内概念图直接依据新收到的整机、侧面及机底截图；四格侧视图解释刚性上部的折叠限制与条件路径。",
+    "summary": "两张室内概念图直接依据新收到的整机、侧面及机底截图；四格侧视图解释刚性上部的折叠限制与条件路径。 11月9日两张室内图完成尾端包覆修正。",
     "approvalNote": "未选定。图片为生成式表达；上部自由度与折叠机构未由CAD验证。",
     "next": "接续：核对上部拨杆控制的锁止、真实轴心与收折包络。"
   },
   "progress": {
     "updated": "2026-11-09",
-    "summary": "11月9日新增一张结构截图，可见上下圆形连接处、倾斜立柱与圆弧尾端，为双转轴折叠提供线索。与前三张的版本关系待确认。v04两张室内图及四格推演仍以11月7日资料为依据；新结构的真实转动方向、锁止、联动和折平净距待核对。",
+    "summary": "11月9日补入上下圆形关节结构图，并按用户纠正修复两张室内图的尾端：转轴位于跑带内部，外观呈跑带包覆。补充图的上下关节、倾斜立柱与圆弧尾端已归档，其版本关系、锁止、联动和折平净距继续核对。",
     "next": [
       {
         "title": "核对新增图的版本关系与上下关节",
@@ -194,6 +194,12 @@
       }
     ],
     "decisions": [
+      {
+        "title": "尾端转轴由跑带包覆",
+        "quote": "不是多了一条外露的金属圆管，而是表示这个地方是一条在跑道里头的转轴而已",
+        "detail": "两张室内图已修正外露银色圆管的误读；尾端弧度为视觉近似，精确直径待模型核对。",
+        "conversation": "5669f0c6"
+      },
       {
         "title": "以新收到的三张结构图继续",
         "quote": "生成能够显示匹配这种风格的室内放置着跑步机的渲染图，然后尝试根据这个结构来看一下，他应该是怎么样折叠起来的",
