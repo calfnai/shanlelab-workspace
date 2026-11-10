@@ -2,16 +2,23 @@
   "id": "mlbb-gift",
   "title": "MLBB 赛事赠送款",
   "en": "02 / EVENT GIFT",
-  "description": "MCT 赛事包 · 已选定 C 款与邮件阶段成果。",
+  "description": "MCT 赛事包 · 2026-11-10 用户确认终稿 PDF。",
   "conversation": "d5ba0668",
-  "note": "当前采用 C — MVP + SAVAGE 原版。其他方向及 C 款修订保留为其他版本；用户选款与合作方批准分别记录。",
+  "note": "当前终稿为用户2026-11-10提供的MCTLOGO款PDF（卡背信息与整包正面效果）。保留早期C原版及修订供追溯；用户确认终稿与官方审批分别记录。",
   "items": [
+    {
+      "file": "documents/mct-final-20261110/page-1.png",
+      "thumb": "documents/mct-final-20261110/thumb.webp",
+      "label": "C — MVP + SAVAGE · 用户确认终稿 · 2026-11-10",
+      "status": "已选定",
+      "note": "用户上传终稿PDF，单页包含卡背信息与整包正面效果；预览由原PDF直接渲染，未改稿。官方审批未由本次上传确认。"
+    },
     {
       "file": "media/8abc980f7f.png",
       "thumb": "thumbs/8abc980f7f.webp",
-      "label": "C — MVP + SAVAGE · 已选定使用版",
-      "status": "已选定",
-      "note": "用户于 2026-11-06 明确选择；后续 C 修订并未替代此选择。"
+      "label": "C — MVP + SAVAGE · 早期已选定概念",
+      "status": "历史已选定",
+      "note": "2026-11-06曾选定；2026-11-10用户提供终稿PDF，当前以终稿为准。"
     },
     {
       "file": "media/6486087084.png",
@@ -128,6 +135,10 @@
   ],
   "links": [
     {
+      "label": "用户确认终稿 PDF · 2026-11-10",
+      "href": "documents/mct-final-20261110/MCTLOGO-final.pdf"
+    },
+    {
       "label": "A/B/C 平面矢量预览",
       "href": "documents/mct-vector.html"
     },
@@ -137,11 +148,11 @@
     }
   ],
   "milestone": {
-    "title": "C — MVP + SAVAGE",
-    "status": "已选定使用",
-    "date": "2026.11.06",
-    "summary": "深蓝赛事包，SEA 主贴 + MVP + SAVAGE。以用户本次确认的这张原图作为当前工作版本。",
-    "next": "接续事项：核对官方标志生产原稿、补充平面图与凹凸说明，等待书面审阅意见。",
+    "title": "MCT LOGO款 · 用户确认终稿",
+    "status": "用户确认终稿",
+    "date": "2026.11.10",
+    "summary": "用户提供单页终稿PDF，包含卡背信息与整包正面效果。当前采用此文件；此前概念与修订保留为历史。",
+    "next": "后续以本次终稿为基准。官方审批、邮件补发与生产交付仍分别核实，不因终稿上传自动视为完成。",
     "email": {
       "title": "设计与用途审批申请 · 已发送阶段稿",
       "status": "已发送 · 待书面审阅",
