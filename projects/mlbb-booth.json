@@ -2,15 +2,29 @@
   "id": "mlbb-booth",
   "title": "MLBB 赛事展位",
   "en": "03 / BOOTH",
-  "description": "3 × 3 米相邻双开口 · 展示、体验与储物。",
+  "description": "泰国站：啵啵贴主墙＋整面MLBB专区；合作方收藏卡、MCT赠送款与Layla售卖款。",
   "conversation": "d1139134",
-  "note": "近期 v01–v03 有渲染与平面图；尚未找到与这版设计对应的可旋转 3D。",
+  "note": "11月10日用户要求撤下ArtSticker，整面右墙改为MLBB。原资产正立面已生成待评审；空间图仅用于氛围、轮廓待贴图纠正。实物包装尺寸与结构安装尚待核对。",
   "items": [
+    {
+      "file": "documents/mlbb-booth-v04-20261110/02-mlbb-wall-elevation.png",
+      "thumb": "documents/mlbb-booth-v04-20261110/elevation-thumb.webp",
+      "label": "11.10 · v04 · 整面MLBB专区原资产正立面",
+      "status": "已生成 · 待评审",
+      "note": "ArtSticker撤下；合作方Shining/Treasure/Legendary卡牌＋MCT赠送款及Layla售卖款。原图裁取、等比缩放，未重绘产品。层板与商品尺寸待实物核对。"
+    },
+    {
+      "file": "documents/mlbb-booth-v04-20261110/01-booth-render.png",
+      "thumb": "documents/mlbb-booth-v04-20261110/render-thumb.webp",
+      "label": "11.10 · v04 · 整墙专区空间氛围",
+      "status": "空间参考 · 轮廓待贴图纠正",
+      "note": "展示整墙功能及主品牌关系。AI生成的招牌和包装轮廓不作为成品；准确图案与文案以原资产正立面为准。"
+    },
     {
       "file": "media/be4162bafc.png",
       "thumb": "thumbs/be4162bafc.webp",
       "label": "11.05 · v03 · 01-booth-render",
-      "status": "当前方向",
+      "status": "历史方向 · 整墙MLBB要求前",
       "note": "空间概念图；v03 按主墙尺寸重新校正比例，施工以尺寸图为准。"
     },
     {
@@ -63,6 +77,16 @@
       "note": ""
     }
   ],
-  "links": [],
-  "conversationName": "MLBB展位重设计"
+  "links": [
+    {
+      "label": "查看泰国展位v04 · 专区与领取/购买说明",
+      "href": "documents/mlbb-booth-v04-20261110/index.html",
+      "kind": "document"
+    }
+  ],
+  "conversationName": "MLBB展位重设计",
+  "currentFocus": "合作方卡牌层板＋MCT/Layla展示及领取／购买说明；主墙和中岛保持SHANLE LAB／啵啵贴主导。",
+  "cancelledScope": [
+    "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。"
+  ]
 }
