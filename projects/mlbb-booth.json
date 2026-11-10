@@ -4,8 +4,22 @@
   "en": "03 / BOOTH",
   "description": "泰国站：啵啵贴主墙＋整面MLBB专区；合作方收藏卡、MCT赠送款与Layla售卖款。",
   "conversation": "d1139134",
-  "note": "11月10日用户要求撤下ArtSticker，整面右墙改为MLBB。原资产正立面已生成待评审；空间图仅用于氛围、轮廓待贴图纠正。实物包装尺寸与结构安装尚待核对。",
+  "note": "11月10日v05：合作方商品只用三层横向层板，移除分款标签和单卡装饰。原资产正立面已生成待评审；空间图仅用于布局，轮廓待原图贴图纠正。",
   "items": [
+    {
+      "file": "documents/mlbb-booth-v05-20261110/02-mlbb-wall-elevation.png",
+      "thumb": "documents/mlbb-booth-v05-20261110/elevation-thumb.webp",
+      "label": "11.10 · v05 · 合作方三层横向层板",
+      "status": "已生成 · 待评审",
+      "note": "合作方商品直接摆在三层横板上，去掉分款墙标和单卡装饰；MCT/Layla说明沿用v04。原产品资产等比缩放，商品数量为示意。"
+    },
+    {
+      "file": "documents/mlbb-booth-v05-20261110/01-booth-render.png",
+      "thumb": "documents/mlbb-booth-v05-20261110/render-thumb.webp",
+      "label": "11.10 · v05 · 三层横板空间参考",
+      "status": "空间参考 · 轮廓待贴图纠正",
+      "note": "局部简化合作方陈列。生成图不是精确轮廓或生产证明；原资产正立面作为商品与文案核对依据。"
+    },
     {
       "file": "documents/mlbb-booth-v04-20261110/02-mlbb-wall-elevation.png",
       "thumb": "documents/mlbb-booth-v04-20261110/elevation-thumb.webp",
@@ -79,13 +93,18 @@
   ],
   "links": [
     {
+      "label": "查看v05 · 合作方三层横向层板",
+      "href": "documents/mlbb-booth-v05-20261110/index.html",
+      "kind": "document"
+    },
+    {
       "label": "查看泰国展位v04 · 专区与领取/购买说明",
       "href": "documents/mlbb-booth-v04-20261110/index.html",
       "kind": "document"
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "合作方卡牌层板＋MCT/Layla展示及领取／购买说明；主墙和中岛保持SHANLE LAB／啵啵贴主导。",
+  "currentFocus": "Mars CoolPlay商品简化为三层横向直层板，商品直接摆放；保留MCT/Layla展示与领取／购买说明。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。"
   ]

@@ -1,0 +1,36 @@
+{
+  "wall_mm": [
+    2800,
+    2200
+  ],
+  "rear_wall_mm": [
+    2700,
+    2200
+  ],
+  "partner_bay_width_mm": 1600,
+  "sticker_bay_width_mm": 1200,
+  "storage_height_mm": 500,
+  "shelf_depth_proposal_mm": [
+    250,
+    300
+  ],
+  "island_mm": [
+    1000,
+    500,
+    900
+  ],
+  "retail": {
+    "name": "Layla",
+    "price_thb": 150,
+    "chance_diamonds": 601
+  },
+  "gift": {
+    "name": "MCT",
+    "total_sets": 800,
+    "booth_daily": 50,
+    "organizer_daily": 50,
+    "purchase_required": null
+  },
+  "partner_product_dimensions": "not stated in source; physical fit pending",
+  "status": "layout proposal; not production approval"
+}
