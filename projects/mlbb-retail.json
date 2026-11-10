@@ -2,22 +2,29 @@
   "id": "mlbb-retail",
   "title": "MLBB 联名售卖款",
   "en": "01 / COLLABORATION",
-  "description": "内部v7：明确共同正面为贴纸背景，中奖/普通为二选一背面；中奖背面补齐完整601钻改写、网站及原二维码。",
+  "description": "2026年11月10日用户确认整套终稿：卡背信息、背景纸卡、装配效果、刀线出血、压痕/凸起及中奖/普通内卡背面。",
   "conversation": "a680e3e8",
-  "note": "上一版仅提取兑换段落，本版补齐祝贺与MLBB601钻奖品说明；正面不承载兑奖。保留Claim ID留白及原二维码，内部稿待审、未发送。",
+  "note": "用户明确“这是终稿。”当前上传总览原样归档并置顶；此前内部拟稿和沟通版本保留历史。确认范围是设计终稿，未扩展为生产或合作方验收。",
   "items": [
+    {
+      "file": "documents/mlbb-retail-progress/final-20261110/final.png",
+      "thumb": "documents/mlbb-retail-progress/final-20261110/final.png",
+      "label": "2026.11.10 · 用户确认整套终稿",
+      "status": "用户确认终稿",
+      "note": "用户明确“这是终稿。”原图保持不变；含外背卡、背景/装配、工艺和内卡正面及两种背面。"
+    },
     {
       "file": "documents/mlbb-retail-progress/v7/structure.png",
       "thumb": "documents/mlbb-retail-progress/v7/structure.png",
       "label": "内部v7 · 正面背景／背面二选一",
-      "status": "内部修订完成 · 待审",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "共同正面为Layla贴纸背景；所有兑奖信息只在中奖背面，普通背面为替代版本。"
     },
     {
       "file": "documents/mlbb-retail-progress/v7/winning-back.png",
       "thumb": "documents/mlbb-retail-progress/v7/winning-back.png",
       "label": "内部v7 · 中奖背面完整文案",
-      "status": "内部修订完成 · 待审",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "补齐祝贺、MLBB601钻、网站和原二维码、保管及销毁；Claim ID留白，原码解码一致。"
     },
     {
@@ -31,154 +38,154 @@
       "file": "documents/mlbb-retail-progress/v5/inner-card.png",
       "thumb": "documents/mlbb-retail-progress/v5/inner-card.png",
       "label": "内部v5 · 兑换反馈修订效果图",
-      "status": "历史内部v5 · 已由v6替代",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "网站／二维码兑换，完成前保留卡片，之后由官方销毁。正式入口暂留占位；601钻不变。内部PDF留原项目。"
     },
     {
       "file": "documents/mlbb-retail-progress/mars-01.png",
       "thumb": "documents/mlbb-retail-progress/mars-01.webp",
       "label": "v4 大字沟通稿 · 第1页",
-      "status": "历史对外v4 · 兑换步骤已被内部v5修订",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "保留阶段记录；含旧五步和剪卡拟稿，不作为当前兑换执行依据。"
     },
     {
       "file": "documents/mlbb-retail-progress/mars-02.png",
       "thumb": "documents/mlbb-retail-progress/mars-02.webp",
       "label": "v4 大字沟通稿 · 第2页",
-      "status": "历史对外v4 · 兑换步骤已被内部v5修订",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "保留阶段记录；含旧五步和剪卡拟稿，不作为当前兑换执行依据。"
     },
     {
       "file": "documents/mlbb-retail-progress/mars-03.png",
       "thumb": "documents/mlbb-retail-progress/mars-03.webp",
       "label": "v4 大字沟通稿 · 第3页",
-      "status": "历史对外v4 · 兑换步骤已被内部v5修订",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "保留阶段记录；含旧五步和剪卡拟稿，不作为当前兑换执行依据。"
     },
     {
       "file": "documents/mlbb-retail-progress/mars-04.png",
       "thumb": "documents/mlbb-retail-progress/mars-04.webp",
       "label": "v4 大字沟通稿 · 第4页",
-      "status": "历史对外v4 · 兑换步骤已被内部v5修订",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "保留阶段记录；含旧五步和剪卡拟稿，不作为当前兑换执行依据。"
     },
     {
       "file": "documents/mlbb-retail-progress/mars-05.png",
       "thumb": "documents/mlbb-retail-progress/mars-05.webp",
       "label": "v4 大字沟通稿 · 第5页",
-      "status": "历史对外v4 · 兑换步骤已被内部v5修订",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "保留阶段记录；含旧五步和剪卡拟稿，不作为当前兑换执行依据。"
     },
     {
       "file": "documents/mlbb-retail-progress/mars-06.png",
       "thumb": "documents/mlbb-retail-progress/mars-06.webp",
       "label": "v4 大字沟通稿 · 第6页",
-      "status": "历史对外v4 · 兑换步骤已被内部v5修订",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "保留阶段记录；含旧五步和剪卡拟稿，不作为当前兑换执行依据。"
     },
     {
       "file": "media/b89e6dbabe.png",
       "thumb": "thumbs/b89e6dbabe.webp",
       "label": "PopSticker-MLBB-完整玩法介绍与兑奖教程-v15",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/ca420417f0.png",
       "thumb": "thumbs/ca420417f0.webp",
       "label": "PopSticker-MLBB-原背板比例修正-v14",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/15805700d9.png",
       "thumb": "thumbs/15805700d9.webp",
       "label": "PopSticker-MLBB-横向背板与四项卖点修正-v13",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/d4cf982c80.png",
       "thumb": "thumbs/d4cf982c80.webp",
       "label": "PopSticker-MLBB-纯背景内卡与兑奖教程-v12",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/f0501f96af.png",
       "thumb": "thumbs/f0501f96af.webp",
       "label": "PopSticker-MLBB-十二包一中奖-人工兑奖-v11",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/46e5849d76.png",
       "thumb": "thumbs/46e5849d76.webp",
       "label": "PopSticker-EmpeShop-实际页面流程-v10",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/c7500e4ac6.png",
       "thumb": "thumbs/c7500e4ac6.webp",
       "label": "PopSticker-MLBB-白底背面与层次修正版-v09",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/53f3f9ef28.png",
       "thumb": "thumbs/53f3f9ef28.webp",
       "label": "PopSticker-MLBB-结构与包装-SHANLE强化-v08",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/489b12279f.png",
       "thumb": "thumbs/489b12279f.webp",
       "label": "PopSticker-MLBB-三步兑换教程-v07",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/fceaf3ac31.png",
       "thumb": "thumbs/fceaf3ac31.webp",
       "label": "PopSticker-MLBB-新增内卡与英文包装背面-v06",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/4cf3a4aa0c.png",
       "thumb": "thumbs/4cf3a4aa0c.webp",
       "label": "PopSticker-MLBB-内置双面兑换卡-v05",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/8f03e04354.png",
       "thumb": "thumbs/8f03e04354.webp",
       "label": "PopSticker-MLBB-充值流程图解-v04-Layla",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/c9c2c867a4.png",
       "thumb": "thumbs/c9c2c867a4.webp",
       "label": "PopSticker-MLBB-充值流程图解-v03",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/7b3f1246a9.png",
       "thumb": "thumbs/7b3f1246a9.webp",
       "label": "PopSticker-MLBB-充值流程图解-v02",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
       "file": "media/f5192f50c6.png",
       "thumb": "thumbs/f5192f50c6.webp",
       "label": "PopSticker-MLBB-充值流程图解-v01",
-      "status": "历史版本",
+      "status": "历史版本 · 当前以11月10日用户确认终稿为准",
       "note": "早期玩法图；与当前601钻、内卡单面信息和兑奖顺序冲突时，以最新沟通稿及后续确认优先。"
     },
     {
@@ -198,7 +205,12 @@
   ],
   "links": [
     {
-      "label": "历史对外v4 · 兑换流程已修订",
+      "label": "下载用户确认终稿 · 2026.11.10",
+      "href": "documents/mlbb-retail-progress/final-20261110/final.png",
+      "kind": "document"
+    },
+    {
+      "label": "历史对外v4 · 已由用户确认终稿取代",
       "href": "documents/mlbb-retail-progress/marscoolplay-v4.pdf",
       "kind": "document"
     },
@@ -209,33 +221,26 @@
     }
   ],
   "conversationName": "MLBB表情包充值贴纸",
-  "currentFocus": "背面结构及完整文案已修正；后续核定实际喷码留白尺寸、完整兑换执行及本地标签。",
+  "currentFocus": "以2026-11-10用户确认终稿为当前设计依据。",
   "milestone": {
-    "title": "内部v7：单背面结构与完整文案",
-    "date": "2026-11-07",
-    "status": "修订完成 · 用户待审",
-    "summary": "内部v7：明确共同正面为贴纸背景，中奖/普通为二选一背面；中奖背面补齐完整601钻改写、网站及原二维码。",
-    "approvalNote": "根据用户纠正补全翻译和结构表达；未声称新稿已获用户或合作方批准。",
-    "next": "确认601钻适用的正式入口、完整兑换步骤及官方销毁卡片的时点，再修订卡面。"
+    "title": "MLBB售卖款整套终稿 · 用户确认",
+    "date": "2026-11-10",
+    "status": "用户确认终稿",
+    "summary": "2026年11月10日用户确认整套终稿：卡背信息、背景纸卡、装配效果、刀线出血、压痕/凸起及中奖/普通内卡背面。",
+    "approvalNote": "用户在本对话明确确认“这是终稿。”附件原样保存，不重画、不更改图面文字或轮廓。",
+    "next": "后续如需执行，以本终稿为设计依据；生产与验收状态另行记录。"
   },
   "progress": {
-    "updated": "2026-11-07",
-    "summary": "内部v7：明确共同正面为贴纸背景，中奖/普通为二选一背面；中奖背面补齐完整601钻改写、网站及原二维码。",
-    "next": [
-      {
-        "title": "补齐兑换执行细节",
-        "detail": "原二维码已采用并解码核对，无需再留入口占位；继续补齐提交资料、客服职责、到账时限、失败处理及销毁操作。"
-      },
-      {
-        "title": "补齐背卡活动与标签信息",
-        "detail": "询问1/12是否需印明、地区、期限、必要许可和客服入口；确认制造商、当地进口商、条码及预留标签位尺寸，尽早直接印刷。"
-      },
-      {
-        "title": "喷码与印刷核对",
-        "detail": "Claim ID独立大块留白、不预印编号；按实际刀模和设备容差核定尺寸。内部v6已完成，对外v4保留历史。"
-      }
-    ],
+    "updated": "2026-11-10",
+    "summary": "2026年11月10日用户确认整套终稿：卡背信息、背景纸卡、装配效果、刀线出血、压痕/凸起及中奖/普通内卡背面。",
+    "next": [],
     "decisions": [
+      {
+        "title": "用户确认本次上传为终稿",
+        "quote": "这是终稿。",
+        "detail": "2026-11-10附件作为当前设计终稿；原样归档并置顶，此前v4-v7等拟稿转历史。不推断印刷/生产或合作方验收状态。",
+        "conversation": "753551e9"
+      },
       {
         "title": "对方参考卡已收到，601钻流程仍待确认",
         "detail": "11月7日用户提供对方回传图片：其他系列参考卡分别为5,000钻与1,000钻。图中文字要求通过网站或二维码兑换，完成前保留卡片，之后由官方销毁；不能据此变更本项目601钻奖额，也不能视为本项目的完整流程已确认。",
@@ -261,6 +266,10 @@
       }
     ],
     "history": [
+      {
+        "title": "11月10日 · 终稿确认并归档",
+        "detail": "用户明确确认整套终稿。上传图原样归档，更新共享工作区当前入口；此前迭代保留历史。"
+      },
       {
         "title": "高清二维码补充",
         "detail": "核对译图二维码无法识别；原图地址成功解出，导出1968px PNG及SVG，解码结果与原地址一致。"
@@ -301,5 +310,5 @@
       }
     ]
   },
-  "galleryLabel": "当前601钻沟通成果与历史版本"
+  "galleryLabel": "用户确认终稿与历史版本"
 }
