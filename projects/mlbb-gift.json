@@ -4,7 +4,7 @@
   "en": "02 / EVENT GIFT",
   "description": "MCT赠送款采用已选定C原版；总量800份，每天摊位50份、官方50份。",
   "conversation": "d5ba0668",
-  "note": "当前终稿为用户2026-11-10提供的MCTLOGO款PDF（卡背信息与整包正面效果）。保留早期C原版及修订供追溯；用户确认终稿与官方审批分别记录。",
+  "note": "当前终稿为用户2026-11-10提供的MCTLOGO款PDF（卡背信息与整包正面效果）。保留早期C原版及修订供追溯；用户确认终稿与官方审批分别记录。 用户11月10日进一步强调：仅此一场，限量获得，发完即止。详细同步图v02已生成，待用户审阅。",
   "items": [
     {
       "file": "documents/mct-final-20261110/page-1.png",
@@ -14,11 +14,18 @@
       "note": "用户上传终稿PDF，单页包含卡背信息与整包正面效果；预览由原PDF直接渲染，未改稿。官方审批未由本次上传确认。"
     },
     {
+      "file": "documents/team-sync-20261110-v02/gift.png",
+      "thumb": "documents/team-sync-20261110-v02/gift.png",
+      "label": "11月10日 · 设计逻辑与玩法详细图 v02",
+      "status": "已生成 · 待用户审阅",
+      "note": "说明赛事图形与MVP／SAVAGE含义；本场专属、800份发完即止；每日摊位50份及官方50份。"
+    },
+    {
       "file": "documents/team-sync-20261110/gift.png",
       "thumb": "documents/team-sync-20261110/gift.png",
-      "label": "11月10日 · 同事玩法同步图",
-      "status": "已生成 · 采用当前确认设计",
-      "note": "总量800份；每天摊位50份，另50份由官方发给参赛者或观众；赠送不售卖。"
+      "label": "11月10日 · 历史简版玩法图",
+      "status": "历史简版 · 用户要求补足设计理由",
+      "note": "用户认为不够详细；已补充v02设计逻辑、用户体验与同事介绍话术。"
     },
     {
       "file": "media/8abc980f7f.png",
@@ -142,7 +149,12 @@
   ],
   "links": [
     {
-      "label": "下载同事玩法同步图 · 2026.11.10",
+      "label": "下载设计逻辑与玩法详细图 v02",
+      "href": "documents/team-sync-20261110-v02/gift.png",
+      "kind": "document"
+    },
+    {
+      "label": "历史简版玩法图 · 已由v02详细稿替代",
       "href": "documents/team-sync-20261110/gift.png",
       "kind": "document"
     },
@@ -176,5 +188,5 @@
     }
   },
   "conversationName": "MLBB赛事包 MCT赛事Logo贴纸",
-  "currentFocus": "完成同事玩法同步图：800份限量，每天摊位50份，另50份由官方发给参赛者或观众。"
+  "currentFocus": "按用户反馈完成v02详细同步图，突出本场专属、800份发完即止，并解释赛事符号与双路发放，待审阅。"
 }
