@@ -14,6 +14,13 @@
       "note": "用户明确“这是终稿。”原图保持不变；含外背卡、背景/装配、工艺和内卡正面及两种背面。"
     },
     {
+      "file": "documents/team-sync-20261110/retail.png",
+      "thumb": "documents/team-sync-20261110/retail.png",
+      "label": "11月10日 · 同事玩法同步图",
+      "status": "已生成 · 采用当前确认设计",
+      "note": "Layla发售价150 THB／包；终稿产品与普通／中奖卡流程。"
+    },
+    {
       "file": "documents/mlbb-retail-progress/v7/structure.png",
       "thumb": "documents/mlbb-retail-progress/v7/structure.png",
       "label": "内部v7 · 正面背景／背面二选一",
@@ -205,6 +212,11 @@
   ],
   "links": [
     {
+      "label": "下载同事玩法同步图 · 2026.11.10",
+      "href": "documents/team-sync-20261110/retail.png",
+      "kind": "document"
+    },
+    {
       "label": "下载用户确认终稿 · 2026.11.10",
       "href": "documents/mlbb-retail-progress/final-20261110/final.png",
       "kind": "document"
@@ -221,7 +233,7 @@
     }
   ],
   "conversationName": "MLBB表情包充值贴纸",
-  "currentFocus": "以2026-11-10用户确认终稿为当前设计依据。",
+  "currentFocus": "用户确认终稿已归档；Layla发售价已确认为150 THB／包，完成同事玩法同步图。",
   "milestone": {
     "title": "MLBB售卖款整套终稿 · 用户确认",
     "date": "2026-11-10",
@@ -235,6 +247,11 @@
     "summary": "2026年11月10日用户确认整套终稿：卡背信息、背景纸卡、装配效果、刀线出血、压痕/凸起及中奖/普通内卡背面。",
     "next": [],
     "decisions": [
+      {
+        "title": "Layla发售价确认",
+        "quote": "layla款的发售价150THB也可以定了。",
+        "detail": "2026-11-10用户确认150 THB／包。已按当前终稿制作同事玩法图；未代发。"
+      },
       {
         "title": "用户确认本次上传为终稿",
         "quote": "这是终稿。",
@@ -266,6 +283,10 @@
       }
     ],
     "history": [
+      {
+        "title": "11月10日 · 同事玩法同步图",
+        "detail": "采用当日用户确认终稿原图，说明售价、3枚贴纸及内卡、普通卡与601钻中奖卡的兑奖指引。"
+      },
       {
         "title": "11月10日 · 终稿确认并归档",
         "detail": "用户明确确认整套终稿。上传图原样归档，更新共享工作区当前入口；此前迭代保留历史。"

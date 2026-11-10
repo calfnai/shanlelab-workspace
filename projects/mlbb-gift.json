@@ -2,7 +2,7 @@
   "id": "mlbb-gift",
   "title": "MLBB 赛事赠送款",
   "en": "02 / EVENT GIFT",
-  "description": "MCT 赛事包 · 2026-11-10 用户确认终稿 PDF。",
+  "description": "MCT赠送款采用已选定C原版；总量800份，每天摊位50份、官方50份。",
   "conversation": "d5ba0668",
   "note": "当前终稿为用户2026-11-10提供的MCTLOGO款PDF（卡背信息与整包正面效果）。保留早期C原版及修订供追溯；用户确认终稿与官方审批分别记录。",
   "items": [
@@ -12,6 +12,13 @@
       "label": "C — MVP + SAVAGE · 用户确认终稿 · 2026-11-10",
       "status": "已选定",
       "note": "用户上传终稿PDF，单页包含卡背信息与整包正面效果；预览由原PDF直接渲染，未改稿。官方审批未由本次上传确认。"
+    },
+    {
+      "file": "documents/team-sync-20261110/gift.png",
+      "thumb": "documents/team-sync-20261110/gift.png",
+      "label": "11月10日 · 同事玩法同步图",
+      "status": "已生成 · 采用当前确认设计",
+      "note": "总量800份；每天摊位50份，另50份由官方发给参赛者或观众；赠送不售卖。"
     },
     {
       "file": "media/8abc980f7f.png",
@@ -135,6 +142,11 @@
   ],
   "links": [
     {
+      "label": "下载同事玩法同步图 · 2026.11.10",
+      "href": "documents/team-sync-20261110/gift.png",
+      "kind": "document"
+    },
+    {
       "label": "用户确认终稿 PDF · 2026-11-10",
       "href": "documents/mct-final-20261110/MCTLOGO-final.pdf"
     },
@@ -151,7 +163,7 @@
     "title": "MCT LOGO款 · 用户确认终稿",
     "status": "用户确认终稿",
     "date": "2026.11.10",
-    "summary": "用户提供单页终稿PDF，包含卡背信息与整包正面效果。当前采用此文件；此前概念与修订保留为历史。",
+    "summary": "当前采用C — MVP + SAVAGE原版；2026-11-10明确总量800份，每天摊位领取50份，官方发给参赛者或观众50份。赠送不售卖。",
     "next": "后续以本次终稿为基准。官方审批、邮件补发与生产交付仍分别核实，不因终稿上传自动视为完成。",
     "email": {
       "title": "设计与用途审批申请 · 已发送阶段稿",
@@ -163,5 +175,6 @@
       "latestTitle": "后续完整邮件稿 · 总共800份／每天100份（待发送）"
     }
   },
-  "conversationName": "MLBB赛事包 MCT赛事Logo贴纸"
+  "conversationName": "MLBB赛事包 MCT赛事Logo贴纸",
+  "currentFocus": "完成同事玩法同步图：800份限量，每天摊位50份，另50份由官方发给参赛者或观众。"
 }
