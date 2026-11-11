@@ -2,10 +2,45 @@
   "id": "booth-3x3",
   "title": "MLBB 3×3展位",
   "en": "03 / MLBB 3×3 BOOTH",
-  "description": "MLBB泰国3×3：外背墙成对比较，保留椭圆视觉锤并留一面给MLBB；v10单面文字外背板已否决。",
+  "description": "MLBB泰国3×3：A3钻石贴票互动，Switch 2／游戏保护包／耳机应用场景；保留椭圆识别与MLBB主题。",
   "conversation": "d1139134",
-  "note": "用户已明确要两面外背墙、椭圆品牌视觉锤及独立MLBB主题面。v10单面文字外背板已否决并撤出图库推荐；内部主墙、陈列与A4投票摆位不由本次重做。红包与银灰包具旧原稿已找回，银色耳机确切原稿尚未定位。新平面采用用户标准轮廓蒙版及原产品资产，空间生成图不作为印刷与施工证明。",
+  "note": "本轮用户指定A3板与钻石贴票，替代A4人工计票提案；500枚为拟定首批，未下单印制。原产品轮廓与主品牌识别保留，场景生成图不作为准确轮廓／小字或施工证明。Switch 2以官方尺寸拟合，保护包尺寸待实物核对。v11两面外背墙保持备选，v10单面文字外背板仍为用户否决，不恢复推荐。",
   "items": [
+    {
+      "file": "documents/mlbb-booth-v12-20261112/01-booth-render.png",
+      "thumb": "documents/mlbb-booth-v12-20261112/01-booth-render-thumb.webp",
+      "label": "11.12 · v12 · 电竞应用与A3钻石贴票摆位",
+      "status": "已生成 · 待评审",
+      "note": "中央椭圆与商品结构保留；道具及两侧应用海报转向Switch 2／保护包／耳机。空间生成图仅看关系，精确商品轮廓与文案以原资产平面为准。"
+    },
+    {
+      "file": "documents/mlbb-booth-v12-20261112/02-voting-interaction.png",
+      "thumb": "documents/mlbb-booth-v12-20261112/02-voting-interaction-thumb.webp",
+      "label": "11.12 · 亲手贴一颗钻石 · 互动近景",
+      "status": "已生成 · 待评审",
+      "note": "A3板放中岛右后角，取贴盘在前，保留游戏设备与试贴区。少量贴票为动作示意，无真实结果。"
+    },
+    {
+      "file": "documents/mlbb-booth-v12-20261112/07-voting-sticker-batch-review.png",
+      "thumb": "documents/mlbb-booth-v12-20261112/07-voting-sticker-batch-review-thumb.webp",
+      "label": "11.12 · 钻石不干胶 · 16×13mm／拟500枚",
+      "status": "已生成 · 待评审",
+      "note": "每张A4排50枚，拟印10张；彩稿和独立刀线已完成尺寸核对。尚未下单、印刷或制造。"
+    },
+    {
+      "file": "documents/mlbb-booth-v12-20261112/03-vote-board-A3-420x297mm.png",
+      "thumb": "documents/mlbb-booth-v12-20261112/03-vote-board-A3-420x297mm-thumb.webp",
+      "label": "11.12 · A3横版投票板 · 420×297mm",
+      "status": "已生成 · 待评审",
+      "note": "每侧50个位置，单板100位为容量而非活动上限；满区拍照计数后换底纸，累计保留。"
+    },
+    {
+      "file": "documents/mlbb-booth-v12-20261112/08-island-placement.png",
+      "thumb": "documents/mlbb-booth-v12-20261112/08-island-placement-thumb.webp",
+      "label": "11.12 · A3板／取贴盘／游戏道具台面分配",
+      "status": "已生成 · 待评审",
+      "note": "1000×500×900mm中岛为既有方案参考；底座拟440×160mm，现场复核台面与稳定性。"
+    },
     {
       "file": "documents/mlbb-booth-v11-20261112/01-three-new-paired-options.jpg",
       "thumb": "documents/mlbb-booth-v11-20261112/01-three-new-paired-options-thumb.webp",
@@ -45,7 +80,7 @@
       "file": "documents/mlbb-booth-v10-20261112/01-booth-render.png",
       "thumb": "documents/mlbb-booth-v10-20261112/01-booth-render-thumb.webp",
       "label": "11.12 · v10 · A4台牌实际摆位方向",
-      "status": "已生成 · 待评审",
+      "status": "历史空间参考 · 道具与投票改v12",
       "note": "台牌仅中岛右前角一处，不落地；v09两张A1海报更新入场景。空间生成图不作为精确轮廓与施工证明。"
     },
     {
@@ -219,6 +254,16 @@
   ],
   "links": [
     {
+      "label": "v12 · A3钻石贴票／电竞应用场景",
+      "href": "documents/mlbb-booth-v12-20261112/index.html",
+      "kind": "document"
+    },
+    {
+      "label": "钻石贴＋A3板审阅交付包 ZIP · 未下单印制",
+      "href": "documents/mlbb-booth-v12-20261112/diamond-voting-review-pack-v12.zip",
+      "kind": "document"
+    },
+    {
       "label": "v11 · 三组新双面搭配＋两组旧稿参考",
       "href": "documents/mlbb-booth-v11-20261112/index.html",
       "kind": "document"
@@ -269,7 +314,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "v11双外墙备选：B红色大包＋MCT800，C银灰应用＋Layla601，D椭圆品牌＋MLBB双主题；旧v15/v16成对列出供比较，尚未选定。",
+  "currentFocus": "v12：A3横版实体贴票＋16×13mm钻石不干胶，拟首批500枚；应用道具与两侧海报转电竞。v11外背墙仍为备选未选定。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
@@ -280,27 +325,32 @@
   ],
   "galleryLabel": "MLBB当前图稿与历次版本",
   "milestone": {
-    "title": "v11 · 找回旧稿并补齐双面备选",
+    "title": "v12 · 钻石贴票与电竞应用",
     "date": "2026-11-12",
-    "status": "旧稿已找回 · 新组合待评审",
-    "summary": "v11双外墙备选：B红色大包＋MCT800，C银灰应用＋Layla601，D椭圆品牌＋MLBB双主题；旧v15/v16成对列出供比较，尚未选定。",
-    "approvalNote": "列入备选不等于用户选定。旧银灰对象为椭圆包具，不冒称耳机原稿已找回。",
-    "next": "比较B/C/D两面组合，核对所指耳机原稿；实际墙面净尺寸及印前深化另行核实。"
+    "status": "需求已明确 · 图稿已生成待评审",
+    "summary": "用户指定A3投票板与钻石造型小不干胶，亲手贴票；部分手机改Switch 2、黄色女装包改游戏保护包，应用场景偏电竞。",
+    "approvalNote": "A3与贴票／电竞方向为本轮用户要求；图稿未选定，拟500枚未等同采购或已制造。",
+    "next": "核对印材、数量、刀线和试切；现场核对A3底座、台面与道具尺寸。"
   },
   "progress": {
     "updated": "2026-11-12",
-    "summary": "v11双外墙备选：B红色大包＋MCT800，C银灰应用＋Layla601，D椭圆品牌＋MLBB双主题；旧v15/v16成对列出供比较，尚未选定。",
+    "summary": "v12：A3横版实体贴票＋16×13mm钻石不干胶，拟首批500枚；应用道具与两侧海报转电竞。v11外背墙仍为备选未选定。",
     "next": [
       {
-        "title": "比较三组新双面方案",
-        "detail": "B红包＋MCT800、C银灰应用＋Layla601、D椭圆＋MLBB双主题；当前均未选定。"
+        "title": "核对钻石贴与投票物料",
+        "detail": "16×13mm、拟500枚；A3底板与替换票区。确认材料、色样、刀线、试切和数量后生产，未下单。"
       },
       {
-        "title": "核对旧耳机图与印前原稿",
-        "detail": "已检索相关日期103张生成图，现存银灰旧图为椭圆包具；耳机原稿未定位。正式图需高分辨率商品／Logo和供应商净尺寸。"
+        "title": "核对电竞道具及活动执行",
+        "detail": "Switch 2按官方272×116mm参考，保护包需实物复核；A3支撑／台面、计票起止与公示待落实。外背墙未选定。"
       }
     ],
     "decisions": [
+      {
+        "title": "A3钻石贴票与电竞应用方向",
+        "detail": "用户指定A3投票板与钻石造型小不干胶，亲手贴票；部分手机改Switch 2、黄色女装包改游戏保护包，应用场景偏电竞。 图稿与摆位已生成；500枚为拟定数量，尚未印制或开放投票。",
+        "conversation": "d1139134"
+      },
       {
         "title": "v10外背板否决；必须成对呈现并保留椭圆与MLBB面",
         "detail": "用户认为旧红包／银色应用特写冲击力好，要求作为备选；新稿须保留椭圆视觉锤，并分一面给MLBB。本轮找回v15/v16原稿，完成三组双面新搭配；银色耳机原稿尚未定位。",
@@ -351,7 +401,7 @@
   "sync": {
     "checkedAt": "2026-11-12",
     "sourceConversation": "d1139134",
-    "status": "v10外背板已否决撤回推荐；v11三组双面新方案及两组历史参考已生成／找回，未选定"
+    "status": "v12 A3钻石贴票与电竞应用图稿已生成；拟500枚未制造，活动未开放；原产品确认和外墙备选状态保留"
   },
   "withdrawnItems": [
     {

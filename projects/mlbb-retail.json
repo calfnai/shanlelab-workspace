@@ -4,7 +4,7 @@
   "en": "01 / COLLABORATION",
   "description": "正面采用2026年11月12日用户更新确认终稿；其余背面、内卡及工艺延续11月10日整套确认稿。",
   "conversation": "a680e3e8",
-  "note": "用户明确本次上传才是最终版正面。正面原图原样保存并置顶；11月10日整套总览保留，其正面参考由11月12日图片替代，其他部分不变。",
+  "note": "用户明确本次上传才是最终版正面。正面原图原样保存并置顶；11月10日整套总览保留，其正面参考由11月12日图片替代，其他部分不变。 v12：按用户要求，投票改为A3板＋钻石小不干胶，替代A4人工记票提案；最高票候选下一款推出，当前未开放。原确认产品终稿不变。",
   "items": [
     {
       "file": "documents/mlbb-retail-progress/final-front-20261112/front.png",
@@ -12,6 +12,20 @@
       "label": "2026.11.12 · 用户确认正面终稿",
       "status": "用户确认正面终稿",
       "note": "用户更新确认正面，原图原样归档；替换11月10日总览中的正面，其他背面及工艺不变。"
+    },
+    {
+      "file": "documents/mlbb-booth-v12-20261112/03-vote-board-A3-420x297mm.png",
+      "thumb": "documents/mlbb-booth-v12-20261112/03-vote-board-A3-420x297mm-thumb.webp",
+      "label": "11.12 · v12 · 橙绿候选A3钻石贴票",
+      "status": "已生成 · 待评审",
+      "note": "候选原图不变；实体钻石一人一票，最高票候选下一款推出。未开放投票、无实际票数。"
+    },
+    {
+      "file": "documents/mlbb-booth-v12-20261112/07-voting-sticker-batch-review.png",
+      "thumb": "documents/mlbb-booth-v12-20261112/07-voting-sticker-batch-review-thumb.webp",
+      "label": "11.12 · 配套钻石小不干胶 · 拟500枚",
+      "status": "已生成 · 待评审",
+      "note": "16×13mm，50枚／A4；彩稿与独立刀线审阅包已完成，未下单印制。"
     },
     {
       "file": "documents/mlbb-retail-progress/final-20261110/final.png",
@@ -24,8 +38,8 @@
       "file": "documents/mlbb-booth-v10-20261112/03-vote-tabletop-A4-297x210mm.png",
       "thumb": "documents/mlbb-booth-v10-20261112/03-vote-tabletop-A4-297x210mm-thumb.webp",
       "label": "11.12 · v10 · 橙绿投票缩为A4台牌",
-      "status": "已生成 · 待评审",
-      "note": "原A2尺寸不采用；工作人员计票，小牌显示累计数。候选原图不变，投票尚未开放。"
+      "status": "历史提案 · v12改A3钻石贴票",
+      "note": "原A2尺寸不采用；工作人员计票，小牌显示累计数。候选原图不变，投票尚未开放。 用户本轮指定A3实体贴票板，替代A4人工计票方式。"
     },
     {
       "file": "documents/mlbb-booth-v09-20261112/03-LAYLA-601-launch-594x841mm.png",
@@ -254,6 +268,16 @@
   ],
   "links": [
     {
+      "label": "v12 · A3钻石贴票／电竞应用场景",
+      "href": "documents/mlbb-booth-v12-20261112/index.html",
+      "kind": "document"
+    },
+    {
+      "label": "钻石贴＋A3板审阅交付包 ZIP · 未下单印制",
+      "href": "documents/mlbb-booth-v12-20261112/diamond-voting-review-pack-v12.zip",
+      "kind": "document"
+    },
+    {
       "label": "下载正面终稿 · 2026.11.12",
       "href": "documents/mlbb-retail-progress/final-front-20261112/front.png",
       "kind": "document"
@@ -315,7 +339,7 @@
     }
   ],
   "conversationName": "MLBB表情包充值贴纸",
-  "currentFocus": "当前设计依据：11月12日正面终稿＋11月10日其余确认稿。",
+  "currentFocus": "Layla首发与601钻机会海报不变；橙绿候选预热改用A3钻石贴票，贴纸首批拟500枚，未印制。",
   "milestone": {
     "title": "正面终稿更新 · 用户确认",
     "date": "2026-11-12",
@@ -326,18 +350,23 @@
   },
   "progress": {
     "updated": "2026-11-12",
-    "summary": "正面采用2026年11月12日用户更新确认终稿；其余背面、内卡及工艺延续11月10日整套确认稿。",
+    "summary": "Layla首发与601钻机会海报不变；橙绿候选预热改用A3钻石贴票，贴纸首批拟500枚，未印制。",
     "next": [
       {
-        "title": "核对A4台牌与中岛",
-        "detail": "310×150mm底座为拟定占地，现场测台面；人工计票和累计数字更新。"
+        "title": "核对钻石贴与投票物料",
+        "detail": "16×13mm、拟500枚；A3底板与替换票区。确认材料、色样、刀线、试切和数量后生产，未下单。"
       },
       {
-        "title": "澄清背面所指与活动执行",
-        "detail": "暂拟为墙体朝外背板；图稿、活动起止和计票安排尚待评审。"
+        "title": "核对电竞道具及活动执行",
+        "detail": "Switch 2按官方272×116mm参考，保护包需实物复核；A3支撑／台面、计票起止与公示待落实。外背墙未选定。"
       }
     ],
     "decisions": [
+      {
+        "title": "A3钻石贴票与电竞应用方向",
+        "detail": "用户指定A3投票板与钻石造型小不干胶，亲手贴票；部分手机改Switch 2、黄色女装包改游戏保护包，应用场景偏电竞。 图稿与摆位已生成；500枚为拟定数量，尚未印制或开放投票。",
+        "conversation": "d1139134"
+      },
       {
         "title": "11月12日仅更新正面终稿",
         "quote": "这份才是最终版的正面，稍微修改了一点",
@@ -455,6 +484,6 @@
   "sync": {
     "checkedAt": "2026-11-12",
     "sourceConversation": "d1139134",
-    "status": "A2尺寸不采用；v10 A4摆位已生成待评审；背面图为暂拟方向"
+    "status": "v12 A3钻石贴票与电竞应用图稿已生成；拟500枚未制造，活动未开放；原产品确认和外墙备选状态保留"
   }
 }

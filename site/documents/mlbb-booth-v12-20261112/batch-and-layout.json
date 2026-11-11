@@ -1,0 +1,37 @@
+{
+  "vote_board_mm": [
+    420,
+    297
+  ],
+  "holder_footprint_proposal_mm": [
+    440,
+    160
+  ],
+  "vote_guide_count_each": 50,
+  "vote_guide_total": 100,
+  "sticker_diecut_mm": [
+    16,
+    13
+  ],
+  "pcs_per_A4": 50,
+  "proposed_first_batch_pcs": 500,
+  "copies": 10,
+  "physical_status": "artwork prepared; not ordered or manufactured",
+  "vote": "one participant one diamond; daily totals carried across replacement zones",
+  "island_reference_mm": [
+    1000,
+    500,
+    900
+  ],
+  "switch2_official_mm": [
+    272,
+    116,
+    13.9
+  ],
+  "prop_changes": [
+    "selected phones to Switch2",
+    "yellow fashion bag to gaming carry case",
+    "brown handbag to gaming headset or controller case"
+  ],
+  "approval": "new artifacts for review; no vote results"
+}
