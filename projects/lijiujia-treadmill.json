@@ -2,12 +2,40 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "已删除用户否决的8张居家图及旧爬坡图。Option 2重新生成5张版面，成人、儿童及折叠状态直接展开；Option 1饰板修订待验收。",
+  "description": "当前仅保留凌序、曜影、灵伴三个选项。曜影有机盖版STEP已按原几何转换为交互模型；源文件为收合姿态并有一组悬空小件，未修改装配。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "新修订均待用户验收。Option 1的80/130/200㎡收折图已删除，正确扶手翻转方向待用户确认后重绘；已确认的200㎡使用图保留。",
-  "currentFocus": "验收Option 2重绘的扶手、关节与儿童比例；确认Option 1扶手翻转方向后补回三张折叠图。",
+  "note": "STEP及上部扶手转轴外观讨论归属曜影；大C归属灵伴。三方案仍待选择，未完成工程验证。",
+  "currentFocus": "比较三个现行方案，并核对曜影源模型收合状态、悬空小件与上部转轴细节。",
   "items": [
+    {
+      "file": "documents/treadmill/current-options-20261112/linear.png",
+      "thumb": "documents/treadmill/current-options-20261112/linear.png",
+      "label": "凌序 · 当前同事方案",
+      "status": "当前设计来源 · 待评审",
+      "note": "用户明确的当前方案。"
+    },
+    {
+      "file": "documents/treadmill/current-options-20261112/origin.png",
+      "thumb": "documents/treadmill/current-options-20261112/origin.png",
+      "label": "曜影 · 当前同事方案",
+      "status": "当前设计来源 · 待评审",
+      "note": "用户明确的当前方案。"
+    },
+    {
+      "file": "documents/treadmill/current-options-20261112/lynmate.png",
+      "thumb": "documents/treadmill/current-options-20261112/lynmate.png",
+      "label": "灵伴 · 当前同事方案",
+      "status": "当前设计来源 · 待评审",
+      "note": "用户明确的当前方案。"
+    },
+    {
+      "file": "documents/treadmill/current-options-20261112/yaoying-step.png",
+      "thumb": "documents/treadmill/current-options-20261112/yaoying-step.png",
+      "label": "曜影 · 有机盖版 STEP 原姿态",
+      "status": "当前设计来源 · 待评审",
+      "note": "真实STEP转换；收合姿态和悬空小件按原坐标保留，非运动验证。"
+    },
     {
       "file": "documents/treadmill/homes-v06-20261109/option1-home200-use.webp",
       "thumb": "documents/treadmill/homes-v06-20261109/option1-home200-use-thumb.webp",
@@ -186,9 +214,14 @@
   ],
   "links": [
     {
-      "label": "当前 · 已确认外观与纠错记录",
+      "label": "当前三方案 · 凌序 / 曜影 / 灵伴",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/",
       "kind": "review"
+    },
+    {
+      "label": "曜影 · 有机盖版 STEP 交互模型",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/yaoying-20261112/viewer.html",
+      "kind": "3d"
     },
     {
       "label": "v05历史 · 结构待复核，非正确折叠依据",
@@ -236,19 +269,27 @@
       "kind": "research"
     }
   ],
-  "galleryLabel": "重新生成的修订图 · 直接展开",
+  "galleryLabel": "当前三个选项 · 同事原图与曜影STEP",
   "milestone": {
-    "title": "错误图已删除，修订图替换中",
-    "date": "2026-11-09",
-    "status": "Option 2五张重绘已生成 · 待验收",
-    "summary": "已删除用户否决的8张居家图及旧爬坡图。Option 2重新生成5张版面，成人、儿童及折叠状态直接展开；Option 1饰板修订待验收。",
-    "approvalNote": "确认仅限Option 1／200㎡使用图的外观；不扩展至折叠、竖放或儿童机构。",
-    "next": "验收Option 2重绘的扶手、关节与儿童比例；确认Option 1扶手翻转方向后补回三张折叠图。"
+    "title": "三个现行方案已对齐",
+    "date": "2026-11-12",
+    "status": "来源模型转换 · 待评审",
+    "summary": "当前仅保留凌序、曜影、灵伴三个选项。曜影有机盖版STEP已按原几何转换为交互模型；源文件为收合姿态并有一组悬空小件，未修改装配。",
+    "approvalNote": "方案范围确认不代表已选定最终方案或工程验证通过。",
+    "next": "比较三个现行方案，并核对曜影源模型收合状态、悬空小件与上部转轴细节。"
   },
   "progress": {
-    "updated": "2026-11-09",
-    "summary": "已删除用户否决的8张居家图及旧爬坡图。Option 2重新生成5张版面，成人、儿童及折叠状态直接展开；Option 1饰板修订待验收。 新修订均待用户验收。Option 1的80/130/200㎡收折图已删除，正确扶手翻转方向待用户确认后重绘；已确认的200㎡使用图保留。",
+    "updated": "2026-11-12",
+    "summary": "当前仅保留凌序、曜影、灵伴三个选项。曜影有机盖版STEP已按原几何转换为交互模型；源文件为收合姿态并有一组悬空小件，未修改装配。",
     "next": [
+      {
+        "title": "核对曜影源装配",
+        "detail": "收合状态和悬空小件按源文件保留；补齐展开、爬坡、竖放及运动约束。"
+      },
+      {
+        "title": "细化曜影上部转轴",
+        "detail": "扶手包轴、齐平轴盖及拨杆内收为建议，尚未改入同事模型。"
+      },
       {
         "title": "补回Option 1三张折叠图",
         "detail": "先明确扶手自由端起始翻转方向；原错误图已删除。显示屏参与主折叠，保持原立柱与扶手长度。"
@@ -262,15 +303,15 @@
         "detail": "保持原扶手长度；现有儿童图已否决，不能靠拉长扶手取得适配。"
       },
       {
-        "title": "补充第三个Option",
-        "detail": "待用户提供设计资料；不恢复已否决的历史方案。"
-      },
-      {
         "title": "继续推进辅助竖放脚座",
         "detail": "固定主梁端座优先，180°旋转脚座为独立候选。需比较轮廓、长短尺寸、接地范围、墙距与转轴避让；研究页的 13 个编号不是 13 个现行候选。"
       }
     ],
     "decisions": [
+      {
+        "title": "当前仅保留凌序、曜影、灵伴",
+        "detail": "用户明确STEP及扶手转轴讨论属于曜影，大C属于灵伴；其余概念不再作为现行选项。"
+      },
       {
         "title": "XT11外观作为新增造型参考",
         "quote": "这个绝影 · 蝉翼 XT11非常好看",
@@ -404,6 +445,22 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "当前三个 options · 同事原图",
+        "note": "凌序、曜影、灵伴；未选定最终方案。",
+        "files": [
+          "documents/treadmill/current-options-20261112/linear.png",
+          "documents/treadmill/current-options-20261112/origin.png",
+          "documents/treadmill/current-options-20261112/lynmate.png"
+        ]
+      },
+      {
+        "title": "曜影 · STEP 原姿态",
+        "note": "可从3D入口旋转查看。源文件收合姿态，有悬空小件。",
+        "files": [
+          "documents/treadmill/current-options-20261112/yaoying-step.png"
+        ]
+      },
       {
         "title": "Option 1 · 已确认的200㎡使用外观",
         "note": "保留已认可原图。",
