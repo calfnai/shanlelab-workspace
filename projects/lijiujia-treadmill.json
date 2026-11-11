@@ -2,12 +2,40 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "当前仅保留凌序、曜影、灵伴三个选项。曜影有机盖版STEP已按原几何转换为交互模型；源文件为收合姿态并有一组悬空小件，未修改装配。",
+  "description": "当前三个选项为凌序、曜影、灵伴。曜影已补齐真实STEP双轴折叠：展开、翻起扶手、收下立柱、折平，可播放、暂停和拖动进度。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "STEP及上部扶手转轴外观讨论归属曜影；大C归属灵伴。三方案仍待选择，未完成工程验证。",
-  "currentFocus": "比较三个现行方案，并核对曜影源模型收合状态、悬空小件与上部转轴细节。",
+  "note": "曜影上部转轴与STEP归属已明确；灵伴为第三个大C方向。折叠演示已实现，工程干涉及稳定性待验证。",
+  "currentFocus": "评审曜影双轴折叠过程及中间姿态，继续核对锁止释放与运动间隙。",
   "items": [
+    {
+      "file": "documents/treadmill/yaoying-fold-20261112/open.png",
+      "thumb": "documents/treadmill/yaoying-fold-20261112/open.png",
+      "label": "曜影双轴折叠 · 展开使用",
+      "status": "真实STEP运动表达 · 待评审",
+      "note": "同一模型沿实测双轴运动；折平端点回到源坐标，锁止及干涉待工程验证。"
+    },
+    {
+      "file": "documents/treadmill/yaoying-fold-20261112/handle-up.png",
+      "thumb": "documents/treadmill/yaoying-fold-20261112/handle-up.png",
+      "label": "曜影双轴折叠 · 扶手翻起",
+      "status": "真实STEP运动表达 · 待评审",
+      "note": "同一模型沿实测双轴运动；折平端点回到源坐标，锁止及干涉待工程验证。"
+    },
+    {
+      "file": "documents/treadmill/yaoying-fold-20261112/half.png",
+      "thumb": "documents/treadmill/yaoying-fold-20261112/half.png",
+      "label": "曜影双轴折叠 · 立柱收下",
+      "status": "真实STEP运动表达 · 待评审",
+      "note": "同一模型沿实测双轴运动；折平端点回到源坐标，锁止及干涉待工程验证。"
+    },
+    {
+      "file": "documents/treadmill/yaoying-fold-20261112/flat.png",
+      "thumb": "documents/treadmill/yaoying-fold-20261112/flat.png",
+      "label": "曜影双轴折叠 · 折平",
+      "status": "真实STEP运动表达 · 待评审",
+      "note": "同一模型沿实测双轴运动；折平端点回到源坐标，锁止及干涉待工程验证。"
+    },
     {
       "file": "documents/treadmill/current-options-20261112/linear.png",
       "thumb": "documents/treadmill/current-options-20261112/linear.png",
@@ -219,7 +247,7 @@
       "kind": "review"
     },
     {
-      "label": "曜影 · 有机盖版 STEP 交互模型",
+      "label": "曜影 · 双轴折叠 3D / 播放与进度",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/yaoying-20261112/viewer.html",
       "kind": "3d"
     },
@@ -269,22 +297,22 @@
       "kind": "research"
     }
   ],
-  "galleryLabel": "当前三个选项 · 同事原图与曜影STEP",
+  "galleryLabel": "曜影折叠过程 · 真实STEP四阶段",
   "milestone": {
-    "title": "三个现行方案已对齐",
+    "title": "曜影双轴折叠已补齐",
     "date": "2026-11-12",
-    "status": "来源模型转换 · 待评审",
-    "summary": "当前仅保留凌序、曜影、灵伴三个选项。曜影有机盖版STEP已按原几何转换为交互模型；源文件为收合姿态并有一组悬空小件，未修改装配。",
+    "status": "可控动作已实现 · 待评审",
+    "summary": "当前三个选项为凌序、曜影、灵伴。曜影已补齐真实STEP双轴折叠：展开、翻起扶手、收下立柱、折平，可播放、暂停和拖动进度。",
     "approvalNote": "方案范围确认不代表已选定最终方案或工程验证通过。",
-    "next": "比较三个现行方案，并核对曜影源模型收合状态、悬空小件与上部转轴细节。"
+    "next": "评审曜影双轴折叠过程及中间姿态，继续核对锁止释放与运动间隙。"
   },
   "progress": {
     "updated": "2026-11-12",
-    "summary": "当前仅保留凌序、曜影、灵伴三个选项。曜影有机盖版STEP已按原几何转换为交互模型；源文件为收合姿态并有一组悬空小件，未修改装配。",
+    "summary": "当前三个选项为凌序、曜影、灵伴。曜影已补齐真实STEP双轴折叠：展开、翻起扶手、收下立柱、折平，可播放、暂停和拖动进度。",
     "next": [
       {
-        "title": "核对曜影源装配",
-        "detail": "收合状态和悬空小件按源文件保留；补齐展开、爬坡、竖放及运动约束。"
+        "title": "评审曜影折叠",
+        "detail": "先翻扶手、再收立柱，检查动作中间姿态；继续核验锁止释放、干涉与竖放。"
       },
       {
         "title": "细化曜影上部转轴",
@@ -308,6 +336,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "补齐曜影折叠而非只保留静态",
+        "detail": "用户指出上轮遗漏折叠实现，本轮使用真实STEP几何与圆柱面轴线补齐可控运动。运动顺序为本次补充表达。"
+      },
       {
         "title": "当前仅保留凌序、曜影、灵伴",
         "detail": "用户明确STEP及扶手转轴讨论属于曜影，大C属于灵伴；其余概念不再作为现行选项。"
@@ -445,6 +477,16 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "曜影 · 展开到折平",
+        "note": "同一STEP几何连续运动，页面支持播放和拖动。",
+        "files": [
+          "documents/treadmill/yaoying-fold-20261112/open.png",
+          "documents/treadmill/yaoying-fold-20261112/handle-up.png",
+          "documents/treadmill/yaoying-fold-20261112/half.png",
+          "documents/treadmill/yaoying-fold-20261112/flat.png"
+        ]
+      },
       {
         "title": "当前三个 options · 同事原图",
         "note": "凌序、曜影、灵伴；未选定最终方案。",
