@@ -2,10 +2,31 @@
   "id": "booth-3x3",
   "title": "MLBB 3×3展位",
   "en": "03 / MLBB 3×3 BOOTH",
-  "description": "MLBB泰国3×3展位：主形象墙沿用；右墙统一MLBB collab标题、三个Logo及两个分区。",
+  "description": "MLBB泰国3×3展位：右墙统一标题与三个Logo；MCT总量稀缺、Layla钻石机会、橙绿下一款投票。",
   "conversation": "d1139134",
-  "note": "11月12日按用户更正，合作方为半个巴掌大的粘土公仔，不是毛绒。主墙不改；右墙采用MCT官方字体、颜色及浪花。原资产正立面与独立海报为内容核对依据；空间生成图不作为精确轮廓或施工证明。实物包装尺寸、柜深/承载和印前打样待核对。",
+  "note": "主墙与结构沿用v08；本轮更新两张A1海报及独立A2投票板。背景为生成式视觉，产品、Logo和轮廓沿用原资产；审阅稿，未送印、未开放投票。商品实测尺寸与印前打样仍待核对。",
   "items": [
+    {
+      "file": "documents/mlbb-booth-v09-20261112/07-poster-review-pair.jpg",
+      "thumb": "documents/mlbb-booth-v09-20261112/07-poster-review-pair-thumb.webp",
+      "label": "11.12 · v09 · ONLY 800／WIN 601",
+      "status": "已生成 · 待评审",
+      "note": "两张A1：总量稀缺为MCT主视觉，Layla强化中奖机会但明确非每包中奖；产品与轮廓沿用原图。"
+    },
+    {
+      "file": "documents/mlbb-booth-v09-20261112/05-vote-next-420x594mm.png",
+      "thumb": "documents/mlbb-booth-v09-20261112/05-vote-next-420x594mm-thumb.webp",
+      "label": "11.12 · 下一款由你决定 · A2投票板",
+      "status": "已生成 · 待评审",
+      "note": "橙色A／绿色B；每人一票为执行提案，最高票款下一款推出；未开票、未公布结果。"
+    },
+    {
+      "file": "documents/mlbb-booth-v09-20261112/02-right-wall-elevation.png",
+      "thumb": "documents/mlbb-booth-v09-20261112/02-right-wall-elevation-thumb.webp",
+      "label": "11.12 · v09 · 两张新海报上墙",
+      "status": "已生成 · 待评审",
+      "note": "沿用v08主墙与右墙尺寸、陈列结构及Mars供稿位；独立投票板建议放中岛旁。"
+    },
     {
       "file": "documents/mlbb-booth-v08-20261112/02-right-wall-elevation.png",
       "thumb": "documents/mlbb-booth-v08-20261112/02-right-wall-elevation.png",
@@ -149,6 +170,11 @@
   ],
   "links": [
     {
+      "label": "11.12 · v09 · 总限量／钻石机会／下一款投票",
+      "href": "documents/mlbb-booth-v09-20261112/index.html",
+      "kind": "document"
+    },
+    {
       "label": "11.12 · v08展位、玩法海报与Mars供稿尺寸",
       "href": "documents/mlbb-booth-v08-20261112/index.html",
       "kind": "document"
@@ -179,7 +205,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "v08：70cm地柜＋110/150cm横板；半掌大小粘土公仔；两张A1玩法海报＋两张500×280mm Mars供稿位。",
+  "currentFocus": "v09：MCT以整场总版800套为核心，50套/天降为次级；Layla放大601钻机会和兑奖流程，橙绿款作为upcoming候选，最高票款下一款推出。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。"
@@ -189,27 +215,32 @@
   ],
   "galleryLabel": "MLBB当前图稿与历次版本",
   "milestone": {
-    "title": "v08 · 右墙分区与玩法海报",
+    "title": "v09 · 总限量／钻石机会／下一款投票",
     "date": "2026-11-12",
-    "status": "需求已明确 · 图稿待评审",
-    "summary": "v08：70cm地柜＋110/150cm横板；半掌大小粘土公仔；两张A1玩法海报＋两张500×280mm Mars供稿位。",
-    "approvalNote": "用户明确修改要求，不等于批准当前图稿、施工或送印。",
-    "next": "审阅排版；向Mars索取两张横版海报及商品实测尺寸，核对印前文件。"
+    "status": "需求已明确 · 海报与活动待评审",
+    "summary": "v09：MCT以整场总版800套为核心，50套/天降为次级；Layla放大601钻机会和兑奖流程，橙绿款作为upcoming候选，最高票款下一款推出。",
+    "approvalNote": "新海报与活动执行提案不等于用户选定、已开放投票或已送印。",
+    "next": "核对活动起止、计票与结果公布；海报审阅与印前打样。"
   },
   "progress": {
     "updated": "2026-11-12",
-    "summary": "v08：70cm地柜＋110/150cm横板；半掌大小粘土公仔；两张A1玩法海报＋两张500×280mm Mars供稿位。",
+    "summary": "v09：MCT以整场总版800套为核心，50套/天降为次级；Layla放大601钻机会和兑奖流程，橙绿款作为upcoming候选，最高票款下一款推出。",
     "next": [
       {
-        "title": "审阅v08图稿",
-        "detail": "海报与布局尚待选择，未作为生产终稿。"
+        "title": "审阅新海报及投票执行",
+        "detail": "确认投票起止和统计、公示安排；当前未开票、无结果，未送印。"
       },
       {
-        "title": "Mars供稿和尺寸",
-        "detail": "两张500×280mm横版；索取单盒、卡牌、公仔、PDQ实测W×D×H。"
+        "title": "保持终稿与品牌轮廓",
+        "detail": "原确认产品图和轮廓不重绘，候选橙绿稿仅预热。"
       }
     ],
     "decisions": [
+      {
+        "title": "11.12 · 总量稀缺与投票预热",
+        "detail": "v09：MCT以整场总版800套为核心，50套/天降为次级；Layla放大601钻机会和兑奖流程，橙绿款作为upcoming候选，最高票款下一款推出。",
+        "conversation": "d1139134"
+      },
       {
         "title": "11.12 · 右墙、陈列和推广口径更新",
         "detail": "主墙不变；右墙统一MLBB collab＋三个Logo，两个分区。合作方为半掌大小粘土公仔，非毛绒。",
@@ -245,6 +276,6 @@
   "sync": {
     "checkedAt": "2026-11-12",
     "sourceConversation": "d1139134",
-    "status": "v08已生成待评审；推广口径按用户更新；既有产品终稿与审批状态保留"
+    "status": "v09已生成待评审；活动为提案未开放；原产品确认与审批状态保留"
   }
 }
