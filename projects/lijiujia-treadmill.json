@@ -224,6 +224,11 @@
       "label": "历史 v01 · 承接不足",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/v01.html",
       "kind": "history"
+    },
+    {
+      "label": "四款竞品外形比较 · 资料初稿 / SKU待核实",
+      "href": "https://calfnai.github.io/shanlelab-workspace/documents/treadmill/comparison-20261111/",
+      "kind": "research"
     }
   ],
   "galleryLabel": "重新生成的修订图 · 直接展开",
@@ -331,6 +336,10 @@
       }
     ],
     "history": [
+      {
+        "title": "11月11日收集四款竞品外形参考",
+        "detail": "已整理10张公开原图：绝影XT11三张、大跑同题候选三张、迈宝赫DX01两张、ST01两张。原淘宝SKU均未核实，大跑文章商品卡有品牌冲突；这是资料初稿，不是选定设计或完整同款确认。"
+      },
       {
         "title": "v08删除错误图并重绘Option 2",
         "detail": "删除8张点名居家图及旧爬坡图的公开资源，旧稿仅在原项目本地保留。重新生成5张Option 2版面，修正短扶手、圆形轴位、儿童比例与竖放连接；尚待用户验收。"
