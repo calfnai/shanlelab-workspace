@@ -2,17 +2,24 @@
   "id": "nowre",
   "title": "NOWRE · B1独立场地",
   "en": "06B / NOWRE B1",
-  "description": "ART STICKER全部排除；参考CTE和MLBB的品牌主视觉与密集选款逻辑，在B1柜面上提案35个啵啵贴正面展示位。",
+  "description": "两种并行的啵啵贴B1方案：Option 1整面35位，用户已保留；Option 2左右双塔36位，中间试贴，新增待评审。",
   "conversation": "138009de",
   "conversationName": "NOWRE B1独立场地与陈列",
-  "note": "NOWRE结构仍以B1手册为依据。CTE/MLBB只借鉴陈列组织，不带入它们的场地尺寸、联名货盘、价格或玩法。v01/v02均已否决；v03只说明新展示规模，真实选款、柜内库存和制作安装仍待核。",
+  "note": "两方案并存，不以新图替换用户保留的Option 1。均保留B1原结构与柜体、不带ART；展示量与柜内备货分开。尚未最终选定、采购、安装或验收。",
   "items": [
     {
       "file": "documents/nowre-b1-render-v03/overall.png",
       "thumb": "documents/nowre-b1-render-v03/overall.webp",
-      "label": "B1 v03 · 啵啵贴35个正面展示位",
-      "status": "新提案 · 待评审",
-      "note": "按CTE/MLBB的大选款面逻辑重新适配B1：柜面自立架7列×5行共35位，右侧试贴；ART STICKER全部排除。35是主架正面展示量，不是已确认SKU数或总库存。柜内补货另算。侧牌文字为生成占位，商品图案/品牌轮廓/尺寸/承载以原资产与实物为准。"
+      "label": "Option 1 · 整面35位选款",
+      "status": "用户保留的候选 · 非最终选定",
+      "note": "按CTE/MLBB的大选款面逻辑重新适配B1：柜面自立架7列×5行共35位，右侧试贴；ART STICKER全部排除。35是主架正面展示量，不是已确认SKU数或总库存。柜内补货另算。侧牌文字为生成占位，商品图案/品牌轮廓/尺寸/承载以原资产与实物为准。 用户2026-11-12明确保留为其中一个option，原图未修改。"
+    },
+    {
+      "file": "documents/nowre-b1-option2-20261112/overall.png",
+      "thumb": "documents/nowre-b1-option2-20261112/overall.webp",
+      "label": "Option 2 · 左右双塔36位／中央试贴",
+      "status": "新增平行提案 · 待评审",
+      "note": "左右各3列×6行18位，共36正面挂位；中间低位试贴，体验样品2件另计。独立柜面架，B1原结构保留，只带啵啵贴无ART。图像不是确认SKU、库存数量、品牌/商品源图或安装验收。"
     },
     {
       "file": "documents/nowre-b1-render-v02/overall.png",
@@ -45,6 +52,10 @@
   ],
   "links": [
     {
+      "label": "Option 1与Option 2 · 摆法与容量对比",
+      "href": "documents/nowre-b1-option2-20261112/comparison.md"
+    },
+    {
       "label": "v03 · 35展示位与柜内备货的核算边界",
       "href": "documents/nowre-b1-render-v03/capacity.md"
     },
@@ -65,31 +76,36 @@
       "href": "documents/nowre-b1-20261111/basis.md"
     }
   ],
-  "currentFocus": "评审v03：原柜面上的自立式啵啵贴主展示架，7列×5行35位，右侧试贴/成交。ART商品、ART To_GO画面及艺术贴应用道具全部撤下；柜内备货另计，不用9张小纸架代替全摊容量。",
+  "currentFocus": "比较Option 1整面集中选款与Option 2左右双塔/中央交流；两版分别35和36个正面展示位，柜内备货另算。",
   "cancelledScope": "NOWRE不带任何ART STICKER；此前ART阶梯架、ART To_GO画面及艺术贴应用展示均停止沿用。v01/v02用户已否决，旧A1与3×3尺寸及挂钩估算也不适用。",
   "galleryLabel": "当前场地依据",
   "milestone": {
-    "title": "B1 v03 · 啵啵贴35位主展示面",
+    "title": "Option 1保留，新增Option 2比较",
     "date": "2026-11-12",
-    "status": "新生成 · 待用户评审",
-    "summary": "主架35位逐行核对为5行×7张；柜内备货单独核算；无ART商品。",
-    "approvalNote": "35个位置不等于35个已选SKU或35件总库存。新架体脚座、物品重量、抗倾覆、取货及开启净空须另核；生成图非商品/牌稿/施工源文件。",
-    "next": "评审密度与主视觉，取得真实包装和柜内净空间后核算单钩叠挂与柜内备货。"
+    "status": "两个候选并行 · 未最终选定",
+    "summary": "Option 1整面35位；Option 2双塔18＋18＝36位，中间保留试贴交流。",
+    "approvalNote": "用户确认的是保留Option 1为候选；Option 2为新提案。两版均非商品/品牌源图或尺寸/承重/安装验收。",
+    "next": "比较主视觉、中央操作与分组选购体验，再决定继续深化哪个方案。"
   },
   "progress": {
     "updated": "2026-11-12",
-    "summary": "按用户更正排除全部ART，补查记忆及当前MLBB v08、CTE实拍；v03形成35位大选款面，柜内库存另算。",
+    "summary": "按用户要求把现有35位图记录为Option 1并保持原图不变，新增36位双塔/中央体验Option 2。",
     "next": [
       {
-        "title": "评审35位布局",
-        "detail": "核对商品密度、整体主视觉与右侧操作位置。"
+        "title": "比较两个候选",
+        "detail": "Option 1集中整面选款；Option 2分组选款、中央试贴。两者均保持无ART和30张以上展示规模。"
       },
       {
-        "title": "核算真实备货",
-        "detail": "实测包装宽高厚、钩长、架体载荷及柜内净空间；展示/叠挂/柜内库存分别计数。"
+        "title": "实物复核",
+        "detail": "确定深化方向后再核包装外廓、道具脚座、柜内净空间、载荷及开启净空。"
       }
     ],
     "decisions": [
+      {
+        "title": "保留Option 1并新增另一个option",
+        "detail": "用户要求现有图作为其中一个option，再做另一个。保留候选不等于最终选择；不得覆盖Option 1。",
+        "conversation": "138009de"
+      },
       {
         "title": "排除ART并提高展示量",
         "detail": "用户明确不带任何ART STICKER，并指出9张展示过少，要求参考CTE和记忆中的MLBB展位。",
@@ -107,6 +123,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-12 新增Option 2",
+        "detail": "双塔左右各18位，图像逐行核对各6行×3张；中央体验2件另计，Option 1原图SHA256核对未改。"
+      },
       {
         "title": "2026-11-12 v03啵啵贴35位",
         "detail": "主架5行各7张逐行检查；右侧3件为体验陈列，不计入35主展示位。未确认总库存。"
