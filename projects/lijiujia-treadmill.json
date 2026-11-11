@@ -65,18 +65,11 @@
       "note": "真实STEP转换；收合姿态和悬空小件按原坐标保留，非运动验证。"
     },
     {
-      "file": "documents/treadmill/homes-v06-20261109/option1-home200-use.webp",
-      "thumb": "documents/treadmill/homes-v06-20261109/option1-home200-use-thumb.webp",
-      "label": "Option 1 / 200㎡ / 成人步行使用",
-      "status": "用户确认外观正确 · 2026-11-09",
-      "note": "用户明确“只有这张是对的”。仅确认此图外观，不代表Option1所有状态或机构已通过。"
-    },
-    {
       "file": "documents/treadmill/corrections-v07-20261109/option1-incline-covered.webp",
       "thumb": "documents/treadmill/corrections-v07-20261109/option1-incline-covered-thumb.webp",
       "label": "Option 1 / 爬坡抬升架饰板包覆修订",
-      "status": "新修订 · 待用户验收",
-      "note": "按用户要求包覆外露抬升架；饰板造型为本次修订，尚未获用户确认。机构净距仍需校核。"
+      "status": "下部饰板较正确参考 · 2026-11-12",
+      "note": "用户指出此修订的下部饰板较正确，作为后续下部饰板参考；不代表整机或折叠机构已确认，机构净距仍待校核。"
     },
     {
       "file": "documents/treadmill/rebuild-v08-20261109/option2-home80-use.webp",
@@ -420,6 +413,10 @@
     ],
     "history": [
       {
+        "title": "11月12日更正 Option 1 下部饰板参考",
+        "detail": "2026-11-12：用户撤销 Option 1「200㎡使用外观」的认可，指出该图不正确并要求撤下；「爬坡饰板包覆修订」是较正确的下部饰板参考。认可范围仅限下部饰板方向，整机、折叠机构与工程可行性未因此通过。"
+      },
+      {
         "title": "XT11抬升参数核实与轮罩、软镜面参考",
         "detail": "官网正文6档/5.4%坡度约3.1°，配图另标+6%，均非6°；不能直接推及项目15°目标。用户补图展示端角包覆滚轮及背板软面镜，可作为端座与机底功能候选，尚未选定；镜面是否所有版本标配未核实。"
       },
@@ -504,15 +501,8 @@
         ]
       },
       {
-        "title": "Option 1 · 已确认的200㎡使用外观",
-        "note": "保留已认可原图。",
-        "files": [
-          "documents/treadmill/homes-v06-20261109/option1-home200-use.webp"
-        ]
-      },
-      {
         "title": "Option 1 · 爬坡饰板包覆修订",
-        "note": "已遮蔽外露抬升架；修订待验收。80/130/200㎡收折图待翻转方向明确后补回。",
+        "note": "下部饰板较正确，后续以此方向继续；仅限饰板参考，整机与机构未定版。",
         "files": [
           "documents/treadmill/corrections-v07-20261109/option1-incline-covered.webp"
         ]
