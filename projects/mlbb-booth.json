@@ -4,8 +4,22 @@
   "en": "03 / BOOTH",
   "description": "泰国站：啵啵贴主墙＋整面MLBB专区；合作方收藏卡、MCT赠送款与Layla售卖款。",
   "conversation": "d1139134",
-  "note": "11月10日v05：合作方商品只用三层横向层板，移除分款标签和单卡装饰。原资产正立面已生成待评审；空间图仅用于布局，轮廓待原图贴图纠正。",
+  "note": "11月11日v06：降低并校正合作方层板与商品尺度。三层层板面高度700/1100/1500 mm，商品按约200 mm高示意；MCT/Layla展示及说明沿用。正立面为尺寸提案，生成空间图不作为精确尺寸或轮廓证明。",
   "items": [
+    {
+      "file": "documents/mlbb-booth-v06-20261111/02-mlbb-wall-elevation.png",
+      "thumb": "documents/mlbb-booth-v06-20261111/elevation-thumb.webp",
+      "label": "11.11 · v06 · 层板面70/110/150 cm",
+      "status": "已生成 · 待评审",
+      "note": "三层层板竖向间距40 cm；最高层商品顶部暂按约170 cm控制，包装实物高度仍待核对。原资产等比缩放。"
+    },
+    {
+      "file": "documents/mlbb-booth-v06-20261111/01-booth-render.png",
+      "thumb": "documents/mlbb-booth-v06-20261111/render-thumb.webp",
+      "label": "11.11 · v06 · 合作方货架真实尺度方向",
+      "status": "空间参考 · 尺寸与轮廓以原图核对",
+      "note": "商品缩小、层板按700/1100/1500 mm提案生成；精确高度以正立面为准。品牌包装轮廓仍待原资产贴图校正，不作为生产成品。"
+    },
     {
       "file": "documents/mlbb-booth-v05-20261110/02-mlbb-wall-elevation.png",
       "thumb": "documents/mlbb-booth-v05-20261110/elevation-thumb.webp",
@@ -93,6 +107,11 @@
   ],
   "links": [
     {
+      "label": "查看v06 · 层板高度与商品尺度",
+      "href": "documents/mlbb-booth-v06-20261111/index.html",
+      "kind": "document"
+    },
+    {
       "label": "查看v05 · 合作方三层横向层板",
       "href": "documents/mlbb-booth-v05-20261110/index.html",
       "kind": "document"
@@ -104,7 +123,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "Mars CoolPlay商品简化为三层横向直层板，商品直接摆放；保留MCT/Layla展示与领取／购买说明。",
+  "currentFocus": "合作方三层层板面距地70/110/150 cm，层间距40 cm；商品顶部暂按约170 cm控制，实物高度待核对。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。"
   ]
