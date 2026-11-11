@@ -609,7 +609,7 @@
         "date": "2026-11-04",
         "status": "可转发稿 · 未核实对外发送",
         "text": "Explore our SHANLE and SHANLE LAB online product catalogs on your phone or computer. For SHANLE LAB, choose a product series first. Search by product name or item number, open product details to view images, specifications and prices, then select the items you like. When you are ready, click “Review selection” to check your list, then “Create share link” to generate a shareable link. Send us the link along with your required quantities and delivery country or region, and we will confirm the quotation and order details. Please send a separate selection link for each series.\n\nSHANLE Product Catalog:\nhttps://shanle-product-catalog-vercel.vercel.app/\n\nSHANLE LAB Product Catalogs:\nhttps://shanle-lab-overseas.vercel.app/",
-        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f",
+        "source": "https://aion.welovetiktok.com/#/conversation/2ec10d3f",
         "download": "documents/overseas-progress/customer-guide-en.txt"
       }
     ],
@@ -676,7 +676,7 @@
         "quote": "要跟后面的不属于同款的有很大的区分一条横向区域的区分",
         "status": "已实施 · 待视觉复核",
         "evidence": "取代只排序方案。选中分类展示完整后留间距，其他款式由全宽色带开始，始终保留全部商品；授权区边界保持。",
-        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+        "source": "https://aion.welovetiktok.com/#/conversation/2ec10d3f"
       },
       {
         "date": "2026-11-07",
@@ -684,7 +684,7 @@
         "quote": "PopSticker 的定制页面比较需要加入英文版包装说明，选款页面倒不是必须的",
         "status": "已实施",
         "evidence": "透明 PET 外壳、PU 贴纸、带挂孔纸背板三部分；贴纸数量按款式变化。移除抽奖内卡、兑奖与 MLBB 专属内容，选款页不增加说明区。",
-        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+        "source": "https://aion.welovetiktok.com/#/conversation/2ec10d3f"
       },
       {
         "date": "2026-11-07",
@@ -700,7 +700,7 @@
         "quote": "它包含了其他的款式的产品内容，这就不能在这个产品的详情介绍里了",
         "status": "已纠正上线 · 待用户复核",
         "evidence": "包括图片背景中的别款也排除，系列标题或标注不能豁免。31 款使用纯单款场景／近景，19 款只保留新白底；不裁切或重绘原素材。",
-        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+        "source": "https://aion.welovetiktok.com/#/conversation/2ec10d3f"
       },
       {
         "date": "2026-11-07",
@@ -708,7 +708,7 @@
         "quote": "在网站上使用的时候要压缩一下再用……在简洁的页面下可以看到部分场景图，不用真的像详情页下拉无限长那样展示。",
         "status": "前版混款已纠正",
         "evidence": "前版固定四图方案包含同系列别款，被用户指出错误。已改为逐款视觉审核：没有专属场景时只保留白底图。",
-        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+        "source": "https://aion.welovetiktok.com/#/conversation/2ec10d3f"
       },
       {
         "date": "2026-10-29",
@@ -716,7 +716,7 @@
         "quote": "就把我之前提到过的币种，都变成显示选项，加进去吧，用户想看什么价格就看什么价格，默认只有CNY和USD",
         "status": "线上可见",
         "evidence": "本轮桌面及手机截图都显示 CNY、USD 默认选中，其余币种可选。切换持久化未在本轮交互复测。",
-        "source": "http://100.114.160.99:25808/#/conversation/f69260de"
+        "source": "https://aion.welovetiktok.com/#/conversation/f69260de"
       },
       {
         "date": "2026-10-28",
@@ -724,7 +724,7 @@
         "quote": "我想通过网站也能跟我印刷那张纸那样，通过色块来快速让人进入到整个氛围来",
         "status": "已上线页面可见",
         "evidence": "下载页与定制页已保留实拍；PDF 内容与现有本地发布版一致。是否达到视觉偏好仍由你判断。",
-        "source": "http://100.114.160.99:25808/#/conversation/8d4f8b67"
+        "source": "https://aion.welovetiktok.com/#/conversation/8d4f8b67"
       },
       {
         "date": "2026-10-29",
@@ -732,7 +732,7 @@
         "quote": "不同材质的介绍，可以从这里取吗？选款纸上没有高清图只是因为面积太小，网页不存在这样的问题呀",
         "status": "四种材质已可见",
         "evidence": "本轮线上文本确认 PIPI、CHEWY、PUFFY、YOUNG 均有对应介绍；图像与内容请从定制页继续审阅。",
-        "source": "http://100.114.160.99:25808/#/conversation/f69260de"
+        "source": "https://aion.welovetiktok.com/#/conversation/f69260de"
       },
       {
         "date": "2026-10-26",
@@ -740,7 +740,7 @@
         "quote": "我想有一个导包含最新产品的选款纸的功能。方便实现吗？",
         "status": "动态导出待核实",
         "evidence": "已验证的是两份固定版本 PDF 下载；本轮未找到“当前筛选／最新数据自动排版导出”的上线证据。",
-        "source": "http://100.114.160.99:25808/#/conversation/a5bb2a81"
+        "source": "https://aion.welovetiktok.com/#/conversation/a5bb2a81"
       },
       {
         "date": "2026-11-07",
@@ -763,35 +763,35 @@
         "title": "把选款分享完整走一遍",
         "body": "2026-11-07 已完成 PopSticker 选款 → Review → Create share link → 同浏览器打开分享页，及 CSV 数量导出。另一设备打开与 ArtSticker 回归仍待完成。",
         "status": "PopSticker 同浏览器回归通过；跨设备与 ArtSticker 待验",
-        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+        "source": "https://aion.welovetiktok.com/#/conversation/2ec10d3f"
       },
       {
         "priority": "先做",
         "title": "确认下一版报价依据与有效期",
         "body": "老 SHANLE 页面仍引用 2026-10-10 报价，注明有效期一个月。继续对外使用前复核是否续期、是否收到新表及汇率更新要求。",
         "status": "需业务确认",
-        "source": "http://100.114.160.99:25808/#/conversation/e63deac7"
+        "source": "https://aion.welovetiktok.com/#/conversation/e63deac7"
       },
       {
         "priority": "接着做",
         "title": "复核旧选款兼容及待确认项",
         "body": "上次交付记录提到保留 263 个旧标识，其中 69 项待确认。本轮没有逐一重验，先查这些项是否已经处理，不能沿用旧结论当作当前完成状态。",
         "status": "依据历史交付 · 待复核",
-        "source": "http://100.114.160.99:25808/#/conversation/a1088050"
+        "source": "https://aion.welovetiktok.com/#/conversation/a1088050"
       },
       {
         "priority": "接着做",
         "title": "明确“动态导出最新版选款纸”的范围",
         "body": "当前可下载的是 PopSticker 2 页和 ArtSticker 4 页的固定 PDF。继续这项需求前，确定导出全部、筛选或已选款，以及价格、语言和版式。",
         "status": "已有需求 · 待落实",
-        "source": "http://100.114.160.99:25808/#/conversation/a5bb2a81"
+        "source": "https://aion.welovetiktok.com/#/conversation/a5bb2a81"
       },
       {
         "priority": "维护时做",
         "title": "检查币种跨站与手机体验",
         "body": "默认 CNY＋USD 已在实拍中确认；继续检查勾选其他币种后的显示、保存、跨站一致性，以及手机底部选款栏。",
         "status": "功能可见 · 交互待复测",
-        "source": "http://100.114.160.99:25808/#/conversation/f69260de"
+        "source": "https://aion.welovetiktok.com/#/conversation/f69260de"
       }
     ],
     "timeline": [
@@ -799,28 +799,28 @@
         "date": "2026-10-26",
         "title": "老 SHANLE 目录数据与 PDF 交付",
         "body": "当时的交付文本记录 515 条产品、旧链接兼容及 43 页无价格 PDF。本轮重新核对了在线 PDF 的页数和文件一致性。",
-        "source": "http://100.114.160.99:25808/#/conversation/e63deac7",
+        "source": "https://aion.welovetiktok.com/#/conversation/e63deac7",
         "status": "历史交付＋本轮资源复核"
       },
       {
         "date": "2026-10-28",
         "title": "下载／定制入口改为品牌色块与产品场景",
         "body": "当时交付记录为 PopSticker 2 页、ArtSticker 4 页。本轮从线上重新下载，两份都与本地发布版完全一致。",
-        "source": "http://100.114.160.99:25808/#/conversation/8d4f8b67",
+        "source": "https://aion.welovetiktok.com/#/conversation/8d4f8b67",
         "status": "资源已复核"
       },
       {
         "date": "2026-10-29",
         "title": "币种规则改为自由选择；材质介绍补品牌书",
         "body": "按你最新要求，不再以旧的 IP 隔离方案作为当前目标。四种材质与默认币种的本轮线上证据分别列在页面截图中。",
-        "source": "http://100.114.160.99:25808/#/conversation/f69260de",
+        "source": "https://aion.welovetiktok.com/#/conversation/f69260de",
         "status": "页面可见"
       },
       {
         "date": "2026-11-04",
         "title": "英文客户选款说明与流程图已生成",
         "body": "已有可转发英文稿和图解；本轮没有找到对外发送或客户收到的证据，仍按“可转发稿”保存。",
-        "source": "http://100.114.160.99:25808/#/conversation/2ec10d3f",
+        "source": "https://aion.welovetiktok.com/#/conversation/2ec10d3f",
         "status": "稿件已备好 · 发送未核实"
       },
       {
@@ -1194,23 +1194,23 @@
     "conversations": [
       {
         "title": "客户选款与沟通稿",
-        "href": "http://100.114.160.99:25808/#/conversation/2ec10d3f"
+        "href": "https://aion.welovetiktok.com/#/conversation/2ec10d3f"
       },
       {
         "title": "币种规则／品牌书材质",
-        "href": "http://100.114.160.99:25808/#/conversation/f69260de"
+        "href": "https://aion.welovetiktok.com/#/conversation/f69260de"
       },
       {
         "title": "Hub 与选款纸视觉",
-        "href": "http://100.114.160.99:25808/#/conversation/8d4f8b67"
+        "href": "https://aion.welovetiktok.com/#/conversation/8d4f8b67"
       },
       {
         "title": "最新数据导出需求",
-        "href": "http://100.114.160.99:25808/#/conversation/a5bb2a81"
+        "href": "https://aion.welovetiktok.com/#/conversation/a5bb2a81"
       },
       {
         "title": "老 SHANLE 交付与迁移讨论",
-        "href": "http://100.114.160.99:25808/#/conversation/a1088050"
+        "href": "https://aion.welovetiktok.com/#/conversation/a1088050"
       }
     ]
   }

@@ -14,7 +14,7 @@
 
 当前 MLBB 赠送款以用户于 2026-11-06 选定的 C — MVP + SAVAGE 原版为主；后续修订属于其他版本。已发送邮件与后续完整草稿分开保存，合作方审批不视作已完成。
 
-对话入口仅使用 HTTP/HTTPS 网页，不唤起本机 AionUi，也不默认跳转 localhost。已直接接入现有 Tailscale WebUI：`http://100.114.160.99:25808/`，不要求用户填写地址；访问者需连接同一 Tailscale 并登录。2026-11-06 核对根页面和主脚本 HTTP 200、HashRouter 对话路由存在，浏览器控制宿主不可用，因此未完成登录后打开目标对话的验证。新增技能不会追溯注入已运行的对话，可直接提供 CONTRIBUTING.md 路径接续。
+对话入口仅使用 HTTPS 网页，不唤起本机 AionUi，也不默认跳转 localhost。统一入口为 `https://aion.welovetiktok.com/`，保留各自的 `/#/conversation/<id>` 路由；访问者需通过 Cloudflare Access 验证并登录 AionUi。发布资源核对与登录后打开目标对话的验证分别记录。新增技能不会追溯注入已运行的对话，可直接提供 CONTRIBUTING.md 路径接续。
 
 图稿与模型为设计审阅材料，用户选款、合作方批准、生产定稿分别记录。公开页面不含对话正文、邮件收发地址或凭据。
 

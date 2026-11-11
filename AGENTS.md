@@ -6,7 +6,7 @@
 - Keep conversation content, credentials, pricing sheets and the source path manifest out of the published site.
 - Preview only through `serve.py`; do not spawn duplicate servers or kill unrelated processes.
 - Run `python3 verify.py` after changing the asset index and `node --check site/app.js` after editing JavaScript.
-- The user explicitly authorized external GitHub hosting. Repository calfnai/shanlelab-workspace is the sole publication target; existing gh credentials were verified by API despite intermittent TLS failures. Conversation entries must use browser HTTP/HTTPS URLs only. The user rejected launching the local AionUi app. Never add aionui:// links or default to localhost. Reuse the existing Tailscale WebUI at http://100.114.160.99:25808/; do not ask the user to provide it or reintroduce an address-entry dialog. Authentication and Tailscale access remain required.
+- The user explicitly authorized external GitHub hosting. Repository calfnai/shanlelab-workspace is the sole publication target; existing gh credentials were verified by API despite intermittent TLS failures. Conversation entries must use browser HTTP/HTTPS URLs only. The user rejected launching the local AionUi app. Never add aionui:// links or default to localhost. Use the AionUi WebUI at https://aion.welovetiktok.com/; do not ask the user to provide it or reintroduce an address-entry dialog. Cloudflare Access verification and AionUi login remain required.
 
 ## Shared SHANLE ownership
 
