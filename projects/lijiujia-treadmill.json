@@ -229,6 +229,11 @@
       "label": "四款竞品外形与折叠收纳 · v02 / ST01竖放待核实",
       "href": "https://calfnai.github.io/shanlelab-workspace/documents/treadmill/comparison-20261111/",
       "kind": "research"
+    },
+    {
+      "label": "XT11 · 六处细节截图与设计参考",
+      "href": "https://calfnai.github.io/shanlelab-workspace/documents/treadmill/xt11-detail-study-20261111/",
+      "kind": "research"
     }
   ],
   "galleryLabel": "重新生成的修订图 · 直接展开",
@@ -266,6 +271,11 @@
       }
     ],
     "decisions": [
+      {
+        "title": "XT11外观作为新增造型参考",
+        "quote": "这个绝影 · 蝉翼 XT11非常好看",
+        "detail": "用户认可XT11外观并要求细节截图。本轮记录为参考偏好，不替换既有Option方案；全域跑台与下置电机要求继续保留。"
+      },
       {
         "title": "删除错误图并重新生成替换",
         "quote": "把错的删掉，然后重新生成，再放上来",
@@ -336,6 +346,10 @@
       }
     ],
     "history": [
+      {
+        "title": "XT11六处原图局部与参考建议",
+        "detail": "裁出上部圆盘关节、下部轴盖、跑台侧梁、竖放背板、折后上端与底座六处细节。像素核对确认原图裁切，未重绘。用于既有方案的建议聚焦统一关节与端盖、全域跑台收边、竖放机底与轮脚整合；不代表已确认真实材质或轴系。"
+      },
       {
         "title": "竞品对照v02：替换图源并核实折叠形态",
         "detail": "大跑更换C7-530S原厂渲染并补跑台上翻收纳图；DX01改无促销文案图，商品参数明确非折叠；XT11补展开使用图并保留竖放图；ST01补平放图，厂家给出1580×800×600mm折叠尺寸，但同款竖放原图仍未核实。原淘宝SKU仍未逐一确认。"
