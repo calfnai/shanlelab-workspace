@@ -2,9 +2,9 @@
   "id": "mlbb-gift",
   "title": "MLBB 赛事赠送款",
   "en": "02 / EVENT GIFT",
-  "description": "MCT赠送款采用已选定C原版；总量800份，每天摊位50份、官方50份。",
+  "description": "MCT用户确认终稿不变；本摊位购任意商品可获赠，每日50套；总版800套含官方与摊位分配。",
   "conversation": "d5ba0668",
-  "note": "当前终稿为用户2026-11-10提供的MCTLOGO款PDF（卡背信息与整包正面效果）。保留早期C原版及修订供追溯；用户确认终稿与官方审批分别记录。 用户11月10日进一步强调：仅此一场，限量获得，发完即止。详细同步图v02已生成，待用户审阅。",
+  "note": "当前终稿为用户2026-11-10提供的MCTLOGO款PDF（卡背信息与整包正面效果）。保留早期C原版及修订供追溯；用户确认终稿与官方审批分别记录。 用户11月10日进一步强调：仅此一场，限量获得，发完即止。详细同步图v02已生成，待用户审阅。 2026-11-12展位推广口径更新：本摊位购买任意商品可获赠MCT Event PopSticker Badge，每日50套，配额赠完即止；总版800套包含官方与摊位分配，非卖品，活动结束后不再赠送或售卖。新海报为审阅稿，未送印；原确认终稿继续置顶。",
   "items": [
     {
       "file": "documents/mct-final-20261110/page-1.png",
@@ -12,6 +12,13 @@
       "label": "C — MVP + SAVAGE · 用户确认终稿 · 2026-11-10",
       "status": "已选定",
       "note": "用户上传终稿PDF，单页包含卡背信息与整包正面效果；预览由原PDF直接渲染，未改稿。官方审批未由本次上传确认。"
+    },
+    {
+      "file": "documents/mlbb-booth-v08-20261112/04-MCT-gift-594x841mm.png",
+      "thumb": "documents/mlbb-booth-v08-20261112/04-MCT-gift-594x841mm.png",
+      "label": "11.12 · A1 购任意商品赠礼海报",
+      "status": "已生成 · 待评审",
+      "note": "本摊位购买任意商品可获赠MCT Event PopSticker Badge，每日50套，配额赠完即止；总版800套包含官方与摊位分配，非卖品，活动结束后不再赠送或售卖。 原确认产品设计不变；海报待审阅。"
     },
     {
       "file": "documents/team-sync-20261110-v02/gift.png",
@@ -149,6 +156,16 @@
   ],
   "links": [
     {
+      "label": "11.12 · v08展位、玩法海报与Mars供稿尺寸",
+      "href": "documents/mlbb-booth-v08-20261112/index.html",
+      "kind": "document"
+    },
+    {
+      "label": "下载A1玩法海报 PDF · 审阅稿",
+      "href": "documents/mlbb-booth-v08-20261112/04-MCT-gift-594x841mm.pdf",
+      "kind": "document"
+    },
+    {
       "label": "下载设计逻辑与玩法详细图 v02",
       "href": "documents/team-sync-20261110-v02/gift.png",
       "kind": "document"
@@ -175,7 +192,7 @@
     "title": "MCT LOGO款 · 用户确认终稿",
     "status": "用户确认终稿",
     "date": "2026.11.10",
-    "summary": "当前采用C — MVP + SAVAGE原版；2026-11-10明确总量800份，每天摊位领取50份，官方发给参赛者或观众50份。赠送不售卖。",
+    "summary": "当前采用用户11月10日确认终稿；总版800套，摊位每天50套、官方每天50套。11月12日更新摊位条件：买任意商品可获赠。非卖品、限本次活动，配额赠完即止。",
     "next": "后续以本次终稿为基准。官方审批、邮件补发与生产交付仍分别核实，不因终稿上传自动视为完成。",
     "email": {
       "title": "设计与用途审批申请 · 已发送阶段稿",
@@ -188,5 +205,21 @@
     }
   },
   "conversationName": "MLBB赛事包 MCT赛事Logo贴纸",
-  "currentFocus": "按用户反馈完成v02详细同步图，突出本场专属、800份发完即止，并解释赛事符号与双路发放，待审阅。"
+  "currentFocus": "11.12展位海报：本摊位购买任意商品可获赠MCT Event PopSticker Badge，每日50套，配额赠完即止；总版800套包含官方与摊位分配，非卖品，活动结束后不再赠送或售卖。",
+  "progress": {
+    "updated": "2026-11-12",
+    "summary": "11.12展位海报：本摊位购买任意商品可获赠MCT Event PopSticker Badge，每日50套，配额赠完即止；总版800套包含官方与摊位分配，非卖品，活动结束后不再赠送或售卖。",
+    "decisions": [
+      {
+        "title": "11.12 · 右墙、陈列和推广口径更新",
+        "detail": "本摊位购买任意商品可获赠MCT Event PopSticker Badge，每日50套，配额赠完即止；总版800套包含官方与摊位分配，非卖品，活动结束后不再赠送或售卖。",
+        "conversation": "d1139134"
+      }
+    ]
+  },
+  "sync": {
+    "checkedAt": "2026-11-12",
+    "sourceConversation": "d1139134",
+    "status": "v08已生成待评审；推广口径按用户更新；既有产品终稿与审批状态保留"
+  }
 }

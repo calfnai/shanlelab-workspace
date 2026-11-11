@@ -1,0 +1,61 @@
+{
+  "wall_mm": [
+    2800,
+    2200
+  ],
+  "main_wall": "unchanged from v07",
+  "total_title": "MLBB collab",
+  "header_logos": [
+    "SHANLE LAB",
+    "Mars Coolplay",
+    "Mobile Legends"
+  ],
+  "partner_zone_width_mm": 1300,
+  "sticker_zone_width_mm": 1500,
+  "cabinet_height_mm": 700,
+  "shelf_heights_mm": [
+    1100,
+    1500
+  ],
+  "play_posters_mm": [
+    [
+      594,
+      841
+    ],
+    [
+      594,
+      841
+    ]
+  ],
+  "partner_posters_mm": [
+    [
+      500,
+      280
+    ],
+    [
+      500,
+      280
+    ]
+  ],
+  "stock_grid_each": [
+    4,
+    2
+  ],
+  "product_size_status": "clay figure half-palm size per user; numeric packaging dimensions unverified",
+  "provisional_figure_height_mm": 65,
+  "provisional_box_envelope_mm": [
+    110,
+    130
+  ],
+  "policy": {
+    "Layla": "First release here;150THB only for today; no sales after event",
+    "MCT": "Buy any item here to collect;50sets/day;800total edition;not for sale; no post-event distribution"
+  },
+  "vi_source_pages": [
+    26,
+    29,
+    32,
+    38
+  ],
+  "status": "review proposal; supplier dimensions and print proof pending"
+}

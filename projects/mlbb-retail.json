@@ -4,7 +4,7 @@
   "en": "01 / COLLABORATION",
   "description": "2026年11月10日用户确认整套终稿：卡背信息、背景纸卡、装配效果、刀线出血、压痕/凸起及中奖/普通内卡背面。",
   "conversation": "a680e3e8",
-  "note": "用户明确“这是终稿。”当前上传总览原样归档并置顶；此前内部拟稿和沟通版本保留历史。确认范围是设计终稿，未扩展为生产或合作方验收。",
+  "note": "用户明确“这是终稿。”当前上传总览原样归档并置顶；此前内部拟稿和沟通版本保留历史。确认范围是设计终稿，未扩展为生产或合作方验收。 2026-11-12展位推广口径更新：LAYLA在本展位首发，特殊发售价150 THB ONLY FOR TODAY；活动限定发售，结束后不再发售。3枚表情贴纸＋1张幸运卡，机会获得601钻，非每包中奖。新海报为审阅稿，未送印；原确认终稿继续置顶。",
   "items": [
     {
       "file": "documents/mlbb-retail-progress/final-20261110/final.png",
@@ -12,6 +12,13 @@
       "label": "2026.11.10 · 用户确认整套终稿",
       "status": "用户确认终稿",
       "note": "用户明确“这是终稿。”原图保持不变；含外背卡、背景/装配、工艺和内卡正面及两种背面。"
+    },
+    {
+      "file": "documents/mlbb-booth-v08-20261112/03-LAYLA-launch-594x841mm.png",
+      "thumb": "documents/mlbb-booth-v08-20261112/03-LAYLA-launch-594x841mm.png",
+      "label": "11.12 · A1 现场首发海报",
+      "status": "已生成 · 待评审",
+      "note": "LAYLA在本展位首发，特殊发售价150 THB ONLY FOR TODAY；活动限定发售，结束后不再发售。3枚表情贴纸＋1张幸运卡，机会获得601钻，非每包中奖。 原确认产品设计不变；海报待审阅。"
     },
     {
       "file": "documents/team-sync-20261110-v02/retail.png",
@@ -219,6 +226,16 @@
   ],
   "links": [
     {
+      "label": "11.12 · v08展位、玩法海报与Mars供稿尺寸",
+      "href": "documents/mlbb-booth-v08-20261112/index.html",
+      "kind": "document"
+    },
+    {
+      "label": "下载A1玩法海报 PDF · 审阅稿",
+      "href": "documents/mlbb-booth-v08-20261112/03-LAYLA-launch-594x841mm.pdf",
+      "kind": "document"
+    },
+    {
       "label": "下载设计逻辑与玩法详细图 v02",
       "href": "documents/team-sync-20261110-v02/retail.png",
       "kind": "document"
@@ -245,7 +262,7 @@
     }
   ],
   "conversationName": "MLBB表情包充值贴纸",
-  "currentFocus": "设计终稿与150 THB发售价已确认；按用户反馈完成v02详细同步图，解释角色、设计与玩法，待审阅。",
+  "currentFocus": "11.12展位海报：LAYLA在本展位首发，特殊发售价150 THB ONLY FOR TODAY；活动限定发售，结束后不再发售。3枚表情贴纸＋1张幸运卡，机会获得601钻，非每包中奖。",
   "milestone": {
     "title": "MLBB售卖款整套终稿 · 用户确认",
     "date": "2026-11-10",
@@ -255,10 +272,15 @@
     "next": "后续如需执行，以本终稿为设计依据；生产与验收状态另行记录。"
   },
   "progress": {
-    "updated": "2026-11-10",
-    "summary": "2026年11月10日用户确认整套终稿：卡背信息、背景纸卡、装配效果、刀线出血、压痕/凸起及中奖/普通内卡背面。",
+    "updated": "2026-11-12",
+    "summary": "11.12展位海报：LAYLA在本展位首发，特殊发售价150 THB ONLY FOR TODAY；活动限定发售，结束后不再发售。3枚表情贴纸＋1张幸运卡，机会获得601钻，非每包中奖。",
     "next": [],
     "decisions": [
+      {
+        "title": "11.12 · 右墙、陈列和推广口径更新",
+        "detail": "LAYLA在本展位首发，特殊发售价150 THB ONLY FOR TODAY；活动限定发售，结束后不再发售。3枚表情贴纸＋1张幸运卡，机会获得601钻，非每包中奖。",
+        "conversation": "d1139134"
+      },
       {
         "title": "Layla发售价确认",
         "quote": "layla款的发售价150THB也可以定了。",
@@ -347,5 +369,10 @@
       }
     ]
   },
-  "galleryLabel": "用户确认终稿与历史版本"
+  "galleryLabel": "用户确认终稿与历史版本",
+  "sync": {
+    "checkedAt": "2026-11-12",
+    "sourceConversation": "d1139134",
+    "status": "v08已生成待评审；推广口径按用户更新；既有产品终稿与审批状态保留"
+  }
 }

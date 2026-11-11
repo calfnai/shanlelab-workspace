@@ -2,10 +2,38 @@
   "id": "booth-3x3",
   "title": "MLBB 3×3展位",
   "en": "03 / MLBB 3×3 BOOTH",
-  "description": "当前3×3仅用于MLBB泰国站：啵啵贴主墙＋整面MLBB专区；右墙700 mm地柜兼最低陈列层，采用用户草图的上说明下挂货。",
+  "description": "MLBB泰国3×3展位：主形象墙沿用；右墙统一MLBB collab标题、三个Logo及两个分区。",
   "conversation": "d1139134",
-  "note": "原MLBB赛事展位已合并到本3×3入口，保留MLBB原对话。11月11日v07按用户草图修订：右墙地柜700 mm直接陈列合作方商品，上方仅两块横板；正立面用终稿原资产完整核对32挂位。柜体深度/承载、包装实尺寸与生成图精确轮廓仍须深化，未作为生产成品。",
+  "note": "11月12日按用户更正，合作方为半个巴掌大的粘土公仔，不是毛绒。主墙不改；右墙采用MCT官方字体、颜色及浪花。原资产正立面与独立海报为内容核对依据；空间生成图不作为精确轮廓或施工证明。实物包装尺寸、柜深/承载和印前打样待核对。",
   "items": [
+    {
+      "file": "documents/mlbb-booth-v08-20261112/02-right-wall-elevation.png",
+      "thumb": "documents/mlbb-booth-v08-20261112/02-right-wall-elevation.png",
+      "label": "11.12 · v08 · 一个标题／三个Logo／两个分区",
+      "status": "已生成 · 待评审",
+      "note": "原Logo、终稿产品图和官方VI，等比使用。两张A1下方每款4×2挂位。"
+    },
+    {
+      "file": "documents/mlbb-booth-v08-20261112/01-booth-render.png",
+      "thumb": "documents/mlbb-booth-v08-20261112/01-booth-render.png",
+      "label": "11.12 · v08 · 小公仔与整排卡牌空间参考",
+      "status": "已生成 · 待评审",
+      "note": "主形象墙沿用。生成空间图仅用于空间关系，精确轮廓、Logo与小字以原资产正立面为准。"
+    },
+    {
+      "file": "documents/mlbb-booth-v08-20261112/07-poster-review-pair.jpg",
+      "thumb": "documents/mlbb-booth-v08-20261112/07-poster-review-pair.jpg",
+      "label": "11.12 · Layla首发／MCT购任意商品赠礼",
+      "status": "已生成 · 待评审",
+      "note": "两张594×841mm玩法海报审阅稿，未送印。"
+    },
+    {
+      "file": "documents/mlbb-booth-v08-20261112/05-mars-poster-brief.png",
+      "thumb": "documents/mlbb-booth-v08-20261112/05-mars-poster-brief.png",
+      "label": "11.12 · Mars两张500×280mm横版供稿尺寸",
+      "status": "已生成 · 待评审",
+      "note": "每张出血3mm、安全边15mm；请提供卡牌、公仔及展示盒实测尺寸。未向合作方发送。"
+    },
     {
       "file": "documents/mlbb-booth-v07-20261111/02-mlbb-wall-elevation.png",
       "thumb": "documents/mlbb-booth-v07-20261111/elevation-thumb.webp",
@@ -121,6 +149,11 @@
   ],
   "links": [
     {
+      "label": "11.12 · v08展位、玩法海报与Mars供稿尺寸",
+      "href": "documents/mlbb-booth-v08-20261112/index.html",
+      "kind": "document"
+    },
+    {
       "label": "查看v07 · 柜顶陈列与说明/挂货",
       "href": "documents/mlbb-booth-v07-20261111/index.html",
       "kind": "document"
@@ -146,7 +179,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "v07：右墙地柜升700 mm，取消独立700 mm层板，仅保留1100/1500 mm两层；Layla左、MCT右，上方说明、下方各4×4挂货。",
+  "currentFocus": "v08：70cm地柜＋110/150cm横板；半掌大小粘土公仔；两张A1玩法海报＋两张500×280mm Mars供稿位。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。"
@@ -156,27 +189,32 @@
   ],
   "galleryLabel": "MLBB当前图稿与历次版本",
   "milestone": {
-    "title": "MLBB 3×3 · v06层板高度与商品尺度",
-    "date": "2026-11-11",
-    "status": "项目用途已确认 · 图稿待评审",
-    "summary": "3×3入口归MLBB统一维护；合作方三层层板面距地70/110/150 cm，继续保留MCT赠送款与Layla售卖款说明。",
-    "approvalNote": "用户确认的是项目用途与归属，不等于已批准生成图、场地搭建或生产尺寸。",
-    "next": "核对三层货架的实物包装高度、招牌与包装轮廓，并继续原MLBB展位对话。"
+    "title": "v08 · 右墙分区与玩法海报",
+    "date": "2026-11-12",
+    "status": "需求已明确 · 图稿待评审",
+    "summary": "v08：70cm地柜＋110/150cm横板；半掌大小粘土公仔；两张A1玩法海报＋两张500×280mm Mars供稿位。",
+    "approvalNote": "用户明确修改要求，不等于批准当前图稿、施工或送印。",
+    "next": "审阅排版；向Mars索取两张横版海报及商品实测尺寸，核对印前文件。"
   },
   "progress": {
-    "updated": "2026-11-11",
-    "summary": "用户指定原booth-3x3入口统一用于MLBB，与原MLBB赛事展位记录合并；最新v06置于当前入口，其他活动旧稿独立留档。",
+    "updated": "2026-11-12",
+    "summary": "v08：70cm地柜＋110/150cm横板；半掌大小粘土公仔；两张A1玩法海报＋两张500×280mm Mars供稿位。",
     "next": [
       {
-        "title": "继续MLBB v06尺寸核对",
-        "detail": "合作方层板面70/110/150 cm，层间40 cm，商品顶部暂按约170 cm控制；仍需实物包装核对。"
+        "title": "审阅v08图稿",
+        "detail": "海报与布局尚待选择，未作为生产终稿。"
       },
       {
-        "title": "核对原资产与实际场地",
-        "detail": "生成空间图不代替准确品牌包装轮廓、实物尺寸或主办方搭建确认。"
+        "title": "Mars供稿和尺寸",
+        "detail": "两张500×280mm横版；索取单盒、卡牌、公仔、PDQ实测W×D×H。"
       }
     ],
     "decisions": [
+      {
+        "title": "11.12 · 右墙、陈列和推广口径更新",
+        "detail": "主墙不变；右墙统一MLBB collab＋三个Logo，两个分区。合作方为半掌大小粘土公仔，非毛绒。",
+        "conversation": "d1139134"
+      },
       {
         "title": "当前3×3仅用于MLBB",
         "detail": "按用户2026-11-11指示，将booth-3x3作为MLBB统一入口，旧mlbb-booth链接保留跳转，凡几及Nowre旧资料不再作为当前3×3项目展示。",
@@ -205,8 +243,8 @@
     ]
   },
   "sync": {
-    "checkedAt": "2026-11-11",
-    "sourceConversation": "7bb0a45f",
-    "status": "3×3入口统一为MLBB；旧入口兼容，其他活动历史稿留档"
+    "checkedAt": "2026-11-12",
+    "sourceConversation": "d1139134",
+    "status": "v08已生成待评审；推广口径按用户更新；既有产品终稿与审批状态保留"
   }
 }
