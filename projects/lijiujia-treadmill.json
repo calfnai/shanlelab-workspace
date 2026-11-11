@@ -2,12 +2,159 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "当前三个选项为凌序、曜影、灵伴。曜影已补齐真实STEP双轴折叠：展开、翻起扶手、收下立柱、折平，可播放、暂停和拖动进度。",
+  "description": "凌序、曜影、灵伴均补齐正常、抬升、折叠、站立四态；三个模型均有外壳半透明开关。新增三张家中正常/竖放对照图，以及站立底面美化。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "曜影上部转轴与STEP归属已明确；灵伴为第三个大C方向。折叠演示已实现，工程干涉及稳定性待验证。",
-  "currentFocus": "评审曜影双轴折叠过程及中间姿态，继续核对锁止释放与运动间隙。",
+  "note": "曜影基于源STEP；凌序、灵伴是方案板概念重建。底盖、CMF、抬升与支撑为本轮提议，尚未获用户选定或工程验证。",
+  "currentFocus": "评审三款四态、家中布置及底面美化，核对凌序和灵伴专用STEP。",
   "items": [
+    {
+      "file": "documents/treadmill/four-states-20261112/linear-home.webp",
+      "thumb": "documents/treadmill/four-states-20261112/linear-home.webp",
+      "label": "凌序 · 家中正常使用与站立收纳",
+      "status": "本轮生成 · 待评审",
+      "note": "以本轮模型截图约束形体，参考已有住宅氛围；布置效果提案。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/linear-normal.webp",
+      "thumb": "documents/treadmill/four-states-20261112/linear-normal.webp",
+      "label": "凌序 · 正常态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/linear-incline.webp",
+      "thumb": "documents/treadmill/four-states-20261112/linear-incline.webp",
+      "label": "凌序 · 抬升态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/linear-fold.webp",
+      "thumb": "documents/treadmill/four-states-20261112/linear-fold.webp",
+      "label": "凌序 · 折叠态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/linear-stand.webp",
+      "thumb": "documents/treadmill/four-states-20261112/linear-stand.webp",
+      "label": "凌序 · 站立态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/linear-bottom.webp",
+      "thumb": "documents/treadmill/four-states-20261112/linear-bottom.webp",
+      "label": "凌序 · 底面美化",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/linear-transparent.webp",
+      "thumb": "documents/treadmill/four-states-20261112/linear-transparent.webp",
+      "label": "凌序 · 半透明查看",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/origin-home.webp",
+      "thumb": "documents/treadmill/four-states-20261112/origin-home.webp",
+      "label": "曜影 · 家中正常使用与站立收纳",
+      "status": "本轮生成 · 待评审",
+      "note": "以本轮模型截图约束形体，参考已有住宅氛围；布置效果提案。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/origin-normal.webp",
+      "thumb": "documents/treadmill/four-states-20261112/origin-normal.webp",
+      "label": "曜影 · 正常态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/origin-incline.webp",
+      "thumb": "documents/treadmill/four-states-20261112/origin-incline.webp",
+      "label": "曜影 · 抬升态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/origin-fold.webp",
+      "thumb": "documents/treadmill/four-states-20261112/origin-fold.webp",
+      "label": "曜影 · 折叠态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/origin-stand.webp",
+      "thumb": "documents/treadmill/four-states-20261112/origin-stand.webp",
+      "label": "曜影 · 站立态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/origin-bottom.webp",
+      "thumb": "documents/treadmill/four-states-20261112/origin-bottom.webp",
+      "label": "曜影 · 底面美化",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/origin-transparent.webp",
+      "thumb": "documents/treadmill/four-states-20261112/origin-transparent.webp",
+      "label": "曜影 · 半透明查看",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/lynmate-home.webp",
+      "thumb": "documents/treadmill/four-states-20261112/lynmate-home.webp",
+      "label": "灵伴 · 家中正常使用与站立收纳",
+      "status": "本轮生成 · 待评审",
+      "note": "以本轮模型截图约束形体，参考已有住宅氛围；布置效果提案。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/lynmate-normal.webp",
+      "thumb": "documents/treadmill/four-states-20261112/lynmate-normal.webp",
+      "label": "灵伴 · 正常态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/lynmate-incline.webp",
+      "thumb": "documents/treadmill/four-states-20261112/lynmate-incline.webp",
+      "label": "灵伴 · 抬升态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/lynmate-fold.webp",
+      "thumb": "documents/treadmill/four-states-20261112/lynmate-fold.webp",
+      "label": "灵伴 · 折叠态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/lynmate-stand.webp",
+      "thumb": "documents/treadmill/four-states-20261112/lynmate-stand.webp",
+      "label": "灵伴 · 站立态",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/lynmate-bottom.webp",
+      "thumb": "documents/treadmill/four-states-20261112/lynmate-bottom.webp",
+      "label": "灵伴 · 底面美化",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
+    {
+      "file": "documents/treadmill/four-states-20261112/lynmate-transparent.webp",
+      "thumb": "documents/treadmill/four-states-20261112/lynmate-transparent.webp",
+      "label": "灵伴 · 半透明查看",
+      "status": "本轮模型截图 · 待评审",
+      "note": "曜影STEP基础；凌序、灵伴概念重建。新底盖、CMF、抬升及软鞋为本轮提议。"
+    },
     {
       "file": "documents/treadmill/yaoying-fold-20261112/open.png",
       "thumb": "documents/treadmill/yaoying-fold-20261112/open.png",
@@ -235,9 +382,24 @@
   ],
   "links": [
     {
-      "label": "当前三方案 · 凌序 / 曜影 / 灵伴",
+      "label": "当前三方案 · 四态 / 半透明 / 家中效果",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/",
       "kind": "review"
+    },
+    {
+      "label": "灵伴 · 四态模型 / 半透明开关",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/states-20261112/viewer.html?model=lynmate",
+      "kind": "3d"
+    },
+    {
+      "label": "曜影 · 四态模型 / 半透明开关",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/states-20261112/viewer.html?model=origin",
+      "kind": "3d"
+    },
+    {
+      "label": "凌序 · 四态模型 / 半透明开关",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/states-20261112/viewer.html?model=linear",
+      "kind": "3d"
     },
     {
       "label": "曜影 · 双轴折叠 3D / 播放与进度",
@@ -290,19 +452,23 @@
       "kind": "research"
     }
   ],
-  "galleryLabel": "曜影折叠过程 · 真实STEP四阶段",
+  "galleryLabel": "三款四态 · 家中效果与底面美化",
   "milestone": {
-    "title": "曜影双轴折叠已补齐",
+    "title": "三方案四态与半透明模型",
     "date": "2026-11-12",
-    "status": "可控动作已实现 · 待评审",
-    "summary": "当前三个选项为凌序、曜影、灵伴。曜影已补齐真实STEP双轴折叠：展开、翻起扶手、收下立柱、折平，可播放、暂停和拖动进度。",
-    "approvalNote": "方案范围确认不代表已选定最终方案或工程验证通过。",
-    "next": "评审曜影双轴折叠过程及中间姿态，继续核对锁止释放与运动间隙。"
+    "status": "已生成并完成本地交互检查 · 待用户评审",
+    "summary": "凌序、曜影、灵伴均补齐正常、抬升、折叠、站立四态；三个模型均有外壳半透明开关。新增三张家中正常/竖放对照图，以及站立底面美化。",
+    "approvalNote": "尚未选定新底盖/CMF/支撑；旧已认可图的确认范围保留。",
+    "next": "评审三款四态、家中布置及底面美化，核对凌序和灵伴专用STEP。"
   },
   "progress": {
     "updated": "2026-11-12",
-    "summary": "当前三个选项为凌序、曜影、灵伴。曜影已补齐真实STEP双轴折叠：展开、翻起扶手、收下立柱、折平，可播放、暂停和拖动进度。",
+    "summary": "凌序、曜影、灵伴均补齐正常、抬升、折叠、站立四态；三个模型均有外壳半透明开关。新增三张家中正常/竖放对照图，以及站立底面美化。",
     "next": [
+      {
+        "title": "评审完整四态交付",
+        "detail": "核对造型、折叠方向、站立底面和家中放置；补充凌序/灵伴专用STEP后校核概念几何。"
+      },
       {
         "title": "评审曜影折叠",
         "detail": "先翻扶手、再收立柱，检查动作中间姿态；继续核验锁止释放、干涉与竖放。"
@@ -329,6 +495,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "三方案均需四态、家中图与半透明模型",
+        "detail": "正常/抬升/折叠/站立统一由同一模型切换；站立机底朝室内并美化。曜影实模与凌序/灵伴概念重建的来源层次分开说明。"
+      },
       {
         "title": "补齐曜影折叠而非只保留静态",
         "detail": "用户指出上轮遗漏折叠实现，本轮使用真实STEP几何与圆柱面轴线补齐可控运动。运动顺序为本次补充表达。"
@@ -474,6 +644,57 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "凌序 · 四态",
+        "note": "正常、抬升、折叠、站立来自同一交互模型。",
+        "files": [
+          "documents/treadmill/four-states-20261112/linear-normal.webp",
+          "documents/treadmill/four-states-20261112/linear-incline.webp",
+          "documents/treadmill/four-states-20261112/linear-fold.webp",
+          "documents/treadmill/four-states-20261112/linear-stand.webp"
+        ]
+      },
+      {
+        "title": "曜影 · 四态",
+        "note": "正常、抬升、折叠、站立来自同一交互模型。",
+        "files": [
+          "documents/treadmill/four-states-20261112/origin-normal.webp",
+          "documents/treadmill/four-states-20261112/origin-incline.webp",
+          "documents/treadmill/four-states-20261112/origin-fold.webp",
+          "documents/treadmill/four-states-20261112/origin-stand.webp"
+        ]
+      },
+      {
+        "title": "灵伴 · 四态",
+        "note": "正常、抬升、折叠、站立来自同一交互模型。",
+        "files": [
+          "documents/treadmill/four-states-20261112/lynmate-normal.webp",
+          "documents/treadmill/four-states-20261112/lynmate-incline.webp",
+          "documents/treadmill/four-states-20261112/lynmate-fold.webp",
+          "documents/treadmill/four-states-20261112/lynmate-stand.webp"
+        ]
+      },
+      {
+        "title": "家中正常使用与站立收纳",
+        "note": "三款均有双画面对照，底面朝室内。",
+        "files": [
+          "documents/treadmill/four-states-20261112/linear-home.webp",
+          "documents/treadmill/four-states-20261112/origin-home.webp",
+          "documents/treadmill/four-states-20261112/lynmate-home.webp"
+        ]
+      },
+      {
+        "title": "站立底面美化与半透明",
+        "note": "底盖为新提议；透明模式查看内部结构。",
+        "files": [
+          "documents/treadmill/four-states-20261112/linear-bottom.webp",
+          "documents/treadmill/four-states-20261112/linear-transparent.webp",
+          "documents/treadmill/four-states-20261112/origin-bottom.webp",
+          "documents/treadmill/four-states-20261112/origin-transparent.webp",
+          "documents/treadmill/four-states-20261112/lynmate-bottom.webp",
+          "documents/treadmill/four-states-20261112/lynmate-transparent.webp"
+        ]
+      },
       {
         "title": "曜影 · 展开到折平",
         "note": "同一STEP几何连续运动，页面支持播放和拖动。",
