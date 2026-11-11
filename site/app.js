@@ -32,7 +32,8 @@ function milestone(p,home=false){
 }
 
 function render(){
- const id=location.hash.slice(1)||'home',p=data.projects.find(p=>p.id===id);
+ const id=location.hash.slice(1)||'home',p=data.projects.find(p=>p.id===id||p.aliases?.includes(id));
+ if(p&&id!==p.id)history.replaceState(null,'','#'+p.id);
  document.querySelectorAll('nav a').forEach(a=>a.classList.toggle('active',a.dataset.id===(p?p.id:'home')));
  if(!p){document.title='SHANLE 共享工作区 · SHANLE LAB';$('#content').innerHTML=`<section class="hero"><div><div class="eyebrow">A PLACE TO PICK UP WHERE YOU LEFT OFF</div><h1>SHANLE 的工作，<br><em>从这里继续。</em></h1><p>找到成果，回看版本，接着把事情做下去。</p></div><div class="hero-note"><div class="stats"><div><strong>${String(data.projects.length).padStart(2,'0')}</strong><span>个项目方向</span></div><div><strong>${data.projects.reduce((n,p)=>n+p.items.length,0)}</strong><span>张真实图稿</span></div><div><strong>${String(data.projects.reduce((n,p)=>n+p.links.filter(l=>l.kind==='3d').length,0)).padStart(2,'0')}</strong><span>个可旋转演示</span></div></div><p>多个项目与对话共用这一工作区。各自更新成果、版本与接续入口，最近确认的版本优先展示。<br><a href="workspace-guide.html">如何在其他对话中更新此工作区 ↗</a></p></div></section>${data.projects.filter(p=>p.milestone).sort((a,b)=>b.milestone.date.localeCompare(a.milestone.date)).map(p=>milestone(p,true)).join('')}<div class="toolbar"><h2>项目索引 <small>SHANLE PROJECTS</small></h2><input type="search" id="search" placeholder="搜索项目、版本、图稿…" aria-label="搜索项目与图稿"></div><div id="results">${projectSections(data.projects)}</div>`;
  $('#search').oninput=e=>{const q=e.target.value.trim().toLowerCase(),ps=data.projects.filter(p=>(p.title+p.description+p.items.map(i=>i.label).join('')).toLowerCase().includes(q));$('#results').innerHTML=projectSections(ps);};

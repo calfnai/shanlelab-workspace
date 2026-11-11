@@ -1,0 +1,712 @@
+{
+  "id": "booth-3x3",
+  "title": "SHANLE 普通3×3／凡几展位",
+  "en": "06 / STANDARD BOOTH",
+  "description": "凡几v05整合保留前台、双面联名/减免游戏架、完整Lifestyle与商品提示背卡；Nowre历史活动分支独立保留。",
+  "conversation": "7bb0a45f",
+  "conversationName": "3x3双开，2.2米高的长期展位设计",
+  "note": "当前凡几v05将前台、双面联名/游戏架与商品提示背卡合并展示，图稿待评审。历史v03的Nowre字样只属旧标签；Nowre活动原分支独立保留，凡几不套用其场地协议。 NOWRE新分支已按用户所供A1基础小亭制作陈列提案，单独标注为待评审，不据此覆盖凡几方案或认定A1最终选定。",
+  "items": [
+    {
+      "file": "documents/nowre-a1-basic-v01/display.png",
+      "thumb": "documents/nowre-a1-basic-v01/display.webp",
+      "label": "NOWRE A1基础款 · 产品陈列与附件预配",
+      "status": "新场地结构适配 · 待评审及实测",
+      "note": "按用户2026-11-09提供A1结构另做小亭陈列，不沿用凡几3×3墙体。暂排左右各12挂位、2桌面补货架、2包袋示范与中间试贴区；拟配30短挂钩含6备用。基础配置与孔距净尺寸待主办方确认；不是完整SKU展齐或安装容量证明，生成图非商品原稿、加工文件或品牌标识源文件。"
+    },
+    {
+      "file": "documents/fanji-v05-integrated/collab-out.png",
+      "thumb": "documents/fanji-v05-integrated/collab-out.webp",
+      "label": "凡几v05 · 前台＋联名架＋商品背卡整合",
+      "status": "新整合稿 · 待评审",
+      "note": "主摆法：前台保留，一座双面架联名面朝外；POP商品后补限定款及热卖款背卡示意。 具体联名货盘、限定/热卖标注货品尚未确认。生成图非实尺寸、商品原图或生产文件。"
+    },
+    {
+      "file": "documents/fanji-v05-integrated/game-out.png",
+      "thumb": "documents/fanji-v05-integrated/game-out.webp",
+      "label": "凡几v05 · 游戏面朝外的摆法对照",
+      "status": "新整合稿 · 待评审",
+      "note": "同一双面架转向游戏面朝外的另一摆法；前台保留。不是严格相机反向图，也不增加第二座架。 具体联名货盘、限定/热卖标注货品尚未确认。生成图非实尺寸、商品原图或生产文件。"
+    },
+    {
+      "file": "documents/fanji-v05-integrated/plan.png",
+      "thumb": "documents/fanji-v05-integrated/plan.webp",
+      "label": "凡几v05 · 整合位置与站位提案",
+      "status": "新整合稿 · 待评审",
+      "note": "标称3×3的静态位置提案；前台800×500规划，双面架626×500。人物圈不等于满负荷容量或实际通行验收。 具体联名货盘、限定/热卖标注货品尚未确认。生成图非实尺寸、商品原图或生产文件。"
+    },
+    {
+      "file": "documents/fanji-v04-reception/overall.png",
+      "thumb": "documents/fanji-v04-reception/overall.webp",
+      "label": "凡几v04 · 保留前台与Lifestyle全系列",
+      "status": "阶段参考 · 前台已补回",
+      "note": "按用户纠正补回原蓝橙矩形前台，两面墙与Lifestyle全系列保留；双面展架为独立新增道具，不替代前台。图像级可见1前台、8灯与11类Lifestyle，非实尺寸或通道验证。 后续由v05继续整合双面架和商品提示背卡。"
+    },
+    {
+      "file": "documents/nowre-nonactivity-v03/overall.png",
+      "thumb": "documents/nowre-nonactivity-v03/overall.webp",
+      "label": "凡几展位v03 · Lifestyle全系列整体",
+      "status": "历史对照 · 遗漏前台已由v04修正",
+      "note": "用户已更正本套归属为凡几，非Nowre。图内Nowre为旧历史标签，本次仅更正项目定义，未重新生成设计。按最新Lifestyle表11条及真实产品照片展开：包袋、PU与牛仔护照夹、5色磁吸卡套、6色挂绳卡套、黄色笔记本。保留穿搭示范与桃红包，补齐右区。图像级核对11类可见，仍非实尺寸或生产文件。 用户随后明确前台必须保留；本图缺少前台，整体方案以v04修正稿继续。"
+    },
+    {
+      "file": "documents/nowre-nonactivity-v03/right-wall.png",
+      "thumb": "documents/nowre-nonactivity-v03/right-wall.webp",
+      "label": "凡几展位v03 · ART＋Lifestyle全系列正面",
+      "status": "新生成 · 待评审",
+      "note": "用户已更正本套归属为凡几，非Nowre。图内Nowre为旧历史标签，本次仅更正项目定义，未重新生成设计。按最新Lifestyle表11条及真实产品照片展开：包袋、PU与牛仔护照夹、5色磁吸卡套、6色挂绳卡套、黄色笔记本。保留穿搭示范与桃红包，补齐右区。图像级核对11类可见，仍非实尺寸或生产文件。"
+    },
+    {
+      "file": "documents/nowre-nonactivity-v02/overall.png",
+      "thumb": "documents/nowre-nonactivity-v02/overall.webp",
+      "label": "无活动版v02 · 包袋应用整体效果",
+      "status": "历史对照 · 用户指出过空",
+      "note": "2026-11-07按用户实拍补齐原PIMPLE位置：挂衣＋棕色贴饰小包，独立展示桃红色椭圆包。包袋为贴饰日常应用示范；生成图非精确尺寸、商品图案或安装承重证明。 用户随后要求按完整Lifestyle产品表展开，现由v03继续修订。"
+    },
+    {
+      "file": "documents/nowre-nonactivity-v02/right-wall.png",
+      "thumb": "documents/nowre-nonactivity-v02/right-wall.webp",
+      "label": "无活动版v02 · ART与包袋应用正面",
+      "status": "历史对照 · 用户指出过空",
+      "note": "2026-11-07按用户实拍补齐原PIMPLE位置：挂衣＋棕色贴饰小包，独立展示桃红色椭圆包。包袋为贴饰日常应用示范；生成图非精确尺寸、商品图案或安装承重证明。 用户随后要求按完整Lifestyle产品表展开，现由v03继续修订。"
+    },
+    {
+      "file": "documents/nowre-progress/nonactivity-render-1.png",
+      "thumb": "documents/nowre-progress/nonactivity-render-1.webp",
+      "label": "无活动版 · 整体效果示意",
+      "status": "新效果图 · 待评审",
+      "note": "2026-11-06 21:22原对话交付。承接同事平面稿，PIMPLE已移除，原区域蓝底仅作待定位置示意。生成图的商品细节、数量、灯具及比例可能变化，非精确贴图或生产文件。"
+    },
+    {
+      "file": "documents/nowre-progress/nonactivity-render-2.png",
+      "thumb": "documents/nowre-progress/nonactivity-render-2.webp",
+      "label": "无活动版 · POP主墙正面效果示意",
+      "status": "新效果图 · 待评审",
+      "note": "2026-11-06 21:22原对话交付。承接同事平面稿，PIMPLE已移除，原区域蓝底仅作待定位置示意。生成图的商品细节、数量、灯具及比例可能变化，非精确贴图或生产文件。"
+    },
+    {
+      "file": "documents/double-sided-collab-game-v01/render.png",
+      "thumb": "documents/double-sided-collab-game-v01/render.webp",
+      "label": "双面展架 · 联名展示 × 减免游戏",
+      "status": "结构与用途已指定 · 新图待评审",
+      "note": "2026-11-07本对话：沿用626×500×1840mm双面结构。A面16挂位联名展示样图，B面谁先下班了找彩蛋减免。联名货盘与优惠金额未定；同一架两面，场地归属未指定。生成图非尺寸、商品原图或承载证明，题卡尺寸以版面稿为准。"
+    },
+    {
+      "file": "documents/double-sided-collab-game-v01/layout.png",
+      "thumb": "documents/double-sided-collab-game-v01/layout.webp",
+      "label": "双面展架 · 版面与尺寸核对",
+      "status": "排版提案 · 待供应商复核",
+      "note": "同尺度正反面：总宽626、总深500、总高1840mm；原侧视610与1550标注存在冲突。只公开当天题卡，不包含答案或协议原件。"
+    },
+    {
+      "file": "documents/nowre-progress/activity-0.png",
+      "thumb": "documents/nowre-progress/activity-0.webp",
+      "label": "活动版 · Nowre-ART与互动墙-正面视觉草稿",
+      "status": "已命名 · 视觉草稿",
+      "note": "找彩蛋互动版本；PIMPLE 已取消。仍为自带3×3视觉方案，主办方协议为4㎡、自搭与实际尺寸未获确认。"
+    },
+    {
+      "file": "documents/nowre-progress/activity-1.png",
+      "thumb": "documents/nowre-progress/activity-1.webp",
+      "label": "活动版 · Nowre-互动区-整体视觉草稿",
+      "status": "已命名 · 视觉草稿",
+      "note": "找彩蛋互动版本；PIMPLE 已取消。仍为自带3×3视觉方案，主办方协议为4㎡、自搭与实际尺寸未获确认。"
+    },
+    {
+      "file": "documents/nowre-progress/activity-2.png",
+      "thumb": "documents/nowre-progress/activity-2.webp",
+      "label": "活动版 · Nowre-右前方-整体视觉草稿",
+      "status": "已命名 · 视觉草稿",
+      "note": "找彩蛋互动版本；PIMPLE 已取消。仍为自带3×3视觉方案，主办方协议为4㎡、自搭与实际尺寸未获确认。"
+    },
+    {
+      "file": "documents/nowre-progress/nonactivity-0.jpg",
+      "thumb": "documents/nowre-progress/nonactivity-0.webp",
+      "label": "无活动版 · 01-ART侧墙-同事原稿-PIMPLE已取消",
+      "status": "同事原稿 · 已命名",
+      "note": "原图保留，PIMPLE区已取消，不作为后续设计依据。两张为平面设计来源；对应无活动版效果示意已补齐，仍待评审。"
+    },
+    {
+      "file": "documents/nowre-progress/nonactivity-1.jpg",
+      "thumb": "documents/nowre-progress/nonactivity-1.webp",
+      "label": "无活动版 · 02-POP主墙-同事原稿",
+      "status": "同事原稿 · 已命名",
+      "note": "原图保留，PIMPLE区已取消，不作为后续设计依据。两张为平面设计来源；对应无活动版效果示意已补齐，仍待评审。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/06-已确认效果图/05-v13-绿色重点补齐-整体效果参考.png",
+      "thumb": "thumbs/f7ecb36ecc.webp",
+      "label": "v13 · 绿色重点补齐整体参考",
+      "status": "确认风格的补齐参考",
+      "note": "沿用已确认 v10 风格；本图补齐重点，非可印刷生产文件。"
+    },
+    {
+      "file": "media/b2e7159e97.png",
+      "thumb": "thumbs/b2e7159e97.webp",
+      "label": "v17 · 后墙-源稿等比尺寸核对",
+      "status": "后续校核",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/c18c888f37.png",
+      "thumb": "thumbs/c18c888f37.webp",
+      "label": "v16 · A03-外墙A-蓝色-贴纸主角",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/4bfbfb8d04.png",
+      "thumb": "thumbs/4bfbfb8d04.webp",
+      "label": "v16 · A04-外墙B-橙色-贴纸主角",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/25fd1c5dcf.png",
+      "thumb": "thumbs/25fd1c5dcf.webp",
+      "label": "v15 · A03-外侧墙A-蓝色-POP-YOUR-MIND",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/394069a441.png",
+      "thumb": "thumbs/394069a441.webp",
+      "label": "v15 · A04-外侧墙B-橙粉-NOW-IN-LEATHER",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/0697a08818.png",
+      "thumb": "thumbs/0697a08818.webp",
+      "label": "v15 · 双外墙-外转角合看-方向效果",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/e7c0a43bd5.png",
+      "thumb": "thumbs/e7c0a43bd5.webp",
+      "label": "v14 · A03-朝外后墙-品牌形象墙",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/01-墙面/A01-后墙内侧正视-平面参考.png",
+      "thumb": "thumbs/e9077513dc.webp",
+      "label": "v13 · A01-后墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/01-墙面/A02-右墙内侧正视-平面参考.png",
+      "thumb": "thumbs/3a4c87cdae.webp",
+      "label": "v13 · A02-右墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/01-墙面/A03-后墙外侧-品牌画面参考.png",
+      "thumb": "thumbs/886037936f.webp",
+      "label": "v13 · A03-后墙外侧-品牌画面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/01-墙面/A04-右墙外侧-品牌画面参考.png",
+      "thumb": "thumbs/ab2663fe2f.webp",
+      "label": "v13 · A04-右墙外侧-品牌画面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B01-中岛正面-正视参考.png",
+      "thumb": "thumbs/d6745dcf74.webp",
+      "label": "v13 · B01-中岛正面-正视参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B02-中岛左侧-正视参考.png",
+      "thumb": "thumbs/57ad575b89.webp",
+      "label": "v13 · B02-中岛左侧-正视参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B03-中岛右侧-素面参考.png",
+      "thumb": "thumbs/baa5369d1d.webp",
+      "label": "v13 · B03-中岛右侧-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B04-中岛背面-素面参考.png",
+      "thumb": "thumbs/145623a730.webp",
+      "label": "v13 · B04-中岛背面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B05-中岛台面-素面参考.png",
+      "thumb": "thumbs/31dde813a4.webp",
+      "label": "v13 · B05-中岛台面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B06-中岛台上介绍牌正面-正视参考.png",
+      "thumb": "thumbs/19b8d2ad37.webp",
+      "label": "v13 · B06-中岛台上介绍牌正面-正视参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/02-中岛/B07-中岛介绍牌背面-素面参考.png",
+      "thumb": "thumbs/240cd4c81a.webp",
+      "label": "v13 · B07-中岛介绍牌背面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/03-地柜/C01-后墙地柜正面-正视参考.png",
+      "thumb": "thumbs/df1d183544.webp",
+      "label": "v13 · C01-后墙地柜正面-正视参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/03-地柜/C02-后墙地柜左侧-素面参考.png",
+      "thumb": "thumbs/0548d6da18.webp",
+      "label": "v13 · C02-后墙地柜左侧-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/03-地柜/C03-后墙地柜右侧-素面参考.png",
+      "thumb": "thumbs/d84a44062a.webp",
+      "label": "v13 · C03-后墙地柜右侧-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/03-地柜/C04-后墙地柜背面-素面参考.png",
+      "thumb": "thumbs/5d9128301f.webp",
+      "label": "v13 · C04-后墙地柜背面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/03-地柜/C05-后墙地柜台面-素面参考.png",
+      "thumb": "thumbs/317e5f7179.webp",
+      "label": "v13 · C05-后墙地柜台面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "documents/booth-3x3-v13/04-补充素面/D01-地面-素面参考.png",
+      "thumb": "thumbs/48fcc9597c.webp",
+      "label": "v13 · D01-地面-素面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/4eb75f2cc0.png",
+      "thumb": "thumbs/4eb75f2cc0.webp",
+      "label": "v12 · A01-后墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/dcf8b9cb44.png",
+      "thumb": "thumbs/dcf8b9cb44.webp",
+      "label": "v12 · A02-右墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/ae9017fcc6.png",
+      "thumb": "thumbs/ae9017fcc6.webp",
+      "label": "v11 · A01-后墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/3d04385577.png",
+      "thumb": "thumbs/3d04385577.webp",
+      "label": "v11 · A02-右墙内侧正视-平面参考",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/72ed1d67fd.png",
+      "thumb": "thumbs/72ed1d67fd.webp",
+      "label": "v10 · 01-左前方-品牌标识整合",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/3e68a8914c.png",
+      "thumb": "thumbs/3e68a8914c.webp",
+      "label": "v10 · 02-正面-品牌标识整合",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/e651be1f48.png",
+      "thumb": "thumbs/e651be1f48.webp",
+      "label": "v10 · 03-右前方-品牌标识整合",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/a15c38eeaf.png",
+      "thumb": "thumbs/a15c38eeaf.webp",
+      "label": "v10 · 04-俯视-品牌标识整合",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/81999b6adc.png",
+      "thumb": "thumbs/81999b6adc.webp",
+      "label": "v09 · 效果图-v09-上下分区草稿",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/895c5e96f2.png",
+      "thumb": "thumbs/895c5e96f2.webp",
+      "label": "v08 · 效果图-v08-实物相对比例调整稿",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/65ae2de684.png",
+      "thumb": "thumbs/65ae2de684.webp",
+      "label": "v07 · 效果图-v07-ART与痘痘贴分区草稿",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/f1eaa24d91.png",
+      "thumb": "thumbs/f1eaa24d91.webp",
+      "label": "v06 · 效果图-v06-视觉草稿",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/6ac5ba1d02.png",
+      "thumb": "thumbs/6ac5ba1d02.webp",
+      "label": "v05 · dimension-sheet-1",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/85106be1c9.png",
+      "thumb": "thumbs/85106be1c9.webp",
+      "label": "v05 · dimension-sheet-2",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/8ef44a7c7f.png",
+      "thumb": "thumbs/8ef44a7c7f.webp",
+      "label": "v05 · eye",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/401dce00ee.png",
+      "thumb": "thumbs/401dce00ee.webp",
+      "label": "v05 · inside",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/8e10f3cfeb.png",
+      "thumb": "thumbs/8e10f3cfeb.webp",
+      "label": "v05 · iso",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/43efc75904.png",
+      "thumb": "thumbs/43efc75904.webp",
+      "label": "v05 · shelf-dimensions",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/068f02febe.png",
+      "thumb": "thumbs/068f02febe.webp",
+      "label": "v05 · top",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/a95e89f6f6.png",
+      "thumb": "thumbs/a95e89f6f6.webp",
+      "label": "v04 · eye",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/55eab080b3.png",
+      "thumb": "thumbs/55eab080b3.webp",
+      "label": "v04 · inside",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/17a658d762.png",
+      "thumb": "thumbs/17a658d762.webp",
+      "label": "v04 · iso",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/e3c91e74f8.png",
+      "thumb": "thumbs/e3c91e74f8.webp",
+      "label": "v04 · shelf-dimensions",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/53d1569e35.png",
+      "thumb": "thumbs/53d1569e35.webp",
+      "label": "v04 · top",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/019abb5281.png",
+      "thumb": "thumbs/019abb5281.webp",
+      "label": "v03 · eye",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/aab9229f9a.png",
+      "thumb": "thumbs/aab9229f9a.webp",
+      "label": "v03 · inside",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/7b4de73c73.png",
+      "thumb": "thumbs/7b4de73c73.webp",
+      "label": "v03 · iso",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/95aaec6529.png",
+      "thumb": "thumbs/95aaec6529.webp",
+      "label": "v03 · top",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/981210c345.png",
+      "thumb": "thumbs/981210c345.webp",
+      "label": "v02 · 平面布局.svg",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/3231dcc9a2.png",
+      "thumb": "thumbs/3231dcc9a2.webp",
+      "label": "v02 · 纸板展位-联名台-v02",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/c79647a578.png",
+      "thumb": "thumbs/c79647a578.webp",
+      "label": "v01 · 后墙立面.svg",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/47734822fc.png",
+      "thumb": "thumbs/47734822fc.webp",
+      "label": "v01 · 平面布局.svg",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    },
+    {
+      "file": "media/690f8570cb.png",
+      "thumb": "thumbs/690f8570cb.webp",
+      "label": "v01 · 概念效果图",
+      "status": "其他版本",
+      "note": "各阶段高度与图面要求不同，保留版本边界；最新补齐说明优先。"
+    }
+  ],
+  "links": [
+    {
+      "label": "NOWRE A1 · 附件数量与待核尺寸",
+      "href": "documents/nowre-a1-basic-v01/accessories.md"
+    },
+    {
+      "label": "凡几v05 · 整合方案与商品背卡用法",
+      "href": "documents/fanji-v05-integrated/index.html"
+    },
+    {
+      "label": "凡几v04 · 保留前台修正稿",
+      "href": "documents/fanji-v04-reception/index.html"
+    },
+    {
+      "label": "凡几展位v03 · Lifestyle陈列核对表（无价格）",
+      "href": "documents/nowre-nonactivity-v03/display-checklist.csv"
+    },
+    {
+      "label": "v13 全部分面与交接参考",
+      "href": "documents/booth-3x3-v13/全部面预览.html"
+    },
+    {
+      "label": "历史 v04 · 可旋转 3D（旧高度口径）",
+      "href": "demos/booth-3x3-v04/index.html",
+      "kind": "3d"
+    },
+    {
+      "label": "双面展架 · 联名展示与减免游戏对照",
+      "href": "documents/double-sided-collab-game-v01/index.html"
+    }
+  ],
+  "milestone": {
+    "title": "凡几v05 · 整合道具与商品提示背卡",
+    "date": "2026-11-07",
+    "status": "整合要求明确 · 图稿待评审",
+    "summary": "前台保留，双面架与两面商品墙同场呈现，补上限定/热卖提示背卡。",
+    "approvalNote": "未确认本次联名货盘或真实限定/热卖SKU，标注只是用法示意；布局与生成图仍待评审。",
+    "next": "评审架体朝向、前台操作与选购通行，再用实物包装核对背卡刀版。"
+  },
+  "currentFocus": "凡几v05：把商品墙、Lifestyle全系列、前台和一座双面展架放入同一套方案，补齐限定款/热卖款异形提示背卡实际用法。前台必须保留；两张新图是展架不同朝向的摆法对照，实际场地和商品标注待确认。",
+  "progress": {
+    "updated": "2026-11-07",
+    "summary": "按用户要求把凡几展位、前台、双面架放在一起，并补齐挂在商品后面的限定款/热卖款异形背卡。v05两种朝向图与位置提案已生成，待评审。",
+    "next": [
+      {
+        "title": "评审整合布局",
+        "detail": "确定联名面或游戏面朝外，核对前台操作与选购路线；实际凡几尺寸待核实。"
+      },
+      {
+        "title": "核对背卡货品与刀版",
+        "detail": "只对确认的限定/热卖款使用；按实物包装核对孔位、轮廓、凸字与挂距，不标记活动答案。"
+      },
+      {
+        "title": "评审凡几Lifestyle全系列新图",
+        "detail": "核对陈列密度、真实款色和尺寸。图内旧Nowre标签待下一轮正式出图统一替换，不重新解释为Nowre方案。"
+      },
+      {
+        "title": "确认凡几场地条件",
+        "detail": "使用凡几活动对应资料；不套用Nowre协议的4㎡面积、日期或预设结构。"
+      }
+    ],
+    "decisions": [
+      {
+        "title": "整合放置并补商品提示背卡",
+        "detail": "用户要求各道具与展位放一起，并提供限定款原图、热卖款实拍及商品墙实拍，强调背卡挂在商品后、同挂钩并露出橙色轮廓与右上凸字。具体标注货品尚未指定。",
+        "conversation": "fa4897db"
+      },
+      {
+        "title": "凡几前台必须保留",
+        "detail": "保留原矩形前台。双面展架是独立新增道具，不能替代前台；不据此变更凡几与Nowre活动归属。",
+        "conversation": "fa4897db"
+      },
+      {
+        "title": "当前全系列展位归属凡几",
+        "detail": "用户明确：本套展位为凡几，不是Nowre。对应原v03素材和布局归凡几；Nowre活动版继续独立保留。",
+        "conversation": "7bb0a45f"
+      },
+      {
+        "title": "使用完整Lifestyle表，扩大右区陈列密度",
+        "detail": "用户指出衣服＋两包过空，要求护照夹、卡套等所有Lifestyle产品都列入展示。按最新11条资料修订，不使用旧7项汇总。",
+        "conversation": "7bb0a45f"
+      },
+      {
+        "title": "取消区域用于包袋应用展示",
+        "detail": "用户提供挂衣搭配棕色贴饰包实拍，并要求补上桃红色椭圆包；PIMPLE不恢复，活动版不被覆盖。",
+        "conversation": "7bb0a45f"
+      },
+      {
+        "title": "两个版本并行",
+        "quote": "把现在这个稿定义为活动版本的",
+        "detail": "同事两张设计稿称为无活动版，两个版本分开保留。",
+        "conversation": "7bb0a45f"
+      },
+      {
+        "title": "PIMPLE 已确认取消",
+        "quote": "要无视pimple区，因为pimple区已经确认取消了",
+        "detail": "所有后续版本都不恢复该区；同事原图为保留来源而包含它，不代表继续采用。",
+        "conversation": "7bb0a45f"
+      },
+      {
+        "title": "新增双面展架用途",
+        "detail": "用户指定新结构一面展示联名款、另一面用于谁先下班了找彩蛋减免游戏；独立道具提案，不改变凡几展位归属或既有Nowre分支。",
+        "conversation": "fa4897db"
+      }
+    ],
+    "history": [
+      {
+        "title": "2026-11-09 NOWRE A1基础款陈列演示",
+        "detail": "用户要求以A1演示产品摆放并估算附件；新增选款挂售、桌面补货、包袋示范与试贴分区。附件为预配，不考虑赔偿金额；基座配件包含范围和尺寸仍待确认。",
+        "conversation": "138009de"
+      },
+      {
+        "title": "2026-11-07 凡几v05整合与背卡用法",
+        "detail": "新增联名面朝外、游戏面朝外两种转向摆法和位置平面；均保留前台。图像可见2个商品提示背卡示意。"
+      },
+      {
+        "title": "2026-11-07 凡几v04补回前台",
+        "detail": "补回1个蓝橙矩形前台，保留两面墙、8盏灯与Lifestyle全系列；修正图待评审。"
+      },
+      {
+        "title": "2026-11-07 双面展架正反面方向图与版面",
+        "detail": "已生成并检查16挂位、单张题卡与减免流程；题卡已做缩小修正。联名货盘和优惠金额待定，图稿待评审。"
+      },
+      {
+        "title": "2026-11-07 v03已向calfnmac发起文件投递",
+        "detail": "发送两张效果图、预览页、无价格清单、版本说明与产品参考总览。传输工具报告发送完成；目标电脑收件路径、文件校验与成功打开尚未独立确认，不表示用户或接收方已接受设计。"
+      },
+      {
+        "title": "无活动版v03两张新图与陈列核对表",
+        "detail": "按真实照片确认11个条目；笔记本表内3色但仅有黄色图，不虚构其他颜色。生成稿仍待评审。"
+      },
+      {
+        "title": "2026-11-07 无活动版v02两张新图",
+        "detail": "整体和ART／包袋应用墙正面均已生成、检查内容并归档，待用户评审。"
+      },
+      {
+        "title": "21:22 无活动版效果图已补齐",
+        "detail": "按原对话交付补入整体与POP主墙正面两张生成图；“正在制作”状态结束，进入待评审。原平面稿保持不变。"
+      },
+      {
+        "title": "通用3×3原方案仍留档",
+        "detail": "v10风格、v13补齐与后续外墙校核为原通用展位历史，不被Nowre版本覆盖。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "继续活动／无活动版设计",
+        "conversation": "7bb0a45f"
+      },
+      {
+        "label": "双面联名展示与减免游戏道具",
+        "conversation": "fa4897db"
+      },
+      {
+        "label": "凡几前台保留修正",
+        "conversation": "fa4897db"
+      },
+      {
+        "label": "凡几整合道具与商品背卡用法",
+        "conversation": "fa4897db"
+      }
+    ]
+  },
+  "galleryLabel": "凡几整合稿、双面道具与历史版本",
+  "sync": {
+    "checkedAt": "2026-11-07",
+    "sourceConversation": "7bb0a45f",
+    "status": "凡几项目归属已更正，Nowre活动版独立保留"
+  }
+}
