@@ -2,15 +2,29 @@
   "id": "booth-3x3",
   "title": "MLBB 3×3展位",
   "en": "03 / MLBB 3×3 BOOTH",
-  "description": "MLBB泰国3×3：A3钻石贴票互动，Switch 2／游戏保护包／耳机应用场景；保留椭圆识别与MLBB主题。",
+  "description": "MLBB泰国3×3：POPSTICKER英文品牌标识、A3钻石贴票与电竞应用；保留椭圆识别和MLBB专区。",
   "conversation": "d1139134",
-  "note": "本轮用户指定A3板与钻石贴票，替代A4人工计票提案；500枚为拟定首批，未下单印制。原产品轮廓与主品牌识别保留，场景生成图不作为准确轮廓／小字或施工证明。Switch 2以官方尺寸拟合，保护包尺寸待实物核对。v11两面外背墙保持备选，v10单面文字外背板仍为用户否决，不恢复推荐。 Layla正式商品正面以11月12日新确认原图为准；空间图只作应用和摆位示意，不作为SKU主图。",
+  "note": "海外展位品牌排字统一POPSTICKER；历史源图仅保留追溯。本轮用户指定A3板与钻石贴票，替代A4人工计票提案；500枚为拟定首批，未下单印制。原产品轮廓与主品牌识别保留，场景生成图不作为准确轮廓／小字或施工证明。Switch 2以官方尺寸拟合，保护包尺寸待实物核对。v11两面外背墙保持备选，v10单面文字外背板仍为用户否决，不恢复推荐。 Layla正式商品正面以11月12日新确认原图为准；空间图只作应用和摆位示意，不作为SKU主图。",
   "items": [
+    {
+      "file": "documents/mlbb-booth-v13-20261112/01-booth-render.png",
+      "thumb": "documents/mlbb-booth-v13-20261112/01-booth-render-thumb.webp",
+      "label": "11.12 · v13 · POPSTICKER英文标识展位",
+      "status": "已生成 · 待评审",
+      "note": "大椭圆和陈列板中文品牌改英文；电竞道具、MLBB专区与A3钻石贴票保留。空间图用于视觉关系，精确排字与轮廓以平面源文件为准。"
+    },
+    {
+      "file": "documents/mlbb-booth-v13-20261112/D-wall-A-oval.png",
+      "thumb": "documents/mlbb-booth-v13-20261112/D-wall-A-oval-thumb.webp",
+      "label": "v13 · 英文椭圆品牌外墙平面",
+      "status": "备选 · 未选定",
+      "note": "沿用原标准轮廓蒙版，只改英文品牌文字；其余外墙主题面见本版审阅页。"
+    },
     {
       "file": "documents/mlbb-booth-v12-20261112/01-booth-render.png",
       "thumb": "documents/mlbb-booth-v12-20261112/01-booth-render-thumb.webp",
       "label": "11.12 · v12 · 电竞应用与A3钻石贴票摆位",
-      "status": "已生成 · 待评审",
+      "status": "上一版 · 中文品牌标识已由v13替代",
       "note": "中央椭圆与商品结构保留；道具及两侧应用海报转向Switch 2／保护包／耳机。空间生成图仅看关系，精确商品轮廓与文案以原资产平面为准。"
     },
     {
@@ -254,6 +268,11 @@
   ],
   "links": [
     {
+      "label": "v13 · POPSTICKER英文标识／外墙平面",
+      "href": "documents/mlbb-booth-v13-20261112/index.html",
+      "kind": "document"
+    },
+    {
       "label": "v12 · A3钻石贴票／电竞应用场景",
       "href": "documents/mlbb-booth-v12-20261112/index.html",
       "kind": "document"
@@ -314,7 +333,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "v12：A3横版实体贴票＋16×13mm钻石不干胶，拟首批500枚；应用道具与两侧海报转电竞。v11外背墙仍为备选未选定。",
+  "currentFocus": "v13：展位中文品牌统一改为POPSTICKER；延续v12电竞应用与A3贴票。外墙备选仍未选定。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
@@ -325,12 +344,12 @@
   ],
   "galleryLabel": "MLBB当前图稿与历次版本",
   "milestone": {
-    "title": "v12 · 钻石贴票与电竞应用",
+    "title": "v13 · 海外英文品牌标识",
     "date": "2026-11-12",
-    "status": "需求已明确 · 图稿已生成待评审",
-    "summary": "用户指定A3投票板与钻石造型小不干胶，亲手贴票；部分手机改Switch 2、黄色女装包改游戏保护包，应用场景偏电竞。",
-    "approvalNote": "A3与贴票／电竞方向为本轮用户要求；图稿未选定，拟500枚未等同采购或已制造。",
-    "next": "核对印材、数量、刀线和试切；现场核对A3底座、台面与道具尺寸。"
+    "status": "已生成待评审 · 未选定",
+    "summary": "展位中文品牌改为POPSTICKER；英文品牌平面与B／C／D外墙对应页面同步更新，保留电竞与A3贴票。",
+    "approvalNote": "文字规则为用户明确要求；新效果图尚待用户评审。原SKU已确认包装不重画，外墙备选不自动选定。",
+    "next": "评审英文标识视觉比例；制作前按平面源文件校对。"
   },
   "progress": {
     "updated": "2026-11-12",
@@ -401,7 +420,7 @@
   "sync": {
     "checkedAt": "2026-11-12",
     "sourceConversation": "d1139134",
-    "status": "v12 A3钻石贴票与电竞应用图稿已生成；拟500枚未制造，活动未开放；原产品确认和外墙备选状态保留"
+    "status": "v13 POPSTICKER英文标识图稿已生成待评审；v12钻石贴票制作文件保留，外墙仍备选"
   },
   "withdrawnItems": [
     {
