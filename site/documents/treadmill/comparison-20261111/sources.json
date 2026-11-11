@@ -1,94 +1,148 @@
-[
-  {
-    "name": "绝影 · 蝉翼 XT11",
-    "tag": "窄幅家电感 / 折叠后仍有完整背面",
-    "source": "https://xenjoyfit.com/newsdetails/939.html",
-    "state": "官网明确型号；与原淘宝SKU尚未核实",
-    "points": [
-      "银灰骨架与暖橙色背板形成分区，视觉接近家居电器。",
-      "上部是细横梁、短扶手和小面板，体量集中在低位底座。",
-      "跑台抬起收纳，立柱仍然站立；竖放时背板成为主要展示面。"
-    ],
-    "imgs": [
-      [
-        "jueying-use",
-        "竖起收纳 / 背板与底座"
+{
+  "revision": "v02",
+  "date": "2026-11-11",
+  "skuStatus": "四个原淘宝链接的具体SKU仍未核实；大跑以C7-530S原厂同系列参考展示",
+  "products": [
+    {
+      "name": "绝影 · 蝉翼 XT11",
+      "shape": "银灰细框架 · 暖橙背板 · 窄幅家电感",
+      "fold": "可折叠，支持自动竖向收纳",
+      "upright": "已找到官网竖放原图。跑台抬起后形成窄幅立面，背板与低位支脚成为收纳外观。",
+      "use": [
+        "xt11-flat",
+        "展开使用 · 官网跑步场景"
       ],
-      [
-        "jueying-fold",
-        "半折状态 / 立柱与跑台关系"
-      ],
-      [
+      "detail": [
         "jueying-incline",
-        "展开与爬坡 / 详见原图"
-      ]
-    ]
-  },
-  {
-    "name": "大跑 · 同题文章参考",
-    "tag": "直线框架 / 横向面板 / 技术器材感",
-    "source": "https://post.m.smzdm.com/p/aqql0w8v/",
-    "state": "候选图，未确认同款：同题文章商品卡出现立久佳X9",
-    "points": [
-      "细长斜立柱、金属灰直线框架，零件与连接关系外露。",
-      "黑色横向面板配实体操作台，短扶手向两侧后方展开。",
-      "跑台为长矩形，侧踏板纹理与后端橙红细节加强器材感。"
-    ],
-    "imgs": [
-      [
-        "dapao-1",
-        "整机正斜视"
+        "前侧与底座 · 官网爬坡示意，非零坡度图"
       ],
-      [
-        "dapao-2",
-        "前视 / 面板与扶手"
+      "storage": [
+        "jueying-use",
+        "竖放完成态 · 保留原站立图"
       ],
-      [
-        "dapao-3",
-        "跑台与侧踏板"
-      ]
-    ]
-  },
-  {
-    "name": "迈宝赫 · DX01",
-    "tag": "大C形包覆 / 流线型 / 厚重雕塑感",
-    "source": "https://post.m.smzdm.com/p/akkme26e/",
-    "state": "文章明确DX01；资料为2022年，原淘宝SKU未核实",
-    "points": [
-      "立柱、扶手和下部包覆构成大弧形侧轮廓，辨识点是连续的大C。",
-      "侧面留出巨大镂空，宽厚外壳与黑色内面形成内外双色。",
-      "独立上置屏幕、宽大机头与厚底盘，整体更接近商用设备。"
-    ],
-    "imgs": [
-      [
-        "mbh-review-3",
-        "整机侧斜视 / 大C轮廓"
+      "points": [
+        "银灰骨架与暖橙色背板形成分区，视觉接近家居电器。",
+        "上部是细横梁、短扶手和小面板，体量集中在低位底座。",
+        "跑台抬起收纳，立柱仍然站立；竖放时背板成为主要展示面。"
       ],
-      [
-        "dx01-product",
-        "使用状态 / 控制台与宽机身"
+      "sources": [
+        [
+          "绝影官网 · XT11首发与折叠说明",
+          "https://xenjoyfit.com/newsdetails/939.html"
+        ]
       ]
-    ]
-  },
-  {
-    "name": "迈宝赫 · ST01",
-    "tag": "双弧立柱 / 红黑双色 / 爬坡姿态",
-    "source": "https://www.mbhfit.com/product-household/detail/2724",
-    "state": "官网明确ST01；用户标题仅写ST，与原SKU未核实",
-    "points": [
-      "两条大弧立柱从低位轴座弯向顶部，红黑配色强化两侧曲线。",
-      "顶部控制区轻薄，手机支架单独抬高，前方没有厚重的大屏台。",
-      "跑台抬升时，下部支架、横撑与圆形轴盖共同形成结构识别。"
-    ],
-    "imgs": [
-      [
+    },
+    {
+      "name": "大跑 · C7-530S参考",
+      "shape": "粗金属立柱 · 横向黑面板 · 直线力量感",
+      "fold": "可折叠，原厂页面明确 Foldable: Yes",
+      "upright": "属于跑台后端上翻式收纳：立柱、面板保持站立，跑台斜立在两立柱之间，底座仍有进深。已找到对应原厂渲染图。",
+      "use": [
+        "dapao-render-front",
+        "展开平放 · 浙江大跑展会渲染图"
+      ],
+      "detail": [
+        "dapao-render-side",
+        "展开侧视 · 展会资料同款渲染"
+      ],
+      "storage": [
+        "dapao-fold-explained",
+        "跑台上翻完成态 · 原厂液压折叠示意"
+      ],
+      "extra": [
+        "dapao-folded",
+        "原厂四视图 · 右下为收纳形态"
+      ],
+      "points": [
+        "粗银灰立柱向后倾斜，根部转成低位横梁，轮廓比上一版实拍更完整。",
+        "横向黑色显示区与宽控制台，短扶手向后展开。",
+        "折叠后仍保留高立柱与向前伸出的低位底座，收纳轮廓较厚。"
+      ],
+      "sources": [
+        [
+          "浙江大跑 · IWF C7-530S展品资料",
+          "https://www.ciwf.com.cn/show-1311-80525.html"
+        ],
+        [
+          "浙江大跑原厂 · C7-530S参数和折叠图库",
+          "https://www.alibaba.com/product-detail/DAPOW-2024-Factory-treadmill-foldable-for_11000017035253.html"
+        ]
+      ]
+    },
+    {
+      "name": "迈宝赫 · DX01",
+      "shape": "连续大C外壳 · 大面积镂空 · 厚重雕塑感",
+      "fold": "不可折叠，商品参数明确标为 Non",
+      "upright": "不提供折叠或竖放状态。它保留完整的大C侧框与底盘；搬运倾斜不能作为收纳功能。",
+      "use": [
+        "dx01-clean-white",
+        "平放整机 · 无促销文案白底图"
+      ],
+      "detail": [
+        "dx01-clean-angle",
+        "平放斜视 · 无促销文案场景图"
+      ],
+      "storage": null,
+      "points": [
+        "立柱、扶手和下部包覆构成大弧形侧轮廓，辨识点是连续的大C。",
+        "侧面留出巨大镂空，宽厚外壳与黑色内面形成内外双色。",
+        "独立上置屏幕、宽大机头与厚底盘，整体更接近商用设备。"
+      ],
+      "sources": [
+        [
+          "DX01商品属性 · Est-Ce Pliable ? / Non",
+          "https://www.ebuy7.com/fr/maybaohe-dx01-home-treadmill-for-gym-indoor-fitness-smart-commercial-wide-running-belt-treadmill.html"
+        ],
+        [
+          "DX01图源 · 搜索索引原图",
+          "https://goods.taobao.com/t/paobuji_9960/e74da4bd5f83a065b90ba504cb5289f4.html"
+        ]
+      ]
+    },
+    {
+      "name": "迈宝赫 · ST01",
+      "shape": "双弧立柱 · 红黑/银黑双色 · 跑步与登山姿态",
+      "fold": "可折叠，厂家给出折后1580×800×600 mm",
+      "upright": "竖放仍未核实。已找到平放原图与折叠尺寸，但未找到能明确展示同款折后竖放的图。厂家另一页出现1520×775×360 mm等冲突数据，未据此确认薄片竖放。",
+      "use": [
+        "st01-flat-front",
+        "平地使用 · 厂家白色款渲染"
+      ],
+      "detail": [
+        "st01-flat",
+        "平地侧视 · 厂家同系列使用场景"
+      ],
+      "storage": null,
+      "extra": [
         "st-official",
-        "官网整机图 / 弧形立柱与爬坡"
+        "爬坡状态 · 官网原图，不作为折叠图"
       ],
-      [
-        "st-listing",
-        "第三方白底图 / 同轮廓补充"
+      "points": [
+        "两条大弧立柱从低位轴座弯向顶部，红黑配色强化两侧曲线。",
+        "顶部控制区轻薄，手机支架单独抬高，前方没有厚重的大屏台。",
+        "跑台抬升时，下部支架、横撑与圆形轴盖共同形成结构识别。"
+      ],
+      "sources": [
+        [
+          "迈宝赫官网 · ST01外观",
+          "https://www.mbhfit.com/product-household/detail/2724"
+        ],
+        [
+          "山东迈宝赫供应商页 · ST01折后尺寸",
+          "https://mbhfitness.en.made-in-china.com/product/cBHQNZRdkOpr/China-St01-Home-Fitness-Treadmill-Sports-Exercise-Running-Machine.html"
+        ]
       ]
-    ]
+    }
+  ],
+  "newImageSources": {
+    "xt11-flat": "https://xenjoyfit.com/Public/kindeditor/attached/image/20250124/20250124102530_88090.jpg",
+    "dapao-render-front": "https://dncrm.oss-cn-hangzhou.aliyuncs.com/20240125/1706148909503_962*646.png",
+    "dapao-render-side": "https://dncrm.oss-cn-hangzhou.aliyuncs.com/20240125/1706148880860_867*651.png",
+    "dapao-fold-explained": "https://sc04.alicdn.com/kf/H6e53ebea11094b22a77897fe216c5bc3f.jpg",
+    "dapao-folded": "https://sc04.alicdn.com/kf/Hd58763d8b74e4035a579bc26c2a634394.jpg",
+    "dx01-clean-white": "https://img.alicdn.com/imgextra/i3/2487049244/O1CN01BMAogI2I9oByVfHxM_!!2487049244.jpg",
+    "dx01-clean-angle": "https://img.alicdn.com/imgextra/i1/2487049244/O1CN01TfZ7Bf2I9oBy9RUKK_!!2487049244.jpg",
+    "st01-flat": "https://image.made-in-china.com/2f0j00juHUTQZCmtrf/St01-Home-Fitness-Treadmill-Sports-Exercise-Running-Machine.webp",
+    "st01-flat-front": "https://image.made-in-china.com/2f0j00cpkfJgYyvauG/New-Type-Cost-Effective-Home-Gym-Cardio-Treadmill-Foldable-St01-01A.webp"
   }
-]
+}
