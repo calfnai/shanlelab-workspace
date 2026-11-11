@@ -2,24 +2,24 @@
   "id": "nowre",
   "title": "NOWRE · B1独立场地",
   "en": "06B / NOWRE B1",
-  "description": "两种并行的啵啵贴B1方案：Option 1整面35位，用户已保留；Option 2左右双塔36位，中间试贴，新增待评审。",
+  "description": "双塔Option 2已否决；Option 1保留候选但缺少应用展示。重新核实可带道具，安排30张以上选款及包、行李箱、耳机、帽子的啵啵贴应用。",
   "conversation": "138009de",
   "conversationName": "NOWRE B1独立场地与陈列",
-  "note": "两方案并存，不以新图替换用户保留的Option 1。均保留B1原结构与柜体、不带ART；展示量与柜内备货分开。尚未最终选定、采购、安装或验收。",
+  "note": "只依据B1手册安排场地；不带ART，保留POP实物应用示范。新效果图尚未完成，道具可用数量待核实。",
   "items": [
     {
       "file": "documents/nowre-b1-render-v03/overall.png",
       "thumb": "documents/nowre-b1-render-v03/overall.webp",
       "label": "Option 1 · 整面35位选款",
-      "status": "用户保留的候选 · 非最终选定",
-      "note": "按CTE/MLBB的大选款面逻辑重新适配B1：柜面自立架7列×5行共35位，右侧试贴；ART STICKER全部排除。35是主架正面展示量，不是已确认SKU数或总库存。柜内补货另算。侧牌文字为生成占位，商品图案/品牌轮廓/尺寸/承载以原资产与实物为准。 用户2026-11-12明确保留为其中一个option，原图未修改。"
+      "status": "用户保留候选 · 缺应用展示，需修改",
+      "note": "按CTE/MLBB的大选款面逻辑重新适配B1：柜面自立架7列×5行共35位，右侧试贴；ART STICKER全部排除。35是主架正面展示量，不是已确认SKU数或总库存。柜内补货另算。侧牌文字为生成占位，商品图案/品牌轮廓/尺寸/承载以原资产与实物为准。 用户2026-11-12明确保留为其中一个option，原图未修改。 最新反馈：缺少贴在包、行李箱、耳机、帽子上的POP实物应用示范，须补做；新架体不是已确认现有道具。"
     },
     {
       "file": "documents/nowre-b1-option2-20261112/overall.png",
       "thumb": "documents/nowre-b1-option2-20261112/overall.webp",
       "label": "Option 2 · 左右双塔36位／中央试贴",
-      "status": "新增平行提案 · 待评审",
-      "note": "左右各3列×6行18位，共36正面挂位；中间低位试贴，体验样品2件另计。独立柜面架，B1原结构保留，只带啵啵贴无ART。图像不是确认SKU、库存数量、品牌/商品源图或安装验收。"
+      "status": "用户已否决 · 虚构双塔、浪费空间",
+      "note": "双塔没有现有道具依据，空间利用不合理，缺少POP实物应用展示；仅保留历史，不再推荐。"
     },
     {
       "file": "documents/nowre-b1-render-v02/overall.png",
@@ -52,7 +52,7 @@
   ],
   "links": [
     {
-      "label": "Option 1与Option 2 · 摆法与容量对比",
+      "label": "历史已否决 · 双塔Option 2对比说明",
       "href": "documents/nowre-b1-option2-20261112/comparison.md"
     },
     {
@@ -76,31 +76,36 @@
       "href": "documents/nowre-b1-20261111/basis.md"
     }
   ],
-  "currentFocus": "比较Option 1整面集中选款与Option 2左右双塔/中央交流；两版分别35和36个正面展示位，柜内备货另算。",
-  "cancelledScope": "NOWRE不带任何ART STICKER；此前ART阶梯架、ART To_GO画面及艺术贴应用展示均停止沿用。v01/v02用户已否决，旧A1与3×3尺寸及挂钩估算也不适用。",
+  "currentFocus": "核实实际可带道具，将密集选款、POP实物应用、取货空间和柜内备货一起规划。",
+  "cancelledScope": "NOWRE不带任何ART STICKER；此前ART阶梯架、ART To_GO画面及艺术贴应用展示均停止沿用。v01/v02用户已否决，旧A1与3×3尺寸及挂钩估算也不适用。 双塔Option 2已否决，不再深化；POP应用展示必须保留。",
   "galleryLabel": "当前场地依据",
   "milestone": {
-    "title": "Option 1保留，新增Option 2比较",
+    "title": "否决双塔，补回POP应用展示",
     "date": "2026-11-12",
-    "status": "两个候选并行 · 未最终选定",
-    "summary": "Option 1整面35位；Option 2双塔18＋18＝36位，中间保留试贴交流。",
-    "approvalNote": "用户确认的是保留Option 1为候选；Option 2为新提案。两版均非商品/品牌源图或尺寸/承重/安装验收。",
-    "next": "比较主视觉、中央操作与分组选购体验，再决定继续深化哪个方案。"
+    "status": "重新规划中 · 新图未完成",
+    "summary": "Option 1保留候选但需补应用；Option 2双塔已否决。",
+    "approvalNote": "现有照片只能证明道具样式，不能证明本次可调数量。",
+    "next": "核实可带货架及应用样品后，以B1柜面和实际空间重新排布。"
   },
   "progress": {
     "updated": "2026-11-12",
-    "summary": "按用户要求把现有35位图记录为Option 1并保持原图不变，新增36位双塔/中央体验Option 2。",
+    "summary": "双塔Option 2已否决；Option 1保留候选但缺少应用展示。重新核实可带道具，安排30张以上选款及包、行李箱、耳机、帽子的啵啵贴应用。",
     "next": [
       {
-        "title": "比较两个候选",
-        "detail": "Option 1集中整面选款；Option 2分组选款、中央试贴。两者均保持无ART和30张以上展示规模。"
+        "title": "核实实际可带道具",
+        "detail": "确认现成货架/纸架数量，以及包、行李箱、耳机、帽子的应用样品。"
       },
       {
-        "title": "实物复核",
-        "detail": "确定深化方向后再核包装外廓、道具脚座、柜内净空间、载荷及开启净空。"
+        "title": "重排选款与应用",
+        "detail": "保持30张以上展示目标，应用样品与商品紧邻，取货空间及柜门操作需核实；柜内备货另计。"
       }
     ],
     "decisions": [
+      {
+        "title": "双塔否决，恢复POP应用展示",
+        "detail": "无实物依据的双塔浪费空间；包、行李箱、耳机、帽子等应用是必要功能，不带ART不得误解为取消应用。Option 1保留但需补应用。",
+        "conversation": "138009de"
+      },
       {
         "title": "保留Option 1并新增另一个option",
         "detail": "用户要求现有图作为其中一个option，再做另一个。保留候选不等于最终选择；不得覆盖Option 1。",
@@ -123,6 +128,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-12 双塔Option 2已否决",
+        "detail": "原图保留历史，不再作为当前推荐；重新核实可带道具，新图未完成。"
+      },
       {
         "title": "2026-11-12 新增Option 2",
         "detail": "双塔左右各18位，图像逐行核对各6行×3张；中央体验2件另计，Option 1原图SHA256核对未改。"
