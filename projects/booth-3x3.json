@@ -2,10 +2,31 @@
   "id": "booth-3x3",
   "title": "MLBB 3×3展位",
   "en": "03 / MLBB 3×3 BOOTH",
-  "description": "MLBB泰国3×3展位：右墙统一标题与三个Logo；MCT总量稀缺、Layla钻石机会、橙绿下一款投票。",
+  "description": "MLBB泰国3×3展位：两张A1海报保持；投票缩为中岛A4小台牌，外背板暂拟品牌方向。",
   "conversation": "d1139134",
-  "note": "主墙与结构沿用v08；本轮更新两张A1海报及独立A2投票板。背景为生成式视觉，产品、Logo和轮廓沿用原资产；审阅稿，未送印、未开放投票。商品实测尺寸与印前打样仍待核对。",
+  "note": "主墙与结构沿用v08；本轮更新两张A1海报及独立A2投票板。背景为生成式视觉，产品、Logo和轮廓沿用原资产；审阅稿，未送印、未开放投票。商品实测尺寸与印前打样仍待核对。 11月12日v10：A2投票板不采用；缩为A4横版297×210mm，拟310×150mm底座，放中岛右前角朝向观众。改为工作人员计票，牌面显示累计数。外背板所指尚待澄清，暂拟图不作为确认设计。",
   "items": [
+    {
+      "file": "documents/mlbb-booth-v10-20261112/01-booth-render.png",
+      "thumb": "documents/mlbb-booth-v10-20261112/01-booth-render-thumb.webp",
+      "label": "11.12 · v10 · A4台牌实际摆位方向",
+      "status": "已生成 · 待评审",
+      "note": "台牌仅中岛右前角一处，不落地；v09两张A1海报更新入场景。空间生成图不作为精确轮廓与施工证明。"
+    },
+    {
+      "file": "documents/mlbb-booth-v10-20261112/04-vote-placement.png",
+      "thumb": "documents/mlbb-booth-v10-20261112/04-vote-placement-thumb.webp",
+      "label": "11.12 · A4台牌占地与位置",
+      "status": "已生成 · 待评审",
+      "note": "画面297×210mm，含底座拟310×150mm，内收约50mm；中岛轮廓示意，实际长宽与空位需实测。"
+    },
+    {
+      "file": "documents/mlbb-booth-v10-20261112/06-exterior-back-render.png",
+      "thumb": "documents/mlbb-booth-v10-20261112/06-exterior-back-render-thumb.webp",
+      "label": "11.12 · 外背板方向 · 所指待确认",
+      "status": "已生成 · 待评审",
+      "note": "暂把“摊位背面”理解为墙体朝外的背板。蓝橙原Logo方向稿，未确认、不改变内部主形象墙。"
+    },
     {
       "file": "documents/mlbb-booth-v09-20261112/07-poster-review-pair.jpg",
       "thumb": "documents/mlbb-booth-v09-20261112/07-poster-review-pair-thumb.webp",
@@ -17,8 +38,8 @@
       "file": "documents/mlbb-booth-v09-20261112/05-vote-next-420x594mm.png",
       "thumb": "documents/mlbb-booth-v09-20261112/05-vote-next-420x594mm-thumb.webp",
       "label": "11.12 · 下一款由你决定 · A2投票板",
-      "status": "已生成 · 待评审",
-      "note": "橙色A／绿色B；每人一票为执行提案，最高票款下一款推出；未开票、未公布结果。"
+      "status": "尺寸不采用 · v10缩为A4",
+      "note": "橙色A／绿色B；每人一票为执行提案，最高票款下一款推出；未开票、未公布结果。 用户指出过大；原A2不采用，改A4横版中岛台牌与工作人员计票。"
     },
     {
       "file": "documents/mlbb-booth-v09-20261112/02-right-wall-elevation.png",
@@ -170,6 +191,16 @@
   ],
   "links": [
     {
+      "label": "11.12 · v10 · A4中岛台牌／暂拟外背板",
+      "href": "documents/mlbb-booth-v10-20261112/index.html",
+      "kind": "document"
+    },
+    {
+      "label": "A4投票牌 PDF · 297×210mm · 审阅稿",
+      "href": "documents/mlbb-booth-v10-20261112/03-vote-tabletop-A4-297x210mm.pdf",
+      "kind": "document"
+    },
+    {
       "label": "11.12 · v09 · 总限量／钻石机会／下一款投票",
       "href": "documents/mlbb-booth-v09-20261112/index.html",
       "kind": "document"
@@ -205,7 +236,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "v09：MCT以整场总版800套为核心，50套/天降为次级；Layla放大601钻机会和兑奖流程，橙绿款作为upcoming候选，最高票款下一款推出。",
+  "currentFocus": "A2投票板不采用；缩为A4横版297×210mm，拟310×150mm底座，放中岛右前角朝向观众。改为工作人员计票，牌面显示累计数。“背面”暂按外背板出方向图，所指待确认。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。"
@@ -215,27 +246,32 @@
   ],
   "galleryLabel": "MLBB当前图稿与历次版本",
   "milestone": {
-    "title": "v09 · 总限量／钻石机会／下一款投票",
+    "title": "v10 · 投票缩A4与中岛摆位",
     "date": "2026-11-12",
-    "status": "需求已明确 · 海报与活动待评审",
-    "summary": "v09：MCT以整场总版800套为核心，50套/天降为次级；Layla放大601钻机会和兑奖流程，橙绿款作为upcoming候选，最高票款下一款推出。",
-    "approvalNote": "新海报与活动执行提案不等于用户选定、已开放投票或已送印。",
-    "next": "核对活动起止、计票与结果公布；海报审阅与印前打样。"
+    "status": "已生成 · 待评审",
+    "summary": "A2投票板不采用；缩为A4横版297×210mm，拟310×150mm底座，放中岛右前角朝向观众。改为工作人员计票，牌面显示累计数。",
+    "approvalNote": "外背板为所指未澄清的暂拟方向；A4与底座亦为提案，不作为用户已选定或施工批准。",
+    "next": "确认“背面”所指、A4台牌摆位与投票起止；现场复核台面和底座。"
   },
   "progress": {
     "updated": "2026-11-12",
-    "summary": "v09：MCT以整场总版800套为核心，50套/天降为次级；Layla放大601钻机会和兑奖流程，橙绿款作为upcoming候选，最高票款下一款推出。",
+    "summary": "A2投票板不采用；缩为A4横版297×210mm，拟310×150mm底座，放中岛右前角朝向观众。改为工作人员计票，牌面显示累计数。“背面”暂按外背板出方向图，所指待确认。",
     "next": [
       {
-        "title": "审阅新海报及投票执行",
-        "detail": "确认投票起止和统计、公示安排；当前未开票、无结果，未送印。"
+        "title": "核对A4台牌与中岛",
+        "detail": "310×150mm底座为拟定占地，现场测台面；人工计票和累计数字更新。"
       },
       {
-        "title": "保持终稿与品牌轮廓",
-        "detail": "原确认产品图和轮廓不重绘，候选橙绿稿仅预热。"
+        "title": "澄清背面所指与活动执行",
+        "detail": "暂拟为墙体朝外背板；图稿、活动起止和计票安排尚待评审。"
       }
     ],
     "decisions": [
+      {
+        "title": "11.12 · 投票板过大，缩小并落实位置",
+        "detail": "A2投票板不采用；缩为A4横版297×210mm，拟310×150mm底座，放中岛右前角朝向观众。改为工作人员计票，牌面显示累计数。A3亦未采用，当前提案为A4。外背板图为暂定理解。",
+        "conversation": "d1139134"
+      },
       {
         "title": "11.12 · 总量稀缺与投票预热",
         "detail": "v09：MCT以整场总版800套为核心，50套/天降为次级；Layla放大601钻机会和兑奖流程，橙绿款作为upcoming候选，最高票款下一款推出。",
@@ -276,6 +312,6 @@
   "sync": {
     "checkedAt": "2026-11-12",
     "sourceConversation": "d1139134",
-    "status": "v09已生成待评审；活动为提案未开放；原产品确认与审批状态保留"
+    "status": "A2尺寸不采用；v10 A4摆位已生成待评审；背面图为暂拟方向"
   }
 }
