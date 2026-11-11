@@ -1,0 +1,51 @@
+{
+  "wall_mm": [
+    2800,
+    2200
+  ],
+  "rear_wall_mm": [
+    2700,
+    2200
+  ],
+  "partner_bay_width_mm": 1200,
+  "sticker_bay_width_mm": 1600,
+  "right_wall_storage_height_mm": 700,
+  "rear_wall_storage_height_mm": 500,
+  "partner_display_surfaces_from_floor_mm": [
+    700,
+    1100,
+    1500
+  ],
+  "separate_shelf_top_heights_mm": [
+    1100,
+    1500
+  ],
+  "separate_shelf_count": 2,
+  "lowest_display_surface": "cabinet top; no extra shelf",
+  "sticker_order": [
+    "Layla",
+    "MCT"
+  ],
+  "hanging_positions_per_product": 16,
+  "hanging_grid_each": [
+    4,
+    4
+  ],
+  "pack_envelope_proposal_mm": [
+    145,
+    105
+  ],
+  "horizontal_gap_proposal_mm": 45,
+  "vertical_gap_proposal_mm": 45,
+  "retail": {
+    "Layla_thb": 150,
+    "chance_diamonds": 601
+  },
+  "gift": {
+    "booth_daily": 50,
+    "organizer_daily": 50,
+    "total": 800
+  },
+  "partner_product_dimensions": "not provided; user image is reference only",
+  "status": "dimensioned proposal; not production approval"
+}

@@ -2,10 +2,24 @@
   "id": "booth-3x3",
   "title": "MLBB 3×3展位",
   "en": "03 / MLBB 3×3 BOOTH",
-  "description": "当前3×3方案统一用于MLBB泰国站：啵啵贴主墙＋整面MLBB专区；以最新v06层板高度与商品尺度稿接续。",
+  "description": "当前3×3仅用于MLBB泰国站：啵啵贴主墙＋整面MLBB专区；右墙700 mm地柜兼最低陈列层，采用用户草图的上说明下挂货。",
   "conversation": "d1139134",
-  "note": "2026-11-11用户确认：现在3×3只有MLBB。原MLBB赛事展位条目合并到此入口，沿用MLBB原对话与最新图稿。凡几、Nowre及通用旧稿保留在独立历史页，不混作当前MLBB方案。 11月11日v06：降低并校正合作方层板与商品尺度。三层层板面高度700/1100/1500 mm，商品按约200 mm高示意；MCT/Layla展示及说明沿用。正立面为尺寸提案，生成空间图不作为精确尺寸或轮廓证明。",
+  "note": "原MLBB赛事展位已合并到本3×3入口，保留MLBB原对话。11月11日v07按用户草图修订：右墙地柜700 mm直接陈列合作方商品，上方仅两块横板；正立面用终稿原资产完整核对32挂位。柜体深度/承载、包装实尺寸与生成图精确轮廓仍须深化，未作为生产成品。",
   "items": [
+    {
+      "file": "documents/mlbb-booth-v07-20261111/02-mlbb-wall-elevation.png",
+      "thumb": "documents/mlbb-booth-v07-20261111/elevation-thumb.webp",
+      "label": "11.11 · v07 · 70cm柜顶＋两层板／上说明下挂货",
+      "status": "已生成 · 待评审",
+      "note": "按用户草图，Layla左、MCT右，各4×4共32挂位；右墙700mm柜顶直接陈列，横板只留1100/1500mm。商品原资产等比缩放，尺寸和实际挂钩须复核。"
+    },
+    {
+      "file": "documents/mlbb-booth-v07-20261111/01-booth-render.png",
+      "thumb": "documents/mlbb-booth-v07-20261111/render-thumb.webp",
+      "label": "11.11 · v07 · 提高地柜后的空间参考",
+      "status": "空间参考 · 以原资产正立面核对",
+      "note": "根据用户草图及紫色CHIBI HEROES盒装参考修订。生成稿不作为精确尺寸、完整挂位或品牌统一轮廓的生产证明。"
+    },
     {
       "file": "documents/mlbb-booth-v06-20261111/02-mlbb-wall-elevation.png",
       "thumb": "documents/mlbb-booth-v06-20261111/elevation-thumb.webp",
@@ -107,6 +121,11 @@
   ],
   "links": [
     {
+      "label": "查看v07 · 柜顶陈列与说明/挂货",
+      "href": "documents/mlbb-booth-v07-20261111/index.html",
+      "kind": "document"
+    },
+    {
       "label": "查看v06 · 层板高度与商品尺度",
       "href": "documents/mlbb-booth-v06-20261111/index.html",
       "kind": "document"
@@ -127,9 +146,10 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "当前3×3仅用于MLBB；继续以v06合作方层板70/110/150 cm和商品尺度稿推进。保留啵啵贴主墙与整面MLBB专区，撤下ArtSticker；商品尺寸、包装轮廓及场地条件仍须核对。",
+  "currentFocus": "v07：右墙地柜升700 mm，取消独立700 mm层板，仅保留1100/1500 mm两层；Layla左、MCT右，上方说明、下方各4×4挂货。",
   "cancelledScope": [
-    "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。"
+    "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
+    "右墙独立700 mm层板取消，由700 mm地柜顶替代。"
   ],
   "aliases": [
     "mlbb-booth"

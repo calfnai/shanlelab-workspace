@@ -1,0 +1,290 @@
+[
+  {
+    "product": "Layla",
+    "row": 1,
+    "column": 1,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 1,
+    "column": 2,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 1,
+    "column": 3,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 1,
+    "column": 4,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 2,
+    "column": 1,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 2,
+    "column": 2,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 2,
+    "column": 3,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 2,
+    "column": 4,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 3,
+    "column": 1,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 3,
+    "column": 2,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 3,
+    "column": 3,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 3,
+    "column": 4,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 4,
+    "column": 1,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 4,
+    "column": 2,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 4,
+    "column": 3,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "Layla",
+    "row": 4,
+    "column": 4,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 1,
+    "column": 1,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 1,
+    "column": 2,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 1,
+    "column": 3,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 1,
+    "column": 4,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 2,
+    "column": 1,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 2,
+    "column": 2,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 2,
+    "column": 3,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 2,
+    "column": 4,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 3,
+    "column": 1,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 3,
+    "column": 2,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 3,
+    "column": 3,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 3,
+    "column": 4,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 4,
+    "column": 1,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 4,
+    "column": 2,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 4,
+    "column": 3,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  },
+  {
+    "product": "MCT",
+    "row": 4,
+    "column": 4,
+    "physical_envelope_proposal_mm": [
+      145,
+      105
+    ]
+  }
+]
