@@ -2,10 +2,45 @@
   "id": "booth-3x3",
   "title": "MLBB 3×3展位",
   "en": "03 / MLBB 3×3 BOOTH",
-  "description": "MLBB泰国3×3展位：两张A1海报保持；投票缩为中岛A4小台牌，外背板暂拟品牌方向。",
+  "description": "MLBB泰国3×3：外背墙成对比较，保留椭圆视觉锤并留一面给MLBB；v10单面文字外背板已否决。",
   "conversation": "d1139134",
-  "note": "主墙与结构沿用v08；本轮更新两张A1海报及独立A2投票板。背景为生成式视觉，产品、Logo和轮廓沿用原资产；审阅稿，未送印、未开放投票。商品实测尺寸与印前打样仍待核对。 11月12日v10：A2投票板不采用；缩为A4横版297×210mm，拟310×150mm底座，放中岛右前角朝向观众。改为工作人员计票，牌面显示累计数。外背板所指尚待澄清，暂拟图不作为确认设计。",
+  "note": "用户已明确要两面外背墙、椭圆品牌视觉锤及独立MLBB主题面。v10单面文字外背板已否决并撤出图库推荐；内部主墙、陈列与A4投票摆位不由本次重做。红包与银灰包具旧原稿已找回，银色耳机确切原稿尚未定位。新平面采用用户标准轮廓蒙版及原产品资产，空间生成图不作为印刷与施工证明。",
   "items": [
+    {
+      "file": "documents/mlbb-booth-v11-20261112/01-three-new-paired-options.jpg",
+      "thumb": "documents/mlbb-booth-v11-20261112/01-three-new-paired-options-thumb.webp",
+      "label": "11.12 · v11 · 三组完整双面新搭配",
+      "status": "备选 · 未选定",
+      "note": "B红包＋MCT、C银灰应用＋Layla、D大椭圆＋MLBB双主题；新组合均保留椭圆视觉锤及独立MLBB面。"
+    },
+    {
+      "file": "documents/mlbb-booth-v11-20261112/A-historical-applications.png",
+      "thumb": "documents/mlbb-booth-v11-20261112/A-historical-applications-thumb.webp",
+      "label": "旧稿找回 · 红色大包／银灰应用双外墙",
+      "status": "备选 · 未选定",
+      "note": "2026-10-28 v15原稿；银灰对象为椭圆包具，银色耳机原稿尚未定位。旧稿未含MLBB，仅作为历史备选参考。"
+    },
+    {
+      "file": "documents/mlbb-booth-v11-20261112/B-exterior-corner.png",
+      "thumb": "documents/mlbb-booth-v11-20261112/B-exterior-corner-thumb.webp",
+      "label": "11.12 · B · 红色大包＋MCT外转角",
+      "status": "备选 · 未选定",
+      "note": "两面同时可见，生成式空间方向；原图与标准轮廓以平面稿为准，未选定、未送印。"
+    },
+    {
+      "file": "documents/mlbb-booth-v11-20261112/D-exterior-corner.png",
+      "thumb": "documents/mlbb-booth-v11-20261112/D-exterior-corner-thumb.webp",
+      "label": "11.12 · D · 椭圆品牌＋MLBB外转角",
+      "status": "备选 · 未选定",
+      "note": "一面完整大椭圆，另一面完整MLBB主题。生成图不作为精确轮廓或施工证明。"
+    },
+    {
+      "file": "documents/mlbb-booth-v11-20261112/E-historical-stickers.png",
+      "thumb": "documents/mlbb-booth-v11-20261112/E-historical-stickers-thumb.webp",
+      "label": "旧稿找回 · 蓝橙双贴纸主角",
+      "status": "备选 · 未选定",
+      "note": "2026-10-28 v16原稿，作为历史视觉参考；尚未适配本场椭圆与MLBB要求。"
+    },
     {
       "file": "documents/mlbb-booth-v10-20261112/01-booth-render.png",
       "thumb": "documents/mlbb-booth-v10-20261112/01-booth-render-thumb.webp",
@@ -19,13 +54,6 @@
       "label": "11.12 · A4台牌占地与位置",
       "status": "已生成 · 待评审",
       "note": "画面297×210mm，含底座拟310×150mm，内收约50mm；中岛轮廓示意，实际长宽与空位需实测。"
-    },
-    {
-      "file": "documents/mlbb-booth-v10-20261112/06-exterior-back-render.png",
-      "thumb": "documents/mlbb-booth-v10-20261112/06-exterior-back-render-thumb.webp",
-      "label": "11.12 · 外背板方向 · 所指待确认",
-      "status": "已生成 · 待评审",
-      "note": "暂把“摊位背面”理解为墙体朝外的背板。蓝橙原Logo方向稿，未确认、不改变内部主形象墙。"
     },
     {
       "file": "documents/mlbb-booth-v09-20261112/07-poster-review-pair.jpg",
@@ -191,7 +219,12 @@
   ],
   "links": [
     {
-      "label": "11.12 · v10 · A4中岛台牌／暂拟外背板",
+      "label": "v11 · 三组新双面搭配＋两组旧稿参考",
+      "href": "documents/mlbb-booth-v11-20261112/index.html",
+      "kind": "document"
+    },
+    {
+      "label": "v10 · A4摆位参考（外背板已否决）",
       "href": "documents/mlbb-booth-v10-20261112/index.html",
       "kind": "document"
     },
@@ -236,37 +269,43 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "A2投票板不采用；缩为A4横版297×210mm，拟310×150mm底座，放中岛右前角朝向观众。改为工作人员计票，牌面显示累计数。“背面”暂按外背板出方向图，所指待确认。",
+  "currentFocus": "v11双外墙备选：B红色大包＋MCT800，C银灰应用＋Layla601，D椭圆品牌＋MLBB双主题；旧v15/v16成对列出供比较，尚未选定。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
-    "右墙独立700 mm层板取消，由700 mm地柜顶替代。"
+    "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
+    "v10单面蓝底文字外背板被用户明确否决：缺椭圆、缺独立MLBB面、只做一面。不要恢复推荐。"
   ],
   "aliases": [
     "mlbb-booth"
   ],
   "galleryLabel": "MLBB当前图稿与历次版本",
   "milestone": {
-    "title": "v10 · 投票缩A4与中岛摆位",
+    "title": "v11 · 找回旧稿并补齐双面备选",
     "date": "2026-11-12",
-    "status": "已生成 · 待评审",
-    "summary": "A2投票板不采用；缩为A4横版297×210mm，拟310×150mm底座，放中岛右前角朝向观众。改为工作人员计票，牌面显示累计数。",
-    "approvalNote": "外背板为所指未澄清的暂拟方向；A4与底座亦为提案，不作为用户已选定或施工批准。",
-    "next": "确认“背面”所指、A4台牌摆位与投票起止；现场复核台面和底座。"
+    "status": "旧稿已找回 · 新组合待评审",
+    "summary": "v11双外墙备选：B红色大包＋MCT800，C银灰应用＋Layla601，D椭圆品牌＋MLBB双主题；旧v15/v16成对列出供比较，尚未选定。",
+    "approvalNote": "列入备选不等于用户选定。旧银灰对象为椭圆包具，不冒称耳机原稿已找回。",
+    "next": "比较B/C/D两面组合，核对所指耳机原稿；实际墙面净尺寸及印前深化另行核实。"
   },
   "progress": {
     "updated": "2026-11-12",
-    "summary": "A2投票板不采用；缩为A4横版297×210mm，拟310×150mm底座，放中岛右前角朝向观众。改为工作人员计票，牌面显示累计数。“背面”暂按外背板出方向图，所指待确认。",
+    "summary": "v11双外墙备选：B红色大包＋MCT800，C银灰应用＋Layla601，D椭圆品牌＋MLBB双主题；旧v15/v16成对列出供比较，尚未选定。",
     "next": [
       {
-        "title": "核对A4台牌与中岛",
-        "detail": "310×150mm底座为拟定占地，现场测台面；人工计票和累计数字更新。"
+        "title": "比较三组新双面方案",
+        "detail": "B红包＋MCT800、C银灰应用＋Layla601、D椭圆＋MLBB双主题；当前均未选定。"
       },
       {
-        "title": "澄清背面所指与活动执行",
-        "detail": "暂拟为墙体朝外背板；图稿、活动起止和计票安排尚待评审。"
+        "title": "核对旧耳机图与印前原稿",
+        "detail": "已检索相关日期103张生成图，现存银灰旧图为椭圆包具；耳机原稿未定位。正式图需高分辨率商品／Logo和供应商净尺寸。"
       }
     ],
     "decisions": [
+      {
+        "title": "v10外背板否决；必须成对呈现并保留椭圆与MLBB面",
+        "detail": "用户认为旧红包／银色应用特写冲击力好，要求作为备选；新稿须保留椭圆视觉锤，并分一面给MLBB。本轮找回v15/v16原稿，完成三组双面新搭配；银色耳机原稿尚未定位。",
+        "conversation": "d1139134"
+      },
       {
         "title": "11.12 · 投票板过大，缩小并落实位置",
         "detail": "A2投票板不采用；缩为A4横版297×210mm，拟310×150mm底座，放中岛右前角朝向观众。改为工作人员计票，牌面显示累计数。A3亦未采用，当前提案为A4。外背板图为暂定理解。",
@@ -312,6 +351,15 @@
   "sync": {
     "checkedAt": "2026-11-12",
     "sourceConversation": "d1139134",
-    "status": "A2尺寸不采用；v10 A4摆位已生成待评审；背面图为暂拟方向"
-  }
+    "status": "v10外背板已否决撤回推荐；v11三组双面新方案及两组历史参考已生成／找回，未选定"
+  },
+  "withdrawnItems": [
+    {
+      "file": "documents/mlbb-booth-v10-20261112/06-exterior-back-render.png",
+      "thumb": "documents/mlbb-booth-v10-20261112/06-exterior-back-render-thumb.webp",
+      "label": "11.12 · 外背板方向 · 所指待确认",
+      "status": "用户否决 · 撤出推荐",
+      "note": "用户明确最不喜欢此稿：缺少椭圆视觉锤、没有独立MLBB主题面、只做一面。保留追溯，不列为备选。"
+    }
+  ]
 }
