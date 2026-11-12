@@ -2,12 +2,33 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "撤回此前三款完整交付声明：曜影恢复全部源网格；凌序、灵伴精细模型仍未完成。",
+  "description": "曜影新增上轴按钮耦合/解耦交互提议；源装配全部保留，内部参数与工程可行性待评审。凌序、灵伴精细模型仍未完成。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
-  "currentFocus": "逐件核对曜影源装配，定位凌序与灵伴专用STEP；四态、家中效果、底面美化与半透明仍需按足够细节重新交付。",
+  "currentFocus": "评审曜影按钮轴向解耦、扶手手动翻转与复位接合；继续核验承载、按压力、装配与下轴锁止。",
   "items": [
+    {
+      "file": "documents/treadmill/yaoying-button-20261112/coupled.webp",
+      "thumb": "documents/treadmill/yaoying-button-20261112/coupled.webp",
+      "label": "曜影上轴按钮 · 按钮复位 · 齿盘耦合",
+      "status": "概念演示已生成 · 待用户评审",
+      "note": "按钮/推杆/端面齿盘/导向架/复位弹簧为新增提议。120齿、3°齿距、6mm行程为演示参数，未作工程验证。原曜影全部120项源装配保留，下轴未联动。"
+    },
+    {
+      "file": "documents/treadmill/yaoying-button-20261112/decoupled.webp",
+      "thumb": "documents/treadmill/yaoying-button-20261112/decoupled.webp",
+      "label": "曜影上轴按钮 · 按下按钮 · 手动翻转",
+      "status": "概念演示已生成 · 待用户评审",
+      "note": "按钮/推杆/端面齿盘/导向架/复位弹簧为新增提议。120齿、3°齿距、6mm行程为演示参数，未作工程验证。原曜影全部120项源装配保留，下轴未联动。"
+    },
+    {
+      "file": "documents/treadmill/yaoying-button-20261112/pending.webp",
+      "thumb": "documents/treadmill/yaoying-button-20261112/pending.webp",
+      "label": "曜影上轴按钮 · 松开未对齿 · 待接合",
+      "status": "概念演示已生成 · 待用户评审",
+      "note": "按钮/推杆/端面齿盘/导向架/复位弹簧为新增提议。120齿、3°齿距、6mm行程为演示参数，未作工程验证。原曜影全部120项源装配保留，下轴未联动。"
+    },
     {
       "file": "documents/treadmill/source-detail-20261112/normal.webp",
       "thumb": "documents/treadmill/source-detail-20261112/normal.webp",
@@ -242,6 +263,11 @@
   ],
   "links": [
     {
+      "label": "曜影 · 按钮耦合/解耦 · 原模型联动",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/yaoying-button-20261112/",
+      "kind": "3d"
+    },
+    {
       "label": "Z7Pro · 弹簧锁销折叠动画 / 可拖进度",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/z7pro-original/lock-demo/index.html",
       "kind": "3d"
@@ -327,19 +353,23 @@
       "kind": "research"
     }
   ],
-  "galleryLabel": "三款四态 · 家中效果与底面美化",
+  "galleryLabel": "曜影按钮机构 · 当前原图与源装配",
   "milestone": {
-    "title": "三方案四态与半透明模型",
-    "date": "2026-11-12",
-    "status": "已生成并完成本地交互检查 · 待用户评审",
-    "summary": "凌序、曜影、灵伴均补齐正常、抬升、折叠、站立四态；三个模型均有外壳半透明开关。新增三张家中正常/竖放对照图，以及站立底面美化。",
-    "approvalNote": "尚未选定新底盖/CMF/支撑；旧已认可图的确认范围保留。",
-    "next": "评审三款四态、家中布置及底面美化，核对凌序和灵伴专用STEP。"
+    "title": "曜影上轴按钮 · 耦合与解耦概念01",
+    "date": "2026-11-13",
+    "status": "交互演示已生成 · 待用户评审",
+    "summary": "按下按钮后齿盘轴向退开，扶手手动翻转；松开未对齿时显示待接合，微调后重新锁住。支持剖视、展开零件及原曜影全部120项源装配联动。",
+    "approvalNote": "端面齿盘、导向架及弹簧是新增提议；120齿/3°/6mm为演示参数，未取得用户认可或工程验证。",
+    "next": "核对动作是否符合用户按钮意图，再细化受力、装配及下轴锁止；两轴联动尚未定义。"
   },
   "progress": {
-    "updated": "2026-11-12",
-    "summary": "撤回此前三款完整交付声明：曜影恢复全部源网格；凌序、灵伴精细模型仍未完成。",
+    "updated": "2026-11-13",
+    "summary": "曜影新增上轴按钮耦合/解耦交互提议；源装配全部保留，内部参数与工程可行性待评审。凌序、灵伴精细模型仍未完成。",
     "next": [
+      {
+        "title": "评审按钮接合结构并核对真实空间",
+        "detail": "确认端面齿/复位方式是否符合原意，核对按压力、齿盘承载、导向与壳体干涉；下轴锁止和两轴联动单独定义。"
+      },
       {
         "title": "补齐两款源文件后重建精细模型",
         "detail": "定位凌序与灵伴专用STEP；逐件核对原部件后再制作四态、家中效果和底面美化，避免继续使用粗重建。"
@@ -374,6 +404,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "曜影按钮按轴向解耦表达",
+        "detail": "依据用户示意图制作按钮—推杆—接合盘退开的概念演示。松开但未对齿不宣称锁定；上轴手动翻转，下轴不自动联动。内部齿盘与弹簧为新增提议，待评审。"
+      },
       {
         "title": "结构细节须按源资料保留",
         "detail": "用户指出模型过度简化，电线可不展示，但原机构、零件与外观细节不能因此省略。此前完整交付声明撤回。"
@@ -474,6 +508,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-13 · 曜影按钮机构概念01",
+        "detail": "完成耦合/解耦/待对齿三状态及剖视、零件展开、操作示范和完整源装配联动。本地核对旋转锁定、源件数量与轴心；受力和实物装配待工程验证。"
+      },
+      {
         "title": "Z7Pro原件局部折叠解锁动画",
         "detail": "按原始STEP的锁销、弹簧、滚针轴承与根部座制作可拖动动画。轴承仅支承；锁销先提起后立柱转下。仅检查锁销与主架固定座的离散位置，12mm行程、80°转角及输入传力为演示推演；不表示整机自动折叠或锁止已验证。"
       },
@@ -547,6 +585,15 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "曜影上轴按钮 · 概念01",
+        "note": "真实交互页面截图，待用户评审；下轴未联动。",
+        "files": [
+          "documents/treadmill/yaoying-button-20261112/coupled.webp",
+          "documents/treadmill/yaoying-button-20261112/decoupled.webp",
+          "documents/treadmill/yaoying-button-20261112/pending.webp"
+        ]
+      },
       {
         "title": "曜影 · 源细节恢复与原底部机构",
         "note": "全装配源网格保留；局部图为20项原底部机构隔离查看。不是三款完整交付。",
