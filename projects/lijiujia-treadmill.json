@@ -382,6 +382,11 @@
   ],
   "links": [
     {
+      "label": "Z7Pro原始STEP · 整机半透明预览",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/z7pro-original/viewer.html",
+      "kind": "3d"
+    },
+    {
       "label": "当前评审 · 11月12日 / 三方案四态与半透明",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=20261112-entries-r1",
       "kind": "review"
@@ -496,6 +501,10 @@
     ],
     "decisions": [
       {
+        "title": "Z7Pro原始资料确认与独立浏览入口",
+        "detail": "用户明确以其指定的原始STEP为Z7Pro原件依据。新增整机半透明预览，保留原始装配位置；转换仍缺21个面，不作为完整无损复原。与其他方案改型分开查看。"
+      },
+      {
         "title": "三方案均需四态、家中图与半透明模型",
         "detail": "正常/抬升/折叠/站立统一由同一模型切换；站立机底朝室内并美化。曜影实模与凌序/灵伴概念重建的来源层次分开说明。"
       },
@@ -579,6 +588,10 @@
       {
         "label": "厂商资料对照",
         "conversation": "c7bf78b3"
+      },
+      {
+        "label": "Z7Pro原件确认与浏览入口",
+        "conversation": "af785d28"
       }
     ],
     "history": [
