@@ -2,7 +2,7 @@
   "id": "nowre",
   "title": "NOWRE · B1独立场地",
   "en": "06B / NOWRE B1",
-  "description": "双塔Option 2已否决；Option 1保留候选但缺少应用展示。重新核实可带道具，安排30张以上选款及包、行李箱、耳机、帽子的啵啵贴应用。",
+  "description": "把候选、否决原因、场地依据和真实参考放在一起回看。当前没有最终方案：Option 1保留待改，双塔Option 2已否决。",
   "conversation": "138009de",
   "conversationName": "NOWRE B1独立场地与陈列",
   "note": "只依据B1手册安排场地；不带ART，保留POP实物应用示范。新效果图尚未完成，道具可用数量待核实。",
@@ -48,9 +48,34 @@
       "label": "B1手册 · 原结构与展开尺寸",
       "status": "用户指定的当前唯一场地依据",
       "note": "来自所供手册物理第2页：收纳2.3×1.2×2.6m，展开2×3.3×2.6m，净高2.1m。展开尺寸为外廓，不当作内部净面积；不是新陈列效果图。"
+    },
+    {
+      "file": "documents/nowre-review-20261112/cabinet.webp",
+      "thumb": "documents/nowre-review-20261112/cabinet-thumb.webp",
+      "label": "B1手册 · 原柜体与官方侧牌",
+      "status": "场地依据 · 不是陈列提案",
+      "note": "原柜体2000×600×950mm，1个；官方侧牌300×400mm，统一制作，不自行更换。"
+    },
+    {
+      "file": "documents/nowre-review-20261112/cte2026.webp",
+      "thumb": "documents/nowre-review-20261112/cte2026-thumb.webp",
+      "label": "真实案例 · CTE 2026 的选款与应用关系",
+      "status": "品牌陈列参考 · 不是NOWRE方案",
+      "note": "左侧啵啵贴密集选款面与包袋、行李箱应用可供研究。右侧ART商品不带入；该展位结构、尺寸、货盘不移植到NOWRE。来源：用户指定SHANLE案例库，CTE2026。"
+    },
+    {
+      "file": "documents/nowre-review-20261112/paper-rack.webp",
+      "thumb": "documents/nowre-review-20261112/paper-rack-thumb.webp",
+      "label": "真实道具 · 啵啵贴纸架实拍",
+      "status": "现有案例参考 · 本次可带数量待核实",
+      "note": "实拍为3×3正面包装陈列，顶部已有包、耳机等应用画面。9个正面不代表整摊库存；照片不证明本次可调数量。来源：用户指定SHANLE案例库，止痒其他。"
     }
   ],
   "links": [
+    {
+      "label": "本页图片来源与版本状态",
+      "href": "documents/nowre-review-20261112/sources.md"
+    },
     {
       "label": "历史已否决 · 双塔Option 2对比说明",
       "href": "documents/nowre-b1-option2-20261112/comparison.md"
@@ -78,7 +103,7 @@
   ],
   "currentFocus": "核实实际可带道具，将密集选款、POP实物应用、取货空间和柜内备货一起规划。",
   "cancelledScope": "NOWRE不带任何ART STICKER；此前ART阶梯架、ART To_GO画面及艺术贴应用展示均停止沿用。v01/v02用户已否决，旧A1与3×3尺寸及挂钩估算也不适用。 双塔Option 2已否决，不再深化；POP应用展示必须保留。",
-  "galleryLabel": "当前场地依据",
+  "galleryLabel": "全部图稿与参考 · 点击放大、左右切换",
   "milestone": {
     "title": "否决双塔，补回POP应用展示",
     "date": "2026-11-12",
@@ -89,7 +114,7 @@
   },
   "progress": {
     "updated": "2026-11-12",
-    "summary": "双塔Option 2已否决；Option 1保留候选但缺少应用展示。重新核实可带道具，安排30张以上选款及包、行李箱、耳机、帽子的啵啵贴应用。",
+    "summary": "先看下面四组图片，再看后续问题和决定。共9张图：候选/否决方案、原场地和真实参考分别标注，尚无最终选定。",
     "next": [
       {
         "title": "核实实际可带道具",
@@ -157,6 +182,41 @@
       {
         "label": "B1场地资料与后续设计",
         "conversation": "138009de"
+      }
+    ],
+    "visualGroups": [
+      {
+        "title": "01 / 两版并排看：保留什么，哪里没做对",
+        "note": "Option 1保留候选但要补应用；双塔Option 2已否决。保留旧图用于回看问题，不表示推荐或通过。",
+        "files": [
+          "documents/nowre-b1-render-v03/overall.png",
+          "documents/nowre-b1-option2-20261112/overall.png"
+        ]
+      },
+      {
+        "title": "02 / 这次真正可用的B1场地",
+        "note": "只以B1手册为场地依据。效果图中的新架体尚无现成道具依据，不能当作已经拥有。",
+        "files": [
+          "documents/nowre-b1-20261111/b1-reference.png",
+          "documents/nowre-review-20261112/cabinet.webp"
+        ]
+      },
+      {
+        "title": "03 / 重新做时要回到的真实陈列",
+        "note": "研究包装密度、已有纸架以及“贴在哪里”的实物应用；不复制其他场地尺寸，也不带入ART商品。",
+        "files": [
+          "documents/nowre-review-20261112/cte2026.webp",
+          "documents/nowre-review-20261112/paper-rack.webp"
+        ]
+      },
+      {
+        "title": "04 / 已否决的早期尝试",
+        "note": "v01通用占位陈列；v02含ART且啵啵贴展示不足。均为历史记录，不继续执行。",
+        "files": [
+          "documents/nowre-b1-render-v02/overall.png",
+          "documents/nowre-b1-render-v02/counter.png",
+          "documents/nowre-b1-render-v01/overall.png"
+        ]
       }
     ]
   }
