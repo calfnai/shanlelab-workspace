@@ -231,9 +231,21 @@
       "label": "小墩墩脚座 · 真实网站截图",
       "status": "2026-11-06 线上快照",
       "note": "可从上方按钮进入原网页继续查看；截图不代替动作及结构验证。"
+    },
+    {
+      "file": "documents/treadmill/z7pro-lock-demo-20261112/preview.png",
+      "thumb": "documents/treadmill/z7pro-lock-demo-20261112/preview.png",
+      "label": "Z7Pro · 原件锁销解锁动作",
+      "status": "原件局部＋动作推演 · 待核对",
+      "note": "16项原部件；可拖进度看提销、转下、弹簧复位。12mm及80°为演示值；按钮传力、折平端锁止未确认。"
     }
   ],
   "links": [
+    {
+      "label": "Z7Pro · 弹簧锁销折叠动画 / 可拖进度",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/z7pro-original/lock-demo/index.html",
+      "kind": "3d"
+    },
     {
       "label": "Z7Pro原始STEP · 整机半透明预览",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/z7pro-original/viewer.html",
@@ -462,6 +474,10 @@
     ],
     "history": [
       {
+        "title": "Z7Pro原件局部折叠解锁动画",
+        "detail": "按原始STEP的锁销、弹簧、滚针轴承与根部座制作可拖动动画。轴承仅支承；锁销先提起后立柱转下。仅检查锁销与主架固定座的离散位置，12mm行程、80°转角及输入传力为演示推演；不表示整机自动折叠或锁止已验证。"
+      },
+      {
         "title": "恢复曜影被省略的源机构，撤回粗模型完整交付声明",
         "detail": "曜影此前默认缺省14项游离小件、隐藏20项原底部机构并以示意H架替代。本轮恢复全部120项源网格，新底盖层默认关闭。凌序、灵伴专用STEP未定位，保留原方案板；旧粗模型及衍生家中图移入细节不足历史。"
       },
@@ -593,6 +609,13 @@
         "files": [
           "documents/treadmill/reference-20261109/overall.jpg",
           "documents/treadmill/v04-20261107/overall.jpg"
+        ]
+      },
+      {
+        "title": "Z7Pro · 原件弹簧锁销解锁",
+        "note": "动画可拖进度；原件几何与未确认的动作推演分开标明。",
+        "files": [
+          "documents/treadmill/z7pro-lock-demo-20261112/preview.png"
         ]
       }
     ]
