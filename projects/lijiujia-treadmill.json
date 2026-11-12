@@ -2,60 +2,67 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "当前逐个过方案：先评审曜影Origin。30齿多角度离合片、底部修饰、原抬升机构与四态合在同一个模型；凌序、灵伴精细模型仍未完成。",
+  "description": "当前逐个过方案：先评审曜影Origin。已移除用户指认的旧扳机组件6件；30齿离合片、机底修饰、原抬升与四态仍在同一个模型中。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
   "currentFocus": "只推进曜影Origin：逐项评审离合片贴合与位置、机底修饰和抬升态；本轮不扩展其他方案。",
   "items": [
     {
+      "file": "documents/treadmill/origin-r3-20261113/trigger-removed.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/trigger-removed.webp",
+      "label": "曜影 Origin · 旧扳机删除前后",
+      "status": "已按指认删除 · 待查看",
+      "note": "实际模型同视角对比。删除旧扳机及其5件配套件；修订STEP保留其余114项源装配。"
+    },
+    {
       "file": "documents/treadmill/origin-r3-20261113/review-sheet.webp",
       "thumb": "documents/treadmill/origin-r3-20261113/review-sheet.webp",
       "label": "曜影 Origin · 整机R3四视图",
       "status": "R3概念修改 · 待逐项评审",
-      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
     },
     {
       "file": "documents/treadmill/origin-r3-20261113/normal.webp",
       "thumb": "documents/treadmill/origin-r3-20261113/normal.webp",
       "label": "曜影 Origin · 整机使用态",
       "status": "R3概念修改 · 待逐项评审",
-      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
     },
     {
       "file": "documents/treadmill/origin-r3-20261113/incline.webp",
       "thumb": "documents/treadmill/origin-r3-20261113/incline.webp",
       "label": "曜影 Origin · 原架体抬升与饰盖随动",
       "status": "R3概念修改 · 待逐项评审",
-      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
     },
     {
       "file": "documents/treadmill/origin-r3-20261113/coupled.webp",
       "thumb": "documents/treadmill/origin-r3-20261113/coupled.webp",
       "label": "多角度离合片 · 30齿贴合",
       "status": "R3概念修改 · 待逐项评审",
-      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
     },
     {
       "file": "documents/treadmill/origin-r3-20261113/decoupled.webp",
       "thumb": "documents/treadmill/origin-r3-20261113/decoupled.webp",
       "label": "多角度离合片 · 轴向退开",
       "status": "R3概念修改 · 待逐项评审",
-      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
     },
     {
       "file": "documents/treadmill/origin-r3-20261113/bottom.webp",
       "thumb": "documents/treadmill/origin-r3-20261113/bottom.webp",
       "label": "曜影 Origin · 机底检修与饰盖",
       "status": "R3概念修改 · 待逐项评审",
-      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
     },
     {
       "file": "documents/treadmill/origin-r3-20261113/stand.webp",
       "thumb": "documents/treadmill/origin-r3-20261113/stand.webp",
       "label": "曜影 Origin · 竖放姿态",
       "status": "R3概念修改 · 待逐项评审",
-      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
     },
     {
       "file": "documents/treadmill/source-detail-20261112/normal.webp",
@@ -377,7 +384,7 @@
   },
   "progress": {
     "updated": "2026-11-13",
-    "summary": "当前逐个过方案：先评审曜影Origin。30齿多角度离合片、底部修饰、原抬升机构与四态合在同一个模型；凌序、灵伴精细模型仍未完成。",
+    "summary": "曜影Origin本轮删除旧扳机及配套5件。当前保留114项源装配、20项原抬升件；修订STEP与整机评审保持同一入口，待用户查看。",
     "next": [
       {
         "title": "先过曜影：离合片与整机逐项评审",
@@ -425,6 +432,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "曜影旧扳机已废弃并从当前方案删除",
+        "detail": "用户明确圈出的扳机为旧结构，不属于曜影。核对STEP后删除独立组件6件（扳机及配套销、螺钉、垫圈）；不把旧扳机当作新离合按钮。原始STEP留作追溯，修订STEP另存；余114项源件及20项抬升件保留。"
+      },
       {
         "title": "曜影就是Origin，统一在一个整机页面评审",
         "quote": "曜影就是origin，别搞那么多页面。",
@@ -538,6 +549,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-13 · 删除曜影旧扳机",
+        "detail": "按用户指认，从当前模型及修订STEP中删除旧扳机组件6件。沿用同一个Origin入口，页面可下载删扳机STEP（原保存姿态）；网页新离合片、下置电机与饰盖提议尚未写入此STEP。"
+      },
+      {
         "title": "2026-11-13 · 曜影Origin整机R3",
         "detail": "完成同一模型的30齿贴合、原轴缝定位、机底修饰、原抬升架0–15°接地随动和前方单轴180°摆动出线。120项源件保留；原件保存姿态可恢复。未把123°误标为30齿锁定。"
       },
@@ -623,6 +638,7 @@
         "title": "曜影 Origin · 同一整机R3",
         "note": "真实交互模型截图；当前只评审此方案，未获工程验证。",
         "files": [
+          "documents/treadmill/origin-r3-20261113/trigger-removed.webp",
           "documents/treadmill/origin-r3-20261113/review-sheet.webp",
           "documents/treadmill/origin-r3-20261113/normal.webp",
           "documents/treadmill/origin-r3-20261113/incline.webp",
