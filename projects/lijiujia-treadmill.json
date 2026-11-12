@@ -2,32 +2,60 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "曜影新增上轴按钮耦合/解耦交互提议；源装配全部保留，内部参数与工程可行性待评审。凌序、灵伴精细模型仍未完成。",
+  "description": "当前逐个过方案：先评审曜影Origin。30齿多角度离合片、底部修饰、原抬升机构与四态合在同一个模型；凌序、灵伴精细模型仍未完成。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
-  "currentFocus": "评审曜影按钮轴向解耦、扶手手动翻转与复位接合；继续核验承载、按压力、装配与下轴锁止。",
+  "currentFocus": "只推进曜影Origin：逐项评审离合片贴合与位置、机底修饰和抬升态；本轮不扩展其他方案。",
   "items": [
     {
-      "file": "documents/treadmill/yaoying-button-20261112/coupled.webp",
-      "thumb": "documents/treadmill/yaoying-button-20261112/coupled.webp",
-      "label": "曜影上轴按钮 · 按钮复位 · 齿盘耦合",
-      "status": "概念演示已生成 · 待用户评审",
-      "note": "按钮/推杆/端面齿盘/导向架/复位弹簧为新增提议。120齿、3°齿距、6mm行程为演示参数，未作工程验证。原曜影全部120项源装配保留，下轴未联动。"
+      "file": "documents/treadmill/origin-r3-20261113/review-sheet.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/review-sheet.webp",
+      "label": "曜影 Origin · 整机R3四视图",
+      "status": "R3概念修改 · 待逐项评审",
+      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
     },
     {
-      "file": "documents/treadmill/yaoying-button-20261112/decoupled.webp",
-      "thumb": "documents/treadmill/yaoying-button-20261112/decoupled.webp",
-      "label": "曜影上轴按钮 · 按下按钮 · 手动翻转",
-      "status": "概念演示已生成 · 待用户评审",
-      "note": "按钮/推杆/端面齿盘/导向架/复位弹簧为新增提议。120齿、3°齿距、6mm行程为演示参数，未作工程验证。原曜影全部120项源装配保留，下轴未联动。"
+      "file": "documents/treadmill/origin-r3-20261113/normal.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/normal.webp",
+      "label": "曜影 Origin · 整机使用态",
+      "status": "R3概念修改 · 待逐项评审",
+      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
     },
     {
-      "file": "documents/treadmill/yaoying-button-20261112/pending.webp",
-      "thumb": "documents/treadmill/yaoying-button-20261112/pending.webp",
-      "label": "曜影上轴按钮 · 松开未对齿 · 待接合",
-      "status": "概念演示已生成 · 待用户评审",
-      "note": "按钮/推杆/端面齿盘/导向架/复位弹簧为新增提议。120齿、3°齿距、6mm行程为演示参数，未作工程验证。原曜影全部120项源装配保留，下轴未联动。"
+      "file": "documents/treadmill/origin-r3-20261113/incline.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/incline.webp",
+      "label": "曜影 Origin · 原架体抬升与饰盖随动",
+      "status": "R3概念修改 · 待逐项评审",
+      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/coupled.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/coupled.webp",
+      "label": "多角度离合片 · 30齿贴合",
+      "status": "R3概念修改 · 待逐项评审",
+      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/decoupled.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/decoupled.webp",
+      "label": "多角度离合片 · 轴向退开",
+      "status": "R3概念修改 · 待逐项评审",
+      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/bottom.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/bottom.webp",
+      "label": "曜影 Origin · 机底检修与饰盖",
+      "status": "R3概念修改 · 待逐项评审",
+      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/stand.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/stand.webp",
+      "label": "曜影 Origin · 竖放姿态",
+      "status": "R3概念修改 · 待逐项评审",
+      "note": "同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
     },
     {
       "file": "documents/treadmill/source-detail-20261112/normal.webp",
@@ -263,8 +291,8 @@
   ],
   "links": [
     {
-      "label": "曜影 · 按钮耦合/解耦 · 原模型联动",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/yaoying-button-20261112/",
+      "label": "曜影 Origin · 一个整机评审入口",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#origin-detail",
       "kind": "3d"
     },
     {
@@ -278,19 +306,9 @@
       "kind": "3d"
     },
     {
-      "label": "当前修复状态 · 曜影源细节 / 两款待STEP",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=20261112-source-r2",
-      "kind": "review"
-    },
-    {
       "label": "灵伴 · 专用STEP未定位 / 精细模型未完成",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=20261112-source-r2#lynmate",
       "kind": "review"
-    },
-    {
-      "label": "曜影 · 全部源网格 / 半透明 / 部件放大",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/source-detail-20261112/origin-detail.html",
-      "kind": "3d"
     },
     {
       "label": "凌序 · 专用STEP未定位 / 精细模型未完成",
@@ -300,11 +318,6 @@
     {
       "label": "历史 · 三方案粗模型与衍生图 / 细节不足",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/history-simplified-20261112.html",
-      "kind": "history"
-    },
-    {
-      "label": "历史 · 曜影上一轮折叠 / 默认缺省游离件",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/yaoying-20261112/viewer.html",
       "kind": "history"
     },
     {
@@ -353,19 +366,23 @@
       "kind": "research"
     }
   ],
-  "galleryLabel": "曜影按钮机构 · 当前原图与源装配",
+  "galleryLabel": "当前曜影 Origin · 整机R3与源资料",
   "milestone": {
-    "title": "曜影上轴按钮 · 耦合与解耦概念01",
+    "title": "曜影 Origin · 整机评审 R3",
     "date": "2026-11-13",
-    "status": "交互演示已生成 · 待用户评审",
-    "summary": "按下按钮后齿盘轴向退开，扶手手动翻转；松开未对齿时显示待接合，微调后重新锁住。支持剖视、展开零件及原曜影全部120项源装配联动。",
-    "approvalNote": "端面齿盘、导向架及弹簧是新增提议；120齿/3°/6mm为演示参数，未取得用户认可或工程验证。",
-    "next": "核对动作是否符合用户按钮意图，再细化受力、装配及下轴锁止；两轴联动尚未定义。"
+    "status": "已生成并通过本地交互检查 · 待评审",
+    "summary": "多角度离合片改30齿、8mm深齿，两片沿互补齿面贴合；按原轴缝布置按钮。原抬升架、轮子及饰盖随动，与底部修饰和前方180°摆动出线合在同一整机模型。",
+    "approvalNote": "30齿每档12°，原123°折平端仍待对齿，120°才锁定。内部参数、受力、真实驱动行程与装配间隙未获工程验证。",
+    "next": "先逐项确认曜影离合片、底部修饰和抬升态；一个方案过完再推进其他方案。"
   },
   "progress": {
     "updated": "2026-11-13",
-    "summary": "曜影新增上轴按钮耦合/解耦交互提议；源装配全部保留，内部参数与工程可行性待评审。凌序、灵伴精细模型仍未完成。",
+    "summary": "当前逐个过方案：先评审曜影Origin。30齿多角度离合片、底部修饰、原抬升机构与四态合在同一个模型；凌序、灵伴精细模型仍未完成。",
     "next": [
+      {
+        "title": "先过曜影：离合片与整机逐项评审",
+        "detail": "核对30齿深齿的贴合与装配位置；决定原123°折平端与120°锁位的处理，再核对机底饰盖、抬升驱动实际行程与正前方出线。"
+      },
       {
         "title": "评审按钮接合结构并核对真实空间",
         "detail": "确认端面齿/复位方式是否符合原意，核对按压力、齿盘承载、导向与壳体干涉；下轴锁止和两轴联动单独定义。"
@@ -409,12 +426,17 @@
     ],
     "decisions": [
       {
+        "title": "曜影就是Origin，统一在一个整机页面评审",
+        "quote": "曜影就是origin，别搞那么多页面。",
+        "detail": "用户要求逐个方案过，当前只推进曜影。按钮旋转盘暂称多角度离合片；两片耦合贴牢，约30齿并加深。整机同时修改底部修饰和抬升态，旧功能入口并回同一模型。"
+      },
+      {
         "title": "Origin正前方采用单轴摆动电源线结构",
         "detail": "用户确认采用熨斗式单轴铰接护线套，布置于Origin（曜影）整机正前方，目标在同一平面内摆动180°；若外露影响美观，加盖板遮蔽并保留摆动净空。结构方向已确认，尚未改入模型，具体尺寸与工程验证待完成。"
       },
       {
-        "title": "曜影按钮按轴向解耦表达",
-        "detail": "依据用户示意图制作按钮—推杆—接合盘退开的概念演示。松开但未对齿不宣称锁定；上轴手动翻转，下轴不自动联动。内部齿盘与弹簧为新增提议，待评审。"
+        "title": "历史R1 · 曜影按钮轴向解耦",
+        "detail": "依据用户示意图制作按钮—推杆—接合盘退开的概念演示。松开但未对齿不宣称锁定；上轴手动翻转，下轴不自动联动。内部齿盘与弹簧为新增提议，待评审。 R3已改为30齿并合入Origin整机，以本轮版本为准。"
       },
       {
         "title": "结构细节须按源资料保留",
@@ -516,6 +538,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-13 · 曜影Origin整机R3",
+        "detail": "完成同一模型的30齿贴合、原轴缝定位、机底修饰、原抬升架0–15°接地随动和前方单轴180°摆动出线。120项源件保留；原件保存姿态可恢复。未把123°误标为30齿锁定。"
+      },
+      {
         "title": "2026-11-13 · 曜影按钮机构概念01",
         "detail": "完成耦合/解耦/待对齿三状态及剖视、零件展开、操作示范和完整源装配联动。本地核对旋转锁定、源件数量与轴心；受力和实物装配待工程验证。"
       },
@@ -594,12 +620,16 @@
     ],
     "visualGroups": [
       {
-        "title": "曜影上轴按钮 · 概念01",
-        "note": "真实交互页面截图，待用户评审；下轴未联动。",
+        "title": "曜影 Origin · 同一整机R3",
+        "note": "真实交互模型截图；当前只评审此方案，未获工程验证。",
         "files": [
-          "documents/treadmill/yaoying-button-20261112/coupled.webp",
-          "documents/treadmill/yaoying-button-20261112/decoupled.webp",
-          "documents/treadmill/yaoying-button-20261112/pending.webp"
+          "documents/treadmill/origin-r3-20261113/review-sheet.webp",
+          "documents/treadmill/origin-r3-20261113/normal.webp",
+          "documents/treadmill/origin-r3-20261113/incline.webp",
+          "documents/treadmill/origin-r3-20261113/coupled.webp",
+          "documents/treadmill/origin-r3-20261113/decoupled.webp",
+          "documents/treadmill/origin-r3-20261113/bottom.webp",
+          "documents/treadmill/origin-r3-20261113/stand.webp"
         ]
       },
       {
@@ -962,6 +992,27 @@
       "label": "曜影双轴折叠 · 折平",
       "status": "细节不足历史 · 退出当前展示",
       "note": "用户指出模型过度简化；完整交付声明撤回。旧几何及衍生图不作为当前完整模型或机构依据。"
+    },
+    {
+      "file": "documents/treadmill/yaoying-button-20261112/coupled.webp",
+      "thumb": "documents/treadmill/yaoying-button-20261112/coupled.webp",
+      "label": "曜影上轴按钮 · 按钮复位 · 齿盘耦合",
+      "status": "历史R1 · 已合入Origin整机R3",
+      "note": "上一轮按钮示意。R3统一命名多角度离合片，改30齿与贴合齿面，并合入同一整机评审；不作为当前机构版。"
+    },
+    {
+      "file": "documents/treadmill/yaoying-button-20261112/decoupled.webp",
+      "thumb": "documents/treadmill/yaoying-button-20261112/decoupled.webp",
+      "label": "曜影上轴按钮 · 按下按钮 · 手动翻转",
+      "status": "历史R1 · 已合入Origin整机R3",
+      "note": "上一轮按钮示意。R3统一命名多角度离合片，改30齿与贴合齿面，并合入同一整机评审；不作为当前机构版。"
+    },
+    {
+      "file": "documents/treadmill/yaoying-button-20261112/pending.webp",
+      "thumb": "documents/treadmill/yaoying-button-20261112/pending.webp",
+      "label": "曜影上轴按钮 · 松开未对齿 · 待接合",
+      "status": "历史R1 · 已合入Origin整机R3",
+      "note": "上一轮按钮示意。R3统一命名多角度离合片，改30齿与贴合齿面，并合入同一整机评审；不作为当前机构版。"
     }
   ]
 }
