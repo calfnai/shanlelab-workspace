@@ -9,6 +9,20 @@
   "currentFocus": "坡形（大C）保留原有外形，仅借用齿轮机构原理；机构适配不能擅自改形。先分别明确凌序、坡形的固定下梁、活动立柱、扶手／控制台分件和真实轴线，核对整个扫掠路径与锁止。此前UI滑条可用的核验结论不代表机构可行。",
   "items": [
     {
+      "file": "documents/treadmill/origin-clutch-fix-20261113/states.webp",
+      "thumb": "documents/treadmill/origin-clutch-fix-20261113/states.webp",
+      "label": "曜影离合片 · 接合／退开／未对齿三态纠错",
+      "status": "已发布 · 待用户评审",
+      "note": "同一3D模型实际截图及同步齿面展开剖面。按钮全按下与套筒最小轴向间隙1mm，未对齿保持未接合；显示网格余隙不是实测制造公差。"
+    },
+    {
+      "file": "documents/treadmill/origin-clutch-fix-20261113/pending.webp",
+      "thumb": "documents/treadmill/origin-clutch-fix-20261113/pending.webp",
+      "label": "③ 未对齿 · 尚未接合",
+      "status": "新增状态核对图 · 待用户评审",
+      "note": "松手后弹簧仍受压，齿面未对齐；需微调对齿。"
+    },
+    {
       "file": "documents/treadmill/origin-front-correction-20261113.webp",
       "thumb": "documents/treadmill/origin-front-correction-20261113.webp",
       "label": "曜影 · 撤去错误前端凸块",
@@ -200,16 +214,16 @@
     {
       "file": "documents/treadmill/origin-r3-20261113/coupled.webp",
       "thumb": "documents/treadmill/origin-r3-20261113/coupled.webp",
-      "label": "多角度离合片 · 30齿贴合",
-      "status": "R3概念修改 · 待逐项评审",
-      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+      "label": "① 松手复位 · 齿面接合",
+      "status": "离合片实体与剖视纠错 · 已发布待评审",
+      "note": "已消除按钮与套筒穿插；同一模型可比较接合、退开和未对齿。实际网格采样检查与线上操作通过，仍不等于制造及承载验证。"
     },
     {
       "file": "documents/treadmill/origin-r3-20261113/decoupled.webp",
       "thumb": "documents/treadmill/origin-r3-20261113/decoupled.webp",
-      "label": "多角度离合片 · 轴向退开",
-      "status": "R3概念修改 · 待逐项评审",
-      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。"
+      "label": "② 按下按钮 · 齿盘退开",
+      "status": "离合片实体与剖视纠错 · 已发布待评审",
+      "note": "已消除按钮与套筒穿插；同一模型可比较接合、退开和未对齿。实际网格采样检查与线上操作通过，仍不等于制造及承载验证。"
     },
     {
       "file": "documents/treadmill/origin-r3-20261113/bottom.webp",
@@ -459,8 +473,8 @@
   ],
   "links": [
     {
-      "label": "曜影离合片3D · 直接操作按钮耦合／解耦",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/source-detail-20261112/origin-detail.html#joint",
+      "label": "曜影离合片3D · 三态与齿面近看（纠错版）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/source-detail-20261112/origin-detail.html?rev=clutch-fix-20261113#joint",
       "kind": "3d"
     },
     {
@@ -826,6 +840,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-13 · 纠正曜影离合片穿插与误导图",
+        "detail": "用户指出按钮两态无法说明正确咬合。已修正固定套筒与按钮3mm干涉、旋转剖切口错位及弹簧显示；替换旧接合/退开图，新增未对齿图、实时齿面剖面和3D近看。32组姿态、9360条网格射线采样未见齿盘穿插；按钮最小套筒净距1mm。先前动画操作通过不代表实体几何或工程通过，新版待用户评审。"
+      },
+      {
         "title": "2026-11-13 · 三款握把材质重做",
         "detail": "按三张用户参考生成粗筋防滑、细纹皮革与浅纹理硅胶修订图，新增纹理特写。旧三图退出当前展示；第四款心率沿用，新图均待评审。"
       },
@@ -960,6 +978,14 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "曜影离合片 · 三态纠错",
+        "note": "同一3D模型实际截图：松手接合、按下退开、未对齿。原误导图已由纠错图替换。",
+        "files": [
+          "documents/treadmill/origin-clutch-fix-20261113/states.webp",
+          "documents/treadmill/origin-clutch-fix-20261113/pending.webp"
+        ]
+      },
       {
         "title": "曜影 · 前端凸块纠正",
         "note": "已按圈注删除，待用户查看；其余造型未因此获认可。",
