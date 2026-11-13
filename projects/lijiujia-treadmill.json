@@ -6,28 +6,28 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "2026-11-13最新否决：凌序、坡形（大C）的旧折叠和衍生竖放退出当前交付，不自动恢复。 此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
-  "currentFocus": "新增三款各一张竖立收纳家居效果图：凌序浅木极简、曜影胡桃木与金属、坡形暖灰织物与圆角家具。新图待评审；收纳外观目标不代表机构实现。 曜影已按三张用户原稿修订圆弧低机头、机底支撑与胶囊形抬升包覆，新图及模型待查看。坡形本轮以用户指定的两片式把手概念图为局部外形目标，已做效果图和可操作局部3D；不把整机折叠撤回扩大为否决该外形。坡形（大C）保留原有外形，仅借用齿轮机构原理；机构适配不能擅自改形。先分别明确凌序、坡形的固定下梁、活动立柱、扶手／控制台分件和真实轴线，核对整个扫掠路径与锁止。此前UI滑条可用的核验结论不代表机构可行。",
+  "currentFocus": "竖放家居图纠错v2待评审：凌序镜面，下电机盖与抬升架可见，机头在下；曜影改现代银橙家居。上一批三张被否决、退出展示。 曜影已按三张用户原稿修订圆弧低机头、机底支撑与胶囊形抬升包覆，新图及模型待查看。坡形本轮以用户指定的两片式把手概念图为局部外形目标，已做效果图和可操作局部3D；不把整机折叠撤回扩大为否决该外形。坡形（大C）保留原有外形，仅借用齿轮机构原理；机构适配不能擅自改形。先分别明确凌序、坡形的固定下梁、活动立柱、扶手／控制台分件和真实轴线，核对整个扫掠路径与锁止。此前UI滑条可用的核验结论不代表机构可行。",
   "items": [
     {
-      "file": "documents/treadmill/home-upright-20261113/linear-home-upright.webp",
-      "thumb": "documents/treadmill/home-upright-20261113/linear-home-upright.webp",
-      "label": "凌序 · 家中竖立收纳",
-      "status": "新家居效果图 · 收纳外观目标 · 待评审",
-      "note": "浅木极简，根据本款当前造型搭配。生成场景与机底分区为视觉提议，尚未改入模型；跑面朝墙、机底朝室内。旧冲突折叠不恢复，真实转轴、锁止及竖放稳定性待核验。"
+      "file": "documents/treadmill/home-upright-v2-20261113/linear-home-upright-v2.webp",
+      "thumb": "documents/treadmill/home-upright-v2-20261113/linear-home-upright-v2.webp",
+      "label": "凌序 · 竖放家居纠错v2",
+      "status": "新视觉修订 · 待用户评审",
+      "note": "镜面底面、细直银框。机头、电机及抬升区在下、机尾在上；跑面朝墙、机底朝室内。下电机盖与独立抬升架可见；生成图并非精确CAD，未修改模型，旧冲突折叠继续撤回。"
     },
     {
-      "file": "documents/treadmill/home-upright-20261113/origin-home-upright.webp",
-      "thumb": "documents/treadmill/home-upright-20261113/origin-home-upright.webp",
-      "label": "曜影 · 家中竖立收纳",
-      "status": "新家居效果图 · 收纳外观目标 · 待评审",
-      "note": "胡桃木与金属，根据本款当前造型搭配。生成场景与机底分区为视觉提议，尚未改入模型；跑面朝墙、机底朝室内。旧冲突折叠不恢复，真实转轴、锁止及竖放稳定性待核验。"
+      "file": "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
+      "thumb": "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
+      "label": "曜影 · 竖放家居纠错v2",
+      "status": "新视觉修订 · 待用户评审",
+      "note": "银橙现代空间，铬色及玻璃家具。机头、电机及抬升区在下、机尾在上；跑面朝墙、机底朝室内。下电机盖与独立抬升架可见；生成图并非精确CAD，未修改模型，旧冲突折叠继续撤回。"
     },
     {
-      "file": "documents/treadmill/home-upright-20261113/poxing-home-upright.webp",
-      "thumb": "documents/treadmill/home-upright-20261113/poxing-home-upright.webp",
-      "label": "坡形 · 家中竖立收纳",
-      "status": "新家居效果图 · 收纳外观目标 · 待评审",
-      "note": "暖灰织物与圆角家具，根据本款当前造型搭配。生成场景与机底分区为视觉提议，尚未改入模型；跑面朝墙、机底朝室内。旧冲突折叠不恢复，真实转轴、锁止及竖放稳定性待核验。"
+      "file": "documents/treadmill/home-upright-v2-20261113/poxing-home-upright-v2.webp",
+      "thumb": "documents/treadmill/home-upright-v2-20261113/poxing-home-upright-v2.webp",
+      "label": "坡形 · 竖放家居纠错v2",
+      "status": "新视觉修订 · 待用户评审",
+      "note": "柔和银框、暖灰家居。机头、电机及抬升区在下、机尾在上；跑面朝墙、机底朝室内。下电机盖与独立抬升架可见；生成图并非精确CAD，未修改模型，旧冲突折叠继续撤回。"
     },
     {
       "file": "documents/treadmill/origin-form-20261113/front-detail.webp",
@@ -754,6 +754,10 @@
     ],
     "decisions": [
       {
+        "title": "否决首批家居收纳图：镜面、结构、方向及曜影feel错误",
+        "detail": "用户明确凌序底面是镜面，全部效果图漏下电机盖和抬升机构，方向反；曜影不应配偏新中式家居。已撤下首批三图，修订图不自动视为认可。"
+      },
+      {
         "title": "硅胶要与机身流线协调",
         "detail": "用户否决v3与机身流线不匹配；要求借鉴其手环参考的优雅感。本轮重新处理包覆曲面和肩部、端盖衔接，不再只改纹理。新图待评审。"
       },
@@ -938,6 +942,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-13 · 首批家居图否决与v2视觉修订",
+        "detail": "旧三张移至否决历史；新图恢复凌序镜面、可见下电机与抬升架，按机头在下、跑面朝墙方向表达。曜影改银橙现代空间。图面修订不等同于模型或机构完成。"
+      },
+      {
         "title": "2026-11-13 · 硅胶包覆流线重做v4",
         "detail": "替换被否决的v3；本轮以主近景和侧视展示肩部衔接、握持段轻收、薄端盖及顺曲面浅纹。其他三款沿用，新图待评审。"
       },
@@ -1105,12 +1113,12 @@
     ],
     "visualGroups": [
       {
-        "title": "三款 · 家中竖立收纳",
-        "note": "按产品风格分别搭配家居。新生成外观目标，未修改机构；旧折叠撤回状态保持。",
+        "title": "三款 · 竖放家居纠错v2",
+        "note": "镜面、下电机盖、独立抬升架及收纳朝向修订；曜影现代银橙空间。新图待评审，未修改模型。",
         "files": [
-          "documents/treadmill/home-upright-20261113/linear-home-upright.webp",
-          "documents/treadmill/home-upright-20261113/origin-home-upright.webp",
-          "documents/treadmill/home-upright-20261113/poxing-home-upright.webp"
+          "documents/treadmill/home-upright-v2-20261113/linear-home-upright-v2.webp",
+          "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
+          "documents/treadmill/home-upright-v2-20261113/poxing-home-upright-v2.webp"
         ]
       },
       {
@@ -1271,6 +1279,27 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/home-upright-20261113/linear-home-upright.webp",
+      "thumb": "documents/treadmill/home-upright-20261113/linear-home-upright.webp",
+      "label": "凌序 · 家中竖立收纳",
+      "status": "用户否决 · 方向及结构错误 · 退出当前展示",
+      "note": "凌序底面镜面遗漏；三款下电机盖及抬升架遗漏、方向反；曜影家居feel错误。原稿仅留追溯，不恢复为当前成果。"
+    },
+    {
+      "file": "documents/treadmill/home-upright-20261113/origin-home-upright.webp",
+      "thumb": "documents/treadmill/home-upright-20261113/origin-home-upright.webp",
+      "label": "曜影 · 家中竖立收纳",
+      "status": "用户否决 · 方向及结构错误 · 退出当前展示",
+      "note": "凌序底面镜面遗漏；三款下电机盖及抬升架遗漏、方向反；曜影家居feel错误。原稿仅留追溯，不恢复为当前成果。"
+    },
+    {
+      "file": "documents/treadmill/home-upright-20261113/poxing-home-upright.webp",
+      "thumb": "documents/treadmill/home-upright-20261113/poxing-home-upright.webp",
+      "label": "坡形 · 家中竖立收纳",
+      "status": "用户否决 · 方向及结构错误 · 退出当前展示",
+      "note": "凌序底面镜面遗漏；三款下电机盖及抬升架遗漏、方向反；曜影家居feel错误。原稿仅留追溯，不恢复为当前成果。"
+    },
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
       "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
