@@ -2,30 +2,45 @@
   "id": "hangzhou-xinwuji-space",
   "title": "杭州新物集 SPACE",
   "en": "06C / HANGZHOU XINWUJI SPACE",
-  "description": "两个 option 并行。本次新增的是椭圆展示板与单杆电视落地架组合，作为其中一个候选；尚未最终选定。",
-  "note": "本方案与NOWRE无关。仅借用niko中岛椭圆造型及原板面来展示结构，圣诞图案并非SPACE最终画面。另一option继续保留，本次不替换或代选。",
+  "description": "两个候选方案并列对比：椭圆板 × 单杆落地架，以及四笼网格 × 新KT原稿四面混合陈列。尚未最终选定。",
+  "note": "四笼方案使用本次指定原图；两个视角属于同一方案。椭圆单杆方案为结构概念，板面暂借用niko原稿。两版并行保留。",
   "conversation": "213cccac",
   "conversationName": "杭州新物集 SPACE · 两个 option",
-  "currentFocus": "评审椭圆展示板 × 单杆落地架这一option；后续结合SPACE自己的场地、画面及陈列要求深化。",
+  "currentFocus": "比较两个option的空间占用、选款展示、包袋应用与携带安装方式，等待最终选择。",
   "items": [
     {
       "file": "documents/hangzhou-space-oval-stand-20261113/concept.png",
       "thumb": "documents/hangzhou-space-oval-stand-20261113/concept.webp",
-      "label": "其中一个 option · 椭圆板 × 单杆落地架",
-      "status": "已生成 · 待评审 · 未最终选定",
+      "label": "候选 · 椭圆板 × 单杆落地架",
+      "status": "候选方案 · 结构概念待评审",
       "note": "按用户提供的无托盘电视架截图制作正背面概念。单立杆、平板底座，背面安装件；板面暂沿用niko原稿。结构与尺寸仅示意，不代表加工定案。另一option不因本图生成而被替换。"
+    },
+    {
+      "file": "documents/hangzhou-space-cage-kt-20261113/concept.png",
+      "thumb": "documents/hangzhou-space-cage-kt-20261113/concept.webp",
+      "label": "候选 · 四笼网格 × 新KT四面混合陈列",
+      "status": "用户指定为另一个候选 · 未最终选定",
+      "note": "用户本次提供原图，原样保留。整体180×90×180cm；36个不同SKU、94个挂货位置。两视角展示同一方案的四面，含真实商品图、新KT原稿及包袋应用。白色开窗盒暂按13×18cm排位，外盒待实测；网格间距为表现近似。"
     }
   ],
   "links": [
     {
       "label": "结构概念说明与尺寸边界",
       "href": "documents/hangzhou-space-oval-stand-20261113/notes.md"
+    },
+    {
+      "label": "四笼KT方案 · 图面尺寸与候选状态",
+      "href": "documents/hangzhou-space-cage-kt-20261113/notes.md"
     }
   ],
   "progress": {
     "updated": "2026-11-13",
-    "summary": "用户明确本图属于杭州新物集SPACE两个option中的一个，已纠正项目归属。",
+    "summary": "两个option均已收录：椭圆单杆落地架与四笼KT混合陈列。用户确认的是两者的候选身份，尚未最终选定。",
     "decisions": [
+      {
+        "title": "四笼KT图为另一个option",
+        "detail": "用户本次明确指定四笼网格、新KT原稿、四面混合陈列图为新物集SPACE的其中一个option，与椭圆单杆方案并行保留。"
+      },
       {
         "title": "归属杭州新物集 SPACE",
         "detail": "与NOWRE无关。两option并行；本图不擅自编号、不代表最终选择。"
@@ -33,17 +48,24 @@
     ],
     "visualGroups": [
       {
-        "title": "椭圆展示板 × 单杆落地架",
-        "note": "当前这一option的正面与背面结构示意，板面暂沿用niko原稿。",
+        "title": "两个 option · 并列对比",
+        "note": "左：椭圆单杆结构概念；右：四笼KT四面混合陈列。手机端依次展示，点击图片可放大。",
         "files": [
-          "documents/hangzhou-space-oval-stand-20261113/concept.png"
+          "documents/hangzhou-space-oval-stand-20261113/concept.png",
+          "documents/hangzhou-space-cage-kt-20261113/concept.png"
         ]
       }
     ],
     "next": [
       {
-        "title": "继续比较两个option",
-        "detail": "另一option原稿及既有状态保留；本次只收录椭圆单杆方案，不推定其他图就是另一option。"
+        "title": "比较两版并确定方向",
+        "detail": "四笼方案已有图面排挂与尺寸，椭圆单杆方案处于结构概念阶段；结合空间、展示需求与安装方式再选择。"
+      }
+    ],
+    "history": [
+      {
+        "title": "2026-11-13 两个候选均已收录",
+        "detail": "原样加入用户指定的四笼KT图，与已生成的椭圆单杆结构图并列。"
       }
     ]
   }
