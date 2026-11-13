@@ -473,6 +473,11 @@
   ],
   "links": [
     {
+      "label": "曜影离合片3D · 直接操作按钮耦合／解耦",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/source-detail-20261112/origin-detail.html#joint",
+      "kind": "3d"
+    },
+    {
       "label": "坡形大C · 两轴折叠3D／关节特写／GLB",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/poxing-handle-3d-20261113/",
       "kind": "3d"
@@ -815,6 +820,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-13 · 恢复曜影离合片醒目3D入口",
+        "detail": "曜影机构与包覆区在细节图前恢复可点击预览卡，直接进入既有R3离合片视角。按钮轴向解耦、扶手转动、对齿接合及零件展开已线上操作核验；桌面与手机入口可用。入口不得被静态截图替代；演示参数仍待工程核验。"
+      },
       {
         "title": "2026-11-13 · 坡形大C两轴3D与分件",
         "detail": "承接用户质疑效果图不写实并要求3D；新增固定肩部/活动扶手/固定下梁及上下轴可视研究。网页已发布核验。尺寸和77°路径为假设，按钮退盘、双侧联动、齿位与承载待设计。"
