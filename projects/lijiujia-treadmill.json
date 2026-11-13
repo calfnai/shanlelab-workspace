@@ -128,11 +128,11 @@
       "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。下饰板为独立分区，材质未选定；不把灵伴改名为坡形。 用户本轮否决旧折叠；图中保留的外观不代表可行折叠。"
     },
     {
-      "file": "documents/treadmill/linear-grips-v2-20261113/01-coarse-antislip.webp",
-      "thumb": "documents/treadmill/linear-grips-v2-20261113/01-coarse-antislip.webp",
-      "label": "凌序 · 粗筋防滑握把",
-      "status": "材质修订概念 · 待评审",
-      "note": "粗大圆润斜筋与明显沟槽；“粗”指纹理尺度，不是单纯加粗握把。 生成图，未改入模型，未证明实物触感或防滑性能。"
+      "file": "documents/treadmill/linear-grips-v2-20261113/01-antislip-refined-v3.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/01-antislip-refined-v3.webp",
+      "label": "凌序 · 斜筋防滑握把（细化）",
+      "status": "纹理细化概念 · 待评审",
+      "note": "斜筋收窄、加密并降低起伏，保留圆润过渡和可见纹理。仅视觉提议，未改入模型、未验证防滑性能。"
     },
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/02-leather-refined.webp",
@@ -622,7 +622,7 @@
     "next": [
       {
         "title": "评审三款握把材质修订",
-        "detail": "核对粗筋起伏、皮革质感与缝线、硅胶浅纹理；本轮只生成视觉提议，具体纹理尺寸、材料与性能待打样。"
+        "detail": "核对v3斜筋的宽度、疏密和起伏、皮革质感与缝线、硅胶浅纹理；本轮只生成视觉提议，具体纹理尺寸、材料与性能待打样。"
       },
       {
         "title": "先解决两款真实机构约束",
@@ -702,6 +702,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "防滑筋不能宽厚粗鲁",
+        "detail": "用户否决v2纹路尺度；当前按更窄、更浅、更密的圆润斜筋修订，仍保留可见防滑纹理。新图不自动视为用户选定。"
+      },
       {
         "title": "用户指定的两片式把手概念保留并局部实现",
         "detail": "用户再次明确喜欢hinge-two-piece.webp概念，要求局部3D或有空间逻辑的效果图。纠正此前把整机折叠撤回扩大成撤回其局部外观的错误理解；新局部仅做把手分件、同心轴与转动，不恢复旧整机动画。"
@@ -862,6 +866,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-13 · 防滑斜筋细化v3",
+        "detail": "替换过粗防滑筋图；本轮仅调整纹理尺度与起伏，皮质、硅胶、心率款沿用。新图待评审，未修改模型。"
+      },
       {
         "title": "2026-11-13 · 指定概念的把手局部效果图与3D",
         "detail": "按明确外形目标生成效果图并重建局部3D。181个局部角度采样中，固定/活动片截面不相交；轴心不漂移。网页与GLB已核验，非尺寸或承载定案。"
@@ -1154,6 +1162,13 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-grips-v2-20261113/01-coarse-antislip.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/01-coarse-antislip.webp",
+      "label": "凌序 · 粗筋防滑握把",
+      "status": "用户否决：纹路过粗 · 退出当前展示",
+      "note": "宽厚凸筋显得粗鲁；保留追溯，不作为后续尺度基准。"
+    },
     {
       "file": "documents/treadmill/linear-grips-20261113/03-flat-silicone.webp",
       "thumb": "documents/treadmill/linear-grips-20261113/03-flat-silicone.webp",
