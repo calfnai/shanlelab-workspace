@@ -163,11 +163,11 @@
       "note": "参考细颗粒皮纹、油润柔光与规整缝线，包覆略饱满；质感仍待用户评审。 生成图，未改入模型，未证明实物触感或防滑性能。"
     },
     {
-      "file": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
-      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
-      "label": "凌序 · 浅纹理硅胶握把",
-      "status": "材质修订概念 · 待评审",
-      "note": "保持原握把截面与体量，细密交叉纹仅作浅起伏，不做宽平掌托。 生成图，未改入模型，未证明实物触感或防滑性能。"
+      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
+      "label": "凌序 · 柔哑光硅胶握把",
+      "status": "重做概念 · 待评审",
+      "note": "进一步压低纹理线宽、起伏与对比，远看柔和细哑光、近看才辨浅纹。保持握把原截面；未改模型，未验证实物触感或性能。"
     },
     {
       "file": "documents/treadmill/linear-grips-20261113/04-heart-rate.webp",
@@ -647,7 +647,7 @@
       },
       {
         "title": "评审三款握把材质修订",
-        "detail": "核对v3斜筋的宽度、疏密和起伏、皮革质感与缝线、硅胶浅纹理；本轮只生成视觉提议，具体纹理尺寸、材料与性能待打样。"
+        "detail": "核对v3防滑斜筋的尺度、皮革质感与缝线，以及v3硅胶柔哑光和极浅细纹。新图待评审；材料与纹理参数待打样。"
       },
       {
         "title": "先解决两款真实机构约束",
@@ -727,6 +727,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "硅胶不能有粗网格感",
+        "detail": "用户再次否决v2硅胶太粗鲁；本轮压低纹理线宽、起伏与对比，保持原握把截面。柔哑光新图待评审，不自动视为用户认可。"
+      },
       {
         "title": "曜影按原稿的机头、底脚和胶囊形抬升架修订",
         "detail": "用户补充三张明确原稿并要求实际修改。不得以删除凸块代替整体关系核对；全域跑台、下置电机要求继续有效。原高罩保留在原件模式，新圆弧低罩适配该要求。"
@@ -895,6 +899,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-13 · 硅胶柔哑光重做v3",
+        "detail": "替换原清晰交叉网格图，主视角近乎连续哑光，特写保留极浅细纹。其他三款沿用，新图待评审。"
+      },
       {
         "title": "2026-11-13 · 曜影原稿造型修订",
         "detail": "当前网页模型与整机四图更新，补充机头近景、折平侧面及抬升侧面。原件114项、原抬升件20项、轮轴与主轴保留。新增包覆未写入下载STEP，仍待造型及工程评审。"
@@ -1204,6 +1212,13 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
+      "label": "凌序 · 浅纹理硅胶握把",
+      "status": "用户否决：硅胶纹理仍过粗 · 退出当前展示",
+      "note": "清晰交叉网格仍显粗鲁；保留追溯，不作为纹理定稿。"
+    },
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/01-coarse-antislip.webp",
       "thumb": "documents/treadmill/linear-grips-v2-20261113/01-coarse-antislip.webp",
