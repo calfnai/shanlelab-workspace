@@ -170,11 +170,11 @@
       "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。下饰板为独立分区，材质未选定；不把灵伴改名为坡形。 用户本轮否决旧折叠；图中保留的外观不代表可行折叠。"
     },
     {
-      "file": "documents/treadmill/linear-grips-v2-20261113/01-antislip-refined-v3.webp",
-      "thumb": "documents/treadmill/linear-grips-v2-20261113/01-antislip-refined-v3.webp",
+      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
       "label": "凌序 · 斜筋防滑握把（细化）",
-      "status": "纹理细化概念 · 待评审",
-      "note": "斜筋收窄、加密并降低起伏，保留圆润过渡和可见纹理。仅视觉提议，未改入模型、未验证防滑性能。"
+      "status": "用户指定当前图稿与名称",
+      "note": "从肩部延展的流线斜筋，握持段轻收；按用户指定归入斜筋防滑款。 原图复用；仅确认归属与展示，不代表整机、材料或工程验收。"
     },
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/02-leather-refined.webp",
@@ -184,11 +184,11 @@
       "note": "参考细颗粒皮纹、油润柔光与规整缝线，包覆略饱满；质感仍待用户评审。 生成图，未改入模型，未证明实物触感或防滑性能。"
     },
     {
-      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
-      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
+      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
       "label": "凌序 · 流线硅胶握把",
-      "status": "包覆造型新提议 · 待评审",
-      "note": "肩部顺接、握持段轻收、薄端盖及随曲面延展的浅纹；借鉴用户手环参考的曲面与包覆感。新增造型提议，未改CAD或验证装配、材料性能。"
+      "status": "用户指定当前图稿与名称",
+      "note": "恢复柔哑光浅纹包覆，保留原握持段的柔和曲面。 原图复用；仅确认归属与展示，不代表整机、材料或工程验收。"
     },
     {
       "file": "documents/treadmill/linear-grips-20261113/04-heart-rate.webp",
@@ -677,7 +677,7 @@
       },
       {
         "title": "评审三款握把材质修订",
-        "detail": "核对v3防滑斜筋的尺度、皮革质感与缝线，以及v4硅胶包覆与机身线条的协调。新图待评审；材料与纹理参数待打样。"
+        "detail": "以用户指定的斜筋防滑和已恢复流线硅胶图为当前展示，继续核对皮革、握持尺度、包覆及材料参数。"
       },
       {
         "title": "先解决两款真实机构约束",
@@ -757,6 +757,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "握把图稿归属按用户指定调整",
+        "detail": "截图中的流线斜筋图归为“斜筋防滑握把（细化）”；上一版柔哑光浅纹图恢复为“流线硅胶握把”。恢复决定覆盖其作为当前展示的旧撤回状态；不代表工程验收。"
+      },
       {
         "title": "凌序左右侧饰板下半截均为镜面",
         "detail": "用户圈注水平/抬升侧板下层长条面，以及竖放后对应的两条完整长边；下半截指侧板厚度方向，不能把竖边按上下长度切成一半。"
@@ -949,6 +953,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-14 · 两款握把图稿归属调整",
+        "detail": "复用原图，更新主评审页、独立把手页及共享记录；截图图进入斜筋防滑槽位，上一版硅胶图恢复到流线硅胶槽位。未重新生成或改模型。"
+      },
       {
         "title": "2026-11-14 · 凌序镜面下层饰板更新",
         "detail": "更新可操作概念模型的两条下层饰板材质及同模型四视图，重绘家居图整段镜面长边。分区要求确认，图面效果待评审；STEP及制造验证未完成。"
@@ -1299,6 +1307,20 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
+      "label": "凌序 · 流线硅胶握把",
+      "status": "图稿归属调整前 · 历史",
+      "note": "肩部顺接、握持段轻收、薄端盖及随曲面延展的浅纹；借鉴用户手环参考的曲面与包覆感。新增造型提议，未改CAD或验证装配、材料性能。"
+    },
+    {
+      "file": "documents/treadmill/linear-grips-v2-20261113/01-antislip-refined-v3.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/01-antislip-refined-v3.webp",
+      "label": "凌序 · 斜筋防滑握把（细化）",
+      "status": "图稿归属调整前 · 历史",
+      "note": "斜筋收窄、加密并降低起伏，保留圆润过渡和可见纹理。仅视觉提议，未改入模型、未验证防滑性能。"
+    },
     {
       "file": "documents/treadmill/review-20261113/linear-lift-person.webp",
       "thumb": "documents/treadmill/review-20261113/linear-lift-person.webp",
