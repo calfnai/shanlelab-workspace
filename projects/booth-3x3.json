@@ -331,6 +331,11 @@
   ],
   "links": [
     {
+      "label": "离线可旋转3D · 下载后用浏览器打开／已本地验证",
+      "href": "documents/booth-reach-v08-20261113/reach-offline.html",
+      "kind": "model"
+    },
+    {
       "label": "互动3D · 160cm最高排取货校核／原位与后移15cm对比",
       "href": "demos/booth-reach-160-v08/",
       "kind": "model"
@@ -544,7 +549,7 @@
   "sync": {
     "checkedAt": "2026-11-13",
     "sourceConversation": "d1139134",
-    "status": "v08三维标注与参数对比完成，原位取货余量问题已指出；制造孔位和提案未批准。"
+    "status": "160cm最高排取货3D已线上验证可打开与切换，离线版也已验证；主牌后移15cm仍为未选定对比，待实人试取。"
   },
   "withdrawnItems": [
     {
