@@ -1,0 +1,255 @@
+{
+  "units": "m",
+  "version": "v08",
+  "tabletop": 0.75,
+  "step": 0.1,
+  "board_bottom": 0.85,
+  "board_envelope": [
+    1.3867334167709637,
+    1.0012515644555695,
+    0.14
+  ],
+  "board_top": 1.8512515644555694,
+  "package": [
+    0.145,
+    0.105
+  ],
+  "slots": [
+    {
+      "i": 0,
+      "x": 0.228665,
+      "hook_y": 1.654396,
+      "relative_y": 0.30377
+    },
+    {
+      "i": 1,
+      "x": 0.01227,
+      "hook_y": 1.619674,
+      "relative_y": 0.269048
+    },
+    {
+      "i": 2,
+      "x": -0.215737,
+      "hook_y": 1.629382,
+      "relative_y": 0.278756
+    },
+    {
+      "i": 3,
+      "x": -0.395766,
+      "hook_y": 1.614243,
+      "relative_y": 0.263618
+    },
+    {
+      "i": 4,
+      "x": 0.436023,
+      "hook_y": 1.48334,
+      "relative_y": 0.132714
+    },
+    {
+      "i": 5,
+      "x": 0.202979,
+      "hook_y": 1.486816,
+      "relative_y": 0.136191
+    },
+    {
+      "i": 6,
+      "x": -0.005512,
+      "hook_y": 1.476096,
+      "relative_y": 0.12547
+    },
+    {
+      "i": 7,
+      "x": -0.217749,
+      "hook_y": 1.477373,
+      "relative_y": 0.126748
+    },
+    {
+      "i": 8,
+      "x": -0.387556,
+      "hook_y": 1.466511,
+      "relative_y": 0.115886
+    },
+    {
+      "i": 9,
+      "x": -0.535573,
+      "hook_y": 1.46743,
+      "relative_y": 0.116805
+    },
+    {
+      "i": 10,
+      "x": 0.404861,
+      "hook_y": 1.319107,
+      "relative_y": -0.031518
+    },
+    {
+      "i": 11,
+      "x": 0.171234,
+      "hook_y": 1.323661,
+      "relative_y": -0.026964
+    },
+    {
+      "i": 12,
+      "x": -0.019257,
+      "hook_y": 1.32929,
+      "relative_y": -0.021336
+    },
+    {
+      "i": 13,
+      "x": -0.210944,
+      "hook_y": 1.33039,
+      "relative_y": -0.020235
+    },
+    {
+      "i": 14,
+      "x": -0.378098,
+      "hook_y": 1.329087,
+      "relative_y": -0.021538
+    },
+    {
+      "i": 15,
+      "x": -0.543009,
+      "hook_y": 1.340369,
+      "relative_y": -0.010257
+    },
+    {
+      "i": 16,
+      "x": 0.400915,
+      "hook_y": 1.160788,
+      "relative_y": -0.189838
+    },
+    {
+      "i": 17,
+      "x": 0.163793,
+      "hook_y": 1.157793,
+      "relative_y": -0.192832
+    },
+    {
+      "i": 18,
+      "x": -0.035774,
+      "hook_y": 1.183909,
+      "relative_y": -0.166717
+    },
+    {
+      "i": 19,
+      "x": -0.233842,
+      "hook_y": 1.181559,
+      "relative_y": -0.169067
+    },
+    {
+      "i": 20,
+      "x": -0.39508,
+      "hook_y": 1.184228,
+      "relative_y": -0.166398
+    },
+    {
+      "i": 21,
+      "x": -0.551992,
+      "hook_y": 1.216222,
+      "relative_y": -0.134404
+    },
+    {
+      "i": 22,
+      "x": 0.143818,
+      "hook_y": 1.016698,
+      "relative_y": -0.333928
+    },
+    {
+      "i": 23,
+      "x": -0.047692,
+      "hook_y": 1.039875,
+      "relative_y": -0.310751
+    },
+    {
+      "i": 24,
+      "x": -0.243,
+      "hook_y": 1.033109,
+      "relative_y": -0.317517
+    },
+    {
+      "i": 25,
+      "x": -0.401313,
+      "hook_y": 1.056093,
+      "relative_y": -0.294532
+    }
+  ],
+  "highest": {
+    "i": 0,
+    "x": 0.228665,
+    "hook_y": 1.654396,
+    "relative_y": 0.30377
+  },
+  "highest_package_top": 1.661896,
+  "highest_package_bottom": 1.556896,
+  "lift_allowance": 0.03,
+  "lift_y": 1.684396,
+  "human_height": 1.6,
+  "shoulder_height": 1.3088,
+  "nominal_pinch_reach": 0.6448,
+  "nominal_touch_reach": 0.7056,
+  "body_arm_model": "U Michigan Drillis/Contini mean proportions, NOT a real measurement or guarantee for all 160cm people",
+  "source": "https://public.websites.umich.edu/~tja/reach/reach.html",
+  "horizontal_approx": 0.496,
+  "sensitivity": [
+    {
+      "stand_behind_table_edge_mm": 120,
+      "row_lowered_mm": 0,
+      "horizontal_mm": 496,
+      "lift_point_mm": 1684,
+      "required_shoulder_pinch_mm": 622,
+      "nominal_pinch_mm": 645,
+      "margin_mm": 23,
+      "within_nominal_model": true
+    },
+    {
+      "stand_behind_table_edge_mm": 120,
+      "row_lowered_mm": 100,
+      "horizontal_mm": 496,
+      "lift_point_mm": 1584,
+      "required_shoulder_pinch_mm": 567,
+      "nominal_pinch_mm": 645,
+      "margin_mm": 77,
+      "within_nominal_model": true
+    },
+    {
+      "stand_behind_table_edge_mm": 120,
+      "row_lowered_mm": 150,
+      "horizontal_mm": 496,
+      "lift_point_mm": 1534,
+      "required_shoulder_pinch_mm": 545,
+      "nominal_pinch_mm": 645,
+      "margin_mm": 100,
+      "within_nominal_model": true
+    },
+    {
+      "stand_behind_table_edge_mm": 220,
+      "row_lowered_mm": 0,
+      "horizontal_mm": 596,
+      "lift_point_mm": 1684,
+      "required_shoulder_pinch_mm": 704,
+      "nominal_pinch_mm": 645,
+      "margin_mm": -60,
+      "within_nominal_model": false
+    },
+    {
+      "stand_behind_table_edge_mm": 220,
+      "row_lowered_mm": 100,
+      "horizontal_mm": 596,
+      "lift_point_mm": 1584,
+      "required_shoulder_pinch_mm": 657,
+      "nominal_pinch_mm": 645,
+      "margin_mm": -12,
+      "within_nominal_model": false
+    },
+    {
+      "stand_behind_table_edge_mm": 220,
+      "row_lowered_mm": 150,
+      "horizontal_mm": 596,
+      "lift_point_mm": 1534,
+      "required_shoulder_pinch_mm": 637,
+      "nominal_pinch_mm": 645,
+      "margin_mm": 8,
+      "within_nominal_model": true
+    }
+  ],
+  "caution": "26 slot positions are mapped from supplied sample photo in Niko source. Not yet confirmed as fabrication drilling for current booth. Product stiffness, loaded hook depth and actual arm length unmeasured."
+}
