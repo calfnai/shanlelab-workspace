@@ -2,12 +2,40 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "当前逐个过方案：先评审曜影Origin。已移除用户指认的旧扳机组件6件；30齿离合片、机底修饰、原抬升与四态仍在同一个模型中。",
+  "description": "本轮新增凌序上端接头四种外观处理：一体圆角、折面肩部、分件包覆、内收支撑。四张均待评审；曜影Origin整机R3与原方案继续保留。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
-  "currentFocus": "只推进曜影Origin：逐项评审离合片贴合与位置、机底修饰和抬升态；本轮不扩展其他方案。 另已记录坡形命名及底部饰板异材质待定意见。",
+  "currentFocus": "评审凌序圈注的斜立柱、控制台和直扶手交汇细节。此次仅局部外观探索；曜影整机评审记录继续保留，不据此宣称凌序精细模型或四态完成。 另已记录坡形命名及底部饰板异材质待定意见。",
   "items": [
+    {
+      "file": "documents/treadmill/linear-junction-20261113/01-continuous-radius.webp",
+      "thumb": "documents/treadmill/linear-junction-20261113/01-continuous-radius.webp",
+      "label": "凌序上端接头 · 一体圆角",
+      "status": "新增外观提议 · 待评审",
+      "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
+    },
+    {
+      "file": "documents/treadmill/linear-junction-20261113/02-chamfered-shoulder.webp",
+      "thumb": "documents/treadmill/linear-junction-20261113/02-chamfered-shoulder.webp",
+      "label": "凌序上端接头 · 折面肩部",
+      "status": "新增外观提议 · 待评审",
+      "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
+    },
+    {
+      "file": "documents/treadmill/linear-junction-20261113/03-recessed-collar.webp",
+      "thumb": "documents/treadmill/linear-junction-20261113/03-recessed-collar.webp",
+      "label": "凌序上端接头 · 分件包覆",
+      "status": "新增外观提议 · 待评审",
+      "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
+    },
+    {
+      "file": "documents/treadmill/linear-junction-20261113/04-inset-support.webp",
+      "thumb": "documents/treadmill/linear-junction-20261113/04-inset-support.webp",
+      "label": "凌序上端接头 · 内收支撑",
+      "status": "新增外观提议 · 待评审",
+      "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
+    },
     {
       "file": "documents/treadmill/origin-r3-20261113/trigger-removed.webp",
       "thumb": "documents/treadmill/origin-r3-20261113/trigger-removed.webp",
@@ -298,6 +326,11 @@
   ],
   "links": [
     {
+      "label": "凌序 · 四种上端接头细节提议",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#linear-junction",
+      "kind": "review"
+    },
+    {
       "label": "曜影 Origin · 一个整机评审入口",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#origin-detail",
       "kind": "3d"
@@ -373,19 +406,23 @@
       "kind": "research"
     }
   ],
-  "galleryLabel": "当前曜影 Origin · 整机R3与源资料",
+  "galleryLabel": "本轮凌序接头四种提议 · 曜影既有评审与源资料保留",
   "milestone": {
-    "title": "曜影 Origin · 整机评审 R3",
+    "title": "凌序 · 上端接头四种细节探索",
     "date": "2026-11-13",
-    "status": "已生成并通过本地交互检查 · 待评审",
-    "summary": "多角度离合片改30齿、8mm深齿，两片沿互补齿面贴合；按原轴缝布置按钮。原抬升架、轮子及饰盖随动，与底部修饰和前方180°摆动出线合在同一整机模型。",
-    "approvalNote": "30齿每档12°，原123°折平端仍待对齿，120°才锁定。内部参数、受力、真实驱动行程与装配间隙未获工程验证。",
-    "next": "先逐项确认曜影离合片、底部修饰和抬升态；一个方案过完再推进其他方案。"
+    "status": "四张已生成 · 待用户评审",
+    "summary": "一体圆角、折面肩部、分件包覆、内收支撑。每张提供两个局部角度与整机位置。",
+    "approvalNote": "均为新增外观提议，不表示分件、承载、折叠或精细模型已验证。",
+    "next": "选择外观方向，再建模校核。曜影整机R3继续按原入口评审。"
   },
   "progress": {
     "updated": "2026-11-13",
-    "summary": "曜影Origin本轮删除旧扳机及配套5件。当前保留114项源装配、20项原抬升件；修订STEP与整机评审保持同一入口，待用户查看。",
+    "summary": "凌序上端接头四张外观概念已生成，含近景、另一角度与整机位置，待用户选择。曜影旧扳机删除及整机R3记录保留。",
     "next": [
+      {
+        "title": "选择凌序上端接头的外观方向",
+        "detail": "比较圆角、折面、黑色短套环和内收支撑；选定后再核对壁厚、分件、装配与折叠净距。"
+      },
       {
         "title": "先过曜影：离合片与整机逐项评审",
         "detail": "核对30齿深齿的贴合与装配位置；决定原123°折平端与120°锁位的处理，再核对机底饰盖、抬升驱动实际行程与正前方出线。"
@@ -556,6 +593,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-13 · 凌序上端接头四种细节探索",
+        "detail": "按用户本轮圈注生成四张外观概念图，保持斜立柱、窄横屏、直扶手与全域跑台。新增提议与同事原稿分开；待用户评审，未作工程校核。"
+      },
       {
         "title": "2026-11-13 · 删除曜影旧扳机",
         "detail": "按用户指认，从当前模型及修订STEP中删除旧扳机组件6件。沿用同一个Origin入口，页面可下载删扳机STEP（原保存姿态）；网页新离合片、下置电机与饰盖提议尚未写入此STEP。"
