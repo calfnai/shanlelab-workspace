@@ -2,12 +2,96 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "凌序／曜影／坡形共同评审。本轮新增坡形三套饰板搭配，以及固定半片＋活动半片的齿轮按钮把手提议。",
+  "description": "凌序、曜影、坡形并列：每款四张整机图，模型提供折叠与抬升双拖拉条，最后查看局部细节。新图及运动提议待评审。新增坡形材质与两片式把手提议在细节区保留。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
-  "currentFocus": "评审坡形饰板CMF与两片式把手的同轴搭接、按钮退盘及折叠方向。凌序与曜影既有整机和局部提议保留；本轮新图未改入坡形装配。",
+  "currentFocus": "按本轮要求重新组织三款GitHub评审。曜影复用源STEP加R3修改；凌序、坡形为按图重建研究，工程核验未完成。既有局部探索及其确认状态保留。坡形三套CMF与两片式把手为待选提议，尚未改入上方整机模型。",
   "items": [
+    {
+      "file": "documents/treadmill/review-20261113/linear-normal-45.webp",
+      "thumb": "documents/treadmill/review-20261113/linear-normal-45.webp",
+      "label": "凌序 · 正常形态45°",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/linear-normal-person.webp",
+      "thumb": "documents/treadmill/review-20261113/linear-normal-person.webp",
+      "label": "凌序 · 正常左前45°＋人物",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/linear-normal-side.webp",
+      "thumb": "documents/treadmill/review-20261113/linear-normal-side.webp",
+      "label": "凌序 · 正常正左侧",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/linear-lift-person.webp",
+      "thumb": "documents/treadmill/review-20261113/linear-lift-person.webp",
+      "label": "凌序 · 抬升左前45°＋人物",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/origin-normal-45.webp",
+      "thumb": "documents/treadmill/review-20261113/origin-normal-45.webp",
+      "label": "曜影 · 正常形态45°",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。沿用R3源网格和20项原抬升件；原123°折平端仍待对齿。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/origin-normal-person.webp",
+      "thumb": "documents/treadmill/review-20261113/origin-normal-person.webp",
+      "label": "曜影 · 正常左前45°＋人物",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。沿用R3源网格和20项原抬升件；原123°折平端仍待对齿。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/origin-normal-side.webp",
+      "thumb": "documents/treadmill/review-20261113/origin-normal-side.webp",
+      "label": "曜影 · 正常正左侧",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。沿用R3源网格和20项原抬升件；原123°折平端仍待对齿。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/origin-lift-person.webp",
+      "thumb": "documents/treadmill/review-20261113/origin-lift-person.webp",
+      "label": "曜影 · 抬升左前45°＋人物",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。沿用R3源网格和20项原抬升件；原123°折平端仍待对齿。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/poxing-normal-45.webp",
+      "thumb": "documents/treadmill/review-20261113/poxing-normal-45.webp",
+      "label": "坡形 · 正常形态45°",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。下饰板为独立分区，材质未选定；不把灵伴改名为坡形。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/poxing-normal-person.webp",
+      "thumb": "documents/treadmill/review-20261113/poxing-normal-person.webp",
+      "label": "坡形 · 正常左前45°＋人物",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。下饰板为独立分区，材质未选定；不把灵伴改名为坡形。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/poxing-normal-side.webp",
+      "thumb": "documents/treadmill/review-20261113/poxing-normal-side.webp",
+      "label": "坡形 · 正常正左侧",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。下饰板为独立分区，材质未选定；不把灵伴改名为坡形。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/poxing-lift-person.webp",
+      "thumb": "documents/treadmill/review-20261113/poxing-lift-person.webp",
+      "label": "坡形 · 抬升左前45°＋人物",
+      "status": "网页重排评审图 · 待用户查看",
+      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。下饰板为独立分区，材质未选定；不把灵伴改名为坡形。"
+    },
     {
       "file": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
       "thumb": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
@@ -340,6 +424,26 @@
   ],
   "links": [
     {
+      "label": "三款整机 · 四视图／折叠与抬升／细节放大",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/",
+      "kind": "review"
+    },
+    {
+      "label": "凌序 · 整机与双拖拉条",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#linear",
+      "kind": "3d"
+    },
+    {
+      "label": "曜影 · 整机与双拖拉条",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#origin",
+      "kind": "3d"
+    },
+    {
+      "label": "坡形 · 整机与双拖拉条",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#poxing",
+      "kind": "3d"
+    },
+    {
       "label": "坡形 · 材质与两片式把手 / 按钮原理",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#poxing-cmf-fold",
       "kind": "review"
@@ -366,7 +470,7 @@
     },
     {
       "label": "灵伴 · 专用STEP未定位 / 精细模型未完成",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=20261112-source-r2#lynmate",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/history-before-review-20261113.html#lynmate",
       "kind": "review"
     },
     {
@@ -425,19 +529,23 @@
       "kind": "research"
     }
   ],
-  "galleryLabel": "本轮坡形 · 饰板与把手提议 / 既有方案保留",
+  "galleryLabel": "三款整机四视图在前 · 模型双拖拉条 · 细节在后",
   "milestone": {
-    "title": "坡形 · 饰板与把手设计提议",
+    "title": "三款GitHub评审页重排",
     "date": "2026-11-13",
-    "status": "两张概念图与原理示意已生成 · 待用户评审",
-    "summary": "三套CMF搭配对照，主推深石墨铝板；把手根部固定/活动半片同轴搭接，沿用按钮轴向解耦和对齿锁定。",
-    "approvalNote": "尚未改入坡形装配；材料样板、实际轴位、齿数、双侧同步与承载净距待核对。A/B/C未获选定。",
-    "next": "先评审材质方向、根部分件和折叠方向，再将选定结构并入同一整机模型。"
+    "status": "已发布并完成线上功能核验 · 待用户评审",
+    "summary": "三款各四张整机图；同步模型双拖拉条；细节放在最后。",
+    "approvalNote": "网页及几何姿态检查不等于造型认可或机构工程通过。",
+    "next": "逐款评审外观、人物比例及运动路径；补齐对应STEP与装配校核。"
   },
   "progress": {
     "updated": "2026-11-13",
-    "summary": "新增坡形三套底部饰板搭配和两片式齿轮按钮把手提议，待用户评审；整机模型尚未合入这些局部改动。既有三方案内容保留。",
+    "summary": "三款四视图、折叠与抬升双拖拉条、细节放大已在既有GitHub入口发布；桌面与手机功能已核验。局部探索记录保留，全部新提议待用户选择。坡形材质、两片式把手及按钮原理单列在细节区，未改入整机模型。",
     "next": [
+      {
+        "title": "逐款核对本轮整机四视图与动作",
+        "detail": "评审凌序、曜影、坡形的轮廓、人物比例、12°抬升和连续折叠，再决定局部细节。凌序、坡形需对应STEP；曜影原123°端点与120°锁位差异继续保留。"
+      },
       {
         "title": "评审坡形两片式把手与齿轮按钮",
         "detail": "先定上下分件、同轴搭接和折叠终点；再确定齿数、按钮/推杆、轴向限位与两侧同步，当前未改入真实装配。"
@@ -496,6 +604,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "三款评审统一先整机、再动作、后细节",
+        "detail": "用户本轮指定凌序、曜影、坡形，各有正常45°、正常左前45°加人物、正常正左侧、抬升左前45°加人物；模型有折叠与抬升两条拖拉条。点睛局部放在这两部分之后，不把局部探索替换为首页主题。"
+      },
       {
         "title": "坡形需要具体方案，不能只记录待定",
         "detail": "用户要求给出底部饰板材质、颜色、工艺方案，并将把手改为两片式、沿用已有齿轮按钮原理。本轮新增CMF三选一与固定/活动半片同轴搭接提议；A/B/C均未获用户选定。"
@@ -621,6 +733,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-13 · 三款四视图与双拖拉条评审页",
+        "detail": "沿用原共享网址；12张整机图、图片放大、三款同步切换、真实折叠与抬升控制、播放及竖放通过线上操作核验。曜影复用R3；凌序、坡形为外观研究，未宣称专用STEP或机构完成。旧页面与原稿保留。"
+      },
+      {
         "date": "2026-11-13",
         "title": "坡形CMF与折叠接头提议已生成",
         "detail": "完成两张概念图和可操作原理示意；A深石墨铝为建议，非用户选定。对齿前不显示锁定；30齿/12°仅示意，局部提议未并入整机。"
@@ -715,6 +831,36 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "凌序 · 本轮整机四视图",
+        "note": "正常45°／正常左前45°＋人物／正常正左侧／抬升左前45°＋人物。先看整机和双拖拉条，局部细节放在最后。",
+        "files": [
+          "documents/treadmill/review-20261113/linear-normal-45.webp",
+          "documents/treadmill/review-20261113/linear-normal-person.webp",
+          "documents/treadmill/review-20261113/linear-normal-side.webp",
+          "documents/treadmill/review-20261113/linear-lift-person.webp"
+        ]
+      },
+      {
+        "title": "曜影 · 本轮整机四视图",
+        "note": "正常45°／正常左前45°＋人物／正常正左侧／抬升左前45°＋人物。先看整机和双拖拉条，局部细节放在最后。",
+        "files": [
+          "documents/treadmill/review-20261113/origin-normal-45.webp",
+          "documents/treadmill/review-20261113/origin-normal-person.webp",
+          "documents/treadmill/review-20261113/origin-normal-side.webp",
+          "documents/treadmill/review-20261113/origin-lift-person.webp"
+        ]
+      },
+      {
+        "title": "坡形 · 本轮整机四视图",
+        "note": "正常45°／正常左前45°＋人物／正常正左侧／抬升左前45°＋人物。先看整机和双拖拉条，局部细节放在最后。",
+        "files": [
+          "documents/treadmill/review-20261113/poxing-normal-45.webp",
+          "documents/treadmill/review-20261113/poxing-normal-person.webp",
+          "documents/treadmill/review-20261113/poxing-normal-side.webp",
+          "documents/treadmill/review-20261113/poxing-lift-person.webp"
+        ]
+      },
       {
         "title": "坡形 · 本轮材质与两片式把手",
         "note": "两张新增概念提议，未选定、未改入装配。可通过上方评审入口操作按钮原理。",
