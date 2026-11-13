@@ -2,11 +2,18 @@
   "id": "nowre",
   "title": "NOWRE · B1独立场地",
   "en": "06B / NOWRE B1",
-  "description": "把候选、否决原因、场地依据和真实参考放在一起回看。当前没有最终方案：Option 1保留待改，双塔Option 2已否决。",
+  "description": "新增椭圆板与单杆电视落地架的结构组合概念，待评审。Option 1保留待改，双塔Option 2仍为已否决历史。",
   "conversation": "138009de",
   "conversationName": "NOWRE B1独立场地与陈列",
-  "note": "只依据B1手册安排场地；不带ART，保留POP实物应用示范。新效果图尚未完成，道具可用数量待核实。",
+  "note": "新结构概念已生成；椭圆板面暂沿用niko原稿示意。B1整体排布、30张以上选款与POP实物应用仍待完成，不带ART。",
   "items": [
+    {
+      "file": "documents/nowre-oval-stand-20261113/concept.png",
+      "thumb": "documents/nowre-oval-stand-20261113/concept.webp",
+      "label": "新方向 · 椭圆板 × 单杆落地架",
+      "status": "已生成 · 结构概念待评审",
+      "note": "按用户提供的无托盘电视架截图组合niko中岛椭圆板。正面单杆落地，背面展示连接；画面暂沿用niko原稿，仅作结构示意，不代表NOWRE采用圣诞联名画面。不是整摊陈列方案；30张以上选款与POP实物应用仍待排布。尺寸、板材、连接及抗倾覆待核实，未采购。"
+    },
     {
       "file": "documents/nowre-b1-render-v03/overall.png",
       "thumb": "documents/nowre-b1-render-v03/overall.webp",
@@ -73,6 +80,10 @@
   ],
   "links": [
     {
+      "label": "椭圆单杆架 · 来源、尺寸与概念边界",
+      "href": "documents/nowre-oval-stand-20261113/notes.md"
+    },
+    {
       "label": "本页图片来源与版本状态",
       "href": "documents/nowre-review-20261112/sources.md"
     },
@@ -101,20 +112,20 @@
       "href": "documents/nowre-b1-20261111/basis.md"
     }
   ],
-  "currentFocus": "核实实际可带道具，将密集选款、POP实物应用、取货空间和柜内备货一起规划。",
+  "currentFocus": "评审椭圆板与现成单杆电视架的组合，再核实安装与B1场地内选款、应用展示的关系。",
   "cancelledScope": "NOWRE不带任何ART STICKER；此前ART阶梯架、ART To_GO画面及艺术贴应用展示均停止沿用。v01/v02用户已否决，旧A1与3×3尺寸及挂钩估算也不适用。 双塔Option 2已否决，不再深化；POP应用展示必须保留。",
   "galleryLabel": "全部图稿与参考 · 点击放大、左右切换",
   "milestone": {
-    "title": "否决双塔，补回POP应用展示",
-    "date": "2026-11-12",
-    "status": "重新规划中 · 新图未完成",
-    "summary": "Option 1保留候选但需补应用；Option 2双塔已否决。",
-    "approvalNote": "现有照片只能证明道具样式，不能证明本次可调数量。",
-    "next": "核实可带货架及应用样品后，以B1柜面和实际空间重新排布。"
+    "title": "新增椭圆单杆落地架结构概念",
+    "date": "2026-11-13",
+    "status": "已生成 · 待评审",
+    "summary": "椭圆板背面连接电视架，单杆和薄底座直接落地；附正背面示意。",
+    "approvalNote": "板面暂借用niko原稿，非NOWRE最终画面；不是加工与承载证明。",
+    "next": "评审造型，核实板材、固定与抗倾覆，再排布30张以上选款及POP实物应用。"
   },
   "progress": {
-    "updated": "2026-11-12",
-    "summary": "先看下面四组图片，再看后续问题和决定。共9张图：候选/否决方案、原场地和真实参考分别标注，尚无最终选定。",
+    "updated": "2026-11-13",
+    "summary": "新增椭圆板单杆落地架结构概念，共10张图；尚无最终选定。原候选、否决方案、场地和实物参考继续保留。",
     "next": [
       {
         "title": "核实实际可带道具",
@@ -154,6 +165,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-13 椭圆单杆落地架概念",
+        "detail": "按用户所给无托盘电视架截图制作正背面结构效果，已生成待评审。未采购，未确认安装与B1最终布局。"
+      },
+      {
         "title": "2026-11-12 双塔Option 2已否决",
         "detail": "原图保留历史，不再作为当前推荐；重新核实可带道具，新图未完成。"
       },
@@ -185,6 +200,13 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "新增 / 椭圆板 × 单杆落地架",
+        "note": "用户提出的新组合方向。先看正面和背面结构，板面暂沿用niko原稿；整摊选款和应用展示尚待完成。",
+        "files": [
+          "documents/nowre-oval-stand-20261113/concept.png"
+        ]
+      },
       {
         "title": "01 / 两版并排看：保留什么，哪里没做对",
         "note": "Option 1保留候选但要补应用；双塔Option 2已否决。保留旧图用于回看问题，不表示推荐或通过。",
