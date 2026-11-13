@@ -20,6 +20,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Assemble shared project records
         run: python3 build.py
+      - name: Check project page rendering
+        run: node test_render.cjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
