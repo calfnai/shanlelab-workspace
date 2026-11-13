@@ -2,75 +2,131 @@
   "id": "niko",
   "title": "niko and… 展位",
   "en": "04 / DISPLAY",
-  "description": "海洋板 / 纸板 · 柱区共用四脚落地水管架，整体与局部一键对照。",
+  "description": "已定案：中岛采用纸展具，两面柱区采用纸板方孔插钩吊货；实样与参考资料已收录。",
   "conversation": "ea860ae7",
-  "note": "默认看整体；一个开关同步切换整体、中岛、柱子区。中岛200×100×67cm；柱子127cm外轮廓占位，截面待确认。两版柱区均为四脚落地水管架挂板。",
+  "note": "2026-11-13用户选定纸方案。以新发实样照片为当前展示依据；水管海洋板中岛转历史，原图与模型保留。尚未记录门店安装或验收。",
   "items": [
+    {
+      "file": "documents/niko-paper-selected-20261113/island-sample.jpg",
+      "thumb": "documents/niko-paper-selected-20261113/island-sample-thumb.webp",
+      "label": "纸展具 · 实样照片",
+      "status": "用户选定方案 · 实样",
+      "note": "中岛纸展具实样；照片不是店内安装全景。",
+      "selectedRole": "island"
+    },
+    {
+      "file": "documents/niko-paper-selected-20261113/column-slot-board.jpg",
+      "thumb": "documents/niko-paper-selected-20261113/column-slot-board-thumb.webp",
+      "label": "柱区纸板方孔 · 结构实物照片",
+      "status": "用户确认结构",
+      "note": "两面柱区采用纸板开方孔，插入挂钩吊货；照片作为材料与节点依据，不据照片反推尺寸。",
+      "selectedRole": "column"
+    },
+    {
+      "file": "documents/niko-paper-selected-20261113/gift-sample.jpg",
+      "thumb": "documents/niko-paper-selected-20261113/gift-sample-thumb.webp",
+      "label": "圣诞礼盒 · 实物照片",
+      "status": "用户提供实物",
+      "note": "礼盒、贴纸应用小包与随盒卡片实物。",
+      "selectedRole": "gift"
+    },
+    {
+      "file": "documents/niko-paper-selected-20261113/product-1.jpg",
+      "thumb": "documents/niko-paper-selected-20261113/product-1-thumb.webp",
+      "label": "复古磁带款 · 产品宣传图",
+      "status": "用户提供宣传图",
+      "note": "原图保留；画面注明场景为AI辅助生成，产品以实际交付实物为准。",
+      "selectedRole": "product"
+    },
+    {
+      "file": "documents/niko-paper-selected-20261113/product-2.jpg",
+      "thumb": "documents/niko-paper-selected-20261113/product-2-thumb.webp",
+      "label": "niko and…联名圣诞款 · 产品宣传图",
+      "status": "用户提供宣传图",
+      "note": "原图保留；画面注明场景为AI辅助生成，产品以实际交付实物为准。",
+      "selectedRole": "product"
+    },
+    {
+      "file": "documents/niko-paper-selected-20261113/product-3.jpg",
+      "thumb": "documents/niko-paper-selected-20261113/product-3-thumb.webp",
+      "label": "冬日针织款 · 产品宣传图",
+      "status": "用户提供宣传图",
+      "note": "原图保留；画面注明场景为AI辅助生成，产品以实际交付实物为准。",
+      "selectedRole": "product"
+    },
+    {
+      "file": "documents/niko-paper-selected-20261113/product-4.jpg",
+      "thumb": "documents/niko-paper-selected-20261113/product-4-thumb.webp",
+      "label": "圣诞祝福款 · 产品宣传图",
+      "status": "用户提供宣传图",
+      "note": "原图保留；画面注明场景为AI辅助生成，产品以实际交付实物为准。",
+      "selectedRole": "product"
+    },
     {
       "file": "demos/niko-comparison/preview/pipe-island.png",
       "thumb": "demos/niko-comparison/preview/pipe-island.png",
       "label": "水管吊海洋板 · 中岛",
-      "status": "当前对比",
-      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
+      "status": "历史方案 · 前期模型渲染",
+      "note": "前期空间参考，未同步2026-11-13实样的印刷、方孔与挂钩细节；不作为定案实样。"
     },
     {
       "file": "demos/niko-comparison/preview/pipe-column.png",
       "thumb": "demos/niko-comparison/preview/pipe-column.png",
       "label": "水管吊海洋板 · 柱子区",
-      "status": "当前对比",
-      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
+      "status": "历史方案 · 前期模型渲染",
+      "note": "前期空间参考，未同步2026-11-13实样的印刷、方孔与挂钩细节；不作为定案实样。"
     },
     {
       "file": "demos/niko-comparison/preview/pipe-back.png",
       "thumb": "demos/niko-comparison/preview/pipe-back.png",
       "label": "水管吊海洋板 · 中岛背面",
-      "status": "当前对比",
-      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
+      "status": "历史方案 · 前期模型渲染",
+      "note": "前期空间参考，未同步2026-11-13实样的印刷、方孔与挂钩细节；不作为定案实样。"
     },
     {
       "file": "demos/niko-comparison/preview/pipe-overall.png",
       "thumb": "demos/niko-comparison/preview/pipe-overall.png",
       "label": "水管吊海洋板 · 整体",
-      "status": "当前对比",
-      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
+      "status": "历史方案 · 前期模型渲染",
+      "note": "前期空间参考，未同步2026-11-13实样的印刷、方孔与挂钩细节；不作为定案实样。"
     },
     {
       "file": "demos/niko-comparison/preview/paper-island.png",
       "thumb": "demos/niko-comparison/preview/paper-island.png",
       "label": "纯纸板 · 中岛",
-      "status": "当前对比",
-      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
+      "status": "历史方案 · 前期模型渲染",
+      "note": "前期空间参考，未同步2026-11-13实样的印刷、方孔与挂钩细节；不作为定案实样。"
     },
     {
       "file": "demos/niko-comparison/preview/paper-column.png",
       "thumb": "demos/niko-comparison/preview/paper-column.png",
       "label": "纯纸板 · 柱子区",
-      "status": "当前对比",
-      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
+      "status": "历史方案 · 前期模型渲染",
+      "note": "前期空间参考，未同步2026-11-13实样的印刷、方孔与挂钩细节；不作为定案实样。"
     },
     {
       "file": "demos/niko-comparison/preview/paper-back.png",
       "thumb": "demos/niko-comparison/preview/paper-back.png",
       "label": "纯纸板 · 中岛背面",
-      "status": "当前对比",
-      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
+      "status": "历史方案 · 前期模型渲染",
+      "note": "前期空间参考，未同步2026-11-13实样的印刷、方孔与挂钩细节；不作为定案实样。"
     },
     {
       "file": "demos/niko-comparison/preview/paper-overall.png",
       "thumb": "demos/niko-comparison/preview/paper-overall.png",
       "label": "纯纸板 · 整体",
-      "status": "当前对比",
-      "note": "底座200×100×67cm；柱体127cm占位，截面待核；柱区四脚管架落地。"
+      "status": "历史方案 · 前期模型渲染",
+      "note": "前期空间参考，未同步2026-11-13实样的印刷、方孔与挂钩细节；不作为定案实样。"
     }
   ],
   "links": [
     {
-      "label": "水管吊海洋板 · 3D",
+      "label": "水管海洋板方案 · 前期3D参考",
       "href": "demos/niko-comparison/viewer.html?scheme=pipe",
       "kind": "3d"
     },
     {
-      "label": "纯纸板 · 3D",
+      "label": "纸方案 · 前期3D参考",
       "href": "demos/niko-comparison/viewer.html?scheme=paper",
       "kind": "3d"
     },
@@ -90,13 +146,15 @@
         "id": "pipe",
         "title": "水管吊海洋板",
         "tag": "A / PIPE + MARINE PLYWOOD",
-        "summary": "中岛单排水管架以圆形法兰固定原台面，不加高台座，商品直接摆台面；顶部两点吊挂、左右短限位。柱区用四脚落地管架围住127×127cm方柱。"
+        "summary": "中岛单排水管架以圆形法兰固定原台面，不加高台座，商品直接摆台面；顶部两点吊挂、左右短限位。柱区用四脚落地管架围住127×127cm方柱。",
+        "status": "历史方案 · 未采用"
       },
       {
         "id": "paper",
-        "title": "纯纸板（中岛）",
+        "title": "纸展位 · 已选定",
         "tag": "B / CORRUGATED BOARD",
-        "summary": "双面夹层纸板展台：仅椭圆中间夹层露原色，其余外表面可印刷；柱区仍为落地管架挂纸板。"
+        "summary": "中岛采用纸展具，两面柱区采用纸板开方孔、插钩挂货；当前以用户实样照片为依据。",
+        "status": "用户选定"
       }
     ],
     "withdrawn": "用户截图指定的被否决或严重错误版本已退出成果展示。原始参考资料保留。",
@@ -220,7 +278,24 @@
       "flangeBases": 2,
       "baseType": "round screw-fixed flange with short socket",
       "flangeDiameterAssumedCm": 12
+    },
+    "selected": {
+      "scheme": "paper",
+      "date": "2026-11-13",
+      "status": "用户选定",
+      "island": "纸展具",
+      "column": "两面纸板开方孔，插钩吊货",
+      "modelStatus": "前期尺寸参考，未同步实样细节",
+      "installationStatus": "未记录安装验收"
+    },
+    "columnHanging": {
+      "material": "纸板",
+      "openings": "方孔",
+      "fixture": "插入式挂钩",
+      "sides": 2,
+      "holeDimensions": "未提供，按实物及挂钩确认"
     }
   },
-  "conversationName": "niko and 设计最终版回顾"
+  "conversationName": "niko and 设计最终版回顾",
+  "currentFocus": "纸展位已选定；柱区两面纸板方孔挂货。"
 }
