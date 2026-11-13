@@ -184,11 +184,11 @@
       "note": "参考细颗粒皮纹、油润柔光与规整缝线，包覆略饱满；质感仍待用户评审。 生成图，未改入模型，未证明实物触感或防滑性能。"
     },
     {
-      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
-      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
-      "label": "凌序 · 柔哑光硅胶握把",
-      "status": "重做概念 · 待评审",
-      "note": "进一步压低纹理线宽、起伏与对比，远看柔和细哑光、近看才辨浅纹。保持握把原截面；未改模型，未验证实物触感或性能。"
+      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
+      "label": "凌序 · 流线硅胶握把",
+      "status": "包覆造型新提议 · 待评审",
+      "note": "肩部顺接、握持段轻收、薄端盖及随曲面延展的浅纹；借鉴用户手环参考的曲面与包覆感。新增造型提议，未改CAD或验证装配、材料性能。"
     },
     {
       "file": "documents/treadmill/linear-grips-20261113/04-heart-rate.webp",
@@ -673,7 +673,7 @@
       },
       {
         "title": "评审三款握把材质修订",
-        "detail": "核对v3防滑斜筋的尺度、皮革质感与缝线，以及v3硅胶柔哑光和极浅细纹。新图待评审；材料与纹理参数待打样。"
+        "detail": "核对v3防滑斜筋的尺度、皮革质感与缝线，以及v4硅胶包覆与机身线条的协调。新图待评审；材料与纹理参数待打样。"
       },
       {
         "title": "先解决两款真实机构约束",
@@ -753,6 +753,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "硅胶要与机身流线协调",
+        "detail": "用户否决v3与机身流线不匹配；要求借鉴其手环参考的优雅感。本轮重新处理包覆曲面和肩部、端盖衔接，不再只改纹理。新图待评审。"
+      },
       {
         "title": "每款补家中竖立收纳效果图，家居按机型风格搭配",
         "detail": "用户要求效果图放在家里，由设计方根据每台机子的风格安排家居。当前三款为凌序、曜影、坡形。新图待评审，不将已撤回的旧机构恢复为可行方案。"
@@ -933,6 +937,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-13 · 硅胶包覆流线重做v4",
+        "detail": "替换被否决的v3；本轮以主近景和侧视展示肩部衔接、握持段轻收、薄端盖及顺曲面浅纹。其他三款沿用，新图待评审。"
+      },
       {
         "title": "2026-11-13 · 三款竖立收纳家居效果图",
         "detail": "内置image_gen基于当前外观参考生成3张独立家居图，分别加入各款整机图库并提供放大。底盖分区为新增视觉提议，未改入模型。旧折叠撤回说明保留。"
@@ -1263,6 +1271,13 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
+      "label": "凌序 · 柔哑光硅胶握把",
+      "status": "用户否决：与机身流线不匹配 · 退出当前展示",
+      "note": "用户认为仅柔化纹理仍不好看，与机身流线不匹配；原稿保留追溯，不作造型基准。"
+    },
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
       "thumb": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
