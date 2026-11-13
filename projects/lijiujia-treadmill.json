@@ -9,11 +9,11 @@
   "currentFocus": "竖放家居图纠错v2待评审：凌序镜面，下电机盖与抬升架可见，机头在下；曜影改现代银橙家居。上一批三张被否决、退出展示。 曜影已按三张用户原稿修订圆弧低机头、机底支撑与胶囊形抬升包覆，新图及模型待查看。坡形本轮以用户指定的两片式把手概念图为局部外形目标，已做效果图和可操作局部3D；不把整机折叠撤回扩大为否决该外形。坡形（大C）保留原有外形，仅借用齿轮机构原理；机构适配不能擅自改形。先分别明确凌序、坡形的固定下梁、活动立柱、扶手／控制台分件和真实轴线，核对整个扫掠路径与锁止。此前UI滑条可用的核验结论不代表机构可行。",
   "items": [
     {
-      "file": "documents/treadmill/home-upright-v2-20261113/linear-home-upright-v2.webp",
-      "thumb": "documents/treadmill/home-upright-v2-20261113/linear-home-upright-v2.webp",
+      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-home-mirror-trim.webp",
+      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-home-mirror-trim.webp",
       "label": "凌序 · 竖放家居纠错v2",
-      "status": "新视觉修订 · 待用户评审",
-      "note": "镜面底面、细直银框。机头、电机及抬升区在下、机尾在上；跑面朝墙、机底朝室内。下电机盖与独立抬升架可见；生成图并非精确CAD，未修改模型，旧冲突折叠继续撤回。"
+      "status": "镜面分区要求已确认 · 修订图待评审",
+      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
     },
     {
       "file": "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
@@ -86,32 +86,32 @@
       "note": "用户明确指出此版仍偏离原稿。只删除两个凸块没有修复机头及支撑关系，不作为修正完成或当前造型依据。"
     },
     {
-      "file": "documents/treadmill/review-20261113/linear-normal-45.webp",
-      "thumb": "documents/treadmill/review-20261113/linear-normal-45.webp",
+      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-45.webp",
+      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-45.webp",
       "label": "凌序 · 正常形态45°",
-      "status": "展开／抬升外观研究 · 折叠已否决",
-      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。 用户本轮否决旧折叠；图中保留的外观不代表可行折叠。"
+      "status": "镜面分区要求已确认 · 修订图待评审",
+      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
     },
     {
-      "file": "documents/treadmill/review-20261113/linear-normal-person.webp",
-      "thumb": "documents/treadmill/review-20261113/linear-normal-person.webp",
+      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-person.webp",
+      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-person.webp",
       "label": "凌序 · 正常左前45°＋人物",
-      "status": "展开／抬升外观研究 · 折叠已否决",
-      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。 用户本轮否决旧折叠；图中保留的外观不代表可行折叠。"
+      "status": "镜面分区要求已确认 · 修订图待评审",
+      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
     },
     {
-      "file": "documents/treadmill/review-20261113/linear-normal-side.webp",
-      "thumb": "documents/treadmill/review-20261113/linear-normal-side.webp",
+      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-side.webp",
+      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-side.webp",
       "label": "凌序 · 正常正左侧",
-      "status": "展开／抬升外观研究 · 折叠已否决",
-      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。 用户本轮否决旧折叠；图中保留的外观不代表可行折叠。"
+      "status": "镜面分区要求已确认 · 修订图待评审",
+      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
     },
     {
-      "file": "documents/treadmill/review-20261113/linear-lift-person.webp",
-      "thumb": "documents/treadmill/review-20261113/linear-lift-person.webp",
+      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-lift-person.webp",
+      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-lift-person.webp",
       "label": "凌序 · 抬升左前45°＋人物",
-      "status": "展开／抬升外观研究 · 折叠已否决",
-      "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。 用户本轮否决旧折叠；图中保留的外观不代表可行折叠。"
+      "status": "镜面分区要求已确认 · 修订图待评审",
+      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
     },
     {
       "file": "documents/treadmill/review-20261113/origin-normal-45.webp",
@@ -664,9 +664,13 @@
     "next": "分别确定真实轴线和分件，再做全过程干涉、净距与锁止检查。"
   },
   "progress": {
-    "updated": "2026-11-13",
+    "updated": "2026-11-14",
     "summary": "曜影造型实际修订：封合圆弧横向机头，恢复机底黑色支撑、胶囊形抬升包覆及银橙外观；原始STEP保留，新低罩为网页适配提议。此前只删凸块的错误修订已撤回。新增按指定概念实现的局部效果图与可转动3D。局部0–90°截面采样检查通过；按钮内部传动、承载及整机折叠未完成工程核验。坡形大C明确只参考齿轮机构，不授权移植外形；擅自改形的3D保持撤回。用户否决凌序、坡形（大C）的旧折叠：活动立柱与固定下梁冲突。已撤下两款折叠、播放、竖放及独立坡形两轴研究；展开外观与材料图保留。新折叠机构未完成。",
     "next": [
+      {
+        "title": "评审下层侧饰板镜面效果",
+        "detail": "核对左右连续长条的范围、与上层银框分界及竖放观感；镜面基材、工艺、耐刮和边缘防护后续打样确认。"
+      },
       {
         "title": "查看曜影本轮造型修订并继续工程校核",
         "detail": "核对新圆弧低罩、黑色机底支撑和胶囊形抬升包覆；厚度、装配、整个动作扫掠、锁止、承载及竖放稳定性待核验。"
@@ -753,6 +757,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "凌序左右侧饰板下半截均为镜面",
+        "detail": "用户圈注水平/抬升侧板下层长条面，以及竖放后对应的两条完整长边；下半截指侧板厚度方向，不能把竖边按上下长度切成一半。"
+      },
       {
         "title": "否决首批家居收纳图：镜面、结构、方向及曜影feel错误",
         "detail": "用户明确凌序底面是镜面，全部效果图漏下电机盖和抬升机构，方向反；曜影不应配偏新中式家居。已撤下首批三图，修订图不自动视为认可。"
@@ -942,6 +950,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-14 · 凌序镜面下层饰板更新",
+        "detail": "更新可操作概念模型的两条下层饰板材质及同模型四视图，重绘家居图整段镜面长边。分区要求确认，图面效果待评审；STEP及制造验证未完成。"
+      },
+      {
         "title": "2026-11-13 · 首批家居图否决与v2视觉修订",
         "detail": "旧三张移至否决历史；新图恢复凌序镜面、可见下电机与抬升架，按机头在下、跑面朝墙方向表达。曜影改银橙现代空间。图面修订不等同于模型或机构完成。"
       },
@@ -1113,10 +1125,18 @@
     ],
     "visualGroups": [
       {
+        "title": "凌序 · 侧饰板下层镜面",
+        "note": "范围按用户圈注确认；上层银框保持分区，竖放两条长边连续镜面。新图待评审，未修改STEP。",
+        "files": [
+          "documents/treadmill/linear-mirror-trim-20261114/linear-home-mirror-trim.webp",
+          "documents/treadmill/linear-mirror-trim-20261114/linear-lift-person.webp"
+        ]
+      },
+      {
         "title": "三款 · 竖放家居纠错v2",
         "note": "镜面、下电机盖、独立抬升架及收纳朝向修订；曜影现代银橙空间。新图待评审，未修改模型。",
         "files": [
-          "documents/treadmill/home-upright-v2-20261113/linear-home-upright-v2.webp",
+          "documents/treadmill/linear-mirror-trim-20261114/linear-home-mirror-trim.webp",
           "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
           "documents/treadmill/home-upright-v2-20261113/poxing-home-upright-v2.webp"
         ]
@@ -1157,10 +1177,10 @@
         "title": "凌序 · 本轮整机四视图",
         "note": "正常45°／正常左前45°＋人物／正常正左侧／抬升左前45°＋人物。先看整机和双拖拉条，局部细节放在最后。",
         "files": [
-          "documents/treadmill/review-20261113/linear-normal-45.webp",
-          "documents/treadmill/review-20261113/linear-normal-person.webp",
-          "documents/treadmill/review-20261113/linear-normal-side.webp",
-          "documents/treadmill/review-20261113/linear-lift-person.webp"
+          "documents/treadmill/linear-mirror-trim-20261114/linear-normal-45.webp",
+          "documents/treadmill/linear-mirror-trim-20261114/linear-normal-person.webp",
+          "documents/treadmill/linear-mirror-trim-20261114/linear-normal-side.webp",
+          "documents/treadmill/linear-mirror-trim-20261114/linear-lift-person.webp"
         ]
       },
       {
@@ -1279,6 +1299,41 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/review-20261113/linear-lift-person.webp",
+      "thumb": "documents/treadmill/review-20261113/linear-lift-person.webp",
+      "label": "凌序 · 抬升左前45°＋人物",
+      "status": "下层侧饰板镜面更新前 · 历史",
+      "note": "本轮补充了镜面范围要求；旧图保留追溯。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/linear-normal-side.webp",
+      "thumb": "documents/treadmill/review-20261113/linear-normal-side.webp",
+      "label": "凌序 · 正常正左侧",
+      "status": "下层侧饰板镜面更新前 · 历史",
+      "note": "本轮补充了镜面范围要求；旧图保留追溯。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/linear-normal-person.webp",
+      "thumb": "documents/treadmill/review-20261113/linear-normal-person.webp",
+      "label": "凌序 · 正常左前45°＋人物",
+      "status": "下层侧饰板镜面更新前 · 历史",
+      "note": "本轮补充了镜面范围要求；旧图保留追溯。"
+    },
+    {
+      "file": "documents/treadmill/review-20261113/linear-normal-45.webp",
+      "thumb": "documents/treadmill/review-20261113/linear-normal-45.webp",
+      "label": "凌序 · 正常形态45°",
+      "status": "下层侧饰板镜面更新前 · 历史",
+      "note": "本轮补充了镜面范围要求；旧图保留追溯。"
+    },
+    {
+      "file": "documents/treadmill/home-upright-v2-20261113/linear-home-upright-v2.webp",
+      "thumb": "documents/treadmill/home-upright-v2-20261113/linear-home-upright-v2.webp",
+      "label": "凌序 · 竖放家居纠错v2",
+      "status": "下层侧饰板镜面更新前 · 历史",
+      "note": "本轮补充了镜面范围要求；旧图保留追溯。"
+    },
     {
       "file": "documents/treadmill/home-upright-20261113/linear-home-upright.webp",
       "thumb": "documents/treadmill/home-upright-20261113/linear-home-upright.webp",
