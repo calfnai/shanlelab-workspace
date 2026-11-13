@@ -16,10 +16,11 @@ const context=vm.createContext({
 });
 vm.runInContext(readFileSync('site/app.js','utf8'),context);
 assert.match(element('#content').innerHTML,/<h1>杭州新物集 SPACE<\/h1>/);
-assert.match(element('#content').innerHTML,/documents\/hangzhou-space-oval-stand-20261113\/concept.png/);
+const currentImage=data.projects.find(p=>p.id==='hangzhou-xinwuji-space').items[0].file;
+assert.ok(element('#content').innerHTML.includes(currentImage));
 context.showImage(0);
 assert.equal(element('#lightbox').open,true);
-assert.equal(element('#full-image').src,'documents/hangzhou-space-oval-stand-20261113/concept.png');
+assert.equal(element('#full-image').src,currentImage);
 let routes=0;
 for(const p of data.projects){
   assert.doesNotThrow(()=>context.projectProgress(p),p.id);

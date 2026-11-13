@@ -2,18 +2,18 @@
   "id": "hangzhou-xinwuji-space",
   "title": "杭州新物集 SPACE",
   "en": "06C / HANGZHOU XINWUJI SPACE",
-  "description": "两个候选方案并列对比：椭圆板 × 单杆落地架，以及四笼网格 × 新KT原稿四面混合陈列。尚未最终选定。",
-  "note": "四笼方案使用本次指定原图；两个视角属于同一方案。椭圆单杆方案为结构概念，板面暂借用niko原稿。两版并行保留。",
+  "description": "两个候选方案并列：椭圆单杆落地架（已改用用户指定反面选款画面），以及四笼网格 × 新KT四面混合陈列。尚未最终选定结构方案。",
+  "note": "电视架方案当前用反面密集选款画面，旧正面v01转历史；四笼方案继续使用用户指定原图。两版结构方案并行保留。",
   "conversation": "213cccac",
   "conversationName": "杭州新物集 SPACE · 两个 option",
   "currentFocus": "比较两个option的空间占用、选款展示、包袋应用与携带安装方式，等待最终选择。",
   "items": [
     {
-      "file": "documents/hangzhou-space-oval-stand-20261113/concept.png",
-      "thumb": "documents/hangzhou-space-oval-stand-20261113/concept.webp",
-      "label": "候选 · 椭圆板 × 单杆落地架",
-      "status": "候选方案 · 结构概念待评审",
-      "note": "按用户提供的无托盘电视架截图制作正背面概念。单立杆、平板底座，背面安装件；板面暂沿用niko原稿。结构与尺寸仅示意，不代表加工定案。另一option不因本图生成而被替换。"
+      "file": "documents/hangzhou-space-oval-stand-v02-reverse-20261113/concept.png",
+      "thumb": "documents/hangzhou-space-oval-stand-v02-reverse-20261113/concept.webp",
+      "label": "候选 · 椭圆单杆落地架 v02反面选款",
+      "status": "用户已指定使用反面 · 效果待评审",
+      "note": "按用户提供的反面原稿替换板面，五排4+6+6+6+4共26个包装展示位置，含重复款。单杆、平板底座及背面安装视角沿用；画面采用已明确，整个结构方案尚未最终选定。生成效果细节以所附原稿为准。"
     },
     {
       "file": "documents/hangzhou-space-cage-kt-20261113/concept.png",
@@ -25,8 +25,12 @@
   ],
   "links": [
     {
-      "label": "结构概念说明与尺寸边界",
-      "href": "documents/hangzhou-space-oval-stand-20261113/notes.md"
+      "label": "电视架v02 · 反面选款说明",
+      "href": "documents/hangzhou-space-oval-stand-v02-reverse-20261113/notes.md"
+    },
+    {
+      "label": "用户指定的反面原稿",
+      "href": "documents/hangzhou-space-oval-stand-v02-reverse-20261113/source-face.png"
     },
     {
       "label": "四笼KT方案 · 图面尺寸与候选状态",
@@ -35,8 +39,12 @@
   ],
   "progress": {
     "updated": "2026-11-13",
-    "summary": "两个option均已收录：椭圆单杆落地架与四笼KT混合陈列。用户确认的是两者的候选身份，尚未最终选定。",
+    "summary": "电视架option已按用户指定改用反面密集选款原稿；四笼KT option并列保留，两种结构尚未最终选定。",
     "decisions": [
+      {
+        "title": "电视架改用反面选款画面",
+        "detail": "用户明确不使用上一版正面，指定所附反面密集选款原稿；立杆和底座沿用。此更正不等于两个结构option已有最终选择。"
+      },
       {
         "title": "四笼KT图为另一个option",
         "detail": "用户本次明确指定四笼网格、新KT原稿、四面混合陈列图为新物集SPACE的其中一个option，与椭圆单杆方案并行保留。"
@@ -49,9 +57,9 @@
     "visualGroups": [
       {
         "title": "两个 option · 并列对比",
-        "note": "左：椭圆单杆结构概念；右：四笼KT四面混合陈列。手机端依次展示，点击图片可放大。",
+        "note": "左：电视架v02反面选款；右：四笼KT混合陈列。手机端依次展示，点击可放大。",
         "files": [
-          "documents/hangzhou-space-oval-stand-20261113/concept.png",
+          "documents/hangzhou-space-oval-stand-v02-reverse-20261113/concept.png",
           "documents/hangzhou-space-cage-kt-20261113/concept.png"
         ]
       }
@@ -64,9 +72,22 @@
     ],
     "history": [
       {
+        "title": "2026-11-13 电视架v02反面",
+        "detail": "更新为五排26个包装展示位置的反面画面，v01旧正面转历史。"
+      },
+      {
         "title": "2026-11-13 两个候选均已收录",
         "detail": "原样加入用户指定的四笼KT图，与已生成的椭圆单杆结构图并列。"
       }
     ]
-  }
+  },
+  "reviewArchive": [
+    {
+      "file": "documents/hangzhou-space-oval-stand-20261113/concept.png",
+      "thumb": "documents/hangzhou-space-oval-stand-20261113/concept.webp",
+      "label": "历史 · v01误用原正面",
+      "status": "已替换 · 用户指定改用反面",
+      "note": "旧正面效果，仅保留版本历史。当前电视架方案使用v02反面密集选款画面。"
+    }
+  ]
 }
