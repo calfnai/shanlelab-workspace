@@ -2,11 +2,11 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "凌序、曜影、坡形并列：每款四张整机图，模型提供折叠与抬升双拖拉条，最后查看局部细节。新图及运动提议待评审。新增坡形材质与两片式把手提议在细节区保留。",
+  "description": "凌序、曜影、坡形并列：每款四张整机图，模型提供折叠与抬升双拖拉条，最后查看局部细节。新图及运动提议待评审。新增坡形材质与两片式把手提议在细节区保留。 凌序新增粗防滑、皮质、扁平硅胶、心率监测四类把手外观概念，待评审。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
-  "currentFocus": "按本轮要求重新组织三款GitHub评审。曜影复用源STEP加R3修改；凌序、坡形为按图重建研究，工程核验未完成。既有局部探索及其确认状态保留。坡形三套CMF与两片式把手为待选提议，尚未改入上方整机模型。",
+  "currentFocus": "按本轮要求重新组织三款GitHub评审。曜影复用源STEP加R3修改；凌序、坡形为按图重建研究，工程核验未完成。既有局部探索及其确认状态保留。坡形三套CMF与两片式把手为待选提议，尚未改入上方整机模型。 凌序拐角获总体肯定，新增四类客制把手；折面肩部仅作统一展示底座，心率电路与实测待完成。",
   "items": [
     {
       "file": "documents/treadmill/review-20261113/linear-normal-45.webp",
@@ -93,6 +93,34 @@
       "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。下饰板为独立分区，材质未选定；不把灵伴改名为坡形。"
     },
     {
+      "file": "documents/treadmill/linear-grips-20261113/01-thick-antislip.webp",
+      "thumb": "documents/treadmill/linear-grips-20261113/01-thick-antislip.webp",
+      "label": "凌序客制把手 · 粗防滑把手",
+      "status": "新增外观概念 · 待评审",
+      "note": "沿用上一轮折面肩部作统一展示底座，不代表选定拐角。尺寸、承载、互换接口及折叠净距待校核；心率款仅展示接触电极布局，电路与实测未完成。"
+    },
+    {
+      "file": "documents/treadmill/linear-grips-20261113/02-leather.webp",
+      "thumb": "documents/treadmill/linear-grips-20261113/02-leather.webp",
+      "label": "凌序客制把手 · 皮质把手",
+      "status": "新增外观概念 · 待评审",
+      "note": "沿用上一轮折面肩部作统一展示底座，不代表选定拐角。尺寸、承载、互换接口及折叠净距待校核；心率款仅展示接触电极布局，电路与实测未完成。"
+    },
+    {
+      "file": "documents/treadmill/linear-grips-20261113/03-flat-silicone.webp",
+      "thumb": "documents/treadmill/linear-grips-20261113/03-flat-silicone.webp",
+      "label": "凌序客制把手 · 扁平硅胶把手",
+      "status": "新增外观概念 · 待评审",
+      "note": "沿用上一轮折面肩部作统一展示底座，不代表选定拐角。尺寸、承载、互换接口及折叠净距待校核；心率款仅展示接触电极布局，电路与实测未完成。"
+    },
+    {
+      "file": "documents/treadmill/linear-grips-20261113/04-heart-rate.webp",
+      "thumb": "documents/treadmill/linear-grips-20261113/04-heart-rate.webp",
+      "label": "凌序客制把手 · 心率监测把手",
+      "status": "新增外观概念 · 待评审",
+      "note": "沿用上一轮折面肩部作统一展示底座，不代表选定拐角。尺寸、承载、互换接口及折叠净距待校核；心率款仅展示接触电极布局，电路与实测未完成。"
+    },
+    {
       "file": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
       "thumb": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
       "label": "坡形 · 三套底部饰板材质搭配",
@@ -110,28 +138,28 @@
       "file": "documents/treadmill/linear-junction-20261113/01-continuous-radius.webp",
       "thumb": "documents/treadmill/linear-junction-20261113/01-continuous-radius.webp",
       "label": "凌序上端接头 · 一体圆角",
-      "status": "新增外观提议 · 待评审",
+      "status": "拐角方向获总体肯定 · 具体款未选定",
       "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
     },
     {
       "file": "documents/treadmill/linear-junction-20261113/02-chamfered-shoulder.webp",
       "thumb": "documents/treadmill/linear-junction-20261113/02-chamfered-shoulder.webp",
       "label": "凌序上端接头 · 折面肩部",
-      "status": "新增外观提议 · 待评审",
+      "status": "拐角方向获总体肯定 · 具体款未选定",
       "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
     },
     {
       "file": "documents/treadmill/linear-junction-20261113/03-recessed-collar.webp",
       "thumb": "documents/treadmill/linear-junction-20261113/03-recessed-collar.webp",
       "label": "凌序上端接头 · 分件包覆",
-      "status": "新增外观提议 · 待评审",
+      "status": "拐角方向获总体肯定 · 具体款未选定",
       "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
     },
     {
       "file": "documents/treadmill/linear-junction-20261113/04-inset-support.webp",
       "thumb": "documents/treadmill/linear-junction-20261113/04-inset-support.webp",
       "label": "凌序上端接头 · 内收支撑",
-      "status": "新增外观提议 · 待评审",
+      "status": "拐角方向获总体肯定 · 具体款未选定",
       "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
     },
     {
@@ -424,6 +452,11 @@
   ],
   "links": [
     {
+      "label": "凌序 · 四款客制化把手",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#linear-grips",
+      "kind": "review"
+    },
+    {
       "label": "三款整机 · 四视图／折叠与抬升／细节放大",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/",
       "kind": "review"
@@ -540,8 +573,12 @@
   },
   "progress": {
     "updated": "2026-11-13",
-    "summary": "三款四视图、折叠与抬升双拖拉条、细节放大已在既有GitHub入口发布；桌面与手机功能已核验。局部探索记录保留，全部新提议待用户选择。坡形材质、两片式把手及按钮原理单列在细节区，未改入整机模型。",
+    "summary": "凌序四款客制化把手外观图已生成，待用户评审；刚才拐角设计获用户总体肯定，未指定某一款。心率款仅为电极布局概念。",
     "next": [
+      {
+        "title": "评审四款把手并深化接口",
+        "detail": "确认粗细、皮质、扁平硅胶和电极布局方向；随后核对握持尺度、承力芯、防转、包覆分件与折叠净距，心率款需电路和样机实测。"
+      },
       {
         "title": "逐款核对本轮整机四视图与动作",
         "detail": "评审凌序、曜影、坡形的轮廓、人物比例、12°抬升和连续折叠，再决定局部细节。凌序、坡形需对应STEP；曜影原123°端点与120°锁位差异继续保留。"
@@ -604,6 +641,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "凌序拐角获总体肯定，继续四类客制把手",
+        "detail": "用户要求粗防滑、皮质、扁平硅胶与心率监测四类。未指定上一轮拐角的具体编号；本轮用折面肩部作一致比较，不能记录为用户选定。"
+      },
       {
         "title": "三款评审统一先整机、再动作、后细节",
         "detail": "用户本轮指定凌序、曜影、坡形，各有正常45°、正常左前45°加人物、正常正左侧、抬升左前45°加人物；模型有折叠与抬升两条拖拉条。点睛局部放在这两部分之后，不把局部探索替换为首页主题。"
@@ -732,6 +773,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-13 · 凌序四款客制化把手",
+        "detail": "内置imagegen生成四张外观图，每张含主近景、辅助角度及整机定位。保留刚才的拐角与原整机语言；尚未完成模块互换结构和心率电路验证。"
+      },
       {
         "title": "2026-11-13 · 三款四视图与双拖拉条评审页",
         "detail": "沿用原共享网址；12张整机图、图片放大、三款同步切换、真实折叠与抬升控制、播放及竖放通过线上操作核验。曜影复用R3；凌序、坡形为外观研究，未宣称专用STEP或机构完成。旧页面与原稿保留。"
