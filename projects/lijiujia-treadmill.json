@@ -626,6 +626,11 @@
       "label": "XT11 · 六处细节截图与设计参考",
       "href": "https://calfnai.github.io/shanlelab-workspace/documents/treadmill/xt11-detail-study-20261111/",
       "kind": "research"
+    },
+    {
+      "label": "完整项目私有主档 · 需仓库权限",
+      "href": "https://github.com/calfnai/lijiujia-project",
+      "kind": "archive"
     }
   ],
   "galleryLabel": "三款整机四视图在前 · 模型双拖拉条 · 细节在后",
@@ -727,6 +732,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "项目文件以GitHub私有主档为准",
+        "detail": "用户要求完成当前工作后，以GitHub保存立久佳项目全部文件并适当清理本地。完整源码、参考素材与原始CAD分别在私有仓库main及Release保存；公开评审入口沿用原站，原始厂商资料不转为公开。设计认可、撤回及工程待验证状态保持各自原记录。"
+      },
       {
         "title": "硅胶不能有粗网格感",
         "detail": "用户再次否决v2硅胶太粗鲁；本轮压低纹理线宽、起伏与对比，保持原握把截面。柔哑光新图待评审，不自动视为用户认可。"
@@ -899,6 +908,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-13 · 完整私有归档与本地清理",
+        "detail": "私有主档及大文件Release已保存并回读校验。152个历史生成图与编译预览、临时副本合计约316MiB转为按需恢复；原始STEP、修订STEP、当前模型输入及最新成果保留本地。GitHub保存完整文件历史，归档不视为设计完成或新增认可。"
+      },
       {
         "title": "2026-11-13 · 硅胶柔哑光重做v3",
         "detail": "替换原清晰交叉网格图，主视角近乎连续哑光，特写保留极浅细纹。其他三款沿用，新图待评审。"
