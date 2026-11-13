@@ -6,8 +6,22 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
-  "currentFocus": "曜影前端纠正：用户否决圈出的左右小墩，已撤去新增支座及软鞋；竖放接地点待重新设计。按本轮要求重新组织三款GitHub评审。曜影复用源STEP加R3修改；凌序、坡形为按图重建研究，工程核验未完成。既有局部探索及其确认状态保留。坡形三套CMF与两片式把手为待选提议，尚未改入上方整机模型。 凌序拐角获总体肯定，新增四类客制把手；折面肩部仅作统一展示底座，心率电路与实测待完成。",
+  "currentFocus": "曜影前端纠正：用户否决圈出的左右小墩，已撤去新增支座及软鞋；竖放接地点待重新设计。按本轮要求重新组织三款GitHub评审。曜影复用源STEP加R3修改；凌序、坡形为按图重建研究，工程核验未完成。既有局部探索及其确认状态保留。坡形三套CMF与两片式把手为待选提议，尚未改入上方整机模型。 凌序拐角获总体肯定，新增四类客制把手；折面肩部仅作统一展示底座，心率电路与实测待完成。 坡形大C新增独立两轴3D研究：先翻扶手、再收立柱；上轴分件与下轴支座可直接查看，仍属待评审提议。",
   "items": [
+    {
+      "file": "documents/treadmill/poxing-handle-3d-20261113/joint-preview.webp",
+      "thumb": "documents/treadmill/poxing-handle-3d-20261113/joint-preview.webp",
+      "label": "坡形大C · A上轴固定肩部与活动扶手",
+      "status": "新增3D结构提议 · 待用户评审",
+      "note": "实际WebGL截图，按坡形外观重建；非源STEP。新增上下两轴、侧向错层及抬高下轴。按钮驱动、联动、锁止、全机干涉与承载未核验。"
+    },
+    {
+      "file": "documents/treadmill/poxing-handle-3d-20261113/fold-preview.webp",
+      "thumb": "documents/treadmill/poxing-handle-3d-20261113/fold-preview.webp",
+      "label": "坡形大C · B下轴与折平空间",
+      "status": "新增3D结构提议 · 待用户评审",
+      "note": "实际WebGL截图，按坡形外观重建；非源STEP。新增上下两轴、侧向错层及抬高下轴。按钮驱动、联动、锁止、全机干涉与承载未核验。"
+    },
     {
       "file": "documents/treadmill/origin-front-correction-20261113.webp",
       "thumb": "documents/treadmill/origin-front-correction-20261113.webp",
@@ -459,6 +473,11 @@
   ],
   "links": [
     {
+      "label": "坡形大C · 两轴折叠3D／关节特写／GLB",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/poxing-handle-3d-20261113/",
+      "kind": "3d"
+    },
+    {
       "label": "凌序 · 四款客制化把手",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#linear-grips",
       "kind": "review"
@@ -580,8 +599,12 @@
   },
   "progress": {
     "updated": "2026-11-13",
-    "summary": "凌序四款客制化把手外观图已生成，待用户评审；刚才拐角设计获用户总体肯定，未指定某一款。心率款仅为电极布局概念。",
+    "summary": "凌序四款客制化把手外观图已生成，待用户评审；刚才拐角设计获用户总体肯定，未指定某一款。心率款仅为电极布局概念。 新增坡形大C两轴3D研究，已核验公共页面旋转、折叠控制、分件展开、手机与GLB下载；不等于机构工程确认。",
     "next": [
+      {
+        "title": "坡形两轴关节继续工程核验",
+        "detail": "确认抬高下轴与外侧错层的造型取舍，再做双侧按钮联动、轴承与金属内骨架、齿位、壳体公差和全程干涉/夹手检查。"
+      },
       {
         "title": "曜影竖放接地点重新设计",
         "detail": "原新增前端支座与软鞋已被否决；真实接地、避让与稳定性尚未完成，不能以竖放姿态动画作为验证。"
@@ -652,6 +675,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "坡形原两片式把手图只认可外观吸引力",
+        "detail": "用户说好看但不写实，需说明从哪里折并提供3D。原图向下箭头与爆炸图不能当作已成立结构；本轮新增两轴上翻后收下的待验证路径。"
+      },
       {
         "title": "曜影左右前端凸块错误，撤销该提议",
         "detail": "用户圈注否决R3新增固定梁端支座及深色竖放软鞋；撤去两侧共4个提议网格，不改原STEP源件，不擅自添加替代脚块。"
@@ -789,6 +816,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-13 · 坡形大C两轴3D与分件",
+        "detail": "承接用户质疑效果图不写实并要求3D；新增固定肩部/活动扶手/固定下梁及上下轴可视研究。网页已发布核验。尺寸和77°路径为假设，按钮退盘、双侧联动、齿位与承载待设计。"
+      },
+      {
         "title": "2026-11-13 · 曜影前端凸块纠正",
         "detail": "当前整机模型、四张整机图、前方出线图及机底图已撤去错误凸块。旧R3带凸块图标为历史；竖放接地点需重新设计核验。"
       },
@@ -899,6 +930,14 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "坡形大C · 从哪里折的3D研究",
+        "note": "上轴A翻扶手、下轴B收立柱。用户仅称原效果图好看，未认可结构；本轮抬高下轴及侧向错层为新增提议。",
+        "files": [
+          "documents/treadmill/poxing-handle-3d-20261113/joint-preview.webp",
+          "documents/treadmill/poxing-handle-3d-20261113/fold-preview.webp"
+        ]
+      },
       {
         "title": "曜影 · 前端凸块纠正",
         "note": "已按圈注删除，待用户查看；其余造型未因此获认可。",
