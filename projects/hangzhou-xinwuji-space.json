@@ -1,0 +1,50 @@
+{
+  "id": "hangzhou-xinwuji-space",
+  "title": "杭州新物集 SPACE",
+  "en": "06C / HANGZHOU XINWUJI SPACE",
+  "description": "两个 option 并行。本次新增的是椭圆展示板与单杆电视落地架组合，作为其中一个候选；尚未最终选定。",
+  "note": "本方案与NOWRE无关。仅借用niko中岛椭圆造型及原板面来展示结构，圣诞图案并非SPACE最终画面。另一option继续保留，本次不替换或代选。",
+  "conversation": "213cccac",
+  "conversationName": "杭州新物集 SPACE · 两个 option",
+  "currentFocus": "评审椭圆展示板 × 单杆落地架这一option；后续结合SPACE自己的场地、画面及陈列要求深化。",
+  "items": [
+    {
+      "file": "documents/hangzhou-space-oval-stand-20261113/concept.png",
+      "thumb": "documents/hangzhou-space-oval-stand-20261113/concept.webp",
+      "label": "其中一个 option · 椭圆板 × 单杆落地架",
+      "status": "已生成 · 待评审 · 未最终选定",
+      "note": "按用户提供的无托盘电视架截图制作正背面概念。单立杆、平板底座，背面安装件；板面暂沿用niko原稿。结构与尺寸仅示意，不代表加工定案。另一option不因本图生成而被替换。"
+    }
+  ],
+  "links": [
+    {
+      "label": "结构概念说明与尺寸边界",
+      "href": "documents/hangzhou-space-oval-stand-20261113/notes.md"
+    }
+  ],
+  "progress": {
+    "updated": "2026-11-13",
+    "summary": "用户明确本图属于杭州新物集SPACE两个option中的一个，已纠正项目归属。",
+    "decisions": [
+      {
+        "title": "归属杭州新物集 SPACE",
+        "detail": "与NOWRE无关。两option并行；本图不擅自编号、不代表最终选择。"
+      }
+    ],
+    "visualGroups": [
+      {
+        "title": "椭圆展示板 × 单杆落地架",
+        "note": "当前这一option的正面与背面结构示意，板面暂沿用niko原稿。",
+        "files": [
+          "documents/hangzhou-space-oval-stand-20261113/concept.png"
+        ]
+      }
+    ],
+    "next": [
+      {
+        "title": "继续比较两个option",
+        "detail": "另一option原稿及既有状态保留；本次只收录椭圆单杆方案，不推定其他图就是另一option。"
+      }
+    ]
+  }
+}
