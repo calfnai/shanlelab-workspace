@@ -2,10 +2,55 @@
   "id": "niko",
   "title": "niko and… 展位",
   "en": "04 / DISPLAY",
-  "description": "已定案：中岛采用纸展具，两面柱区采用纸板方孔插钩吊货；实样与参考资料已收录。",
+  "description": "纸展位已定案；v15已重做模型与整体、中岛、柱区、方孔细节渲染。",
   "conversation": "ea860ae7",
-  "note": "2026-11-13用户选定纸方案。以新发实样照片为当前展示依据；水管海洋板中岛转历史，原图与模型保留。尚未记录门店安装或验收。",
+  "note": "纸方案已选定；新v15模型与渲染待用户核对。红色单层纸台、双面椭圆、柱区纸板方孔插钩已建入模型。原实样与历史保留。",
   "items": [
+    {
+      "file": "demos/niko-paper-final-v15/preview/paper-overall.png",
+      "thumb": "demos/niko-paper-final-v15/preview/paper-overall.png",
+      "label": "纸展位 v15 · 整体",
+      "status": "新模型渲染 · 待核对",
+      "note": "红色单层纸台、双面椭圆纸板、真实贯穿方孔与独立挂钩。实物尺寸未测量项为示意；商品重复图仅作排布参考。",
+      "selectedRole": "current-render",
+      "renderZone": "overall"
+    },
+    {
+      "file": "demos/niko-paper-final-v15/preview/paper-island.png",
+      "thumb": "demos/niko-paper-final-v15/preview/paper-island.png",
+      "label": "纸展位 v15 · 中岛正面",
+      "status": "新模型渲染 · 待核对",
+      "note": "红色单层纸台、双面椭圆纸板、真实贯穿方孔与独立挂钩。实物尺寸未测量项为示意；商品重复图仅作排布参考。",
+      "selectedRole": "current-render",
+      "renderZone": "island"
+    },
+    {
+      "file": "demos/niko-paper-final-v15/preview/paper-back.png",
+      "thumb": "demos/niko-paper-final-v15/preview/paper-back.png",
+      "label": "纸展位 v15 · 中岛背面",
+      "status": "新模型渲染 · 待核对",
+      "note": "红色单层纸台、双面椭圆纸板、真实贯穿方孔与独立挂钩。实物尺寸未测量项为示意；商品重复图仅作排布参考。",
+      "selectedRole": "current-render",
+      "renderZone": "back"
+    },
+    {
+      "file": "demos/niko-paper-final-v15/preview/paper-column.png",
+      "thumb": "demos/niko-paper-final-v15/preview/paper-column.png",
+      "label": "纸展位 v15 · 柱子区",
+      "status": "新模型渲染 · 待核对",
+      "note": "红色单层纸台、双面椭圆纸板、真实贯穿方孔与独立挂钩。实物尺寸未测量项为示意；商品重复图仅作排布参考。",
+      "selectedRole": "current-render",
+      "renderZone": "column"
+    },
+    {
+      "file": "demos/niko-paper-final-v15/preview/paper-slot-detail.png",
+      "thumb": "demos/niko-paper-final-v15/preview/paper-slot-detail.png",
+      "label": "纸展位 v15 · 方孔与挂钩细节",
+      "status": "新模型渲染 · 待核对",
+      "note": "红色单层纸台、双面椭圆纸板、真实贯穿方孔与独立挂钩。实物尺寸未测量项为示意；商品重复图仅作排布参考。",
+      "selectedRole": "current-render",
+      "renderZone": "slot-detail"
+    },
     {
       "file": "documents/niko-paper-selected-20261113/island-sample.jpg",
       "thumb": "documents/niko-paper-selected-20261113/island-sample-thumb.webp",
@@ -120,6 +165,11 @@
     }
   ],
   "links": [
+    {
+      "label": "纸展位 v15 · 新模型",
+      "href": "demos/niko-paper-final-v15/viewer.html",
+      "kind": "current-3d"
+    },
     {
       "label": "水管海洋板方案 · 前期3D参考",
       "href": "demos/niko-comparison/viewer.html?scheme=pipe",
@@ -256,17 +306,12 @@
       "reference": "user supplied 2026-11-06",
       "raw_kraft": "oval central core only",
       "printable": "all other exterior paper surfaces",
-      "unprinted_display": "white",
-      "oval_depth_assumed_cm": 14,
-      "raised_platform_assumed_cm": [
-        170,
-        65,
-        10
-      ],
+      "unprinted_display": "已用红色单层纸台替换前期白色阶梯",
+      "oval_depth_assumed_cm": 4,
       "lower_plinth_assumed_cm": [
         200,
         100,
-        10
+        15
       ]
     },
     "islandPipeFrame": {
@@ -285,7 +330,7 @@
       "status": "用户选定",
       "island": "纸展具",
       "column": "两面纸板开方孔，插钩吊货",
-      "modelStatus": "前期尺寸参考，未同步实样细节",
+      "modelStatus": "v15模型与渲染已生成，待用户核对",
       "installationStatus": "未记录安装验收"
     },
     "columnHanging": {
@@ -293,7 +338,14 @@
       "openings": "方孔",
       "fixture": "插入式挂钩",
       "sides": 2,
-      "holeDimensions": "未提供，按实物及挂钩确认"
+      "holeDimensions": "模型暂按12×8mm；待实物与挂钩核对",
+      "boardThickness": "模型暂按12mm"
+    },
+    "currentRender": {
+      "root": "demos/niko-paper-final-v15/",
+      "version": "v15",
+      "model": "models/paper.glb",
+      "note": "红色单层纸台、双面椭圆、真孔与独立挂钩已建模；礼盒与小包用实物图作为台面示例。台高、纸厚、孔及应用物尺寸未实测，为比例示意。"
     }
   },
   "conversationName": "niko and 设计最终版回顾",
