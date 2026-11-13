@@ -100,25 +100,25 @@
       "note": "同一模型、统一视角的评审图；175cm比例人形，抬升展示12°。按各自原图独立重建；专用STEP、内部机构、行程、锁止、碰撞及承载未验证。下饰板为独立分区，材质未选定；不把灵伴改名为坡形。 用户本轮否决旧折叠；图中保留的外观不代表可行折叠。"
     },
     {
-      "file": "documents/treadmill/linear-grips-20261113/01-thick-antislip.webp",
-      "thumb": "documents/treadmill/linear-grips-20261113/01-thick-antislip.webp",
-      "label": "凌序客制把手 · 粗防滑把手",
-      "status": "新增外观概念 · 待评审",
-      "note": "沿用上一轮折面肩部作统一展示底座，不代表选定拐角。尺寸、承载、互换接口及折叠净距待校核；心率款仅展示接触电极布局，电路与实测未完成。"
+      "file": "documents/treadmill/linear-grips-v2-20261113/01-coarse-antislip.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/01-coarse-antislip.webp",
+      "label": "凌序 · 粗筋防滑握把",
+      "status": "材质修订概念 · 待评审",
+      "note": "粗大圆润斜筋与明显沟槽；“粗”指纹理尺度，不是单纯加粗握把。 生成图，未改入模型，未证明实物触感或防滑性能。"
     },
     {
-      "file": "documents/treadmill/linear-grips-20261113/02-leather.webp",
-      "thumb": "documents/treadmill/linear-grips-20261113/02-leather.webp",
-      "label": "凌序客制把手 · 皮质把手",
-      "status": "新增外观概念 · 待评审",
-      "note": "沿用上一轮折面肩部作统一展示底座，不代表选定拐角。尺寸、承载、互换接口及折叠净距待校核；心率款仅展示接触电极布局，电路与实测未完成。"
+      "file": "documents/treadmill/linear-grips-v2-20261113/02-leather-refined.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/02-leather-refined.webp",
+      "label": "凌序 · 皮质握把",
+      "status": "材质修订概念 · 待评审",
+      "note": "参考细颗粒皮纹、油润柔光与规整缝线，包覆略饱满；质感仍待用户评审。 生成图，未改入模型，未证明实物触感或防滑性能。"
     },
     {
-      "file": "documents/treadmill/linear-grips-20261113/03-flat-silicone.webp",
-      "thumb": "documents/treadmill/linear-grips-20261113/03-flat-silicone.webp",
-      "label": "凌序 · 硅胶握把误读旧稿",
-      "status": "误做宽平掌托 · 待修正",
-      "note": "用户澄清“扁平”只指花纹起伏浅；保持既有握把截面与体量，参考细密浅交叉纹。旧图不作为正确方向，尚未重绘。"
+      "file": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
+      "label": "凌序 · 浅纹理硅胶握把",
+      "status": "材质修订概念 · 待评审",
+      "note": "保持原握把截面与体量，细密交叉纹仅作浅起伏，不做宽平掌托。 生成图，未改入模型，未证明实物触感或防滑性能。"
     },
     {
       "file": "documents/treadmill/linear-grips-20261113/04-heart-rate.webp",
@@ -588,8 +588,8 @@
     "summary": "坡形大C明确只参考齿轮机构，不授权移植外形；擅自改形的3D保持撤回。用户否决凌序、坡形（大C）的旧折叠：活动立柱与固定下梁冲突。已撤下两款折叠、播放、竖放及独立坡形两轴研究；展开外观与材料图保留。新折叠机构未完成。",
     "next": [
       {
-        "title": "重绘浅纹理硅胶握把",
-        "detail": "按用户参考修正第三款；保持原握把截面，只降低纹理起伏，不做宽平掌托。纹理高度、间距、硬度与实际防滑性能待打样。"
+        "title": "评审三款握把材质修订",
+        "detail": "核对粗筋起伏、皮革质感与缝线、硅胶浅纹理；本轮只生成视觉提议，具体纹理尺寸、材料与性能待打样。"
       },
       {
         "title": "先解决两款真实机构约束",
@@ -605,7 +605,7 @@
       },
       {
         "title": "评审四款把手并深化接口",
-        "detail": "确认粗细、皮质、浅纹理硅胶（原第三款误读图待修正）和电极布局方向；随后核对握持尺度、承力芯、防转、包覆分件与折叠净距，心率款需电路和样机实测。"
+        "detail": "确认粗细、皮质、浅纹理硅胶和电极布局方向；随后核对握持尺度、承力芯、防转、包覆分件与折叠净距，心率款需电路和样机实测。"
       },
       {
         "title": "逐款核对本轮整机四视图与动作",
@@ -669,6 +669,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "粗防滑指粗筋沟槽；皮革须有清楚质感",
+        "detail": "粗防滑参考粗大圆润斜筋及明显沟槽，不单指握把加粗；皮革按用户参考表现细颗粒、柔和油润反光、包覆与规整缝线。硅胶纹理浅，不改变截面。"
+      },
       {
         "title": "硅胶握把的“扁平”指纹理浅，非截面扁平",
         "detail": "保持既有把手截面与体量；参考圆润曲面上的细密浅起伏交叉纹。第三款宽平掌托图是误读旧稿，待修正，未获用户认可。"
@@ -821,6 +825,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-13 · 三款握把材质重做",
+        "detail": "按三张用户参考生成粗筋防滑、细纹皮革与浅纹理硅胶修订图，新增纹理特写。旧三图退出当前展示；第四款心率沿用，新图均待评审。"
+      },
       {
         "title": "2026-11-13 · 硅胶握把纹理定义纠正",
         "detail": "更正第三款文案并标注误读旧稿；本轮未生成新图或修改模型。"
@@ -1085,6 +1093,27 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-grips-20261113/03-flat-silicone.webp",
+      "thumb": "documents/treadmill/linear-grips-20261113/03-flat-silicone.webp",
+      "label": "凌序 · 硅胶握把误读旧稿",
+      "status": "用户纠正的旧材质图 · 退出当前展示",
+      "note": "粗防滑应为粗筋沟槽，皮革质感不足，硅胶仅纹理浅；以本轮修订概念继续评审，不表示修订已获认可。"
+    },
+    {
+      "file": "documents/treadmill/linear-grips-20261113/02-leather.webp",
+      "thumb": "documents/treadmill/linear-grips-20261113/02-leather.webp",
+      "label": "凌序客制把手 · 皮质把手",
+      "status": "用户纠正的旧材质图 · 退出当前展示",
+      "note": "粗防滑应为粗筋沟槽，皮革质感不足，硅胶仅纹理浅；以本轮修订概念继续评审，不表示修订已获认可。"
+    },
+    {
+      "file": "documents/treadmill/linear-grips-20261113/01-thick-antislip.webp",
+      "thumb": "documents/treadmill/linear-grips-20261113/01-thick-antislip.webp",
+      "label": "凌序客制把手 · 粗防滑把手",
+      "status": "用户纠正的旧材质图 · 退出当前展示",
+      "note": "粗防滑应为粗筋沟槽，皮革质感不足，硅胶仅纹理浅；以本轮修订概念继续评审，不表示修订已获认可。"
+    },
     {
       "file": "documents/treadmill/poxing-handle-3d-20261113/joint-preview.webp",
       "thumb": "documents/treadmill/poxing-handle-3d-20261113/joint-preview.webp",
