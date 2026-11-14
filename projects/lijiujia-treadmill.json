@@ -6,49 +6,126 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "2026-11-13最新否决：凌序、坡形（大C）的旧折叠和衍生竖放退出当前交付，不自动恢复。 此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
-  "currentFocus": "曜影本轮已改入T-fal式120°长口、朝天至斜下出线，以及连续机底曲面与圆润电机舱，待用户评审。 坡形扶手方向纠正：向上折叠，左右扶手与屏幕同一总成转动；旧下折版本退出当前展示。竖放家居图纠错v2待评审：凌序镜面，下电机盖与抬升架可见，机头在下；曜影改现代银橙家居。上一批三张被否决、退出展示。 曜影已按三张用户原稿修订圆弧低机头、机底支撑与胶囊形抬升包覆，新图及模型待查看。坡形本轮以用户指定的两片式把手概念图为局部外形目标，已做效果图和可操作局部3D；不把整机折叠撤回扩大为否决该外形。坡形（大C）保留原有外形，仅借用齿轮机构原理；机构适配不能擅自改形。先分别明确凌序、坡形的固定下梁、活动立柱、扶手／控制台分件和真实轴线，核对整个扫掠路径与锁止。此前UI滑条可用的核验结论不代表机构可行。",
+  "currentFocus": "曜影展示已补至同一方案10张整机与状态图、两张六视图拼版及机底/出线细节，待用户评审。 曜影本轮已改入T-fal式120°长口、朝天至斜下出线，以及连续机底曲面与圆润电机舱，待用户评审。 坡形扶手方向纠正：向上折叠，左右扶手与屏幕同一总成转动；旧下折版本退出当前展示。竖放家居图纠错v2待评审：凌序镜面，下电机盖与抬升架可见，机头在下；曜影改现代银橙家居。上一批三张被否决、退出展示。 曜影已按三张用户原稿修订圆弧低机头、机底支撑与胶囊形抬升包覆，新图及模型待查看。坡形本轮以用户指定的两片式把手概念图为局部外形目标，已做效果图和可操作局部3D；不把整机折叠撤回扩大为否决该外形。坡形（大C）保留原有外形，仅借用齿轮机构原理；机构适配不能擅自改形。先分别明确凌序、坡形的固定下梁、活动立柱、扶手／控制台分件和真实轴线，核对整个扫掠路径与锁止。此前UI滑条可用的核验结论不代表机构可行。",
   "items": [
     {
-      "file": "documents/treadmill/origin-cord-bottom-20261114/review-sheet.webp",
-      "thumb": "documents/treadmill/origin-cord-bottom-20261114/review-sheet.webp",
-      "label": "曜影 · 新机底与T-fal式出线",
-      "status": "2026-11-14网页模型修订 · 待用户评审",
-      "note": "实际同一模型截图。T-fal式耳轴与120°纵向开口，使用态90°至−30°；连续机底、隐藏散热与细橙弧线。保留114项源装配和20项原抬升件。尚未导出本轮新增曲面的STEP。"
+      "file": "documents/treadmill/origin-cord-bottom-20261114/multiview-use-sheet.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/multiview-use-sheet.webp",
+      "label": "曜影 · 使用与抬升六视图",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/multiview-storage-sheet.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/multiview-storage-sheet.webp",
+      "label": "曜影 · 折平、竖放与机底六视图",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/gallery-normal-45.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/gallery-normal-45.webp",
+      "label": "曜影01 · 使用态前侧45°",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/gallery-rear-45.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/gallery-rear-45.webp",
+      "label": "曜影02 · 使用态后侧45°",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/gallery-front.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/gallery-front.webp",
+      "label": "曜影03 · 使用态正前方",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/gallery-normal-side.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/gallery-normal-side.webp",
+      "label": "曜影04 · 使用态正侧面",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/gallery-normal-person.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/gallery-normal-person.webp",
+      "label": "曜影05 · 175cm人体比例",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/gallery-lift-person.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/gallery-lift-person.webp",
+      "label": "曜影06 · 抬升12°",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/gallery-fold-45.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/gallery-fold-45.webp",
+      "label": "曜影07 · 折平斜上方，未对齿待接合",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/fold-side.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/fold-side.webp",
+      "label": "曜影08 · 折平侧面，未对齿待接合",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
     },
     {
       "file": "documents/treadmill/origin-cord-bottom-20261114/stand.webp",
       "thumb": "documents/treadmill/origin-cord-bottom-20261114/stand.webp",
-      "label": "曜影 · 竖放时的连续机底曲面",
-      "status": "2026-11-14网页模型修订 · 待用户评审",
-      "note": "实际同一模型截图。T-fal式耳轴与120°纵向开口，使用态90°至−30°；连续机底、隐藏散热与细橙弧线。保留114项源装配和20项原抬升件。尚未导出本轮新增曲面的STEP。"
+      "label": "曜影09 · 竖放时的连续机底曲面",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/stand-front.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/stand-front.webp",
+      "label": "曜影10 · 竖放机底正视",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
     },
     {
       "file": "documents/treadmill/origin-cord-bottom-20261114/bottom.webp",
       "thumb": "documents/treadmill/origin-cord-bottom-20261114/bottom.webp",
       "label": "曜影 · 微拱主壳与圆润电机舱",
-      "status": "2026-11-14网页模型修订 · 待用户评审",
-      "note": "实际同一模型截图。T-fal式耳轴与120°纵向开口，使用态90°至−30°；连续机底、隐藏散热与细橙弧线。保留114项源装配和20项原抬升件。尚未导出本轮新增曲面的STEP。"
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
     },
     {
       "file": "documents/treadmill/origin-cord-bottom-20261114/lift-bottom.webp",
       "thumb": "documents/treadmill/origin-cord-bottom-20261114/lift-bottom.webp",
       "label": "曜影 · 原抬升架与随动横桥",
-      "status": "2026-11-14网页模型修订 · 待用户评审",
-      "note": "实际同一模型截图。T-fal式耳轴与120°纵向开口，使用态90°至−30°；连续机底、隐藏散热与细橙弧线。保留114项源装配和20项原抬升件。尚未导出本轮新增曲面的STEP。"
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/cord-neutral.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/cord-neutral.webp",
+      "label": "曜影出线 · 耳轴与纵向开口",
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
     },
     {
       "file": "documents/treadmill/origin-cord-bottom-20261114/cord-up.webp",
       "thumb": "documents/treadmill/origin-cord-bottom-20261114/cord-up.webp",
       "label": "曜影出线 · 最高朝天90°",
-      "status": "2026-11-14网页模型修订 · 待用户评审",
-      "note": "实际同一模型截图。T-fal式耳轴与120°纵向开口，使用态90°至−30°；连续机底、隐藏散热与细橙弧线。保留114项源装配和20项原抬升件。尚未导出本轮新增曲面的STEP。"
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
     },
     {
       "file": "documents/treadmill/origin-cord-bottom-20261114/cord-down.webp",
       "thumb": "documents/treadmill/origin-cord-bottom-20261114/cord-down.webp",
       "label": "曜影出线 · 最低向前斜下30°",
-      "status": "2026-11-14网页模型修订 · 待用户评审",
-      "note": "实际同一模型截图。T-fal式耳轴与120°纵向开口，使用态90°至−30°；连续机底、隐藏散热与细橙弧线。保留114项源装配和20项原抬升件。尚未导出本轮新增曲面的STEP。"
+      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
+      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
     },
     {
       "file": "documents/treadmill/poxing-upfold-details-20261114/01-upfold-screen.webp",
@@ -610,7 +687,7 @@
       "kind": "3d"
     },
     {
-      "label": "曜影 · 新机底与T-fal式出线（同一模型）",
+      "label": "曜影 · 十张整机与状态图（同一方案）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#origin",
       "kind": "3d"
     },
@@ -721,7 +798,7 @@
   },
   "progress": {
     "updated": "2026-11-14",
-    "summary": "曜影本轮已改入T-fal式120°长口、朝天至斜下出线，以及连续机底曲面与圆润电机舱，待用户评审。 坡形已纠正为扶手＋屏幕整体上翻，并新增屏幕/走线和按钮/握持/端盖细节图；新增细节待评审。曜影造型实际修订：封合圆弧横向机头，恢复机底黑色支撑、胶囊形抬升包覆及银橙外观；原始STEP保留，新低罩为网页适配提议。此前只删凸块的错误修订已撤回。新增按指定概念实现的局部效果图与可转动3D。局部0–90°截面采样检查通过；按钮内部传动、承载及整机折叠未完成工程核验。坡形大C明确只参考齿轮机构，不授权移植外形；擅自改形的3D保持撤回。用户否决凌序、坡形（大C）的旧折叠：活动立柱与固定下梁冲突。已撤下两款折叠、播放、竖放及独立坡形两轴研究；展开外观与材料图保留。新折叠机构未完成。",
+    "summary": "曜影展示已补至同一方案10张整机与状态图、两张六视图拼版及机底/出线细节，待用户评审。 曜影本轮已改入T-fal式120°长口、朝天至斜下出线，以及连续机底曲面与圆润电机舱，待用户评审。 坡形已纠正为扶手＋屏幕整体上翻，并新增屏幕/走线和按钮/握持/端盖细节图；新增细节待评审。曜影造型实际修订：封合圆弧横向机头，恢复机底黑色支撑、胶囊形抬升包覆及银橙外观；原始STEP保留，新低罩为网页适配提议。此前只删凸块的错误修订已撤回。新增按指定概念实现的局部效果图与可转动3D。局部0–90°截面采样检查通过；按钮内部传动、承载及整机折叠未完成工程核验。坡形大C明确只参考齿轮机构，不授权移植外形；擅自改形的3D保持撤回。用户否决凌序、坡形（大C）的旧折叠：活动立柱与固定下梁冲突。已撤下两款折叠、播放、竖放及独立坡形两轴研究；展开外观与材料图保留。新折叠机构未完成。",
     "next": [
       {
         "title": "评审曜影新出线与机底曲面",
@@ -1022,6 +1099,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-14 · 曜影补齐多角度展示",
+        "detail": "用户反馈效果图太少；同一评审页扩充为10张整机/状态图，涵盖前后45°、正前、正侧、人体比例、抬升、折平与竖放。另提供两张六视图拼版及既有机构细节，未新增方案或评审页面。"
+      },
+      {
         "title": "2026-11-14 · 曜影T-fal式出线与连续机底",
         "detail": "使用现有114项源装配及20项原抬升件完成网页细化。120°真实长口与两侧耳轴、护线套共面运动；竖放视角展示新机底。原123°端点保持待对齿，旧扳机保持删除。"
       },
@@ -1212,10 +1293,21 @@
         "title": "曜影 · T-fal式出线与连续机底 2026-11-14",
         "note": "真实网页模型截图，已生成待评审；不是已批准制造方案。",
         "files": [
-          "documents/treadmill/origin-cord-bottom-20261114/review-sheet.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/multiview-use-sheet.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/multiview-storage-sheet.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/gallery-normal-45.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/gallery-rear-45.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/gallery-front.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/gallery-normal-side.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/gallery-normal-person.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/gallery-lift-person.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/gallery-fold-45.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/fold-side.webp",
           "documents/treadmill/origin-cord-bottom-20261114/stand.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/stand-front.webp",
           "documents/treadmill/origin-cord-bottom-20261114/bottom.webp",
           "documents/treadmill/origin-cord-bottom-20261114/lift-bottom.webp",
+          "documents/treadmill/origin-cord-bottom-20261114/cord-neutral.webp",
           "documents/treadmill/origin-cord-bottom-20261114/cord-up.webp",
           "documents/treadmill/origin-cord-bottom-20261114/cord-down.webp"
         ]
