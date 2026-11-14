@@ -11,9 +11,9 @@
     {
       "file": "documents/treadmill/presentation-html-20261115/preview.jpg",
       "thumb": "documents/treadmill/presentation-html-20261115/preview.jpg",
-      "label": "HTML 汇报试排 v01 · 37屏",
+      "label": "HTML 汇报试排 v02 · 16:9分页 · 40页",
       "status": "已生成 · 浏览器检查通过 · 待用户评审",
-      "note": "独立封面、三稿亮相、前三轮工作回顾、研究到设计、星弧→曜影→凌序与收束；凌序把手最后揭晓。缺失素材明确占位；B版硅胶采用已选原图。"
+      "note": "固定1600×900等比画布，一次显示一页，主图与文字不跨屏。回顾补原PDF第3/4/5/22/23页，移除空白共创模板；压低重复标题，采用Highlight。空白页填历史或当前产品占位参考。"
     },
     {
       "file": "documents/treadmill/console-ui-20261114/running.svg",
@@ -683,7 +683,7 @@
   ],
   "links": [
     {
-      "label": "HTML 汇报试排 v01 · 含封面与前期工作回顾",
+      "label": "HTML 汇报试排 v02 · 16:9分页 · 含封面与前期工作回顾",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/",
       "kind": "review"
     },
@@ -1191,6 +1191,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · HTML汇报试排v02 · 16:9固定分页",
+        "detail": "按用户要求直接以HTML承载。40页，补独立封面与前期工作回顾，保留同事原稿与研究来路。支持目录、键盘翻页、图片放大、全屏及打印；已生成待评审，未向厂商发送。"
+      },
       {
         "title": "2026-11-15 · 接收凌序原始STEP",
         "detail": "凌序原始方案一STEP已收到，39.2 MB，原生读取成功：101个几何实例、58个几何原型。原件已保存至私有Release并核对SHA-256；尚未修改模型或完成折叠/接地核验。"
