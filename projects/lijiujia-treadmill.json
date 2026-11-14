@@ -9,6 +9,13 @@
   "currentFocus": "星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧上翻仅保留方向参考，外形仍错，两张错误细节图不展示；凌序/星弧整机折叠仍撤回。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/console-ui-20261114/running.svg",
+      "thumb": "documents/treadmill/console-ui-20261114/running.svg",
+      "label": "超宽操作面板 UI v01",
+      "status": "新设计提案 · 待评审",
+      "note": "保留五项运动数据，速度居中突出；补齐单位、独立快捷档与待机/运动/暂停/收纳四种状态。显示尺寸、介质与控制逻辑待确认；未指定归属机型。"
+    },
+    {
       "file": "documents/treadmill/linear-silicone-review-20261114/detachable-power.svg",
       "thumb": "documents/treadmill/linear-silicone-review-20261114/detachable-power.svg",
       "label": "凌序 · 可拆卸线缆，镜面机底不收线",
@@ -669,6 +676,11 @@
   ],
   "links": [
     {
+      "label": "操作面板 UI v01 · 四种状态",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/console-ui-20261114/",
+      "kind": "review"
+    },
+    {
       "label": "凌序 · 硅胶历史原图 A–D（已选B）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-silicone-review-20261114/",
       "kind": "review"
@@ -1156,6 +1168,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-14 · 超宽操作面板 UI v01",
+        "detail": "新增独立面板提案与四状态评审页，保留原始截图。不修改既有整机、模型及已认可方案；实体控制和固件未实现。"
+      },
+      {
         "title": "2026-11-14 · 用户选定流线硅胶B版",
         "detail": "原图复用，更新主评审、两个独立把手页及A–D历史页；其他三款把手图稿保持不变。"
       },
@@ -1378,6 +1394,13 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "超宽面板 UI · 首轮提案",
+        "note": "原稿为功能占位，本轮补视觉层级和四状态画面；待评审。",
+        "files": [
+          "documents/treadmill/console-ui-20261114/running.svg"
+        ]
+      },
       {
         "title": "星弧 · 按钮与竖放收线提议",
         "note": "凌序机底局部收线已撤回，当前只保留其他款式既有提议。",
