@@ -6,8 +6,43 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "2026-11-13最新否决：凌序、星弧的旧折叠和衍生竖放退出当前交付，不自动恢复。 此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
-  "currentFocus": "星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧上翻仅保留方向参考，外形仍错，两张错误细节图不展示；凌序/星弧旧整机折叠仍撤回。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，对应STEP已收到并读取，折叠与接地待核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
+  "currentFocus": "星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧上翻仅保留方向参考，外形仍错，两张错误细节图不展示；凌序/星弧旧整机折叠仍撤回。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
+    {
+      "file": "documents/treadmill/linear-native-20261115/linear-source-45.webp",
+      "thumb": "documents/treadmill/linear-native-20261115/linear-source-45.webp",
+      "label": "凌序 · STEP基准整机45°",
+      "status": "用户指定STEP基准 · 网页评审稿",
+      "note": "外观以新STEP为准，保留原装配保存姿态；转角和把手另列为甲方options。镜面分区沿用；中央饰板与可拆卸接口是外观提议，动作未验证。"
+    },
+    {
+      "file": "documents/treadmill/linear-native-20261115/linear-source-person.webp",
+      "thumb": "documents/treadmill/linear-native-20261115/linear-source-person.webp",
+      "label": "凌序 · STEP基准与人物比例",
+      "status": "用户指定STEP基准 · 网页评审稿",
+      "note": "外观以新STEP为准，保留原装配保存姿态；转角和把手另列为甲方options。镜面分区沿用；中央饰板与可拆卸接口是外观提议，动作未验证。"
+    },
+    {
+      "file": "documents/treadmill/linear-native-20261115/linear-source-side.webp",
+      "thumb": "documents/treadmill/linear-native-20261115/linear-source-side.webp",
+      "label": "凌序 · 原始装配正侧面",
+      "status": "用户指定STEP基准 · 网页评审稿",
+      "note": "外观以新STEP为准，保留原装配保存姿态；转角和把手另列为甲方options。镜面分区沿用；中央饰板与可拆卸接口是外观提议，动作未验证。"
+    },
+    {
+      "file": "documents/treadmill/linear-native-20261115/linear-source-right-person.webp",
+      "thumb": "documents/treadmill/linear-native-20261115/linear-source-right-person.webp",
+      "label": "凌序 · STEP基准右前45°与人物",
+      "status": "用户指定STEP基准 · 网页评审稿",
+      "note": "外观以新STEP为准，保留原装配保存姿态；转角和把手另列为甲方options。镜面分区沿用；中央饰板与可拆卸接口是外观提议，动作未验证。"
+    },
+    {
+      "file": "documents/treadmill/linear-native-20261115/linear-bottom.webp",
+      "thumb": "documents/treadmill/linear-native-20261115/linear-bottom.webp",
+      "label": "凌序 · 原装配机底与镜面分区",
+      "status": "用户指定STEP基准 · 网页评审稿",
+      "note": "外观以新STEP为准，保留原装配保存姿态；转角和把手另列为甲方options。镜面分区沿用；中央饰板与可拆卸接口是外观提议，动作未验证。"
+    },
     {
       "file": "documents/treadmill/presentation-html-20261115/preview.jpg",
       "thumb": "documents/treadmill/presentation-html-20261115/preview.jpg",
@@ -184,13 +219,6 @@
       "note": "用户只确认扶手与屏幕整体上翻方向；外形不作采用依据。"
     },
     {
-      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-home-mirror-trim.webp",
-      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-home-mirror-trim.webp",
-      "label": "凌序 · 竖放家居纠错v2",
-      "status": "镜面分区要求已确认 · 修订图待评审",
-      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
-    },
-    {
       "file": "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
       "thumb": "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
       "label": "曜影 · 竖放家居纠错v2",
@@ -245,34 +273,6 @@
       "label": "曜影 · 撤去错误前端凸块",
       "status": "已撤回 · 仅删凸块的错误修订",
       "note": "用户明确指出此版仍偏离原稿。只删除两个凸块没有修复机头及支撑关系，不作为修正完成或当前造型依据。"
-    },
-    {
-      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-45.webp",
-      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-45.webp",
-      "label": "凌序 · 正常形态45°",
-      "status": "镜面分区要求已确认 · 修订图待评审",
-      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
-    },
-    {
-      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-person.webp",
-      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-person.webp",
-      "label": "凌序 · 正常左前45°＋人物",
-      "status": "镜面分区要求已确认 · 修订图待评审",
-      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
-    },
-    {
-      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-side.webp",
-      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-side.webp",
-      "label": "凌序 · 正常正左侧",
-      "status": "镜面分区要求已确认 · 修订图待评审",
-      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
-    },
-    {
-      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-lift-person.webp",
-      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-lift-person.webp",
-      "label": "凌序 · 抬升左前45°＋人物",
-      "status": "镜面分区要求已确认 · 修订图待评审",
-      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
     },
     {
       "file": "documents/treadmill/review-20261113/origin-normal-45.webp",
@@ -334,29 +334,29 @@
       "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
       "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
       "label": "凌序 · 斜筋防滑握把（细化）",
-      "status": "用户暂认可当前把手方案",
-      "note": "从肩部延展的流线斜筋，握持段轻收；按用户指定归入斜筋防滑款。 原图复用；仅确认归属与展示，不代表整机、材料或工程验收。"
+      "status": "当前图稿暂正确 · 供甲方选方案",
+      "note": "从肩部延展的流线斜筋，握持段轻收；按用户指定归入斜筋防滑款。 原图复用；仅确认归属与展示，不代表整机、材料或工程验收。 属于甲方可选方案；基准整机外观以新STEP为准。"
     },
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/02-leather-refined.webp",
       "thumb": "documents/treadmill/linear-grips-v2-20261113/02-leather-refined.webp",
       "label": "凌序 · 皮质握把",
-      "status": "用户暂认可当前把手方案",
-      "note": "参考细颗粒皮纹、油润柔光与规整缝线，包覆略饱满；质感仍待用户评审。 生成图，未改入模型，未证明实物触感或防滑性能。"
+      "status": "当前图稿暂正确 · 供甲方选方案",
+      "note": "参考细颗粒皮纹、油润柔光与规整缝线，包覆略饱满；质感仍待用户评审。 生成图，未改入模型，未证明实物触感或防滑性能。 属于甲方可选方案；基准整机外观以新STEP为准。"
     },
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
       "thumb": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
       "label": "凌序 · 流线硅胶握把",
-      "status": "用户确认：B｜细交叉网格版",
-      "note": "复用B细交叉网格原图。扁平指纹理低起伏，保持握把体量；其他把手暂保留。"
+      "status": "用户确认B图稿 · 供甲方选方案",
+      "note": "复用B细交叉网格原图。扁平指纹理低起伏，保持握把体量；其他把手暂保留。 属于甲方可选方案；基准整机外观以新STEP为准。"
     },
     {
       "file": "documents/treadmill/linear-grips-20261113/04-heart-rate.webp",
       "thumb": "documents/treadmill/linear-grips-20261113/04-heart-rate.webp",
       "label": "凌序客制把手 · 心率监测把手",
-      "status": "用户暂认可当前把手方案",
-      "note": "沿用上一轮折面肩部作统一展示底座，不代表选定拐角。尺寸、承载、互换接口及折叠净距待校核；心率款仅展示接触电极布局，电路与实测未完成。"
+      "status": "当前图稿暂正确 · 供甲方选方案",
+      "note": "沿用上一轮折面肩部作统一展示底座，不代表选定拐角。尺寸、承载、互换接口及折叠净距待校核；心率款仅展示接触电极布局，电路与实测未完成。 属于甲方可选方案；基准整机外观以新STEP为准。"
     },
     {
       "file": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
@@ -376,28 +376,28 @@
       "file": "documents/treadmill/linear-junction-20261113/01-continuous-radius.webp",
       "thumb": "documents/treadmill/linear-junction-20261113/01-continuous-radius.webp",
       "label": "凌序上端接头 · 一体圆角",
-      "status": "拐角方向获总体肯定 · 具体款未选定",
+      "status": "转角 Options · 供甲方选择",
       "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
     },
     {
       "file": "documents/treadmill/linear-junction-20261113/02-chamfered-shoulder.webp",
       "thumb": "documents/treadmill/linear-junction-20261113/02-chamfered-shoulder.webp",
       "label": "凌序上端接头 · 折面肩部",
-      "status": "拐角方向获总体肯定 · 具体款未选定",
+      "status": "转角 Options · 供甲方选择",
       "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
     },
     {
       "file": "documents/treadmill/linear-junction-20261113/03-recessed-collar.webp",
       "thumb": "documents/treadmill/linear-junction-20261113/03-recessed-collar.webp",
       "label": "凌序上端接头 · 分件包覆",
-      "status": "拐角方向获总体肯定 · 具体款未选定",
+      "status": "转角 Options · 供甲方选择",
       "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
     },
     {
       "file": "documents/treadmill/linear-junction-20261113/04-inset-support.webp",
       "thumb": "documents/treadmill/linear-junction-20261113/04-inset-support.webp",
       "label": "凌序上端接头 · 内收支撑",
-      "status": "拐角方向获总体肯定 · 具体款未选定",
+      "status": "转角 Options · 供甲方选择",
       "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
     },
     {
@@ -690,6 +690,11 @@
   ],
   "links": [
     {
+      "label": "凌序 · 新STEP基准整机3D（可旋转／透明查看）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-native-20261115/viewer.html",
+      "kind": "model"
+    },
+    {
       "label": "HTML 汇报试排 v04 · 16:9自由滚动 · 含封面与前期工作回顾",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/",
       "kind": "review"
@@ -854,8 +859,8 @@
     "summary": "星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧上翻仅保留方向参考，外形仍错，两张错误细节图不展示；凌序/星弧整机折叠仍撤回。凌序流线硅胶A–D待指认，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
     "next": [
       {
-        "title": "核对已收到的凌序原始STEP",
-        "detail": "101个几何实例已读入；继续核对上端固定拼接、补图1最终折叠轮廓及脚垫与轮子共同接地，确认真实下端转轴和扫掠后再更新动作模型。"
+        "title": "核对凌序原机构运动与竖放接地",
+        "detail": "基准整机已采用新STEP。继续确认实际活动件归属、真实轴线与完整扫掠、上端固定和折叠终态夹角，以及脚垫与轮子共同接地；当前3D只显示原始装配姿态。"
       },
       {
         "title": "补齐跨对话核对出的展示缺口",
@@ -914,8 +919,8 @@
         "detail": "先定上下分件、同轴搭接和折叠终点；再确定齿数、按钮/推杆、轴向限位与两侧同步，当前未改入真实装配。"
       },
       {
-        "title": "选择凌序上端接头的外观方向",
-        "detail": "比较圆角、折面、黑色短套环和内收支撑；选定后再核对壁厚、分件、装配与折叠净距。"
+        "title": "甲方选择凌序转角与把手Options",
+        "detail": "基准外观以STEP为准；四种转角与四款把手并列供甲方选择，流线硅胶选项图稿为B细交叉网格版。"
       },
       {
         "title": "先过曜影：离合片与整机逐项评审",
@@ -967,6 +972,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "凌序外观以STEP为准，转角和把手作为甲方Options",
+        "detail": "用户明确STEP外观比较准确，有疑问的外观细节以STEP为准；此前转角与把手保留为给甲方选择的options。四款把手与四种转角未自动改装到基准整机；流线硅胶选项继续采用B细交叉网格图稿。"
+      },
       {
         "title": "凌序对应STEP已收到并可读取",
         "detail": "凌序原始方案一STEP已收到，39.2 MB，原生读取成功：101个几何实例、58个几何原型。原件已保存至私有Release并核对SHA-256；尚未修改模型或完成折叠/接地核验。"
@@ -1203,6 +1212,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 评审页换用凌序原始装配",
+        "detail": "101项原装配转换完成，原始保存姿态保留；原固定线缆隐藏并展示可拆卸接口提议，镜面分区沿用。当前整机五图及3D改用新源，四张用户状态原图供对照。候选抬升联动因实体穿插撤回；未恢复旧折叠与竖放。"
+      },
       {
         "title": "2026-11-15 · HTML汇报试排v04 · 16:9排版与自由滚动",
         "detail": "按用户要求直接以HTML承载。40页，补独立封面与前期工作回顾，保留同事原稿与研究来路。支持目录、键盘翻页、图片放大、全屏及打印；已生成待评审，未向厂商发送。"
@@ -1670,6 +1683,41 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-lift-person.webp",
+      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-lift-person.webp",
+      "label": "凌序 · 抬升左前45°＋人物",
+      "status": "历史视觉参考 · 当前整机以新STEP为准",
+      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
+    },
+    {
+      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-side.webp",
+      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-side.webp",
+      "label": "凌序 · 正常正左侧",
+      "status": "历史视觉参考 · 当前整机以新STEP为准",
+      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
+    },
+    {
+      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-person.webp",
+      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-person.webp",
+      "label": "凌序 · 正常左前45°＋人物",
+      "status": "历史视觉参考 · 当前整机以新STEP为准",
+      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
+    },
+    {
+      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-45.webp",
+      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-normal-45.webp",
+      "label": "凌序 · 正常形态45°",
+      "status": "历史视觉参考 · 当前整机以新STEP为准",
+      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
+    },
+    {
+      "file": "documents/treadmill/linear-mirror-trim-20261114/linear-home-mirror-trim.webp",
+      "thumb": "documents/treadmill/linear-mirror-trim-20261114/linear-home-mirror-trim.webp",
+      "label": "凌序 · 竖放家居纠错v2",
+      "status": "历史视觉参考 · 当前整机以新STEP为准",
+      "note": "侧饰板厚度方向的下层长条面为银色镜面，竖放后为两条连续长边。上层银框及电机、抬升机构保持原分区；制造工艺与实物效果未定。"
+    },
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
       "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
