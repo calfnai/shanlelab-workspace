@@ -9,6 +9,13 @@
   "currentFocus": "星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧上翻仅保留方向参考，外形仍错，两张错误细节图不展示；凌序/星弧整机折叠仍撤回。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/presentation-html-20261115/preview.jpg",
+      "thumb": "documents/treadmill/presentation-html-20261115/preview.jpg",
+      "label": "HTML 汇报试排 v01 · 37屏",
+      "status": "已生成 · 浏览器检查通过 · 待用户评审",
+      "note": "独立封面、三稿亮相、前三轮工作回顾、研究到设计、星弧→曜影→凌序与收束；凌序把手最后揭晓。缺失素材明确占位；B版硅胶采用已选原图。"
+    },
+    {
       "file": "documents/treadmill/console-ui-20261114/running.svg",
       "thumb": "documents/treadmill/console-ui-20261114/running.svg",
       "label": "超宽操作面板 UI v01",
@@ -676,6 +683,11 @@
   ],
   "links": [
     {
+      "label": "HTML 汇报试排 v01 · 含封面与前期工作回顾",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/",
+      "kind": "review"
+    },
+    {
       "label": "操作面板 UI v01 · 四种状态",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/console-ui-20261114/",
       "kind": "review"
@@ -826,7 +838,7 @@
     "next": "分别确定真实轴线和分件，再做全过程干涉、净距与锁止检查。"
   },
   "progress": {
-    "updated": "2026-11-14",
+    "updated": "2026-11-15",
     "summary": "星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧上翻仅保留方向参考，外形仍错，两张错误细节图不展示；凌序/星弧整机折叠仍撤回。凌序流线硅胶A–D待指认，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
     "next": [
       {
@@ -1167,6 +1179,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · HTML汇报试排v01",
+        "detail": "按用户要求直接以HTML承载。37屏，补独立封面与前期工作回顾，保留同事原稿与研究来路。支持目录、键盘翻页、图片放大、全屏及打印；已生成待评审，未向厂商发送。"
+      },
       {
         "title": "2026-11-14 · 超宽操作面板 UI v01",
         "detail": "新增独立面板提案与四状态评审页，保留原始截图。不修改既有整机、模型及已认可方案；实体控制和固件未实现。"
