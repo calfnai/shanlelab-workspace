@@ -9,6 +9,13 @@
   "currentFocus": "星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧上翻仅保留方向参考，外形仍错，两张错误细节图不展示；凌序/星弧旧整机折叠仍撤回。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，对应STEP已收到并读取，折叠与接地待核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/presentation-style-test-20261115/preview.jpg",
+      "thumb": "documents/treadmill/presentation-style-test-20261115/preview.jpg",
+      "label": "原PDF设计元素 · 5页HTML对照测试",
+      "status": "已生成 · 浏览器检查通过 · 待用户评审",
+      "note": "直接复用原稿版式与图片；文字为HTML，顶部黑条全局只挂载一次。支持原PDF对照切换。历史原页不替代本轮设计决定。"
+    },
+    {
       "file": "documents/treadmill/presentation-html-20261115/preview.jpg",
       "thumb": "documents/treadmill/presentation-html-20261115/preview.jpg",
       "label": "HTML 汇报试排 v03 · 16:9自由滚动 · 40页",
@@ -683,6 +690,11 @@
   ],
   "links": [
     {
+      "label": "原PDF设计元素复用 · 5页HTML对照测试",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/style-test/",
+      "kind": "review"
+    },
+    {
       "label": "HTML 汇报试排 v03 · 16:9自由滚动 · 含封面与前期工作回顾",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/",
       "kind": "review"
@@ -1191,6 +1203,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 原PDF设计元素复用测试",
+        "detail": "P53/140/142/169/179共5页。章节、情绪板、六方案、手绘与满版场景；复用原图与图文位置，HTML文字和全局唯一顶部黑条。已生成待评审，未向厂商发送。"
+      },
       {
         "title": "2026-11-15 · HTML汇报试排v03 · 16:9排版与自由滚动",
         "detail": "按用户要求直接以HTML承载。40页，补独立封面与前期工作回顾，保留同事原稿与研究来路。支持目录、键盘翻页、图片放大、全屏及打印；已生成待评审，未向厂商发送。"
