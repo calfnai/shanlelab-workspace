@@ -11,9 +11,9 @@
     {
       "file": "documents/treadmill/presentation-structure-20261114/preview.png",
       "thumb": "documents/treadmill/presentation-structure-20261114/preview.png",
-      "label": "三稿汇报 v02 · 大C打头阵、凌序压轴",
-      "status": "顺序与可选把手卖点已明确 · 编排稿待评审",
-      "note": "原图只截图、等比排版；当前灵伴对应和第二款镜面待确认。完整PDF存私有主档。"
+      "label": "完整汇报 v03 · 全套排版与素材占位",
+      "status": "38页完整排版 · 缺失画面已色块占位 · 待评审",
+      "note": "已有素材直接入版，缺失内容用色块加文字占位。大C打头阵、曜影居中、凌序压轴；完整PDF存私有主档。"
     },
     {
       "file": "documents/treadmill/fold-controls-cord-20261114/linear-button-cord.svg",
@@ -669,7 +669,7 @@
   ],
   "links": [
     {
-      "label": "三稿汇报 v02 · 大C→曜影→凌序与60分钟安排",
+      "label": "完整汇报 v03 · 38页色块占位稿",
       "href": "documents/treadmill/presentation-structure-20261114/index.html",
       "kind": "review"
     },
@@ -1126,6 +1126,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-14 · 三稿完整汇报v03全套占位排版",
+        "detail": "用户认可研究和用户卡片版式，要求直接完整排一份。已生成38页完整PDF：正文采用汇报文案，现有素材入版，缺失模型、场景、动画和细节用色块标注。第37页揭晓可选把手，保留60分钟会议节奏。"
+      },
       {
         "title": "2026-11-14 · 三稿汇报v02顺序与可选把手压轴",
         "detail": "用户指定大C打头阵、曜影居中、凌序压轴。开场、章节、结尾均按此顺序；第37页揭晓凌序可选把手，展示四款现有概念。增加42分钟主讲、15分钟讨论、3分钟缓冲的安排。"
