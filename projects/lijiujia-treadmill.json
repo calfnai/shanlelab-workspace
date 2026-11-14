@@ -6,7 +6,7 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "2026-11-13最新否决：凌序、星弧的旧折叠和衍生竖放退出当前交付，不自动恢复。 此前粗模型与衍生家中图细节不足，退出当前展示。原方案图保留；不得以示意H架替换源机构，也不得把按图重建说成STEP复原。",
-  "currentFocus": "星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧上翻仅保留方向参考，外形仍错，两张错误细节图不展示；凌序/星弧整机折叠仍撤回。凌序流线硅胶A–D待指认，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
+  "currentFocus": "星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧上翻仅保留方向参考，外形仍错，两张错误细节图不展示；凌序/星弧整机折叠仍撤回。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
       "file": "documents/treadmill/linear-silicone-review-20261114/detachable-power.svg",
@@ -324,11 +324,11 @@
       "note": "参考细颗粒皮纹、油润柔光与规整缝线，包覆略饱满；质感仍待用户评审。 生成图，未改入模型，未证明实物触感或防滑性能。"
     },
     {
-      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
-      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
+      "file": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
       "label": "凌序 · 流线硅胶握把",
-      "status": "等待用户从A–D指出正确版本",
-      "note": "原图保留作比较；等待用户在A–D中重新指认，不作为最终已选硅胶版本。"
+      "status": "用户确认：B｜细交叉网格版",
+      "note": "复用B细交叉网格原图。扁平指纹理低起伏，保持握把体量；其他把手暂保留。"
     },
     {
       "file": "documents/treadmill/linear-grips-20261113/04-heart-rate.webp",
@@ -669,7 +669,7 @@
   ],
   "links": [
     {
-      "label": "凌序 · 硅胶握把全部历史原图 A–D（待指出）",
+      "label": "凌序 · 硅胶历史原图 A–D（已选B）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-silicone-review-20261114/",
       "kind": "review"
     },
@@ -822,16 +822,12 @@
         "detail": "星弧局部外形、两款可靠整机折叠、主模型整机透明控制、曜影把手高度展示与有效动态录屏仍需补齐；不以旧页、局部动画或占位页当成完成。"
       },
       {
-        "title": "等待用户指出硅胶正确原图",
-        "detail": "以A–D编号指认；此前当前展示不等同本轮选择，其他把手暂不调整。"
-      },
-      {
         "title": "细化凌序可拆卸线缆接口",
         "detail": "镜面机底不增收线件；后续核对机身边界的接口位置、具体规格和装配。"
       },
       {
         "title": "补齐三稿汇报的当前素材",
-        "detail": "确认星弧英文名、流线硅胶采用图和第二款镜面归属，再补三稿日常人物、爬坡氛围、调节状态及可用动作录屏。"
+        "detail": "确认星弧英文名和第二款镜面归属；流线硅胶采用B细交叉网格版，再补三稿日常人物、爬坡氛围、调节状态及可用动作录屏。"
       },
       {
         "title": "核对两款按钮、星弧走线与局部外形",
@@ -851,7 +847,7 @@
       },
       {
         "title": "评审三款握把材质修订",
-        "detail": "流线硅胶等待A–D原图指认；斜筋、皮质、心率暂保留，材料参数与接口另行核验。"
+        "detail": "流线硅胶已选B细交叉网格版；斜筋、皮质、心率暂保留，材料参数与接口另行核验。"
       },
       {
         "title": "先解决两款真实机构约束",
@@ -931,6 +927,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "流线硅胶握把确认B细交叉网格版",
+        "detail": "用户确认“B｜细交叉网格版 是正确的”。流线硅胶握把采用03-shallow-silicone.webp，替代此前C当前展示；D仍为斜筋防滑握把（细化），皮质和心率款暂保留。镜面机底、下层侧饰板及可拆卸线缆要求沿用。"
+      },
       {
         "title": "跨对话当前口径以最新明确决定为准",
         "detail": "星弧中文已定、英文待定；流线硅胶待指认；凌序可拆卸线缆覆盖旧盘线；曜影120°覆盖180°；星弧上翻仅确认方向，整机折叠及材料仍未定。"
@@ -1155,6 +1155,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-14 · 用户选定流线硅胶B版",
+        "detail": "原图复用，更新主评审、两个独立把手页及A–D历史页；其他三款把手图稿保持不变。"
+      },
       {
         "title": "2026-11-14 · 跨20个对话核对当前决定",
         "detail": "逐条核对129条用户消息与现有成果。当前名称改星弧；纠正硅胶已选/待选、凌序收线、旧180°及Option1旧认可的冲突状态；主评审恢复曜影家居图，保留撤图与折叠禁用。历史记录保留，不把新生成升级为认可。"
@@ -1579,6 +1583,13 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
+      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
+      "label": "凌序 · 流线硅胶握把",
+      "status": "历史比较稿 · 流线硅胶已选B",
+      "note": "原图保留作比较；等待用户在A–D中重新指认，不作为最终已选硅胶版本。"
+    },
     {
       "file": "documents/treadmill/fold-controls-cord-20261114/linear-button-cord.svg",
       "thumb": "documents/treadmill/fold-controls-cord-20261114/linear-button-cord.svg",
