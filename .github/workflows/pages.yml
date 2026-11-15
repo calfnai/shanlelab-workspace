@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.fallback.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - name: Assemble shared project records
@@ -24,7 +24,38 @@ jobs:
         run: node test_render.cjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
+        id: artifact
         with:
           path: site
       - uses: actions/deploy-pages@v4
         id: deployment
+        continue-on-error: true
+      - name: Deploy uploaded artifact when artifact lookup fails
+        if: steps.deployment.outcome == 'failure'
+        id: fallback
+        uses: actions/github-script@v7
+        env:
+          PAGES_ARTIFACT_ID: ${{ steps.artifact.outputs.artifact_id }}
+        with:
+          script: |
+            const artifactId = process.env.PAGES_ARTIFACT_ID;
+            if (!artifactId) throw new Error('Upload did not return an artifact ID');
+            const { owner, repo } = context.repo;
+            const { data } = await github.request('POST /repos/{owner}/{repo}/pages/deployments', {
+              owner, repo, artifact_id: artifactId,
+              pages_build_version: context.sha, oidc_token: await core.getIDToken()
+            });
+            core.setOutput('page_url', data.page_url);
+            const deploymentId = data.id || data.status_url?.split('/').pop();
+            if (!deploymentId) throw new Error('Deployment did not return an ID');
+            for (let attempt = 0; attempt < 120; attempt++) {
+              await new Promise(resolve => setTimeout(resolve, 5000));
+              const { data: status } = await github.request('GET /repos/{owner}/{repo}/pages/deployments/{deploymentId}', {
+                owner, repo, deploymentId
+              });
+              if (status.status === 'succeed') return;
+              if (['deployment_failed', 'deployment_content_failed', 'deployment_cancelled', 'deployment_lost'].includes(status.status)) {
+                throw new Error('Pages deployment failed: ' + status.status);
+              }
+            }
+            throw new Error('Pages deployment timed out');
