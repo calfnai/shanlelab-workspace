@@ -9,6 +9,48 @@
   "currentFocus": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
     {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/overview.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/overview.webp",
+      "label": "凌序 · 五视图 · 防滑分区与远机位总览",
+      "status": "按STEP重做 · 待用户评审",
+      "note": "五图防滑区域改为沿原STEP的连续上表面，银色侧壁和端面保留；第五镜头已后移。侧板下半截镜面沿用此前要求；镜面范围的补充澄清尚未收到回复。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/01-45.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/01-45.webp",
+      "label": "凌序 · 45°（纠错版）",
+      "status": "新生成 · 待用户评审",
+      "note": "以原STEP原生面分区底图重做。防滑面沿上表面经过弯起段，侧壁与端面保留金属；第五机位实际后移。材质及人物为AI效果，其他把手与转角Options保留。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/02-left45-person.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/02-left45-person.webp",
+      "label": "凌序 · 左前45°＋人物（纠错版）",
+      "status": "新生成 · 待用户评审",
+      "note": "以原STEP原生面分区底图重做。防滑面沿上表面经过弯起段，侧壁与端面保留金属；第五机位实际后移。材质及人物为AI效果，其他把手与转角Options保留。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/03-left-side.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/03-left-side.webp",
+      "label": "凌序 · 正左侧（纠错版）",
+      "status": "新生成 · 待用户评审",
+      "note": "以原STEP原生面分区底图重做。防滑面沿上表面经过弯起段，侧壁与端面保留金属；第五机位实际后移。材质及人物为AI效果，其他把手与转角Options保留。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/04-right45-person.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/04-right45-person.webp",
+      "label": "凌序 · 右前45°＋人物（纠错版）",
+      "status": "新生成 · 待用户评审",
+      "note": "以原STEP原生面分区底图重做。防滑面沿上表面经过弯起段，侧壁与端面保留金属；第五机位实际后移。材质及人物为AI效果，其他把手与转角Options保留。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/05-runner-view.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/05-runner-view.webp",
+      "label": "凌序 · 跑台后端朝屏幕视角（纠错版）",
+      "status": "新生成 · 待用户评审",
+      "note": "以原STEP原生面分区底图重做。防滑面沿上表面经过弯起段，侧壁与端面保留金属；第五机位实际后移。材质及人物为AI效果，其他把手与转角Options保留。"
+    },
+    {
       "file": "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
       "thumb": "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
       "label": "曜影 · 成人使用状态（175cm参照）",
@@ -21,48 +63,6 @@
       "label": "曜影 · 120cm身高适配概念",
       "status": "已生成 · 待评审",
       "note": "48.5°静态候选，前横梁顶部距跑面约788mm。儿童使用安全尚未验证。 基于全域STEP参照，由内置imagegen生成家居场景；人物不是人体工学验证。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-r2-20261115/overview.webp",
-      "thumb": "documents/treadmill/linear-five-views-r2-20261115/overview.webp",
-      "label": "凌序 · 五视图纠错版总览",
-      "status": "按STEP重做 · 待用户评审",
-      "note": "取消波浪装饰亮条；屏幕倾角、台面、按钮及直握把按原STEP重新分区与出图。侧板下半截镜面沿用此前要求；镜面范围的补充澄清尚未收到回复。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-r2-20261115/01-45.webp",
-      "thumb": "documents/treadmill/linear-five-views-r2-20261115/01-45.webp",
-      "label": "凌序 · 45°（纠错版）",
-      "status": "新生成 · 待用户评审",
-      "note": "以原STEP分区后的同机位底图重做。去掉波浪亮条，修正屏幕与直握把；材质及人物为AI效果，其他把手与转角Options保留。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-r2-20261115/02-left45-person.webp",
-      "thumb": "documents/treadmill/linear-five-views-r2-20261115/02-left45-person.webp",
-      "label": "凌序 · 左前45°＋人物（纠错版）",
-      "status": "新生成 · 待用户评审",
-      "note": "以原STEP分区后的同机位底图重做。去掉波浪亮条，修正屏幕与直握把；材质及人物为AI效果，其他把手与转角Options保留。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-r2-20261115/03-left-side.webp",
-      "thumb": "documents/treadmill/linear-five-views-r2-20261115/03-left-side.webp",
-      "label": "凌序 · 正左侧（纠错版）",
-      "status": "新生成 · 待用户评审",
-      "note": "以原STEP分区后的同机位底图重做。去掉波浪亮条，修正屏幕与直握把；材质及人物为AI效果，其他把手与转角Options保留。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-r2-20261115/04-right45-person.webp",
-      "thumb": "documents/treadmill/linear-five-views-r2-20261115/04-right45-person.webp",
-      "label": "凌序 · 右前45°＋人物（纠错版）",
-      "status": "新生成 · 待用户评审",
-      "note": "以原STEP分区后的同机位底图重做。去掉波浪亮条，修正屏幕与直握把；材质及人物为AI效果，其他把手与转角Options保留。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-r2-20261115/05-runner-view.webp",
-      "thumb": "documents/treadmill/linear-five-views-r2-20261115/05-runner-view.webp",
-      "label": "凌序 · 跑台后端朝屏幕视角（纠错版）",
-      "status": "新生成 · 待用户评审",
-      "note": "以原STEP分区后的同机位底图重做。去掉波浪亮条，修正屏幕与直握把；材质及人物为AI效果，其他把手与转角Options保留。"
     },
     {
       "file": "documents/treadmill/s9-compact-20261115/s9.jpg",
@@ -816,14 +816,14 @@
   ],
   "links": [
     {
+      "label": "凌序 · 防滑分区、远机位五视图与STEP近景核对",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-grip-zone-r3-20261115/",
+      "kind": "design"
+    },
+    {
       "label": "曜影 · 成人与120cm静态适配场景",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=origin-use-scenes-20261115#origin",
       "kind": "review"
-    },
-    {
-      "label": "凌序 · 五视图纠错版及STEP屏幕/扶手核对",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-five-views-r2-20261115/",
-      "kind": "design"
     },
     {
       "label": "人群画像与未来产品线畅想",
@@ -1207,6 +1207,10 @@
     ],
     "decisions": [
       {
+        "title": "凌序防滑区域按STEP上表面重分；第五镜头拉远",
+        "detail": "用户指出防滑位置错误和第五视角镜头不够远。本轮取消直段截面包覆，按原生上表面连续覆盖直段及弯起段，侧壁底面端面保留金属。原生面分区的材质表现仍待用户复核，不把重做当作认可。"
+      },
+      {
         "title": "曜影取消电竞方向 · 成人与120cm场景分别出图",
         "detail": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。"
       },
@@ -1530,6 +1534,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 五图防滑上表面分区与远机位重做",
+        "detail": "五张效果图及总览已重新生成；附原网格扶手近景与第五相机底图。第五机位从x2.03米后移至2.55米，露出更多跑带和两侧边框。101项原始几何哈希不变，折叠及90度竖放保留；旧组从当前图库撤回，其他产品及Options保持。新图待评审。"
+      },
       {
         "title": "2026-11-15 · 人群画像与星弧来路浓缩",
         "detail": "工作坊原稿并入人群画像页s8，不再单开；星弧手绘、上一版整机、CMF交互三页收束到s15。句号渐变为唯一默认，无需dots参数，旧地址自动归并。"
@@ -2201,6 +2209,48 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/05-runner-view.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/05-runner-view.webp",
+      "label": "凌序 · 跑台后端朝屏幕视角（纠错版）",
+      "status": "用户指出防滑分区错误、第五机位太近 · 已撤回",
+      "note": "此组防滑材质误包在直段，弯起上表面未连续；第五镜头太近。原图保留历史，以原生面材质分区与远机位组替代。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/04-right45-person.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/04-right45-person.webp",
+      "label": "凌序 · 右前45°＋人物（纠错版）",
+      "status": "用户指出防滑分区错误、第五机位太近 · 已撤回",
+      "note": "此组防滑材质误包在直段，弯起上表面未连续；第五镜头太近。原图保留历史，以原生面材质分区与远机位组替代。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/03-left-side.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/03-left-side.webp",
+      "label": "凌序 · 正左侧（纠错版）",
+      "status": "用户指出防滑分区错误、第五机位太近 · 已撤回",
+      "note": "此组防滑材质误包在直段，弯起上表面未连续；第五镜头太近。原图保留历史，以原生面材质分区与远机位组替代。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/02-left45-person.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/02-left45-person.webp",
+      "label": "凌序 · 左前45°＋人物（纠错版）",
+      "status": "用户指出防滑分区错误、第五机位太近 · 已撤回",
+      "note": "此组防滑材质误包在直段，弯起上表面未连续；第五镜头太近。原图保留历史，以原生面材质分区与远机位组替代。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/01-45.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/01-45.webp",
+      "label": "凌序 · 45°（纠错版）",
+      "status": "用户指出防滑分区错误、第五机位太近 · 已撤回",
+      "note": "此组防滑材质误包在直段，弯起上表面未连续；第五镜头太近。原图保留历史，以原生面材质分区与远机位组替代。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/overview.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/overview.webp",
+      "label": "凌序 · 五视图纠错版总览",
+      "status": "用户指出防滑分区错误、第五机位太近 · 已撤回",
+      "note": "此组防滑材质误包在直段，弯起上表面未连续；第五镜头太近。原图保留历史，以原生面材质分区与远机位组替代。"
+    },
     {
       "file": "documents/treadmill/linear-five-views-20261115/05-runner-view.webp",
       "thumb": "documents/treadmill/linear-five-views-20261115/05-runner-view.webp",
