@@ -789,12 +789,12 @@
     },
     {
       "label": "人群画像与未来产品线畅想",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#s8",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p5",
       "kind": "review"
     },
     {
       "label": "汇报s9 · 原稿风格／CMF紧凑图表",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?rev=s9-compact-20261115#s10",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?rev=s9-compact-20261115#p6",
       "kind": "review"
     },
     {
@@ -809,12 +809,12 @@
     },
     {
       "label": "汇报末尾 · 三款厂商可选镜面底面",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#manufacturer-mirror",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p41",
       "kind": "review"
     },
     {
       "label": "汇报末尾 · 三款额外增稳",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#manufacturer-stability",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p42",
       "kind": "review"
     },
     {
@@ -824,7 +824,7 @@
     },
     {
       "label": "三款完整来路 + 星弧当前STEP三套CMF",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=complete-lineages-cmf-20261115#s15",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=complete-lineages-cmf-20261115#p11",
       "kind": "review"
     },
     {
@@ -839,7 +839,7 @@
     },
     {
       "label": "星弧的来路 · 原手绘、整机推敲、材质交互与当前STEP",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=xinghu-lineage-20261115#s15",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=xinghu-lineage-20261115#p11",
       "kind": "review"
     },
     {
@@ -854,7 +854,7 @@
     },
     {
       "label": "汇报第22页 · 星弧使用与闲置家居双图",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#s22",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#p21",
       "kind": "review"
     },
     {
@@ -1439,6 +1439,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 统一连续页码与分享链接",
+        "detail": "当前42页，页内编号、底部第X页计数、完整目录与网址#pN一一对应。补齐CMF漏号，滚动同步页码，旧s编号链接保留兼容。后续可直接按当前页码沟通。"
+      },
       {
         "title": "2026-11-15 · 三稿亮相标题收束",
         "detail": "s3删除先看差异，再看它们如何形成。将从产品气质、使用体验到家居角色。作为唯一主标题，不重复保留副标题。"
