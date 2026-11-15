@@ -9,6 +9,13 @@
   "currentFocus": "曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧已按最新侧视补图纠正把手尾端下倾及接缝衔接，平整不等于水平；原结构与轴线保留，修正版v2待评审；凌序/星弧旧整机折叠仍撤回。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/xinghu-lineage-20261115/lineage-overview.jpg",
+      "thumb": "documents/treadmill/xinghu-lineage-20261115/lineage-overview.jpg",
+      "label": "星弧的来路 · 四页连读",
+      "status": "已生成 · 浏览器检查通过 · 待评审",
+      "note": "按用户提供的原稿148、149页截图匹配设计说明与设计概览，保留原图；串联手绘、比例轮廓、材质交互与当前STEP。历史功能保持探索状态。"
+    },
+    {
       "file": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
       "thumb": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
       "label": "凌序 · 屏幕区域刚好接触跑台",
@@ -151,7 +158,7 @@
     {
       "file": "documents/treadmill/presentation-html-20261115/preview.jpg",
       "thumb": "documents/treadmill/presentation-html-20261115/preview.jpg",
-      "label": "HTML 汇报试排 v06 · 16:9自由滚动 · 41页",
+      "label": "HTML 汇报试排 v06 · 16:9自由滚动 · 43页",
       "status": "已生成 · 浏览器检查通过 · 待用户评审",
       "note": "自由连续滚动、16:9页内排版；用户认可style-test风格并要求用于正式汇报；已统一黑白原稿视觉，直接复用黑色章节、32图情绪板、历史六方案、原稿手绘、满版场景五种组件。总览保留图上款式名、图下关键词。三款开篇保持左文右侧通高大图。图片取原稿场景，当前造型另页展示；不提前揭晓凌序可选把手。回顾补原PDF第3/4/5/22/23页，移除空白共创模板；压低重复标题，采用Highlight。空白页填历史或当前产品占位参考。"
     },
@@ -675,6 +682,11 @@
     }
   ],
   "links": [
+    {
+      "label": "星弧的来路 · 原手绘、整机推敲、材质交互与当前STEP",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=xinghu-lineage-20261115#s15",
+      "kind": "review"
+    },
     {
       "label": "凌序 · 折叠至屏幕接触跑台（播放／拖动）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-fold-r2-20261115/viewer.html?rev=screen-contact-20261115",
@@ -1263,6 +1275,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 补清星弧从灵伴发展而来的设计过程",
+        "detail": "以用户截图核对原稿两页，在手绘后加入整机形态与材质交互两页，当前形态使用原STEP整机截图；共43页，旧页面链接保持有效，未向厂商发送。"
+      },
       {
         "title": "2026-11-15 · 凌序接触终点对齐，撤回接触即干涉的误判",
         "detail": "终点由接触关系求解，替代初版视觉角度估计；正常接触不作实体干涉处理。动画、终态图、实录及汇报说明同步，旧诊断入口仅转向当前动作并禁止重新发布错误模型。"
