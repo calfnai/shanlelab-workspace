@@ -65,48 +65,6 @@
       "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
     },
     {
-      "file": "documents/treadmill/linear-grip-zone-r3-20261115/overview.webp",
-      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/overview.webp",
-      "label": "凌序 · 五视图 · 防滑分区与远机位总览",
-      "status": "按STEP重做 · 待用户评审",
-      "note": "五图防滑区域改为沿原STEP的连续上表面，银色侧壁和端面保留；第五镜头已后移。侧板下半截镜面沿用此前要求；镜面范围的补充澄清尚未收到回复。"
-    },
-    {
-      "file": "documents/treadmill/linear-grip-zone-r3-20261115/01-45.webp",
-      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/01-45.webp",
-      "label": "凌序 · 45°（纠错版）",
-      "status": "新生成 · 待用户评审",
-      "note": "以原STEP原生面分区底图重做。防滑面沿上表面经过弯起段，侧壁与端面保留金属；第五机位实际后移。材质及人物为AI效果，其他把手与转角Options保留。"
-    },
-    {
-      "file": "documents/treadmill/linear-grip-zone-r3-20261115/02-left45-person.webp",
-      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/02-left45-person.webp",
-      "label": "凌序 · 左前45°＋人物（纠错版）",
-      "status": "新生成 · 待用户评审",
-      "note": "以原STEP原生面分区底图重做。防滑面沿上表面经过弯起段，侧壁与端面保留金属；第五机位实际后移。材质及人物为AI效果，其他把手与转角Options保留。"
-    },
-    {
-      "file": "documents/treadmill/linear-grip-zone-r3-20261115/03-left-side.webp",
-      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/03-left-side.webp",
-      "label": "凌序 · 正左侧（纠错版）",
-      "status": "新生成 · 待用户评审",
-      "note": "以原STEP原生面分区底图重做。防滑面沿上表面经过弯起段，侧壁与端面保留金属；第五机位实际后移。材质及人物为AI效果，其他把手与转角Options保留。"
-    },
-    {
-      "file": "documents/treadmill/linear-grip-zone-r3-20261115/04-right45-person.webp",
-      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/04-right45-person.webp",
-      "label": "凌序 · 右前45°＋人物（纠错版）",
-      "status": "新生成 · 待用户评审",
-      "note": "以原STEP原生面分区底图重做。防滑面沿上表面经过弯起段，侧壁与端面保留金属；第五机位实际后移。材质及人物为AI效果，其他把手与转角Options保留。"
-    },
-    {
-      "file": "documents/treadmill/linear-grip-zone-r3-20261115/05-runner-view.webp",
-      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/05-runner-view.webp",
-      "label": "凌序 · 跑台后端朝屏幕视角（纠错版）",
-      "status": "新生成 · 待用户评审",
-      "note": "以原STEP原生面分区底图重做。防滑面沿上表面经过弯起段，侧壁与端面保留金属；第五机位实际后移。材质及人物为AI效果，其他把手与转角Options保留。"
-    },
-    {
       "file": "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
       "thumb": "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
       "label": "曜影 · 成人使用状态（175cm参照）",
@@ -789,11 +747,6 @@
       "kind": "review"
     },
     {
-      "label": "凌序 · 防滑分区、远机位五视图与STEP近景核对",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-grip-zone-r3-20261115/",
-      "kind": "design"
-    },
-    {
       "label": "曜影 · 成人与120cm静态适配场景",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=origin-use-scenes-20261115#origin",
       "kind": "review"
@@ -1160,8 +1113,12 @@
     ],
     "decisions": [
       {
+        "title": "凌序五图否决：扶手防滑位置错误",
+        "detail": "用户明确否决整组扶手防滑位置。此前将上表面几何分界当作防滑材质边界的推断无效；五图与近景从当前评审撤回，模型取消未经确认的防滑赋色。覆盖位置未核实，未生成替代图。既定B细交叉网格纹理及其他Options保留。"
+      },
+      {
         "title": "凌序防滑区域按STEP上表面重分；第五镜头拉远",
-        "detail": "用户指出防滑位置错误和第五视角镜头不够远。本轮取消直段截面包覆，按原生上表面连续覆盖直段及弯起段，侧壁底面端面保留金属。原生面分区的材质表现仍待用户复核，不把重做当作认可。"
+        "detail": "已被用户否决：上表面几何分区不构成防滑位置依据。本条仅保留错误修订历史，不作为设计决定。"
       },
       {
         "title": "曜影取消电竞方向 · 成人与120cm场景分别出图",
@@ -1487,6 +1444,14 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 错误防滑分区整组撤回",
+        "detail": "用户明确否决整组扶手防滑位置。此前将上表面几何分界当作防滑材质边界的推断无效；五图与近景从当前评审撤回，模型取消未经确认的防滑赋色。覆盖位置未核实，未生成替代图。既定B细交叉网格纹理及其他Options保留。"
+      },
+      {
+        "title": "2026-11-15 · 三款3D入口改为多角度总览",
+        "detail": "s20/s29/s38由单图跳转页改为大幅多角度图板＋底部3D入口。星弧采用当前长扶手STEP，曜影采用全域STEP已有五视角；凌序采用当前握把分区修正版五视图。全部引用已发布原图、支持放大，未新增重复导出或工程验证宣称。"
+      },
       {
         "title": "2026-11-15 · 市场研究与产品定义归并",
         "detail": "产品布局、价格销量、同类产品对照和竞品风格地图收束为s5四图研究页；造型气质/CMF原始共创图表迁入s10，与温润家居化轻科技情绪板并列。取消独立s7与s9，保留原稿放大与旧链接归并。"
@@ -2153,6 +2118,48 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/05-runner-view.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/05-runner-view.webp",
+      "label": "凌序 · 跑台后端朝屏幕视角（纠错版）",
+      "status": "用户否决 · 防滑位置错误，已撤回",
+      "note": "此前将STEP上表面几何分界误当作防滑材质边界，整组五图及总览不可用于当前评审；覆盖位置尚未核实。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/04-right45-person.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/04-right45-person.webp",
+      "label": "凌序 · 右前45°＋人物（纠错版）",
+      "status": "用户否决 · 防滑位置错误，已撤回",
+      "note": "此前将STEP上表面几何分界误当作防滑材质边界，整组五图及总览不可用于当前评审；覆盖位置尚未核实。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/03-left-side.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/03-left-side.webp",
+      "label": "凌序 · 正左侧（纠错版）",
+      "status": "用户否决 · 防滑位置错误，已撤回",
+      "note": "此前将STEP上表面几何分界误当作防滑材质边界，整组五图及总览不可用于当前评审；覆盖位置尚未核实。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/02-left45-person.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/02-left45-person.webp",
+      "label": "凌序 · 左前45°＋人物（纠错版）",
+      "status": "用户否决 · 防滑位置错误，已撤回",
+      "note": "此前将STEP上表面几何分界误当作防滑材质边界，整组五图及总览不可用于当前评审；覆盖位置尚未核实。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/01-45.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/01-45.webp",
+      "label": "凌序 · 45°（纠错版）",
+      "status": "用户否决 · 防滑位置错误，已撤回",
+      "note": "此前将STEP上表面几何分界误当作防滑材质边界，整组五图及总览不可用于当前评审；覆盖位置尚未核实。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-zone-r3-20261115/overview.webp",
+      "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/overview.webp",
+      "label": "凌序 · 五视图 · 防滑分区与远机位总览",
+      "status": "用户否决 · 防滑位置错误，已撤回",
+      "note": "此前将STEP上表面几何分界误当作防滑材质边界，整组五图及总览不可用于当前评审；覆盖位置尚未核实。"
+    },
     {
       "file": "documents/treadmill/linear-five-views-r2-20261115/05-runner-view.webp",
       "thumb": "documents/treadmill/linear-five-views-r2-20261115/05-runner-view.webp",
