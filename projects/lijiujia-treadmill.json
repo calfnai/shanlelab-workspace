@@ -9,6 +9,20 @@
   "currentFocus": "曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧保留原STEP结构与两轴，新增平整折叠参考预览；上翻角度为约数，以折后平整为准，锁止和线束待核对；凌序/星弧旧整机折叠仍撤回。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/linear-home-native-20261115/linear-home-native-r2.webp",
+      "thumb": "documents/treadmill/linear-home-native-20261115/linear-home-native-r2.webp",
+      "label": "凌序 · 新STEP模型居家镜面效果",
+      "status": "新生成 · 待用户评审",
+      "note": "替换用户指出的旧形体渲染。依据新STEP及截图折后把手姿态，保留原支架轮组和上部脚垫；AI仅作材质与居家场景渲染，非工程验收。"
+    },
+    {
+      "file": "documents/treadmill/linear-fold-r2-20261115/linear-folded-side.webp",
+      "thumb": "documents/treadmill/linear-fold-r2-20261115/linear-folded-side.webp",
+      "label": "凌序 · 把手折叠终态按截图修正",
+      "status": "动作展示已更新 · 待用户评审",
+      "note": "原始网格，上端相对翻转后立柱放平；折叠终态按用户截图。11个采样姿态未发现把手与所测跑带/跑板/邻近壳体新增穿插，锁止与承载尚未工程核验；底架保持原保存位置。"
+    },
+    {
       "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-45.webp",
       "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-source-45.webp",
       "label": "星弧 · 原装配机头侧45°",
@@ -140,13 +154,6 @@
       "label": "HTML 汇报试排 v06 · 16:9自由滚动 · 41页",
       "status": "已生成 · 浏览器检查通过 · 待用户评审",
       "note": "自由连续滚动、16:9页内排版；用户认可style-test风格并要求用于正式汇报；已统一黑白原稿视觉，直接复用黑色章节、32图情绪板、历史六方案、原稿手绘、满版场景五种组件。总览保留图上款式名、图下关键词。三款开篇保持左文右侧通高大图。图片取原稿场景，当前造型另页展示；不提前揭晓凌序可选把手。回顾补原PDF第3/4/5/22/23页，移除空白共创模板；压低重复标题，采用Highlight。空白页填历史或当前产品占位参考。"
-    },
-    {
-      "file": "documents/treadmill/linear-fold-study-20261115/conflict.webp",
-      "thumb": "documents/treadmill/linear-fold-study-20261115/conflict.webp",
-      "label": "凌序 · 固定拼接放倒核对：水平终态干涉",
-      "status": "机构核对 · 未通过终态",
-      "note": "原始101项网格。立柱与Y形头保持固定相对关系，绕下端候选轴核对；水平时Y头与跑台相交，无法达到用户图1。播放在70°停止；非已完成折叠方案。"
     },
     {
       "file": "documents/treadmill/linear-native-20261115/linear-source-45.webp",
@@ -669,6 +676,11 @@
   ],
   "links": [
     {
+      "label": "凌序 · 按截图修正把手折叠（播放／拖动）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-fold-r2-20261115/viewer.html",
+      "kind": "model"
+    },
+    {
       "label": "在线汇报 · 固定顶部版权栏 · 自由滚动",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation/",
       "kind": "review"
@@ -692,11 +704,6 @@
       "label": "星弧 · 原装配平整折叠预览（旋转／透明／过程）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-native-20261115/viewer.html",
       "kind": "3d"
-    },
-    {
-      "label": "凌序 · 折叠核对动画（可播放／拖动，终态未通过）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-fold-study-20261115/viewer.html",
-      "kind": "model"
     },
     {
       "label": "凌序 · 新STEP基准整机3D（可旋转／透明查看）",
@@ -864,7 +871,7 @@
     "next": [
       {
         "title": "核对凌序原机构运动与竖放接地",
-        "detail": "折叠核对动画已上线，但当前STEP＋上端全程固定无法到达用户图1，水平终态与跑台相交。先确认上端相对运动关系，再完成真实折叠、锁止和完整扫掠；抬升及脚垫/轮子共同接地继续核对。"
+        "detail": "把手动作已按截图修正，不再等待把手是否可相对转动的重复确认。继续核对底部抬升架实际活动件、解锁与锁止、完整扫掠和竖放承载稳定；静态竖放显示两组接地，仅作姿态展示。"
       },
       {
         "title": "补齐跨对话核对出的展示缺口",
@@ -976,6 +983,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "凌序把手折叠终态以补充截图为准",
+        "detail": "用户再次指出截图已说明把手折叠。按图实现把手相对翻转，再放平长立柱；撤下将整个Y形头锁死的旧核对结论，不再以此反复要求澄清。"
+      },
       {
         "title": "汇报固定页眉与轻量版本记录",
         "detail": "版权黑条固定在浏览器顶部，正文继续自由滚动。最新稿保持完整页面，旧修改由Git差异保留，不重复复制整页与素材。"
@@ -1240,6 +1251,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 凌序修正把手动作，并用新STEP重做镜面居家图",
+        "detail": "真实101项网格保留，上端先翻转55.11°、下端再放倒77.11°，把手保持图示斜置终态；仅作展示，不宣称锁止与承载验证。新居家图保留原轮组、黑色支架及脚垫，替换汇报s37及旧直链图片；动作页和主评审同步。"
+      },
       {
         "title": "2026-11-15 · 星弧平整折叠预览已发布",
         "detail": "上翻与立柱收拢两阶段动作已接入，新增折平45°和侧面图；全部零件与轴线不改。桌面、手机、三款切换与旧入口均核验。此前75°局部上翻与90°试算仍存历史，不作为当前终点；参考姿态待用户评审。"
@@ -1755,6 +1770,13 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-fold-study-20261115/conflict.webp",
+      "thumb": "documents/treadmill/linear-fold-study-20261115/conflict.webp",
+      "label": "凌序 · 固定拼接放倒核对：水平终态干涉",
+      "status": "已撤下 · 整头固定的解释错误",
+      "note": "用户再次以截图指出把手相对翻转；当前用新STEP网格实现先翻把手、再放平立柱。旧诊断不作为真实折叠结论。"
+    },
     {
       "file": "documents/treadmill/xinghu-native-20261115/xinghu-upfold-side.webp",
       "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-upfold-side.webp",
