@@ -809,12 +809,12 @@
     },
     {
       "label": "汇报末尾 · 三款厂商可选镜面底面",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p41",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p38",
       "kind": "review"
     },
     {
       "label": "汇报末尾 · 三款额外增稳",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p42",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p39",
       "kind": "review"
     },
     {
@@ -854,7 +854,7 @@
     },
     {
       "label": "汇报第22页 · 星弧使用与闲置家居双图",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#p21",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#p18",
       "kind": "review"
     },
     {
@@ -1439,6 +1439,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 第12页并列三种CMF",
+        "detail": "星弧长扶手STEP整机页左侧保留现有图，右侧并列A深石墨铝板、B暖银铝板、C深灰半透明塑料，复用现有示意图可放大。取消三张独立CMF页，合计39页，目录及页码顺延。"
+      },
       {
         "title": "2026-11-15 · 统一连续页码与分享链接",
         "detail": "当前42页，页内编号、底部第X页计数、完整目录与网址#pN一一对应。补齐CMF漏号，滚动同步页码，旧s编号链接保留兼容。后续可直接按当前页码沟通。"
