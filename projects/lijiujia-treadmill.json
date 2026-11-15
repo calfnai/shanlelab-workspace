@@ -9,6 +9,13 @@
   "currentFocus": "曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧已按最新侧视补图纠正把手尾端下倾及接缝衔接，平整不等于水平；原结构与轴线保留，修正版v2待评审；凌序/星弧旧整机折叠仍撤回。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
+      "thumb": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
+      "label": "凌序 · 屏幕区域刚好接触跑台",
+      "status": "接触关系用户确认 · 展示终点已修正",
+      "note": "接触不是干涉。按用户纠正，将屏幕区域正常落到跑台作为折叠终点；屏幕组件与所测跑台实体没有穿入体积。保留原几何与转轴，锁止及承载仍待核验。"
+    },
+    {
       "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-45.webp",
       "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-source-45.webp",
       "label": "星弧 · 原装配机头侧45°",
@@ -63,13 +70,6 @@
       "label": "凌序 · 新STEP模型居家镜面效果",
       "status": "新生成 · 待用户评审",
       "note": "替换用户指出的旧形体渲染。依据新STEP及截图折后把手姿态，保留原支架轮组和上部脚垫；AI仅作材质与居家场景渲染，非工程验收。"
-    },
-    {
-      "file": "documents/treadmill/linear-fold-r2-20261115/linear-folded-side.webp",
-      "thumb": "documents/treadmill/linear-fold-r2-20261115/linear-folded-side.webp",
-      "label": "凌序 · 把手折叠终态按截图修正",
-      "status": "动作展示已更新 · 待用户评审",
-      "note": "原始网格，上端相对翻转后立柱放平；折叠终态按用户截图。11个采样姿态未发现把手与所测跑带/跑板/邻近壳体新增穿插，锁止与承载尚未工程核验；底架保持原保存位置。"
     },
     {
       "file": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp",
@@ -676,8 +676,8 @@
   ],
   "links": [
     {
-      "label": "凌序 · 按截图修正把手折叠（播放／拖动）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-fold-r2-20261115/viewer.html",
+      "label": "凌序 · 折叠至屏幕接触跑台（播放／拖动）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-fold-r2-20261115/viewer.html?rev=screen-contact-20261115",
       "kind": "model"
     },
     {
@@ -984,6 +984,10 @@
     ],
     "decisions": [
       {
+        "title": "凌序折叠终点：屏幕区域与跑台正常接触",
+        "detail": "用户明确没有发生干涉，屏幕区域只是刚好触碰跑台。接触即终点，不应报警或据此撤下动作；此前整头锁死的错误诊断不适用于实际折叠。"
+      },
+      {
         "title": "汇报封面按截图补齐文案",
         "detail": "封面副标题采用“三种设计性格，一个共同目标。”；家居陪伴、机械美感、极致美学下补齐用户截图的三句说明。顶部版权黑条保持固定，正文自由滚动；仅保存变更，不复制整套页面和图片。"
       },
@@ -1259,6 +1263,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 凌序接触终点对齐，撤回接触即干涉的误判",
+        "detail": "终点由接触关系求解，替代初版视觉角度估计；正常接触不作实体干涉处理。动画、终态图、实录及汇报说明同步，旧诊断入口仅转向当前动作并禁止重新发布错误模型。"
+      },
       {
         "title": "2026-11-15 · 星弧把手下倾角修正版v2",
         "detail": "侧视方向对齐新补图，修正把手下倾并重新生成折平两图；原STEP及全部100项几何保留。11个过程姿态实体相交抽样、桌面手机与旧入口核验完成；链接使用新修订标识，避免缓存展示旧角度。"
@@ -1782,6 +1790,13 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-fold-r2-20261115/linear-folded-side.webp",
+      "thumb": "documents/treadmill/linear-fold-r2-20261115/linear-folded-side.webp",
+      "label": "凌序 · 把手折叠终态按截图修正",
+      "status": "初版姿态 · 接触终点已修正",
+      "note": "此版按图估计的终点仍留有间隙；用户确认屏幕区域刚好接触跑台，当前以接触姿态为准。"
+    },
     {
       "file": "documents/treadmill/xinghu-native-20261115/xinghu-flat-side.webp",
       "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-flat-side.webp",
