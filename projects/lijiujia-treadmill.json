@@ -6,8 +6,22 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
-  "currentFocus": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
+  "currentFocus": "用户指定截图1的简洁银色圆端面与小橙色轴心正确，截图2多层套环错误；采用旧近景的拉丝金属和柔和光晕范围，调亮并更橙。整机与近景已分别修订，待评审。既有15°接地姿态图保留为结构参考，原STEP和抬升方向不变。 用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
+    {
+      "file": "documents/treadmill/origin-indirect-edge-r2-20261115/whole.webp",
+      "thumb": "documents/treadmill/origin-indirect-edge-r2-20261115/whole.webp",
+      "label": "曜影 · 简洁轴心与更亮橙色反射（整机）",
+      "status": "新外观提案已生成 · 待评审",
+      "note": "按用户截图1保留简洁银色圆端面与小橙色圆片，取消截图2多层轴套；金属与柔和光晕范围沿用近景，反射光更亮、更橙。轴心不发光。AI外观图，尚未改入STEP。"
+    },
+    {
+      "file": "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp",
+      "thumb": "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp",
+      "label": "曜影 · 去套环、银色拉丝与橙光（近景）",
+      "status": "新外观提案已生成 · 待评审",
+      "note": "按用户截图1保留简洁银色圆端面与小橙色圆片，取消截图2多层轴套；金属与柔和光晕范围沿用近景，反射光更亮、更橙。轴心不发光。AI外观图，尚未改入STEP。"
+    },
     {
       "file": "documents/treadmill/incline-contact-r2-20261115/linear-incline-15.webp",
       "thumb": "documents/treadmill/incline-contact-r2-20261115/linear-incline-15.webp",
@@ -47,13 +61,6 @@
       "file": "documents/treadmill/independent-reviews-20261115/linear-desktop.jpg",
       "thumb": "documents/treadmill/independent-reviews-20261115/linear-desktop.jpg",
       "label": "凌序 · 独立评审页面截图",
-      "status": "页面已拆分 · 图稿原状态保留",
-      "note": "仅包含本款图稿、模型、局部与选项；移除方案切换和跨款导航。原始图稿与模型几何未重新生成，截图用于记录页面结构。"
-    },
-    {
-      "file": "documents/treadmill/independent-reviews-20261115/origin-desktop.jpg",
-      "thumb": "documents/treadmill/independent-reviews-20261115/origin-desktop.jpg",
-      "label": "曜影 · 独立评审页面截图",
       "status": "页面已拆分 · 图稿原状态保留",
       "note": "仅包含本款图稿、模型、局部与选项；移除方案切换和跨款导航。原始图稿与模型几何未重新生成，截图用于记录页面结构。"
     },
@@ -114,20 +121,6 @@
       "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
     },
     {
-      "file": "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
-      "thumb": "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
-      "label": "曜影 · 成人使用状态（175cm参照）",
-      "status": "已生成 · 待评审",
-      "note": "57°基准姿态，前横梁顶部距跑面878mm。 基于全域STEP参照，由内置imagegen生成家居场景；人物不是人体工学验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-use-scenes-20261115/child-use.webp",
-      "thumb": "documents/treadmill/origin-use-scenes-20261115/child-use.webp",
-      "label": "曜影 · 120cm身高适配概念",
-      "status": "已生成 · 待评审",
-      "note": "48.5°静态候选，前横梁顶部距跑面约788mm。儿童使用安全尚未验证。 基于全域STEP参照，由内置imagegen生成家居场景；人物不是人体工学验证。"
-    },
-    {
       "file": "documents/treadmill/s9-compact-20261115/s9.jpg",
       "thumb": "documents/treadmill/s9-compact-20261115/s9.jpg",
       "label": "汇报s9 · 原PDF风格与CMF图表紧凑化",
@@ -156,20 +149,6 @@
       "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。"
     },
     {
-      "file": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
-      "thumb": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
-      "label": "曜影 · 镜面底面效果提议",
-      "status": "效果图已上线 · 待用户评审",
-      "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。"
-    },
-    {
-      "file": "documents/treadmill/origin-child-fit-20261115/height-check.webp",
-      "thumb": "documents/treadmill/origin-child-fit-20261115/height-check.webp",
-      "label": "曜影 · 120cm身高适配尺寸核对",
-      "status": "尺寸与范围核对完成 · 儿童使用态未放行",
-      "note": "有效跑面1300×435mm；轴距1010mm；57°前横梁顶部/中心距跑面878/830mm。仅身高不能认定舒适或合规，未发布儿童运行3D。"
-    },
-    {
       "file": "documents/treadmill/manufacturer-options-20261115/manufacturer-stability.jpg",
       "thumb": "documents/treadmill/manufacturer-options-20261115/manufacturer-stability.jpg",
       "label": "三款 · 额外增稳脚座方案",
@@ -184,27 +163,6 @@
       "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。"
     },
     {
-      "file": "documents/treadmill/origin-easycord-scene-20261115/cord-neutral.webp",
-      "thumb": "documents/treadmill/origin-easycord-scene-20261115/cord-neutral.webp",
-      "label": "曜影 · T-fal式一体短槽护套",
-      "status": "2026-11-15修订 · 待用户评审",
-      "note": "空间图以新全域STEP竖放姿态渲染参照后由内置imagegen润色。出线改为按T-fal实物外观重建的一体开槽护套，取消独立凸环。未宣称原厂CAD；新增护套尚未完整合入新全域STEP。"
-    },
-    {
-      "file": "documents/treadmill/origin-easycord-scene-20261115/cord-up.webp",
-      "thumb": "documents/treadmill/origin-easycord-scene-20261115/cord-up.webp",
-      "label": "曜影Easycord · 朝天90°",
-      "status": "2026-11-15修订 · 待用户评审",
-      "note": "空间图以新全域STEP竖放姿态渲染参照后由内置imagegen润色。出线改为按T-fal实物外观重建的一体开槽护套，取消独立凸环。未宣称原厂CAD；新增护套尚未完整合入新全域STEP。"
-    },
-    {
-      "file": "documents/treadmill/origin-easycord-scene-20261115/cord-down.webp",
-      "thumb": "documents/treadmill/origin-easycord-scene-20261115/cord-down.webp",
-      "label": "曜影Easycord · 向前斜下30°",
-      "status": "2026-11-15修订 · 待用户评审",
-      "note": "空间图以新全域STEP竖放姿态渲染参照后由内置imagegen润色。出线改为按T-fal实物外观重建的一体开槽护套，取消独立凸环。未宣称原厂CAD；新增护套尚未完整合入新全域STEP。"
-    },
-    {
       "file": "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
       "thumb": "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
       "label": "三款完整来路 · 从手稿到当前STEP",
@@ -217,69 +175,6 @@
       "label": "凌序 · 抬升架收平与扶手折叠修正版",
       "status": "已生成并检查 · 待用户评审",
       "note": "先收平抬升架与推杆，再翻转扶手屏幕、放平立柱；屏幕区域正常接触跑台，扶手末端高于跑台侧板底边。原网格保留，其他把手选项保持。"
-    },
-    {
-      "file": "documents/treadmill/origin-native-20261115/origin-source-45.webp",
-      "thumb": "documents/treadmill/origin-native-20261115/origin-source-45.webp",
-      "label": "曜影 · 使用态 · 机头侧45°",
-      "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "前横梁、下置机头及原轮组保留。 调低39°有干涉；连续折叠、爬坡和竖放稳定性未验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-native-20261115/origin-source-right.webp",
-      "thumb": "documents/treadmill/origin-native-20261115/origin-source-right.webp",
-      "label": "曜影 · 使用态 · 操作台侧45°",
-      "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "黑屏、红色按键按原几何分区。 调低39°有干涉；连续折叠、爬坡和竖放稳定性未验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-native-20261115/origin-source-person.webp",
-      "thumb": "documents/treadmill/origin-native-20261115/origin-source-person.webp",
-      "label": "曜影 · 使用态 · 175cm比例人形",
-      "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "人物只用于尺度观察。 调低39°有干涉；连续折叠、爬坡和竖放稳定性未验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-native-20261115/origin-source-side.webp",
-      "thumb": "documents/treadmill/origin-native-20261115/origin-source-side.webp",
-      "label": "曜影 · 使用态 · 正侧面",
-      "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "立柱约57°、扶手水平，按补图对齐。 调低39°有干涉；连续折叠、爬坡和竖放稳定性未验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-native-20261115/origin-bottom.webp",
-      "thumb": "documents/treadmill/origin-native-20261115/origin-bottom.webp",
-      "label": "曜影 · 原装配 · 机底",
-      "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "保留原支架、驱动与下置机头，未用旧低罩替换源件。 调低39°有干涉；连续折叠、爬坡和竖放稳定性未验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-native-20261115/origin-fold.webp",
-      "thumb": "documents/treadmill/origin-native-20261115/origin-fold.webp",
-      "label": "曜影 · 折平 · 斜上方",
-      "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "按补图对齐终态；全程扫掠与锁止仍待核对。 调低39°有干涉；连续折叠、爬坡和竖放稳定性未验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-native-20261115/origin-fold-side.webp",
-      "thumb": "documents/treadmill/origin-native-20261115/origin-fold-side.webp",
-      "label": "曜影 · 折平 · 正侧面",
-      "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "原上端与下端几何保留，未压扁或缩小扶手。 调低39°有干涉；连续折叠、爬坡和竖放稳定性未验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-native-20261115/origin-stand.webp",
-      "thumb": "documents/treadmill/origin-native-20261115/origin-stand.webp",
-      "label": "曜影 · 竖放 · 机底",
-      "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "机身保持90°；修正隐藏件误计入接地范围造成的约14毫米离地。现可见轮组接地，原几何保留；锁止、支撑载荷与稳定性未验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-native-20261115/origin-stand-side.webp",
-      "thumb": "documents/treadmill/origin-native-20261115/origin-stand-side.webp",
-      "label": "曜影 · 竖放 · 正侧面",
-      "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "机身保持90°；修正隐藏件误计入接地范围造成的约14毫米离地。现可见轮组接地，原几何保留；锁止、支撑载荷与稳定性未验证。"
     },
     {
       "file": "documents/treadmill/presentation-html-20261115/preview.jpg",
@@ -359,74 +254,11 @@
       "note": "按钮位置、按压与机底走线已加入概念模型；内部传动、线长、弯曲半径及间隙待核验。竖置机底局部图不代表整机折叠或竖放成立。"
     },
     {
-      "file": "documents/treadmill/origin-cord-bottom-20261114/bottom.webp",
-      "thumb": "documents/treadmill/origin-cord-bottom-20261114/bottom.webp",
-      "label": "曜影 · 微拱主壳与圆润电机舱",
-      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
-      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
-    },
-    {
-      "file": "documents/treadmill/origin-cord-bottom-20261114/lift-bottom.webp",
-      "thumb": "documents/treadmill/origin-cord-bottom-20261114/lift-bottom.webp",
-      "label": "曜影 · 原抬升架与随动横桥",
-      "status": "2026-11-14同一曜影方案多角度展示 · 待用户评审",
-      "note": "同一模型实际截图。10张整机与状态图、两张六视图拼版及机底/出线细节。123°折平端未对齿、待接合；竖放稳定性待核验。保留114项源装配和20项原抬升件。网页新增曲面与出线尚未导出STEP。"
-    },
-    {
       "file": "documents/treadmill/poxing-upfold-details-20261114/03-grip-details.webp",
       "thumb": "documents/treadmill/poxing-upfold-details-20261114/03-grip-details.webp",
       "label": "星弧 · 按钮、接缝与握持端部",
       "status": "按明确上翻方向纠正 · 新细节待评审",
       "note": "内凹按钮、同心弧形分件、底侧柔触区、齐平端盖；材料及固定方式待打样。 局部研究，不代表整机折叠、双侧解锁、线束及承载工程通过。"
-    },
-    {
-      "file": "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
-      "thumb": "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
-      "label": "曜影 · 竖放家居纠错v2",
-      "status": "新视觉修订 · 待用户评审",
-      "note": "银橙现代空间，铬色及玻璃家具。机头、电机及抬升区在下、机尾在上；跑面朝墙、机底朝室内。下电机盖与独立抬升架可见；生成图并非精确CAD，未修改模型，旧冲突折叠继续撤回。"
-    },
-    {
-      "file": "documents/treadmill/origin-form-20261113/front-detail.webp",
-      "thumb": "documents/treadmill/origin-form-20261113/front-detail.webp",
-      "label": "曜影 · 圆弧机头与机底支撑",
-      "status": "按用户原稿修订 · 待查看",
-      "note": "连续圆弧低罩适配下置电机；黑色支撑位于机底，胶囊包覆沿原抬升轴随动。114项源件及20项原抬升件保留。网页外观修订，不代表工程CAD、完整干涉或承载验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-form-20261113/fold-side.webp",
-      "thumb": "documents/treadmill/origin-form-20261113/fold-side.webp",
-      "label": "曜影 · 折平侧面核对",
-      "status": "按用户原稿修订 · 待查看",
-      "note": "连续圆弧低罩适配下置电机；黑色支撑位于机底，胶囊包覆沿原抬升轴随动。114项源件及20项原抬升件保留。网页外观修订，不代表工程CAD、完整干涉或承载验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-form-20261113/lift-side.webp",
-      "thumb": "documents/treadmill/origin-form-20261113/lift-side.webp",
-      "label": "曜影 · 火柴胶囊形抬升包覆",
-      "status": "按用户原稿修订 · 待查看",
-      "note": "连续圆弧低罩适配下置电机；黑色支撑位于机底，胶囊包覆沿原抬升轴随动。114项源件及20项原抬升件保留。网页外观修订，不代表工程CAD、完整干涉或承载验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-clutch-fix-20261113/states.webp",
-      "thumb": "documents/treadmill/origin-clutch-fix-20261113/states.webp",
-      "label": "曜影离合片 · 接合／退开／未对齿三态纠错",
-      "status": "已发布 · 待用户评审",
-      "note": "同一3D模型实际截图及同步齿面展开剖面。按钮全按下与套筒最小轴向间隙1mm，未对齿保持未接合；显示网格余隙不是实测制造公差。"
-    },
-    {
-      "file": "documents/treadmill/origin-clutch-fix-20261113/pending.webp",
-      "thumb": "documents/treadmill/origin-clutch-fix-20261113/pending.webp",
-      "label": "③ 未对齿 · 尚未接合",
-      "status": "新增状态核对图 · 待用户评审",
-      "note": "松手后弹簧仍受压，齿面未对齐；需微调对齿。"
-    },
-    {
-      "file": "documents/treadmill/origin-front-correction-20261113.webp",
-      "thumb": "documents/treadmill/origin-front-correction-20261113.webp",
-      "label": "曜影 · 撤去错误前端凸块",
-      "status": "已撤回 · 仅删凸块的错误修订",
-      "note": "用户明确指出此版仍偏离原稿。只删除两个凸块没有修复机头及支撑关系，不作为修正完成或当前造型依据。"
     },
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-flow-v4.webp",
@@ -492,100 +324,9 @@
       "note": "依据本轮圈注原图生成。两处近景与整机位置为概念表达；内部结构、真实分件、承载及折叠干涉未校核，不替代专用STEP。"
     },
     {
-      "file": "documents/treadmill/origin-r3-20261113/trigger-removed.webp",
-      "thumb": "documents/treadmill/origin-r3-20261113/trigger-removed.webp",
-      "label": "曜影 Origin · 旧扳机删除前后",
-      "status": "历史图 · 前端凸块已否决",
-      "note": "实际模型同视角对比。删除旧扳机及其5件配套件；修订STEP保留其余114项源装配。 图中新增前端支座及软鞋已被用户否决，当前模型已撤去；此图保留为历史，不作为前端造型依据。"
-    },
-    {
-      "file": "documents/treadmill/origin-r3-20261113/review-sheet.webp",
-      "thumb": "documents/treadmill/origin-r3-20261113/review-sheet.webp",
-      "label": "曜影 Origin · 整机R3四视图",
-      "status": "历史图 · 前端凸块已否决",
-      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。 图中新增前端支座及软鞋已被用户否决，当前模型已撤去；此图保留为历史，不作为前端造型依据。"
-    },
-    {
-      "file": "documents/treadmill/origin-r3-20261113/normal.webp",
-      "thumb": "documents/treadmill/origin-r3-20261113/normal.webp",
-      "label": "曜影 Origin · 整机使用态",
-      "status": "历史图 · 前端凸块已否决",
-      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。 图中新增前端支座及软鞋已被用户否决，当前模型已撤去；此图保留为历史，不作为前端造型依据。"
-    },
-    {
-      "file": "documents/treadmill/origin-r3-20261113/incline.webp",
-      "thumb": "documents/treadmill/origin-r3-20261113/incline.webp",
-      "label": "曜影 Origin · 原架体抬升与饰盖随动",
-      "status": "历史图 · 前端凸块已否决",
-      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。 图中新增前端支座及软鞋已被用户否决，当前模型已撤去；此图保留为历史，不作为前端造型依据。"
-    },
-    {
-      "file": "documents/treadmill/origin-r3-20261113/coupled.webp",
-      "thumb": "documents/treadmill/origin-r3-20261113/coupled.webp",
-      "label": "① 松手复位 · 齿面接合",
-      "status": "离合片实体与剖视纠错 · 已发布待评审",
-      "note": "已消除按钮与套筒穿插；同一模型可比较接合、退开和未对齿。实际网格采样检查与线上操作通过，仍不等于制造及承载验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-r3-20261113/decoupled.webp",
-      "thumb": "documents/treadmill/origin-r3-20261113/decoupled.webp",
-      "label": "② 按下按钮 · 齿盘退开",
-      "status": "离合片实体与剖视纠错 · 已发布待评审",
-      "note": "已消除按钮与套筒穿插；同一模型可比较接合、退开和未对齿。实际网格采样检查与线上操作通过，仍不等于制造及承载验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-r3-20261113/bottom.webp",
-      "thumb": "documents/treadmill/origin-r3-20261113/bottom.webp",
-      "label": "曜影 Origin · 机底检修与饰盖",
-      "status": "R3概念修改 · 待逐项评审",
-      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。 已撤去错误前端支座及软鞋。"
-    },
-    {
-      "file": "documents/treadmill/origin-r3-20261113/stand.webp",
-      "thumb": "documents/treadmill/origin-r3-20261113/stand.webp",
-      "label": "曜影 Origin · 竖放姿态",
-      "status": "历史图 · 前端凸块已否决",
-      "note": "旧扳机组件6件已删除，当前保留114项源装配和20项原抬升件。同一个曜影Origin模型。30齿/12°档距/8mm齿深为本轮提议；原123°端点待对齿，120°才锁定。底部饰盖跟随原抬升架；承载、真实驱动行程与装配干涉待核验。 图中新增前端支座及软鞋已被用户否决，当前模型已撤去；此图保留为历史，不作为前端造型依据。"
-    },
-    {
-      "file": "documents/treadmill/source-detail-20261112/normal.webp",
-      "thumb": "documents/treadmill/source-detail-20261112/normal.webp",
-      "label": "曜影 · 源细节恢复后的展开姿态",
-      "status": "源网格恢复 · 待核对",
-      "note": "120项源装配均保留；20项原底部机构及14项游离小件恢复。底面新增层默认关闭；姿态和机构未获工程验证。"
-    },
-    {
-      "file": "documents/treadmill/source-detail-20261112/source.webp",
-      "thumb": "documents/treadmill/source-detail-20261112/source.webp",
-      "label": "曜影 · 全部源网格与原始保存姿态",
-      "status": "源网格恢复 · 待核对",
-      "note": "120项源装配均保留；20项原底部机构及14项游离小件恢复。底面新增层默认关闭；姿态和机构未获工程验证。"
-    },
-    {
-      "file": "documents/treadmill/source-detail-20261112/lift-detail.webp",
-      "thumb": "documents/treadmill/source-detail-20261112/lift-detail.webp",
-      "label": "曜影 · 原底部机构20项局部",
-      "status": "源网格恢复 · 待核对",
-      "note": "120项源装配均保留；20项原底部机构及14项游离小件恢复。底面新增层默认关闭；姿态和机构未获工程验证。"
-    },
-    {
-      "file": "documents/treadmill/source-detail-20261112/transparent.webp",
-      "thumb": "documents/treadmill/source-detail-20261112/transparent.webp",
-      "label": "曜影 · 源装配外壳半透明",
-      "status": "源网格恢复 · 待核对",
-      "note": "120项源装配均保留；20项原底部机构及14项游离小件恢复。底面新增层默认关闭；姿态和机构未获工程验证。"
-    },
-    {
       "file": "documents/treadmill/current-options-20261112/linear.png",
       "thumb": "documents/treadmill/current-options-20261112/linear.png",
       "label": "凌序 · 当前同事方案",
-      "status": "当前设计来源 · 待评审",
-      "note": "用户明确的当前方案。"
-    },
-    {
-      "file": "documents/treadmill/current-options-20261112/origin.png",
-      "thumb": "documents/treadmill/current-options-20261112/origin.png",
-      "label": "曜影 · 当前同事方案",
       "status": "当前设计来源 · 待评审",
       "note": "用户明确的当前方案。"
     },
@@ -595,13 +336,6 @@
       "label": "灵伴 · 当前同事方案",
       "status": "当前设计来源 · 待评审",
       "note": "用户明确的当前方案。"
-    },
-    {
-      "file": "documents/treadmill/current-options-20261112/yaoying-step.png",
-      "thumb": "documents/treadmill/current-options-20261112/yaoying-step.png",
-      "label": "曜影 · 有机盖版 STEP 原姿态",
-      "status": "当前设计来源 · 待评审",
-      "note": "真实STEP转换；收合姿态和悬空小件按原坐标保留，非运动验证。"
     },
     {
       "file": "documents/treadmill/corrections-v07-20261109/option1-incline-covered.webp",
@@ -780,6 +514,11 @@
     }
   ],
   "links": [
+    {
+      "label": "曜影 · 简洁轴心与更亮橙色反射（独立评审）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-indirect-edge-r2-20261115#origin-indirect-edge-current",
+      "kind": "review"
+    },
     {
       "label": "曜影 · 抬升态跑步场景（AI视觉提案，待评审）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p26",
@@ -1012,7 +751,7 @@
   },
   "progress": {
     "updated": "2026-11-15",
-    "summary": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
+    "summary": "用户指定截图1的简洁银色圆端面与小橙色轴心正确，截图2多层套环错误；采用旧近景的拉丝金属和柔和光晕范围，调亮并更橙。整机与近景已分别修订，待评审。既有15°接地姿态图保留为结构参考，原STEP和抬升方向不变。 用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
     "next": [
       {
         "title": "按原模型重做两款镜面效果图",
@@ -1136,6 +875,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "曜影轴心纠错 · 保留近景金属并增强橙色反射",
+        "detail": "用户指定截图1的简洁银色圆端面与小橙色轴心正确，截图2多层套环错误；采用旧近景的拉丝金属和柔和光晕范围，调亮并更橙。整机与近景已分别修订，待评审。既有15°接地姿态图保留为结构参考，原STEP和抬升方向不变。"
+      },
       {
         "title": "凌序面板：C2作为当前基准",
         "detail": "用户暂时只认可C2，C1和C3从当前展示撤下，原稿留档。C2原图贴合原CAD面板表面，成为各状态模型与后续生图素材；待用户补充另一个备选。"
@@ -1484,6 +1227,10 @@
       }
     ],
     "history": [
+      {
+        "title": "曜影轴心纠错 · 保留近景金属并增强橙色反射",
+        "detail": "用户指定截图1的简洁银色圆端面与小橙色轴心正确，截图2多层套环错误；采用旧近景的拉丝金属和柔和光晕范围，调亮并更橙。整机与近景已分别修订，待评审。既有15°接地姿态图保留为结构参考，原STEP和抬升方向不变。"
+      },
       {
         "title": "2026-11-15 · 抬升接地纠正与凌序C2基准",
         "detail": "三款工作面15°、四轮最低点及后支撑同地面，101/110/100项原网格坐标与索引哈希不变；凌序C2原图已映射原面板，其他两案退出当前展示。三款仍为独立评审。"
@@ -1952,6 +1699,14 @@
     ],
     "visualGroups": [
       {
+        "title": "曜影 · 简洁轴心与橙色间接反射修订",
+        "note": "采用正确简洁轴心与近景金属；整圈反射更亮更橙。外观待评审，工程未验证。",
+        "files": [
+          "documents/treadmill/origin-indirect-edge-r2-20261115/whole.webp",
+          "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp"
+        ]
+      },
+      {
         "title": "星弧 · 同事长扶手版",
         "note": "当前版本 · 已生成待评审",
         "files": [
@@ -1966,32 +1721,10 @@
         ]
       },
       {
-        "title": "曜影 · 成人与120cm身高家居场景",
-        "note": "两张分别生成；儿童图为未验证的静态适配概念。",
-        "files": [
-          "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
-          "documents/treadmill/origin-use-scenes-20261115/child-use.webp"
-        ]
-      },
-      {
         "title": "汇报s9 · 紧凑原稿图表",
         "note": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。",
         "files": [
           "documents/treadmill/s9-compact-20261115/s9.jpg"
-        ]
-      },
-      {
-        "title": "三款镜面底面 · 家居效果图",
-        "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。",
-        "files": [
-          "documents/treadmill/mirror-effects-20261115/origin-mirror.webp"
-        ]
-      },
-      {
-        "title": "曜影 · 120cm儿童适配核对",
-        "note": "静态尺寸核对图，非儿童使用适用或合格声明。",
-        "files": [
-          "documents/treadmill/origin-child-fit-20261115/height-check.webp"
         ]
       },
       {
@@ -2003,34 +1736,10 @@
         ]
       },
       {
-        "title": "曜影 · 空间方向与T-fal式出线修订",
-        "note": "同一主评审页修订，新图待评审。",
-        "files": [
-          "documents/treadmill/origin-easycord-scene-20261115/cord-neutral.webp",
-          "documents/treadmill/origin-easycord-scene-20261115/cord-up.webp",
-          "documents/treadmill/origin-easycord-scene-20261115/cord-down.webp"
-        ]
-      },
-      {
         "title": "完整设计来路与原几何CMF",
         "note": "已生成待评审 · 保留历史成果，当前材料未定案。",
         "files": [
           "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg"
-        ]
-      },
-      {
-        "title": "曜影 · 新全域STEP基准与补图姿态",
-        "note": "静态姿态待评审，爬坡、调低、连续折叠及稳定性尚未解决。",
-        "files": [
-          "documents/treadmill/origin-native-20261115/origin-source-45.webp",
-          "documents/treadmill/origin-native-20261115/origin-source-right.webp",
-          "documents/treadmill/origin-native-20261115/origin-source-person.webp",
-          "documents/treadmill/origin-native-20261115/origin-source-side.webp",
-          "documents/treadmill/origin-native-20261115/origin-bottom.webp",
-          "documents/treadmill/origin-native-20261115/origin-fold.webp",
-          "documents/treadmill/origin-native-20261115/origin-fold-side.webp",
-          "documents/treadmill/origin-native-20261115/origin-stand.webp",
-          "documents/treadmill/origin-native-20261115/origin-stand-side.webp"
         ]
       },
       {
@@ -2045,14 +1754,6 @@
         "note": "凌序机底局部收线已撤回，当前只保留其他款式既有提议。",
         "files": [
           "documents/treadmill/fold-controls-cord-20261114/poxing-button-cord.svg"
-        ]
-      },
-      {
-        "title": "曜影 · 旧机盖版机底包覆提议（未合入新全域STEP）",
-        "note": "保留既有机底外观提议；当前整机姿态看新全域STEP九图。",
-        "files": [
-          "documents/treadmill/origin-cord-bottom-20261114/bottom.webp",
-          "documents/treadmill/origin-cord-bottom-20261114/lift-bottom.webp"
         ]
       },
       {
@@ -2076,32 +1777,7 @@
         "note": "镜面、下电机盖、独立抬升架及收纳朝向修订；曜影现代银橙空间。新图待评审，未修改模型。",
         "files": [
           "documents/treadmill/linear-mirror-trim-20261114/linear-home-mirror-trim.webp",
-          "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
           "documents/treadmill/home-upright-v2-20261113/poxing-home-upright-v2.webp"
-        ]
-      },
-      {
-        "title": "曜影 · 按原稿修订机头、底脚及抬升包覆",
-        "note": "同一模型近景、折平侧面与抬升侧面；新图待用户查看。",
-        "files": [
-          "documents/treadmill/origin-form-20261113/front-detail.webp",
-          "documents/treadmill/origin-form-20261113/fold-side.webp",
-          "documents/treadmill/origin-form-20261113/lift-side.webp"
-        ]
-      },
-      {
-        "title": "曜影离合片 · 三态纠错",
-        "note": "同一3D模型实际截图：松手接合、按下退开、未对齿。原误导图已由纠错图替换。",
-        "files": [
-          "documents/treadmill/origin-clutch-fix-20261113/states.webp",
-          "documents/treadmill/origin-clutch-fix-20261113/pending.webp"
-        ]
-      },
-      {
-        "title": "历史撤回 · 仅删前端凸块",
-        "note": "用户已否决此版，不能作为当前造型依据。",
-        "files": [
-          "documents/treadmill/origin-front-correction-20261113.webp"
         ]
       },
       {
@@ -2123,43 +1799,11 @@
         ]
       },
       {
-        "title": "历史曜影R3 · 离合片以三态纠错为准",
-        "note": "旧截图保留追溯；当前按钮接合/退开/未对齿以三态纠错及最新3D为准。",
-        "files": [
-          "documents/treadmill/origin-r3-20261113/trigger-removed.webp",
-          "documents/treadmill/origin-r3-20261113/review-sheet.webp",
-          "documents/treadmill/origin-r3-20261113/normal.webp",
-          "documents/treadmill/origin-r3-20261113/incline.webp",
-          "documents/treadmill/origin-r3-20261113/coupled.webp",
-          "documents/treadmill/origin-r3-20261113/decoupled.webp",
-          "documents/treadmill/origin-r3-20261113/bottom.webp",
-          "documents/treadmill/origin-r3-20261113/stand.webp"
-        ]
-      },
-      {
-        "title": "曜影 · 源细节恢复与原底部机构",
-        "note": "全装配源网格保留；局部图为20项原底部机构隔离查看。不是三款完整交付。",
-        "files": [
-          "documents/treadmill/source-detail-20261112/normal.webp",
-          "documents/treadmill/source-detail-20261112/source.webp",
-          "documents/treadmill/source-detail-20261112/lift-detail.webp",
-          "documents/treadmill/source-detail-20261112/transparent.webp"
-        ]
-      },
-      {
         "title": "三稿来源 · 同事历史原图",
         "note": "保留当时凌序、曜影、灵伴标注；大C方向当前命名星弧，原稿不改绘。",
         "files": [
           "documents/treadmill/current-options-20261112/linear.png",
-          "documents/treadmill/current-options-20261112/origin.png",
           "documents/treadmill/current-options-20261112/lynmate.png"
-        ]
-      },
-      {
-        "title": "曜影 · STEP 原姿态",
-        "note": "可从3D入口旋转查看。源文件收合姿态，有悬空小件。",
-        "files": [
-          "documents/treadmill/current-options-20261112/yaoying-step.png"
         ]
       },
       {
@@ -3280,6 +2924,286 @@
       "label": "第22页 · 星弧日常步行",
       "status": "旧短扶手版历史，当前采用同事长扶手STEP",
       "note": "以新星弧STEP截图为造型参考，两张保持同一空间与产品位置；均为展开状态，不表示折平或竖放机构已核实。"
+    },
+    {
+      "file": "documents/treadmill/independent-reviews-20261115/origin-desktop.jpg",
+      "thumb": "documents/treadmill/independent-reviews-20261115/origin-desktop.jpg",
+      "label": "曜影 · 独立评审页面截图",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
+      "thumb": "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
+      "label": "曜影 · 成人使用状态（175cm参照）",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-use-scenes-20261115/child-use.webp",
+      "thumb": "documents/treadmill/origin-use-scenes-20261115/child-use.webp",
+      "label": "曜影 · 120cm身高适配概念",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
+      "thumb": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
+      "label": "曜影 · 镜面底面效果提议",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-child-fit-20261115/height-check.webp",
+      "thumb": "documents/treadmill/origin-child-fit-20261115/height-check.webp",
+      "label": "曜影 · 120cm身高适配尺寸核对",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-easycord-scene-20261115/cord-neutral.webp",
+      "thumb": "documents/treadmill/origin-easycord-scene-20261115/cord-neutral.webp",
+      "label": "曜影 · T-fal式一体短槽护套",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-easycord-scene-20261115/cord-up.webp",
+      "thumb": "documents/treadmill/origin-easycord-scene-20261115/cord-up.webp",
+      "label": "曜影Easycord · 朝天90°",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-easycord-scene-20261115/cord-down.webp",
+      "thumb": "documents/treadmill/origin-easycord-scene-20261115/cord-down.webp",
+      "label": "曜影Easycord · 向前斜下30°",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-native-20261115/origin-source-45.webp",
+      "thumb": "documents/treadmill/origin-native-20261115/origin-source-45.webp",
+      "label": "曜影 · 使用态 · 机头侧45°",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-native-20261115/origin-source-right.webp",
+      "thumb": "documents/treadmill/origin-native-20261115/origin-source-right.webp",
+      "label": "曜影 · 使用态 · 操作台侧45°",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-native-20261115/origin-source-person.webp",
+      "thumb": "documents/treadmill/origin-native-20261115/origin-source-person.webp",
+      "label": "曜影 · 使用态 · 175cm比例人形",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-native-20261115/origin-source-side.webp",
+      "thumb": "documents/treadmill/origin-native-20261115/origin-source-side.webp",
+      "label": "曜影 · 使用态 · 正侧面",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-native-20261115/origin-bottom.webp",
+      "thumb": "documents/treadmill/origin-native-20261115/origin-bottom.webp",
+      "label": "曜影 · 原装配 · 机底",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-native-20261115/origin-fold.webp",
+      "thumb": "documents/treadmill/origin-native-20261115/origin-fold.webp",
+      "label": "曜影 · 折平 · 斜上方",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-native-20261115/origin-fold-side.webp",
+      "thumb": "documents/treadmill/origin-native-20261115/origin-fold-side.webp",
+      "label": "曜影 · 折平 · 正侧面",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-native-20261115/origin-stand.webp",
+      "thumb": "documents/treadmill/origin-native-20261115/origin-stand.webp",
+      "label": "曜影 · 竖放 · 机底",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-native-20261115/origin-stand-side.webp",
+      "thumb": "documents/treadmill/origin-native-20261115/origin-stand-side.webp",
+      "label": "曜影 · 竖放 · 正侧面",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/bottom.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/bottom.webp",
+      "label": "曜影 · 微拱主壳与圆润电机舱",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-cord-bottom-20261114/lift-bottom.webp",
+      "thumb": "documents/treadmill/origin-cord-bottom-20261114/lift-bottom.webp",
+      "label": "曜影 · 原抬升架与随动横桥",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
+      "thumb": "documents/treadmill/home-upright-v2-20261113/origin-home-upright-v2.webp",
+      "label": "曜影 · 竖放家居纠错v2",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-form-20261113/front-detail.webp",
+      "thumb": "documents/treadmill/origin-form-20261113/front-detail.webp",
+      "label": "曜影 · 圆弧机头与机底支撑",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-form-20261113/fold-side.webp",
+      "thumb": "documents/treadmill/origin-form-20261113/fold-side.webp",
+      "label": "曜影 · 折平侧面核对",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-form-20261113/lift-side.webp",
+      "thumb": "documents/treadmill/origin-form-20261113/lift-side.webp",
+      "label": "曜影 · 火柴胶囊形抬升包覆",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-clutch-fix-20261113/states.webp",
+      "thumb": "documents/treadmill/origin-clutch-fix-20261113/states.webp",
+      "label": "曜影离合片 · 接合／退开／未对齿三态纠错",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-clutch-fix-20261113/pending.webp",
+      "thumb": "documents/treadmill/origin-clutch-fix-20261113/pending.webp",
+      "label": "③ 未对齿 · 尚未接合",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-front-correction-20261113.webp",
+      "thumb": "documents/treadmill/origin-front-correction-20261113.webp",
+      "label": "曜影 · 撤去错误前端凸块",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/trigger-removed.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/trigger-removed.webp",
+      "label": "曜影 Origin · 旧扳机删除前后",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/review-sheet.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/review-sheet.webp",
+      "label": "曜影 Origin · 整机R3四视图",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/normal.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/normal.webp",
+      "label": "曜影 Origin · 整机使用态",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/incline.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/incline.webp",
+      "label": "曜影 Origin · 原架体抬升与饰盖随动",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/coupled.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/coupled.webp",
+      "label": "① 松手复位 · 齿面接合",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/decoupled.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/decoupled.webp",
+      "label": "② 按下按钮 · 齿盘退开",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/bottom.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/bottom.webp",
+      "label": "曜影 Origin · 机底检修与饰盖",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-r3-20261113/stand.webp",
+      "thumb": "documents/treadmill/origin-r3-20261113/stand.webp",
+      "label": "曜影 Origin · 竖放姿态",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/source-detail-20261112/normal.webp",
+      "thumb": "documents/treadmill/source-detail-20261112/normal.webp",
+      "label": "曜影 · 源细节恢复后的展开姿态",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/source-detail-20261112/source.webp",
+      "thumb": "documents/treadmill/source-detail-20261112/source.webp",
+      "label": "曜影 · 全部源网格与原始保存姿态",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/source-detail-20261112/lift-detail.webp",
+      "thumb": "documents/treadmill/source-detail-20261112/lift-detail.webp",
+      "label": "曜影 · 原底部机构20项局部",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/source-detail-20261112/transparent.webp",
+      "thumb": "documents/treadmill/source-detail-20261112/transparent.webp",
+      "label": "曜影 · 源装配外壳半透明",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/current-options-20261112/origin.png",
+      "thumb": "documents/treadmill/current-options-20261112/origin.png",
+      "label": "曜影 · 当前同事方案",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/current-options-20261112/yaoying-step.png",
+      "thumb": "documents/treadmill/current-options-20261112/yaoying-step.png",
+      "label": "曜影 · 有机盖版 STEP 原姿态",
+      "status": "退出当前外观评审 · 历史或结构参考",
+      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
     }
   ]
 }
