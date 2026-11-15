@@ -9,6 +9,20 @@
   "currentFocus": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
     {
+      "file": "documents/treadmill/linear-upright-90-20261115/linear-upright-90.webp",
+      "thumb": "documents/treadmill/linear-upright-90-20261115/linear-upright-90.webp",
+      "label": "凌序 · 90°垂直竖放镜面效果",
+      "status": "姿态修订已生成 · 待用户评审",
+      "note": "按同事侧视与原STEP纠正：机身垂直地面，抬升架收拢后共同支撑。替换原倾斜姿态；AI材质与场景效果，非工程验收。"
+    },
+    {
+      "file": "documents/treadmill/linear-upright-90-20261115/source-stand-side.webp",
+      "thumb": "documents/treadmill/linear-upright-90-20261115/source-stand-side.webp",
+      "label": "凌序 · 原模型90°竖放侧视核对",
+      "status": "原STEP网格姿态修订 · 待评审",
+      "note": "原几何、原轴线、单位缩放。机身90°，轮组与机身端部同一地面；抬升架转角为展示拟合值，不作机械止挡或锁止定案。"
+    },
+    {
       "file": "documents/treadmill/mirror-form-withdrawal-20261115/withdrawal.jpg",
       "thumb": "documents/treadmill/mirror-form-withdrawal-20261115/withdrawal.jpg",
       "label": "镜面页纠错 · 星弧与凌序变形图撤下",
@@ -212,13 +226,6 @@
       "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
     },
     {
-      "file": "documents/treadmill/linear-home-native-20261115/linear-home-native-r2.webp",
-      "thumb": "documents/treadmill/linear-home-native-20261115/linear-home-native-r2.webp",
-      "label": "凌序 · 新STEP模型居家镜面效果",
-      "status": "新生成 · 待用户评审",
-      "note": "替换用户指出的旧形体渲染。依据新STEP及截图折后把手姿态，保留原支架轮组和上部脚垫；AI仅作材质与居家场景渲染，非工程验收。"
-    },
-    {
       "file": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp",
       "thumb": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp",
       "label": "第22页 · 星弧运动之后",
@@ -286,14 +293,14 @@
       "thumb": "documents/treadmill/origin-native-20261115/origin-stand.webp",
       "label": "曜影 · 竖放 · 机底",
       "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "机头向下、机底朝外，按用户补图方向摆放。 调低39°有干涉；连续折叠、爬坡和竖放稳定性未验证。"
+      "note": "机身保持90°；修正隐藏件误计入接地范围造成的约14毫米离地。现可见轮组接地，原几何保留；锁止、支撑载荷与稳定性未验证。"
     },
     {
       "file": "documents/treadmill/origin-native-20261115/origin-stand-side.webp",
       "thumb": "documents/treadmill/origin-native-20261115/origin-stand-side.webp",
       "label": "曜影 · 竖放 · 正侧面",
       "status": "新全域STEP基准 · 按补图摆放 · 待评审",
-      "note": "原轮组、机头与脚垫保留；最终支撑与稳定性未验证。 调低39°有干涉；连续折叠、爬坡和竖放稳定性未验证。"
+      "note": "机身保持90°；修正隐藏件误计入接地范围造成的约14毫米离地。现可见轮组接地，原几何保留；锁止、支撑载荷与稳定性未验证。"
     },
     {
       "file": "documents/treadmill/presentation-html-20261115/preview.jpg",
@@ -795,6 +802,11 @@
   ],
   "links": [
     {
+      "label": "凌序 · 90°竖放修订与三款姿态回查",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-upright-90-20261115/",
+      "kind": "review"
+    },
+    {
       "label": "星弧 · 三套产品效果大图",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-product-render-20261115/",
       "kind": "review"
@@ -850,8 +862,8 @@
       "kind": "review"
     },
     {
-      "label": "凌序 · 包豪斯之家 · AI场景待评审",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/linear.webp",
+      "label": "凌序 · 包豪斯之家 · 90°竖放修订待评审",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/linear.webp?rev=upright-90-20261115",
       "kind": "review"
     },
     {
@@ -1171,6 +1183,10 @@
     ],
     "decisions": [
       {
+        "title": "凌序竖放必须垂直地面，不能倾斜整机凑接地",
+        "detail": "同事侧视与用户明确说明：机身90°，抬升架略长并与机身共同支撑。原倾斜版撤回，其他把手与转角Options保留。"
+      },
+      {
         "title": "否决星弧与凌序镜面图：原造型被改变",
         "detail": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。"
       },
@@ -1478,6 +1494,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 90°竖放纠错及另两款姿态复核",
+        "detail": "凌序原模型与居家图改为90°，同步评审和汇报。曜影保持90°，修正隐藏件造成的约14毫米可见轮组离地。星弧未套用凌序倾斜算法，当前只开放两轴折平，竖放支撑仍待核对。新图待评审，不宣称三款完成工程验证。"
+      },
       {
         "title": "2026-11-15 · 三个句号的可见渐变",
         "detail": "s12将渐变直接映射到三个独立句号圆环，分别为橙黄、肉粉、蓝绿，避免小字形只显示文字框渐变的单一色段。正文保持白色，不导出图片。"
@@ -2111,6 +2131,13 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-home-native-20261115/linear-home-native-r2.webp",
+      "thumb": "documents/treadmill/linear-home-native-20261115/linear-home-native-r2.webp",
+      "label": "凌序 · 新STEP模型居家镜面效果",
+      "status": "用户指出竖放倾角错误 · 已撤回",
+      "note": "此前错误地倾斜整机凑接地，已由90°垂直竖放修订替代，旧图仅留历史。"
+    },
     {
       "file": "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
       "thumb": "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
