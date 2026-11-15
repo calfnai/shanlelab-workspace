@@ -669,6 +669,11 @@
   ],
   "links": [
     {
+      "label": "在线汇报 · 固定顶部版权栏 · 自由滚动",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation/",
+      "kind": "review"
+    },
+    {
       "label": "汇报第22页 · 星弧使用与闲置家居双图",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#s22",
       "kind": "review"
@@ -971,6 +976,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "汇报固定页眉与轻量版本记录",
+        "detail": "版权黑条固定在浏览器顶部，正文继续自由滚动。最新稿保持完整页面，旧修改由Git差异保留，不重复复制整页与素材。"
+      },
       {
         "title": "星弧上翻90°为约数，以折后平整为目标",
         "detail": "用户明确无需上翻到那么高，只需折后看起来平整。当前按原两轴先上翻扶手屏幕、再收拢立柱，100项几何保留。11个过程抽样未检出体积重叠；角度只是姿态拟合值，锁止、线束与完整扫掠仍待核对。"
