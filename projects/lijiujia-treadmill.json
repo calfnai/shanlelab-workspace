@@ -9,25 +9,39 @@
   "currentFocus": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
     {
-      "file": "documents/treadmill/incline-15-20261115/linear-incline-15.webp",
-      "thumb": "documents/treadmill/incline-15-20261115/linear-incline-15.webp",
-      "label": "凌序 · 跑台对地15°目标姿态",
-      "status": "角度要求已统一 · 姿态基准图待评审",
-      "note": "以跑带工作面与水平地面实际夹角核对为15°。原网格保留，抬升架行程和接地联动未核验；不代表机构工程完成。"
+      "file": "documents/treadmill/incline-contact-r2-20261115/linear-incline-15.webp",
+      "thumb": "documents/treadmill/incline-contact-r2-20261115/linear-incline-15.webp",
+      "label": "凌序 · 跑板15°、抬升架展开与轮组接地",
+      "status": "接地姿态已核对 · 待评审",
+      "note": "跑带工作面与水平地面15°；四轮及后支撑接地，原网格保留。原CAD局部实体重叠仍在，推杆限位及承载未核验。"
     },
     {
-      "file": "documents/treadmill/incline-15-20261115/origin-incline-15.webp",
-      "thumb": "documents/treadmill/incline-15-20261115/origin-incline-15.webp",
-      "label": "曜影 · 跑台对地15°目标姿态",
-      "status": "角度要求已统一 · 姿态基准图待评审",
-      "note": "以跑带工作面与水平地面实际夹角核对为15°。原网格保留，抬升架行程和接地联动未核验；不代表机构工程完成。"
+      "file": "documents/treadmill/incline-contact-r2-20261115/origin-incline-15.webp",
+      "thumb": "documents/treadmill/incline-contact-r2-20261115/origin-incline-15.webp",
+      "label": "曜影 · 跑板15°、抬升架展开与轮组接地",
+      "status": "接地姿态已核对 · 待评审",
+      "note": "跑带工作面与水平地面15°；四轮及后支撑接地，原网格保留。原CAD局部实体重叠仍在，推杆限位及承载未核验。"
     },
     {
-      "file": "documents/treadmill/incline-15-20261115/xinghu-incline-15.webp",
-      "thumb": "documents/treadmill/incline-15-20261115/xinghu-incline-15.webp",
-      "label": "星弧 · 跑台对地15°目标姿态",
-      "status": "角度要求已统一 · 姿态基准图待评审",
-      "note": "以跑带工作面与水平地面实际夹角核对为15°。原网格保留，抬升架行程和接地联动未核验；不代表机构工程完成。"
+      "file": "documents/treadmill/incline-contact-r2-20261115/xinghu-incline-15.webp",
+      "thumb": "documents/treadmill/incline-contact-r2-20261115/xinghu-incline-15.webp",
+      "label": "星弧 · 跑板15°、抬升架展开与轮组接地",
+      "status": "接地姿态已核对 · 待评审",
+      "note": "跑带工作面与水平地面15°；四轮及后支撑接地，原网格保留。原CAD局部实体重叠仍在，推杆限位及承载未核验。"
+    },
+    {
+      "file": "documents/treadmill/incline-contact-r2-20261115/linear-panel-C2.png",
+      "thumb": "documents/treadmill/incline-contact-r2-20261115/linear-panel-C2.png",
+      "label": "凌序 · C2（当前基准）",
+      "status": "用户选定为当前基准 · 已接入模型",
+      "note": "C1和C3退出当前评审，C2沿用原图用于模型与生图素材，备选待用户补图。"
+    },
+    {
+      "file": "documents/treadmill/incline-contact-r2-20261115/linear-panel-C2-model.webp",
+      "thumb": "documents/treadmill/incline-contact-r2-20261115/linear-panel-C2-model.webp",
+      "label": "凌序 · C2原面板表面映射",
+      "status": "用户选定为当前基准 · 已接入模型",
+      "note": "C1和C3退出当前评审，C2沿用原图用于模型与生图素材，备选待用户补图。"
     },
     {
       "file": "documents/treadmill/independent-reviews-20261115/linear-desktop.jpg",
@@ -1123,6 +1137,14 @@
     ],
     "decisions": [
       {
+        "title": "凌序面板：C2作为当前基准",
+        "detail": "用户暂时只认可C2，C1和C3从当前展示撤下，原稿留档。C2原图贴合原CAD面板表面，成为各状态模型与后续生图素材；待用户补充另一个备选。"
+      },
+      {
+        "title": "抬升态纠正：跑板15°，抬升架展开，轮组保持接地",
+        "detail": "撤回仅整机倾转的悬空轮组图。三款按轮组和后支撑接地反求抬升架旋转，并更新模型与六张姿态图。原CAD局部实体重叠及推杆限位、承载仍待处理。"
+      },
+      {
         "title": "三款抬升态统一：跑台与地面15°",
         "detail": "用户统一凌序、曜影、星弧抬升态：跑台与水平地面呈15度角，非15%坡度。当前独立评审、模型及配图采用此目标；角度统一不等于抬升架行程、接地联动与承载已通过工程核验。"
       },
@@ -1462,6 +1484,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 抬升接地纠正与凌序C2基准",
+        "detail": "三款工作面15°、四轮最低点及后支撑同地面，101/110/100项原网格坐标与索引哈希不变；凌序C2原图已映射原面板，其他两案退出当前展示。三款仍为独立评审。"
+      },
       {
         "title": "2026-11-15 · 曜影抬升态跑步场景",
         "detail": "按用户指定#p26改为「曜影 ORIGIN｜投入训练的时刻」，名称延续橙色渐变；配图为参照既有抬升态模型生成的成人跑步家居场景，已生成待评审。该视觉不代表机构或运动安全验证。"
@@ -2184,6 +2210,27 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/incline-15-20261115/xinghu-incline-15.webp",
+      "thumb": "documents/treadmill/incline-15-20261115/xinghu-incline-15.webp",
+      "label": "星弧 · 跑台对地15°目标姿态",
+      "status": "已撤回：抬升架未联动、轮子悬空",
+      "note": "保留历史；当前改为抬升架展开且四轮及后支撑接地的15°姿态。"
+    },
+    {
+      "file": "documents/treadmill/incline-15-20261115/origin-incline-15.webp",
+      "thumb": "documents/treadmill/incline-15-20261115/origin-incline-15.webp",
+      "label": "曜影 · 跑台对地15°目标姿态",
+      "status": "已撤回：抬升架未联动、轮子悬空",
+      "note": "保留历史；当前改为抬升架展开且四轮及后支撑接地的15°姿态。"
+    },
+    {
+      "file": "documents/treadmill/incline-15-20261115/linear-incline-15.webp",
+      "thumb": "documents/treadmill/incline-15-20261115/linear-incline-15.webp",
+      "label": "凌序 · 跑台对地15°目标姿态",
+      "status": "已撤回：抬升架未联动、轮子悬空",
+      "note": "保留历史；当前改为抬升架展开且四轮及后支撑接地的15°姿态。"
+    },
     {
       "file": "documents/treadmill/xinghu-long-grip-20261115/xinghu-climb.webp",
       "thumb": "documents/treadmill/xinghu-long-grip-20261115/xinghu-climb.webp",
