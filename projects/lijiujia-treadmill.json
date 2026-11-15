@@ -767,6 +767,11 @@
   ],
   "links": [
     {
+      "label": "曜影 · 抬升态跑步场景（AI视觉提案，待评审）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p26",
+      "kind": "design"
+    },
+    {
       "label": "凌序 · 独立评审（本款图稿、模型与选项）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear/",
       "kind": "design"
@@ -1457,6 +1462,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 曜影抬升态跑步场景",
+        "detail": "按用户指定#p26改为「曜影 ORIGIN｜投入训练的时刻」，名称延续橙色渐变；配图为参照既有抬升态模型生成的成人跑步家居场景，已生成待评审。该视觉不代表机构或运动安全验证。"
+      },
       {
         "title": "2026-11-15 · 曜影整机页标题与图注调整",
         "detail": "曜影整机页统一标题为「曜影 ORIGIN｜延续圆形关节与机械秩序。」，名称使用橙色渐变；删除「曜影 / 本轮STEP整机外观」图注。合页后的当前链接为 https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p21 ，复用原整机图。"
