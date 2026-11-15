@@ -6,33 +6,40 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
-  "currentFocus": "用户指定截图1的简洁银色圆端面与小橙色轴心正确，截图2多层套环错误；采用旧近景的拉丝金属和柔和光晕范围，调亮并更橙。整机与近景已分别修订，待评审。既有15°接地姿态图保留为结构参考，原STEP和抬升方向不变。 用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
+  "currentFocus": "曜影后横梁不得发光，R2近景原图为用户指定最正确基准并保持原哈希。旧抬升图已撤回，19项源几何的下轮架与两底壳改为同组展开；正侧世界坐标测得工作面15.0°，四轮与后支撑接地。姿态/外观待评审，未作完整机构、载荷或光学验收。 用户指定截图1的简洁银色圆端面与小橙色轴心正确，截图2多层套环错误；采用旧近景的拉丝金属和柔和光晕范围，调亮并更橙。整机与近景已分别修订，待评审。既有15°接地姿态图保留为结构参考，原STEP和抬升方向不变。 用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
     {
-      "file": "documents/treadmill/origin-indirect-edge-r2-20261115/whole.webp",
-      "thumb": "documents/treadmill/origin-indirect-edge-r2-20261115/whole.webp",
-      "label": "曜影 · 简洁轴心与更亮橙色反射（整机）",
-      "status": "新外观提案已生成 · 待评审",
-      "note": "按用户截图1保留简洁银色圆端面与小橙色圆片，取消截图2多层轴套；金属与柔和光晕范围沿用近景，反射光更亮、更橙。轴心不发光。AI外观图，尚未改入STEP。"
+      "file": "documents/treadmill/origin-lift-total-20261115/side.webp",
+      "thumb": "documents/treadmill/origin-lift-total-20261115/side.webp",
+      "label": "曜影 · 工作面对地15.0°正侧核对",
+      "status": "已修订 · 待评审",
+      "note": "1300mm工作面高差336.5mm、水平投影1255.7mm。 装配姿态或外观评审，未完成连续运动、承载及光学工程验证。"
+    },
+    {
+      "file": "documents/treadmill/origin-lift-total-20261115/lower.webp",
+      "thumb": "documents/treadmill/origin-lift-total-20261115/lower.webp",
+      "label": "曜影 · 完整下部总成共同展开",
+      "status": "已修订 · 待评审",
+      "note": "轮架、横向底壳与包覆件同组，轮组和后支撑接地。 装配姿态或外观评审，未完成连续运动、承载及光学工程验证。"
+    },
+    {
+      "file": "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
+      "thumb": "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
+      "label": "曜影 · 后端不发光，侧饰件漫反射",
+      "status": "已修订 · 待评审",
+      "note": "只去掉后横梁橙光，保持侧饰件光效。 装配姿态或外观评审，未完成连续运动、承载及光学工程验证。"
     },
     {
       "file": "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp",
       "thumb": "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp",
       "label": "曜影 · 去套环、银色拉丝与橙光（近景）",
-      "status": "新外观提案已生成 · 待评审",
-      "note": "按用户截图1保留简洁银色圆端面与小橙色圆片，取消截图2多层轴套；金属与柔和光晕范围沿用近景，反射光更亮、更橙。轴心不发光。AI外观图，尚未改入STEP。"
+      "status": "用户指定当前最正确近景基准",
+      "note": "保留该R2原图，未重生成、重编码或覆写。光效仅限侧面长饰件轮廓，后横梁不发光。"
     },
     {
       "file": "documents/treadmill/incline-contact-r2-20261115/linear-incline-15.webp",
       "thumb": "documents/treadmill/incline-contact-r2-20261115/linear-incline-15.webp",
       "label": "凌序 · 跑板15°、抬升架展开与轮组接地",
-      "status": "接地姿态已核对 · 待评审",
-      "note": "跑带工作面与水平地面15°；四轮及后支撑接地，原网格保留。原CAD局部实体重叠仍在，推杆限位及承载未核验。"
-    },
-    {
-      "file": "documents/treadmill/incline-contact-r2-20261115/origin-incline-15.webp",
-      "thumb": "documents/treadmill/incline-contact-r2-20261115/origin-incline-15.webp",
-      "label": "曜影 · 跑板15°、抬升架展开与轮组接地",
       "status": "接地姿态已核对 · 待评审",
       "note": "跑带工作面与水平地面15°；四轮及后支撑接地，原网格保留。原CAD局部实体重叠仍在，推杆限位及承载未核验。"
     },
@@ -515,6 +522,11 @@
   ],
   "links": [
     {
+      "label": "曜影 · 15°完整下部总成与后端去光",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-lift-total-20261115#incline-15",
+      "kind": "review"
+    },
+    {
       "label": "曜影 · 简洁轴心与更亮橙色反射（独立评审）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-indirect-edge-r2-20261115#origin-indirect-edge-current",
       "kind": "review"
@@ -751,7 +763,7 @@
   },
   "progress": {
     "updated": "2026-11-15",
-    "summary": "用户指定截图1的简洁银色圆端面与小橙色轴心正确，截图2多层套环错误；采用旧近景的拉丝金属和柔和光晕范围，调亮并更橙。整机与近景已分别修订，待评审。既有15°接地姿态图保留为结构参考，原STEP和抬升方向不变。 用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
+    "summary": "曜影后横梁不得发光，R2近景原图为用户指定最正确基准并保持原哈希。旧抬升图已撤回，19项源几何的下轮架与两底壳改为同组展开；正侧世界坐标测得工作面15.0°，四轮与后支撑接地。姿态/外观待评审，未作完整机构、载荷或光学验收。 用户指定截图1的简洁银色圆端面与小橙色轴心正确，截图2多层套环错误；采用旧近景的拉丝金属和柔和光晕范围，调亮并更橙。整机与近景已分别修订，待评审。既有15°接地姿态图保留为结构参考，原STEP和抬升方向不变。 用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
     "next": [
       {
         "title": "按原模型重做两款镜面效果图",
@@ -875,6 +887,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "曜影后端去光与完整下部15°总成纠正",
+        "detail": "曜影后横梁不得发光，R2近景原图为用户指定最正确基准并保持原哈希。旧抬升图已撤回，19项源几何的下轮架与两底壳改为同组展开；正侧世界坐标测得工作面15.0°，四轮与后支撑接地。姿态/外观待评审，未作完整机构、载荷或光学验收。"
+      },
       {
         "title": "曜影轴心纠错 · 保留近景金属并增强橙色反射",
         "detail": "用户指定截图1的简洁银色圆端面与小橙色轴心正确，截图2多层套环错误；采用旧近景的拉丝金属和柔和光晕范围，调亮并更橙。整机与近景已分别修订，待评审。既有15°接地姿态图保留为结构参考，原STEP和抬升方向不变。"
@@ -1227,6 +1243,10 @@
       }
     ],
     "history": [
+      {
+        "title": "曜影后端去光与完整下部15°总成纠正",
+        "detail": "曜影后横梁不得发光，R2近景原图为用户指定最正确基准并保持原哈希。旧抬升图已撤回，19项源几何的下轮架与两底壳改为同组展开；正侧世界坐标测得工作面15.0°，四轮与后支撑接地。姿态/外观待评审，未作完整机构、载荷或光学验收。"
+      },
       {
         "title": "曜影轴心纠错 · 保留近景金属并增强橙色反射",
         "detail": "用户指定截图1的简洁银色圆端面与小橙色轴心正确，截图2多层套环错误；采用旧近景的拉丝金属和柔和光晕范围，调亮并更橙。整机与近景已分别修订，待评审。既有15°接地姿态图保留为结构参考，原STEP和抬升方向不变。"
@@ -1699,10 +1719,20 @@
     ],
     "visualGroups": [
       {
+        "title": "曜影 · 15°完整下部总成与外观基准",
+        "note": "结构姿态图两张；侧饰件光效以原R2近景为准，后端不发光。",
+        "files": [
+          "documents/treadmill/origin-lift-total-20261115/side.webp",
+          "documents/treadmill/origin-lift-total-20261115/lower.webp",
+          "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
+          "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp"
+        ]
+      },
+      {
         "title": "曜影 · 简洁轴心与橙色间接反射修订",
         "note": "采用正确简洁轴心与近景金属；整圈反射更亮更橙。外观待评审，工程未验证。",
         "files": [
-          "documents/treadmill/origin-indirect-edge-r2-20261115/whole.webp",
+          "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
           "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp"
         ]
       },
@@ -3204,6 +3234,20 @@
       "label": "曜影 · 有机盖版 STEP 原姿态",
       "status": "退出当前外观评审 · 历史或结构参考",
       "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
+    },
+    {
+      "file": "documents/treadmill/origin-indirect-edge-r2-20261115/whole.webp",
+      "thumb": "documents/treadmill/origin-indirect-edge-r2-20261115/whole.webp",
+      "label": "曜影 · 简洁轴心与更亮橙色反射（整机）",
+      "status": "用户否决 · 已退出当前",
+      "note": "后横梁不发光；旧抬升图的下壳未随轮架共同展开。新图按真实15°和完整总成重做。"
+    },
+    {
+      "file": "documents/treadmill/incline-contact-r2-20261115/origin-incline-15.webp",
+      "thumb": "documents/treadmill/incline-contact-r2-20261115/origin-incline-15.webp",
+      "label": "曜影 · 跑板15°、抬升架展开与轮组接地",
+      "status": "用户否决 · 已退出当前",
+      "note": "后横梁不发光；旧抬升图的下壳未随轮架共同展开。新图按真实15°和完整总成重做。"
     }
   ]
 }
