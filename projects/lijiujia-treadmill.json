@@ -5,9 +5,16 @@
   "description": "星弧、曜影、凌序三款当前STEP与设计来路统一审查；汇报末尾增加厂商镜面底面和三款通用额外增稳。动作研究、视觉提议与工程核验分开记录。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "历史撤回版本保留追溯，不自动恢复为当前方案。当前动作支持范围以各款模型说明为准；三款共同选用项与凌序把手选项分别记录。",
-  "currentFocus": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。 新全域STEP已实测；前横梁中心目标700/740/780mm对应立柱45.2°/48.5°/52.1°，只核对上端两件静态相交为0，不等于全机构、锁止和儿童使用通过。现行通用标准不覆盖儿童专用器材；年龄、肘高和步行/跑步用途尚未明确。未把未验证姿态发布为儿童运行3D。 三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。 曜影全域STEP九图获用户评价“基本上没错”；电竞空间方向已纠正为机底朝室内，Easycord改成按T-fal实物的一体短槽护套，旧弹簧外观退出当前展示。新图待评审。 曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧已按最新侧视补图纠正把手尾端下倾及接缝衔接，平整不等于水平；原结构与轴线保留，修正版v2待评审；凌序已有按截图修正的扶手翻转与收平演示，星弧为原轴线折平参考，锁止与连续运动仍待核验。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
+  "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
+  "currentFocus": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
+    {
+      "file": "documents/treadmill/mirror-form-withdrawal-20261115/withdrawal.jpg",
+      "thumb": "documents/treadmill/mirror-form-withdrawal-20261115/withdrawal.jpg",
+      "label": "镜面页纠错 · 星弧与凌序变形图撤下",
+      "status": "错误已撤回 · 两款新效果图待重做",
+      "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。"
+    },
     {
       "file": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v2.webp",
       "thumb": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v2.webp",
@@ -72,30 +79,9 @@
       "note": "五个指定视角之一。镜头以原STEP截图为依据；两张人物图使用同一形象，保留其他把手与转角Options。AI材质与人物效果，不替代原CAD。"
     },
     {
-      "file": "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
-      "thumb": "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
-      "label": "三款 · 镜面底面家居效果页",
-      "status": "效果图已上线 · 待用户评审",
-      "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。"
-    },
-    {
-      "file": "documents/treadmill/mirror-effects-20261115/xinghu-mirror.webp",
-      "thumb": "documents/treadmill/mirror-effects-20261115/xinghu-mirror.webp",
-      "label": "星弧 · 镜面底面效果提议",
-      "status": "效果图已上线 · 待用户评审",
-      "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。"
-    },
-    {
       "file": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
       "thumb": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
       "label": "曜影 · 镜面底面效果提议",
-      "status": "效果图已上线 · 待用户评审",
-      "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。"
-    },
-    {
-      "file": "documents/treadmill/mirror-effects-20261115/linear-mirror.webp",
-      "thumb": "documents/treadmill/mirror-effects-20261115/linear-mirror.webp",
-      "label": "凌序 · 镜面底面家居R3",
       "status": "效果图已上线 · 待用户评审",
       "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。"
     },
@@ -119,13 +105,6 @@
       "label": "统一审查目录 · 当前工作索引",
       "status": "已上线并经浏览器核验 · 方案待评审",
       "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。"
-    },
-    {
-      "file": "documents/treadmill/linear-product-render-20261115/linear-home-mirror-r3.webp",
-      "thumb": "documents/treadmill/linear-product-render-20261115/linear-home-mirror-r3.webp",
-      "label": "凌序 · 居家镜面效果 R3",
-      "status": "新生成 · 待用户评审",
-      "note": "以新STEP当前竖放截图为几何与姿态依据，呈现镜面机底和居家材质。保留原轮组、脚垫、黑色开口支架及折后把手。AI效果图，未获用户确认；其他把手与转角Options仍保留。"
     },
     {
       "file": "documents/treadmill/origin-easycord-scene-20261115/origin-scene-v2.webp",
@@ -851,11 +830,6 @@
       "kind": "review"
     },
     {
-      "label": "凌序 · 新生成的居家镜面效果 R3",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-product-render-20261115/",
-      "kind": "design"
-    },
-    {
       "label": "星弧 · A/B/C原生STEP材质切换",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-cmf-native-20261115/viewer.html?rev=cmf-controls-fixed",
       "kind": "review"
@@ -1072,8 +1046,12 @@
   },
   "progress": {
     "updated": "2026-11-15",
-    "summary": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。 新全域STEP已实测；前横梁中心目标700/740/780mm对应立柱45.2°/48.5°/52.1°，只核对上端两件静态相交为0，不等于全机构、锁止和儿童使用通过。现行通用标准不覆盖儿童专用器材；年龄、肘高和步行/跑步用途尚未明确。未把未验证姿态发布为儿童运行3D。 三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。",
+    "summary": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
     "next": [
+      {
+        "title": "按原模型重做两款镜面效果图",
+        "detail": "固定原网格、零件与已核对姿态，先核对轮廓及支架轮组，再渲染镜面、灯光和环境；新效果未完成。"
+      },
       {
         "title": "厂商评估三款共同选用项",
         "detail": "分别评估镜面覆盖、材料工艺及额外增稳脚座的安装、锁止、接地、折叠净距与抗倾覆；不将独立示意当成已合入三款STEP。"
@@ -1192,6 +1170,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "否决星弧与凌序镜面图：原造型被改变",
+        "detail": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。"
+      },
       {
         "title": "凌序生图范围为五个指定视角，不是一张居家图",
         "detail": "用户明确要求45°、左前45°＋人物、正左侧、右前45°＋人物，以及所示截图的从跑台后端沿跑带中轴朝向屏幕的视角。截图限定机位，凌序外形以新STEP为准。"
@@ -1876,10 +1858,7 @@
         "title": "三款镜面底面 · 家居效果图",
         "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。",
         "files": [
-          "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
-          "documents/treadmill/mirror-effects-20261115/xinghu-mirror.webp",
-          "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
-          "documents/treadmill/mirror-effects-20261115/linear-mirror.webp"
+          "documents/treadmill/mirror-effects-20261115/origin-mirror.webp"
         ]
       },
       {
@@ -1893,7 +1872,6 @@
         "title": "三款共同选用项与当前工作索引",
         "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。",
         "files": [
-          "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
           "documents/treadmill/manufacturer-options-20261115/manufacturer-stability.jpg",
           "documents/treadmill/manufacturer-options-20261115/review-directory.jpg"
         ]
@@ -2129,6 +2107,34 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
+      "thumb": "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
+      "label": "三款 · 镜面底面家居效果页",
+      "status": "用户否决 · 造型被改变，已撤下",
+      "note": "镜面质感不能以改变原造型为代价；当前不再展示，后续直接渲染原模型。"
+    },
+    {
+      "file": "documents/treadmill/mirror-effects-20261115/xinghu-mirror.webp",
+      "thumb": "documents/treadmill/mirror-effects-20261115/xinghu-mirror.webp",
+      "label": "星弧 · 镜面底面效果提议",
+      "status": "用户否决 · 造型被改变，已撤下",
+      "note": "镜面质感不能以改变原造型为代价；当前不再展示，后续直接渲染原模型。"
+    },
+    {
+      "file": "documents/treadmill/mirror-effects-20261115/linear-mirror.webp",
+      "thumb": "documents/treadmill/mirror-effects-20261115/linear-mirror.webp",
+      "label": "凌序 · 镜面底面家居R3",
+      "status": "用户否决 · 造型被改变，已撤下",
+      "note": "镜面质感不能以改变原造型为代价；当前不再展示，后续直接渲染原模型。"
+    },
+    {
+      "file": "documents/treadmill/linear-product-render-20261115/linear-home-mirror-r3.webp",
+      "thumb": "documents/treadmill/linear-product-render-20261115/linear-home-mirror-r3.webp",
+      "label": "凌序 · 居家镜面效果 R3",
+      "status": "用户否决 · 造型被改变，已撤下",
+      "note": "镜面质感不能以改变原造型为代价；当前不再展示，后续直接渲染原模型。"
+    },
     {
       "file": "documents/treadmill/manufacturer-options-20261115/manufacturer-mirror.jpg",
       "thumb": "documents/treadmill/manufacturer-options-20261115/manufacturer-mirror.jpg",
