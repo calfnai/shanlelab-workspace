@@ -826,8 +826,8 @@
       "kind": "design"
     },
     {
-      "label": "第一轮 · 未来产品线畅想工作坊原稿",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#lifestyle-workshop",
+      "label": "人群画像与未来产品线畅想",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#s8",
       "kind": "review"
     },
     {
@@ -1530,6 +1530,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 人群画像与星弧来路浓缩",
+        "detail": "工作坊原稿并入人群画像页s8，不再单开；星弧手绘、上一版整机、CMF交互三页收束到s15。句号渐变为唯一默认，无需dots参数，旧地址自动归并。"
+      },
       {
         "title": "2026-11-15 · 品牌产品布局与市场分布合页",
         "detail": "按用户要求把两页浓缩为一页：两张前期原图并列、可分别放大，页底保留原稿低价销量判断；历史研究口径不作为当前市场事实，后续页码顺延。"
