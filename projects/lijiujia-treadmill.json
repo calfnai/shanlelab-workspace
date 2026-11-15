@@ -9,6 +9,20 @@
   "currentFocus": "曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧已按最新侧视补图纠正把手尾端下倾及接缝衔接，平整不等于水平；原结构与轴线保留，修正版v2待评审；凌序/星弧旧整机折叠仍撤回。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/three-lineages-cmf-20261115/xinghu-cmf-corrected.webp",
+      "thumb": "documents/treadmill/three-lineages-cmf-20261115/xinghu-cmf-corrected.webp",
+      "label": "星弧 · STEP原几何三套CMF",
+      "status": "已生成 · 浏览器检查通过 · 待评审",
+      "note": "A深石墨铝板、B暖银铝板、C深灰半透明塑料。同一装配与机位，前端保留包覆，尾端按STEP。仅CMF视觉提议。"
+    },
+    {
+      "file": "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
+      "thumb": "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
+      "label": "三款完整来路 · 从手稿到当前STEP",
+      "status": "已生成 · 浏览器检查通过 · 待评审",
+      "note": "三款分别串联手稿、上一版整机、上一版CMF与交互及当前STEP；保留原图与设计贡献。"
+    },
+    {
       "file": "documents/treadmill/linear-compact-fold-20261115/linear-folded-compact.webp",
       "thumb": "documents/treadmill/linear-compact-fold-20261115/linear-folded-compact.webp",
       "label": "凌序 · 抬升架收平与扶手折叠修正版",
@@ -158,7 +172,7 @@
     {
       "file": "documents/treadmill/presentation-html-20261115/preview.jpg",
       "thumb": "documents/treadmill/presentation-html-20261115/preview.jpg",
-      "label": "HTML 汇报试排 v06 · 16:9自由滚动 · 43页",
+      "label": "HTML 汇报试排 v06 · 16:9自由滚动 · 49页",
       "status": "已生成 · 浏览器检查通过 · 待用户评审",
       "note": "自由连续滚动、16:9页内排版；用户认可style-test风格并要求用于正式汇报；已统一黑白原稿视觉，直接复用黑色章节、32图情绪板、历史六方案、原稿手绘、满版场景五种组件。总览保留图上款式名、图下关键词。三款开篇保持左文右侧通高大图。图片取原稿场景，当前造型另页展示；不提前揭晓凌序可选把手。回顾补原PDF第3/4/5/22/23页，移除空白共创模板；压低重复标题，采用Highlight。空白页填历史或当前产品占位参考。"
     },
@@ -350,13 +364,6 @@
       "label": "凌序客制把手 · 心率监测把手",
       "status": "当前图稿暂正确 · 供甲方选方案",
       "note": "沿用上一轮折面肩部作统一展示底座，不代表选定拐角。尺寸、承载、互换接口及折叠净距待校核；心率款仅展示接触电极布局，电路与实测未完成。 属于甲方可选方案；基准整机外观以新STEP为准。"
-    },
-    {
-      "file": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
-      "thumb": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
-      "label": "星弧 · 三套底部饰板材质搭配",
-      "status": "新增设计提议 · 待用户评审",
-      "note": "A主推深石墨喷砂阳极氧化铝板；B暖银拉丝铝板；C深灰细纹PC+ABS。仅CMF概念，不代表选定或打样。"
     },
     {
       "file": "documents/treadmill/poxing-cmf-fold-20261113/hinge-two-piece.webp",
@@ -682,6 +689,16 @@
     }
   ],
   "links": [
+    {
+      "label": "星弧 · A/B/C原生STEP材质切换",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-cmf-native-20261115/viewer.html?rev=cmf-controls-fixed",
+      "kind": "review"
+    },
+    {
+      "label": "三款完整来路 + 星弧当前STEP三套CMF",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=complete-lineages-cmf-20261115#s15",
+      "kind": "review"
+    },
     {
       "label": "星弧 · 一家人的日常 · AI场景待评审",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/xinghu.webp",
@@ -1295,6 +1312,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-15 · 三款补完整演进过程，星弧CMF按STEP纠错",
+        "detail": "逐款呈现手稿、上一版整机、已有CMF与交互及当前STEP；星弧新增三张原生几何CMF图与前尾特写，A/B不透明，C烟灰半透明。错误旧图撤回并保留历史，未确认材料或生产工程。"
+      },
+      {
         "title": "2026-11-15 · 汇报精简与重点强化",
         "detail": "按修改前页码删除第二页；第四页重写研究到形态的叙述并配产品盘点、人群画像与手绘推演原稿；第十二页放大三项共同目标。取消粗灰色分页间隔，保持自由滚动与固定页眉。共42页，旧页面锚点兼容。"
       },
@@ -1610,6 +1631,14 @@
     ],
     "visualGroups": [
       {
+        "title": "完整设计来路与原几何CMF",
+        "note": "已生成待评审 · 保留历史成果，当前材料未定案。",
+        "files": [
+          "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
+          "documents/treadmill/three-lineages-cmf-20261115/xinghu-cmf-corrected.webp"
+        ]
+      },
+      {
         "title": "星弧 · 把手下倾角修正版v2",
         "note": "以最新侧视补图的尾端下倾为准，原零件和轴线保留；待用户评审。",
         "files": [
@@ -1837,6 +1866,13 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
+      "thumb": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
+      "label": "星弧 · 旧CMF图（形体错误，已撤回）",
+      "status": "用户指出错误 · 退出当前评审",
+      "note": "前端误露机构，C误画为不透明，尾端包覆与STEP不符。原图保留追溯，当前改用STEP原几何渲染。"
+    },
     {
       "file": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
       "thumb": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
