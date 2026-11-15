@@ -9,6 +9,20 @@
   "currentFocus": "曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧已换用新STEP真实装配，扶手屏幕同步上翻开放0–75°局部研究；90°为单轴试算，局部重叠不能判定截图终态冲突，两张旧错误细节图继续不展示；凌序/星弧旧整机折叠仍撤回。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp",
+      "thumb": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp",
+      "label": "第22页 · 星弧运动之后",
+      "status": "AI家居场景提议 · 待评审",
+      "note": "以新星弧STEP截图为造型参考，两张保持同一空间与产品位置；均为展开状态，不表示折平或竖放机构已核实。"
+    },
+    {
+      "file": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-use-v1.webp",
+      "thumb": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-use-v1.webp",
+      "label": "第22页 · 星弧日常步行",
+      "status": "AI家居场景提议 · 待评审",
+      "note": "以新星弧STEP截图为造型参考，两张保持同一空间与产品位置；均为展开状态，不表示折平或竖放机构已核实。"
+    },
+    {
       "file": "documents/treadmill/origin-native-20261115/origin-source-45.webp",
       "thumb": "documents/treadmill/origin-native-20261115/origin-source-45.webp",
       "label": "曜影 · 使用态 · 机头侧45°",
@@ -655,6 +669,11 @@
   ],
   "links": [
     {
+      "label": "汇报第22页 · 星弧使用与闲置家居双图",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#s22",
+      "kind": "review"
+    },
+    {
       "label": "曜影 · 新全域版3D（使用／折平／竖放／透明）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin-native-20261115/viewer.html",
       "kind": "3d"
@@ -1214,6 +1233,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-15 · 第22页星弧家居双图已生成并上页",
+        "detail": "内置image_gen生成同空间日常步行与运动后休息两图，替换第22页展开图占位；其余40页保持不变。双图为视觉提议，待评审，未选定材料或验证机构。"
+      },
+      {
         "title": "2026-11-15 · 曜影全域版静态3D与9图已上线",
         "detail": "曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。"
       },
@@ -1492,6 +1515,14 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "第22页 · 星弧运动融入生活、产品融入家居",
+        "note": "AI场景提议 · 待评审；两图使用相同展开模型和家居布置。",
+        "files": [
+          "documents/treadmill/presentation-s22-images-20261115/xinghu-home-use-v1.webp",
+          "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp"
+        ]
+      },
       {
         "title": "曜影 · 新全域STEP基准与补图姿态",
         "note": "静态姿态待评审，爬坡、调低、连续折叠及稳定性尚未解决。",
