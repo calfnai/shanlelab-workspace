@@ -9,6 +9,62 @@
   "currentFocus": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
     {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/cmf-three-options.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/cmf-three-options.webp",
+      "label": "星弧长扶手 · 原生CMF对比",
+      "status": "新版已生成 · 待评审",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/xinghu-climb.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/xinghu-climb.webp",
+      "label": "星弧长扶手 · 爬坡姿态示意",
+      "status": "新版已生成 · 待评审",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/fold-board.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/fold-board.webp",
+      "label": "星弧长扶手 · 折平与竖放",
+      "status": "新版已生成 · 待评审",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/home-idle.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/home-idle.webp",
+      "label": "星弧长扶手 · 运动之后",
+      "status": "新版已生成 · 待评审",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/home-use.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/home-use.webp",
+      "label": "星弧长扶手 · 家居使用",
+      "status": "新版已生成 · 待评审",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/C-product.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/C-product.webp",
+      "label": "星弧长扶手 · CMF C",
+      "status": "新版已生成 · 待评审",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/B-product.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/B-product.webp",
+      "label": "星弧长扶手 · CMF B",
+      "status": "新版已生成 · 待评审",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/A-product.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/A-product.webp",
+      "label": "星弧长扶手 · CMF A",
+      "status": "新版已生成 · 待评审",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
+    },
+    {
       "file": "documents/treadmill/linear-grip-zone-r3-20261115/overview.webp",
       "thumb": "documents/treadmill/linear-grip-zone-r3-20261115/overview.webp",
       "label": "凌序 · 五视图 · 防滑分区与远机位总览",
@@ -93,27 +149,6 @@
       "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。"
     },
     {
-      "file": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v2.webp",
-      "thumb": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v2.webp",
-      "label": "星弧 · C 烟灰半透明产品效果图",
-      "status": "AI效果提议 · 已生成待评审",
-      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图，已补上端转轴内凹圆按钮及局部分缝；按钮是外观提议，未改原STEP。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v2.webp",
-      "thumb": "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v2.webp",
-      "label": "星弧 · B 暖银拉丝产品效果图",
-      "status": "AI效果提议 · 已生成待评审",
-      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图，已补上端转轴内凹圆按钮及局部分缝；按钮是外观提议，未改原STEP。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-product-render-20261115/A-graphite-v2.webp",
-      "thumb": "documents/treadmill/xinghu-product-render-20261115/A-graphite-v2.webp",
-      "label": "星弧 · A 深石墨产品效果图",
-      "status": "AI效果提议 · 已生成待评审",
-      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图，已补上端转轴内凹圆按钮及局部分缝；按钮是外观提议，未改原STEP。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
-    },
-    {
       "file": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
       "thumb": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
       "label": "曜影 · 镜面底面效果提议",
@@ -163,13 +198,6 @@
       "note": "空间图以新全域STEP竖放姿态渲染参照后由内置imagegen润色。出线改为按T-fal实物外观重建的一体开槽护套，取消独立凸环。未宣称原厂CAD；新增护套尚未完整合入新全域STEP。"
     },
     {
-      "file": "documents/treadmill/three-lineages-cmf-20261115/xinghu-cmf-corrected.webp",
-      "thumb": "documents/treadmill/three-lineages-cmf-20261115/xinghu-cmf-corrected.webp",
-      "label": "星弧 · STEP原几何三套CMF",
-      "status": "已生成 · 浏览器检查通过 · 待评审",
-      "note": "A深石墨铝板、B暖银铝板、C深灰半透明塑料。同一装配与机位，前端保留包覆，尾端按STEP。仅CMF视觉提议。"
-    },
-    {
       "file": "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
       "thumb": "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
       "label": "三款完整来路 · 从手稿到当前STEP",
@@ -182,76 +210,6 @@
       "label": "凌序 · 抬升架收平与扶手折叠修正版",
       "status": "已生成并检查 · 待用户评审",
       "note": "先收平抬升架与推杆，再翻转扶手屏幕、放平立柱；屏幕区域正常接触跑台，扶手末端高于跑台侧板底边。原网格保留，其他把手选项保持。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-lineage-20261115/lineage-overview.jpg",
-      "thumb": "documents/treadmill/xinghu-lineage-20261115/lineage-overview.jpg",
-      "label": "星弧的来路 · 四页连读",
-      "status": "已生成 · 浏览器检查通过 · 待评审",
-      "note": "按用户提供的原稿148、149页截图匹配设计说明与设计概览，保留原图；串联手绘、比例轮廓、材质交互与当前STEP。历史功能保持探索状态。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-45.webp",
-      "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-source-45.webp",
-      "label": "星弧 · 原装配机头侧45°",
-      "status": "把手角度修正版v2 · 待评审",
-      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-person.webp",
-      "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-source-person.webp",
-      "label": "星弧 · 原装配与175cm人物",
-      "status": "把手角度修正版v2 · 待评审",
-      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-side.webp",
-      "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-source-side.webp",
-      "label": "星弧 · 原装配同向侧视",
-      "status": "把手角度修正版v2 · 待评审",
-      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-right.webp",
-      "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-source-right.webp",
-      "label": "星弧 · 原装配尾端侧45°",
-      "status": "把手角度修正版v2 · 待评审",
-      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-native-20261115/xinghu-bottom.webp",
-      "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-bottom.webp",
-      "label": "星弧 · 原装配机底与轮组",
-      "status": "把手角度修正版v2 · 待评审",
-      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-grip-angle-v2-20261115/xinghu-flat-45.webp",
-      "thumb": "documents/treadmill/xinghu-grip-angle-v2-20261115/xinghu-flat-45.webp",
-      "label": "星弧 · 把手下倾修正版45°",
-      "status": "把手角度修正版v2 · 待评审",
-      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-grip-angle-v2-20261115/xinghu-flat-side.webp",
-      "thumb": "documents/treadmill/xinghu-grip-angle-v2-20261115/xinghu-flat-side.webp",
-      "label": "星弧 · 把手下倾修正版侧视",
-      "status": "把手角度修正版v2 · 待评审",
-      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
-    },
-    {
-      "file": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp",
-      "thumb": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp",
-      "label": "第22页 · 星弧运动之后",
-      "status": "AI家居场景提议 · 待评审",
-      "note": "以新星弧STEP截图为造型参考，两张保持同一空间与产品位置；均为展开状态，不表示折平或竖放机构已核实。"
-    },
-    {
-      "file": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-use-v1.webp",
-      "thumb": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-use-v1.webp",
-      "label": "第22页 · 星弧日常步行",
-      "status": "AI家居场景提议 · 待评审",
-      "note": "以新星弧STEP截图为造型参考，两张保持同一空间与产品位置；均为展开状态，不表示折平或竖放机构已核实。"
     },
     {
       "file": "documents/treadmill/origin-native-20261115/origin-source-45.webp",
@@ -816,6 +774,21 @@
   ],
   "links": [
     {
+      "label": "星弧长扶手 · 全部新图",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-long-grip-20261115/",
+      "kind": "review"
+    },
+    {
+      "label": "星弧长扶手 · 当前3D",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-long-grip-20261115/viewer.html",
+      "kind": "review"
+    },
+    {
+      "label": "星弧长扶手 · 三套材质3D",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-long-cmf-20261115/viewer.html",
+      "kind": "review"
+    },
+    {
       "label": "凌序 · 防滑分区、远机位五视图与STEP近景核对",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-grip-zone-r3-20261115/",
       "kind": "design"
@@ -841,11 +814,6 @@
       "kind": "review"
     },
     {
-      "label": "星弧 · 三套产品效果大图",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-product-render-20261115/",
-      "kind": "review"
-    },
-    {
       "label": "曜影 · 120cm尺寸与儿童用途范围核对（未放行）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=origin-child-fit-20261115#origin",
       "kind": "review"
@@ -868,11 +836,6 @@
     {
       "label": "三款通用 · 增稳脚座动作研究",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/foot-study.html",
-      "kind": "review"
-    },
-    {
-      "label": "星弧 · A/B/C原生STEP材质切换",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-cmf-native-20261115/viewer.html?rev=cmf-controls-fixed",
       "kind": "review"
     },
     {
@@ -921,11 +884,6 @@
       "kind": "review"
     },
     {
-      "label": "星弧 · 把手下倾角修正版v23D",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-native-20261115/viewer.html?rev=grip-angle-v2",
-      "kind": "3d"
-    },
-    {
       "label": "凌序 · 新STEP基准整机3D（可旋转／透明查看）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-native-20261115/viewer.html",
       "kind": "model"
@@ -949,11 +907,6 @@
       "label": "完整汇报 v04 · 38页色块占位稿",
       "href": "documents/treadmill/presentation-structure-20261114/index.html",
       "kind": "review"
-    },
-    {
-      "label": "星弧 · 把手下倾角修正版v2（折平参考态）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-native-20261115/viewer.html?rev=grip-angle-v2&fold=1",
-      "kind": "3d"
     },
     {
       "label": "曜影离合片3D · 三态与齿面近看（纠错版）",
@@ -1535,6 +1488,10 @@
     ],
     "history": [
       {
+        "title": "2026-11-15 · 星弧同事长扶手STEP统一更新",
+        "detail": "当前3D、A/B/C产品图、两张家居图、折平/竖放/爬坡姿态图与报告当前产品配图已统一更新。历史手稿与旧版保留。新扶手外侧上缘约487mm，整组纵向包络约551mm；旧短扶手的不足结论不沿用，新版有效握持范围与承载仍待核验。"
+      },
+      {
         "title": "2026-11-15 · 五图防滑上表面分区与远机位重做",
         "detail": "五张效果图及总览已重新生成；附原网格扶手近景与第五相机底图。第五机位从x2.03米后移至2.55米，露出更多跑带和两侧边框。101项原始几何哈希不变，折叠及90度竖放保留；旧组从当前图库撤回，其他产品及Options保持。新图待评审。"
       },
@@ -1934,6 +1891,20 @@
     ],
     "visualGroups": [
       {
+        "title": "星弧 · 同事长扶手版",
+        "note": "当前版本 · 已生成待评审",
+        "files": [
+          "documents/treadmill/xinghu-long-grip-20261115/A-product.webp",
+          "documents/treadmill/xinghu-long-grip-20261115/B-product.webp",
+          "documents/treadmill/xinghu-long-grip-20261115/C-product.webp",
+          "documents/treadmill/xinghu-long-grip-20261115/home-use.webp",
+          "documents/treadmill/xinghu-long-grip-20261115/home-idle.webp",
+          "documents/treadmill/xinghu-long-grip-20261115/fold-board.webp",
+          "documents/treadmill/xinghu-long-grip-20261115/xinghu-climb.webp",
+          "documents/treadmill/xinghu-long-grip-20261115/cmf-three-options.webp"
+        ]
+      },
+      {
         "title": "曜影 · 成人与120cm身高家居场景",
         "note": "两张分别生成；儿童图为未验证的静态适配概念。",
         "files": [
@@ -1946,15 +1917,6 @@
         "note": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。",
         "files": [
           "documents/treadmill/s9-compact-20261115/s9.jpg"
-        ]
-      },
-      {
-        "title": "星弧 · 产品效果图",
-        "note": "AI效果提议 · 待评审",
-        "files": [
-          "documents/treadmill/xinghu-product-render-20261115/A-graphite-v2.webp",
-          "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v2.webp",
-          "documents/treadmill/xinghu-product-render-20261115/C-smoke-v2.webp"
         ]
       },
       {
@@ -1992,29 +1954,7 @@
         "title": "完整设计来路与原几何CMF",
         "note": "已生成待评审 · 保留历史成果，当前材料未定案。",
         "files": [
-          "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
-          "documents/treadmill/three-lineages-cmf-20261115/xinghu-cmf-corrected.webp"
-        ]
-      },
-      {
-        "title": "星弧 · 把手下倾角修正版v2",
-        "note": "以最新侧视补图的尾端下倾为准，原零件和轴线保留；待用户评审。",
-        "files": [
-          "documents/treadmill/xinghu-native-20261115/xinghu-source-45.webp",
-          "documents/treadmill/xinghu-native-20261115/xinghu-source-person.webp",
-          "documents/treadmill/xinghu-native-20261115/xinghu-source-side.webp",
-          "documents/treadmill/xinghu-native-20261115/xinghu-source-right.webp",
-          "documents/treadmill/xinghu-native-20261115/xinghu-bottom.webp",
-          "documents/treadmill/xinghu-grip-angle-v2-20261115/xinghu-flat-45.webp",
-          "documents/treadmill/xinghu-grip-angle-v2-20261115/xinghu-flat-side.webp"
-        ]
-      },
-      {
-        "title": "第22页 · 星弧运动融入生活、产品融入家居",
-        "note": "AI场景提议 · 待评审；两图使用相同展开模型和家居布置。",
-        "files": [
-          "documents/treadmill/presentation-s22-images-20261115/xinghu-home-use-v1.webp",
-          "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp"
+          "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg"
         ]
       },
       {
@@ -3111,6 +3051,104 @@
       "label": "曜影 · 空间方向纠正，机底朝室内",
       "status": "用户放弃电竞方向 · 已退出当前展示",
       "note": "2026-11-15改看成人与120cm身高的两张普通家居使用场景；原图保留历史。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v2.webp",
+      "thumb": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v2.webp",
+      "label": "星弧 · C 烟灰半透明产品效果图",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图，已补上端转轴内凹圆按钮及局部分缝；按钮是外观提议，未改原STEP。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v2.webp",
+      "thumb": "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v2.webp",
+      "label": "星弧 · B 暖银拉丝产品效果图",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图，已补上端转轴内凹圆按钮及局部分缝；按钮是外观提议，未改原STEP。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-product-render-20261115/A-graphite-v2.webp",
+      "thumb": "documents/treadmill/xinghu-product-render-20261115/A-graphite-v2.webp",
+      "label": "星弧 · A 深石墨产品效果图",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图，已补上端转轴内凹圆按钮及局部分缝；按钮是外观提议，未改原STEP。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
+    },
+    {
+      "file": "documents/treadmill/three-lineages-cmf-20261115/xinghu-cmf-corrected.webp",
+      "thumb": "documents/treadmill/three-lineages-cmf-20261115/xinghu-cmf-corrected.webp",
+      "label": "星弧 · STEP原几何三套CMF",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "A深石墨铝板、B暖银铝板、C深灰半透明塑料。同一装配与机位，前端保留包覆，尾端按STEP。仅CMF视觉提议。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-lineage-20261115/lineage-overview.jpg",
+      "thumb": "documents/treadmill/xinghu-lineage-20261115/lineage-overview.jpg",
+      "label": "星弧的来路 · 四页连读",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "按用户提供的原稿148、149页截图匹配设计说明与设计概览，保留原图；串联手绘、比例轮廓、材质交互与当前STEP。历史功能保持探索状态。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-45.webp",
+      "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-source-45.webp",
+      "label": "星弧 · 原装配机头侧45°",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-person.webp",
+      "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-source-person.webp",
+      "label": "星弧 · 原装配与175cm人物",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-side.webp",
+      "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-source-side.webp",
+      "label": "星弧 · 原装配同向侧视",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-right.webp",
+      "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-source-right.webp",
+      "label": "星弧 · 原装配尾端侧45°",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-native-20261115/xinghu-bottom.webp",
+      "thumb": "documents/treadmill/xinghu-native-20261115/xinghu-bottom.webp",
+      "label": "星弧 · 原装配机底与轮组",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-grip-angle-v2-20261115/xinghu-flat-45.webp",
+      "thumb": "documents/treadmill/xinghu-grip-angle-v2-20261115/xinghu-flat-45.webp",
+      "label": "星弧 · 把手下倾修正版45°",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-grip-angle-v2-20261115/xinghu-flat-side.webp",
+      "thumb": "documents/treadmill/xinghu-grip-angle-v2-20261115/xinghu-flat-side.webp",
+      "label": "星弧 · 把手下倾修正版侧视",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "按最新侧视补图恢复把手尾端下倾，平整不等于水平；原零件与轴线保留，仅修正参考姿态。11个抽样姿态未检出体积重叠，锁止和线束仍待核对。"
+    },
+    {
+      "file": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp",
+      "thumb": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-idle-v1.webp",
+      "label": "第22页 · 星弧运动之后",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "以新星弧STEP截图为造型参考，两张保持同一空间与产品位置；均为展开状态，不表示折平或竖放机构已核实。"
+    },
+    {
+      "file": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-use-v1.webp",
+      "thumb": "documents/treadmill/presentation-s22-images-20261115/xinghu-home-use-v1.webp",
+      "label": "第22页 · 星弧日常步行",
+      "status": "旧短扶手版历史，当前采用同事长扶手STEP",
+      "note": "以新星弧STEP截图为造型参考，两张保持同一空间与产品位置；均为展开状态，不表示折平或竖放机构已核实。"
     }
   ]
 }
