@@ -6,21 +6,42 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "历史撤回版本保留追溯，不自动恢复为当前方案。当前动作支持范围以各款模型说明为准；三款共同选用项与凌序把手选项分别记录。",
-  "currentFocus": "新全域STEP已实测；前横梁中心目标700/740/780mm对应立柱45.2°/48.5°/52.1°，只核对上端两件静态相交为0，不等于全机构、锁止和儿童使用通过。现行通用标准不覆盖儿童专用器材；年龄、肘高和步行/跑步用途尚未明确。未把未验证姿态发布为儿童运行3D。 三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。 曜影全域STEP九图获用户评价“基本上没错”；电竞空间方向已纠正为机底朝室内，Easycord改成按T-fal实物的一体短槽护套，旧弹簧外观退出当前展示。新图待评审。 曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧已按最新侧视补图纠正把手尾端下倾及接缝衔接，平整不等于水平；原结构与轴线保留，修正版v2待评审；凌序已有按截图修正的扶手翻转与收平演示，星弧为原轴线折平参考，锁止与连续运动仍待核验。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
+  "currentFocus": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。 新全域STEP已实测；前横梁中心目标700/740/780mm对应立柱45.2°/48.5°/52.1°，只核对上端两件静态相交为0，不等于全机构、锁止和儿童使用通过。现行通用标准不覆盖儿童专用器材；年龄、肘高和步行/跑步用途尚未明确。未把未验证姿态发布为儿童运行3D。 三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。 曜影全域STEP九图获用户评价“基本上没错”；电竞空间方向已纠正为机底朝室内，Easycord改成按T-fal实物的一体短槽护套，旧弹簧外观退出当前展示。新图待评审。 曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧已按最新侧视补图纠正把手尾端下倾及接缝衔接，平整不等于水平；原结构与轴线保留，修正版v2待评审；凌序已有按截图修正的扶手翻转与收平演示，星弧为原轴线折平参考，锁止与连续运动仍待核验。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
+    {
+      "file": "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
+      "thumb": "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
+      "label": "三款 · 镜面底面家居效果页",
+      "status": "效果图已上线 · 待用户评审",
+      "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。"
+    },
+    {
+      "file": "documents/treadmill/mirror-effects-20261115/xinghu-mirror.webp",
+      "thumb": "documents/treadmill/mirror-effects-20261115/xinghu-mirror.webp",
+      "label": "星弧 · 镜面底面效果提议",
+      "status": "效果图已上线 · 待用户评审",
+      "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。"
+    },
+    {
+      "file": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
+      "thumb": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
+      "label": "曜影 · 镜面底面效果提议",
+      "status": "效果图已上线 · 待用户评审",
+      "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。"
+    },
+    {
+      "file": "documents/treadmill/mirror-effects-20261115/linear-mirror.webp",
+      "thumb": "documents/treadmill/mirror-effects-20261115/linear-mirror.webp",
+      "label": "凌序 · 镜面底面家居R3",
+      "status": "效果图已上线 · 待用户评审",
+      "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。"
+    },
     {
       "file": "documents/treadmill/origin-child-fit-20261115/height-check.webp",
       "thumb": "documents/treadmill/origin-child-fit-20261115/height-check.webp",
       "label": "曜影 · 120cm身高适配尺寸核对",
       "status": "尺寸与范围核对完成 · 儿童使用态未放行",
       "note": "有效跑面1300×435mm；轴距1010mm；57°前横梁顶部/中心距跑面878/830mm。仅身高不能认定舒适或合规，未发布儿童运行3D。"
-    },
-    {
-      "file": "documents/treadmill/manufacturer-options-20261115/manufacturer-mirror.jpg",
-      "thumb": "documents/treadmill/manufacturer-options-20261115/manufacturer-mirror.jpg",
-      "label": "三款 · 厂商可选镜面底面",
-      "status": "已上线并经浏览器核验 · 方案待评审",
-      "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。"
     },
     {
       "file": "documents/treadmill/manufacturer-options-20261115/manufacturer-stability.jpg",
@@ -1004,7 +1025,7 @@
   },
   "progress": {
     "updated": "2026-11-15",
-    "summary": "新全域STEP已实测；前横梁中心目标700/740/780mm对应立柱45.2°/48.5°/52.1°，只核对上端两件静态相交为0，不等于全机构、锁止和儿童使用通过。现行通用标准不覆盖儿童专用器材；年龄、肘高和步行/跑步用途尚未明确。未把未验证姿态发布为儿童运行3D。 三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。",
+    "summary": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。 新全域STEP已实测；前横梁中心目标700/740/780mm对应立柱45.2°/48.5°/52.1°，只核对上端两件静态相交为0，不等于全机构、锁止和儿童使用通过。现行通用标准不覆盖儿童专用器材；年龄、肘高和步行/跑步用途尚未明确。未把未验证姿态发布为儿童运行3D。 三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。",
     "next": [
       {
         "title": "厂商评估三款共同选用项",
@@ -1124,6 +1145,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "镜面选项必须用效果图表现质感",
+        "detail": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。"
+      },
       {
         "title": "曜影120cm儿童用途未满足放行条件",
         "detail": "新全域STEP已实测；前横梁中心目标700/740/780mm对应立柱45.2°/48.5°/52.1°，只核对上端两件静态相交为0，不等于全机构、锁止和儿童使用通过。现行通用标准不覆盖儿童专用器材；年龄、肘高和步行/跑步用途尚未明确。未把未验证姿态发布为儿童运行3D。"
@@ -1764,6 +1789,16 @@
     ],
     "visualGroups": [
       {
+        "title": "三款镜面底面 · 家居效果图",
+        "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。",
+        "files": [
+          "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
+          "documents/treadmill/mirror-effects-20261115/xinghu-mirror.webp",
+          "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
+          "documents/treadmill/mirror-effects-20261115/linear-mirror.webp"
+        ]
+      },
+      {
         "title": "曜影 · 120cm儿童适配核对",
         "note": "静态尺寸核对图，非儿童使用适用或合格声明。",
         "files": [
@@ -1774,7 +1809,7 @@
         "title": "三款共同选用项与当前工作索引",
         "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。",
         "files": [
-          "documents/treadmill/manufacturer-options-20261115/manufacturer-mirror.jpg",
+          "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
           "documents/treadmill/manufacturer-options-20261115/manufacturer-stability.jpg",
           "documents/treadmill/manufacturer-options-20261115/review-directory.jpg"
         ]
@@ -2019,6 +2054,13 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/manufacturer-options-20261115/manufacturer-mirror.jpg",
+      "thumb": "documents/treadmill/manufacturer-options-20261115/manufacturer-mirror.jpg",
+      "label": "三款 · 厂商可选镜面底面",
+      "status": "用户否决表现方式 · 历史截图页",
+      "note": "用户指出3D截图看不出镜面质感、不好看。当前改为家居镜面效果图。"
+    },
     {
       "file": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
       "thumb": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
