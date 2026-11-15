@@ -9,6 +9,27 @@
   "currentFocus": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
     {
+      "file": "documents/treadmill/independent-reviews-20261115/linear-desktop.jpg",
+      "thumb": "documents/treadmill/independent-reviews-20261115/linear-desktop.jpg",
+      "label": "凌序 · 独立评审页面截图",
+      "status": "页面已拆分 · 图稿原状态保留",
+      "note": "仅包含本款图稿、模型、局部与选项；移除方案切换和跨款导航。原始图稿与模型几何未重新生成，截图用于记录页面结构。"
+    },
+    {
+      "file": "documents/treadmill/independent-reviews-20261115/origin-desktop.jpg",
+      "thumb": "documents/treadmill/independent-reviews-20261115/origin-desktop.jpg",
+      "label": "曜影 · 独立评审页面截图",
+      "status": "页面已拆分 · 图稿原状态保留",
+      "note": "仅包含本款图稿、模型、局部与选项；移除方案切换和跨款导航。原始图稿与模型几何未重新生成，截图用于记录页面结构。"
+    },
+    {
+      "file": "documents/treadmill/independent-reviews-20261115/xinghu-desktop.jpg",
+      "thumb": "documents/treadmill/independent-reviews-20261115/xinghu-desktop.jpg",
+      "label": "星弧 · 独立评审页面截图",
+      "status": "页面已拆分 · 图稿原状态保留",
+      "note": "仅包含本款图稿、模型、局部与选项；移除方案切换和跨款导航。原始图稿与模型几何未重新生成，截图用于记录页面结构。"
+    },
+    {
       "file": "documents/treadmill/xinghu-long-grip-20261115/cmf-three-options.webp",
       "thumb": "documents/treadmill/xinghu-long-grip-20261115/cmf-three-options.webp",
       "label": "星弧长扶手 · 原生CMF对比",
@@ -732,6 +753,21 @@
   ],
   "links": [
     {
+      "label": "凌序 · 独立评审（本款图稿、模型与选项）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear/",
+      "kind": "design"
+    },
+    {
+      "label": "曜影 · 独立评审（本款图稿、模型与选项）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/",
+      "kind": "design"
+    },
+    {
+      "label": "星弧 · 独立评审（本款图稿、模型与选项）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu/",
+      "kind": "design"
+    },
+    {
       "label": "星弧长扶手 · 全部新图",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-long-grip-20261115/",
       "kind": "review"
@@ -769,11 +805,6 @@
     {
       "label": "曜影 · 120cm尺寸与儿童用途范围核对（未放行）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=origin-child-fit-20261115#origin",
-      "kind": "review"
-    },
-    {
-      "label": "审查目录 · 当前所有工作",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#review-directory",
       "kind": "review"
     },
     {
@@ -864,46 +895,6 @@
     {
       "label": "曜影离合片3D · 三态与齿面近看（纠错版）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/source-detail-20261112/origin-detail.html?rev=origin-cord-bottom-20261114-cbc67bc7#joint",
-      "kind": "3d"
-    },
-    {
-      "label": "凌序 · 四款客制化把手",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#linear-grips",
-      "kind": "review"
-    },
-    {
-      "label": "三款评审 · 凌序与星弧折叠撤回说明",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/",
-      "kind": "review"
-    },
-    {
-      "label": "凌序 · 镜面底面与可拆卸线缆",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#linear",
-      "kind": "3d"
-    },
-    {
-      "label": "曜影 · 十张整机与状态图（同一方案）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#origin",
-      "kind": "3d"
-    },
-    {
-      "label": "星弧 · 新STEP整机与局部上翻评审",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#poxing",
-      "kind": "3d"
-    },
-    {
-      "label": "星弧 · 材质与两片式把手 / 按钮原理",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#poxing-cmf-fold",
-      "kind": "review"
-    },
-    {
-      "label": "凌序 · 四种上端接头细节提议",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#linear-junction",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 Origin · 一个整机评审入口",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/#origin-detail",
       "kind": "3d"
     },
     {
@@ -1112,6 +1103,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "三个方案评审完全拆开，不再互相切换或跳转",
+        "detail": "用户要求三个方案各自单独放。凌序、曜影、星弧分别设独立评审页及单款模型页；页内不含另外两款切换控件或入口。旧总入口仅作独立目录，旧hash转入对应单款。已有图稿状态和选项保留，凌序错误防滑五图继续撤回。"
+      },
       {
         "title": "凌序五图否决：扶手防滑位置错误",
         "detail": "用户明确否决整组扶手防滑位置。此前将上表面几何分界当作防滑材质边界的推断无效；五图与近景从当前评审撤回，模型取消未经确认的防滑赋色。覆盖位置未核实，未生成替代图。既定B细交叉网格纹理及其他Options保留。"
@@ -1444,6 +1439,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 三个独立评审入口",
+        "detail": "按同一最新公开快照拆分为 /iterations/linear/、/origin/、/xinghu/。图片与原网格复用；逐页检查图片放大、手机布局和对应模型加载。后续按单款页面维护，不能再将三方案切换页当作当前入口。"
+      },
       {
         "title": "2026-11-15 · 曜影ORIGIN标题与橙色渐变",
         "detail": "s24主标题改为曜影 ORIGIN，橙黄渐变呼应目标页；副标题改为延续圆形关节与机械秩序。三阶段原稿内容不变。"
