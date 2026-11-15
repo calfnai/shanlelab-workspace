@@ -6,8 +6,22 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
-  "currentFocus": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
+  "currentFocus": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
+    {
+      "file": "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
+      "thumb": "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
+      "label": "曜影 · 成人使用状态（175cm参照）",
+      "status": "已生成 · 待评审",
+      "note": "57°基准姿态，前横梁顶部距跑面878mm。 基于全域STEP参照，由内置imagegen生成家居场景；人物不是人体工学验证。"
+    },
+    {
+      "file": "documents/treadmill/origin-use-scenes-20261115/child-use.webp",
+      "thumb": "documents/treadmill/origin-use-scenes-20261115/child-use.webp",
+      "label": "曜影 · 120cm身高适配概念",
+      "status": "已生成 · 待评审",
+      "note": "48.5°静态候选，前横梁顶部距跑面约788mm。儿童使用安全尚未验证。 基于全域STEP参照，由内置imagegen生成家居场景；人物不是人体工学验证。"
+    },
     {
       "file": "documents/treadmill/linear-five-views-r2-20261115/overview.webp",
       "thumb": "documents/treadmill/linear-five-views-r2-20261115/overview.webp",
@@ -126,13 +140,6 @@
       "label": "统一审查目录 · 当前工作索引",
       "status": "已上线并经浏览器核验 · 方案待评审",
       "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。"
-    },
-    {
-      "file": "documents/treadmill/origin-easycord-scene-20261115/origin-scene-v2.webp",
-      "thumb": "documents/treadmill/origin-easycord-scene-20261115/origin-scene-v2.webp",
-      "label": "曜影 · 空间方向纠正，机底朝室内",
-      "status": "2026-11-15修订 · 待用户评审",
-      "note": "空间图以新全域STEP竖放姿态渲染参照后由内置imagegen润色。出线改为按T-fal实物外观重建的一体开槽护套，取消独立凸环。未宣称原厂CAD；新增护套尚未完整合入新全域STEP。"
     },
     {
       "file": "documents/treadmill/origin-easycord-scene-20261115/cord-neutral.webp",
@@ -809,6 +816,11 @@
   ],
   "links": [
     {
+      "label": "曜影 · 成人与120cm静态适配场景",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=origin-use-scenes-20261115#origin",
+      "kind": "review"
+    },
+    {
       "label": "凌序 · 五视图纠错版及STEP屏幕/扶手核对",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-five-views-r2-20261115/",
       "kind": "design"
@@ -871,11 +883,6 @@
     {
       "label": "星弧 · 一家人的日常 · AI场景待评审",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/xinghu.webp",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 电竞空间方向纠正（待评审）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/origin.webp?rev=origin-easycord-scene-r2-20261115",
       "kind": "review"
     },
     {
@@ -1075,7 +1082,7 @@
   },
   "progress": {
     "updated": "2026-11-15",
-    "summary": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
+    "summary": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
     "next": [
       {
         "title": "按原模型重做两款镜面效果图",
@@ -1199,6 +1206,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "曜影取消电竞方向 · 成人与120cm场景分别出图",
+        "detail": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。"
+      },
       {
         "title": "凌序侧面亮条取消；屏幕及扶手以原STEP为准",
         "detail": "用户圈出四张整机图的波浪亮条不要，指出屏幕区域及第五视角扶手错误。采用原STEP实际表面分区，弧形根部为银色、握把为原直段；上层黑屏、前部台面及台面上红按钮按源件呈现。此前侧板下半截镜面暂沿用，未将未回复的补充澄清写作用户新确认。"
@@ -1519,6 +1530,10 @@
       }
     ],
     "history": [
+      {
+        "title": "曜影取消电竞方向 · 成人与120cm场景分别出图",
+        "detail": "用户放弃曜影电竞场景方向，改看两张独立的普通家居使用图：175cm成人/横梁顶部878mm；120cm小孩静态适配概念/顶部约788mm。沿用全域STEP尺寸，AI场景已生成待评审；不代表儿童安全或舒适性验证，也未开放儿童运行3D。"
+      },
       {
         "title": "2026-11-15 · 五视图按STEP屏幕与直握把重做",
         "detail": "五张与总览重做，附源模型屏幕/扶手核对；两个人物视角保持同一形象。101项源几何顶点及索引哈希不变，取消亮条的平整侧饰板单独标注为外观修订。3D与当前汇报图同步，原五图撤回，其他产品、Options和90°竖放要求保留。新图待用户评审。"
@@ -1903,6 +1918,14 @@
     ],
     "visualGroups": [
       {
+        "title": "曜影 · 成人与120cm身高家居场景",
+        "note": "两张分别生成；儿童图为未验证的静态适配概念。",
+        "files": [
+          "documents/treadmill/origin-use-scenes-20261115/adult-use.webp",
+          "documents/treadmill/origin-use-scenes-20261115/child-use.webp"
+        ]
+      },
+      {
         "title": "汇报s9 · 紧凑原稿图表",
         "note": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。",
         "files": [
@@ -1944,7 +1967,6 @@
         "title": "曜影 · 空间方向与T-fal式出线修订",
         "note": "同一主评审页修订，新图待评审。",
         "files": [
-          "documents/treadmill/origin-easycord-scene-20261115/origin-scene-v2.webp",
           "documents/treadmill/origin-easycord-scene-20261115/cord-neutral.webp",
           "documents/treadmill/origin-easycord-scene-20261115/cord-up.webp",
           "documents/treadmill/origin-easycord-scene-20261115/cord-down.webp"
@@ -3024,6 +3046,13 @@
       "label": "星弧 · A 深石墨产品效果图",
       "status": "遗漏上端解锁按钮，已由v2替代",
       "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
+    },
+    {
+      "file": "documents/treadmill/origin-easycord-scene-20261115/origin-scene-v2.webp",
+      "thumb": "documents/treadmill/origin-easycord-scene-20261115/origin-scene-v2.webp",
+      "label": "曜影 · 空间方向纠正，机底朝室内",
+      "status": "用户放弃电竞方向 · 已退出当前展示",
+      "note": "2026-11-15改看成人与120cm身高的两张普通家居使用场景；原图保留历史。"
     }
   ]
 }
