@@ -683,6 +683,21 @@
   ],
   "links": [
     {
+      "label": "星弧 · 一家人的日常 · AI场景待评审",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/xinghu.webp",
+      "kind": "review"
+    },
+    {
+      "label": "曜影 · 电竞私享空间 · AI场景待评审",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/origin.webp",
+      "kind": "review"
+    },
+    {
+      "label": "凌序 · 包豪斯之家 · AI场景待评审",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/linear.webp",
+      "kind": "review"
+    },
+    {
       "label": "星弧的来路 · 原手绘、整机推敲、材质交互与当前STEP",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=xinghu-lineage-20261115#s15",
       "kind": "review"
@@ -1275,6 +1290,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 三款性格场景配图",
+        "detail": "内置image_gen依据当前产品参考生成星弧家庭、曜影电竞房、凌序包豪斯三张场景，已接入汇报第三页与各款产品评审区。两入口共用图片，不重复整套导出；AI视觉提议待评审。"
+      },
       {
         "title": "2026-11-15 · 补清星弧从灵伴发展而来的设计过程",
         "detail": "以用户截图核对原稿两页，在手绘后加入整机形态与材质交互两页，当前形态使用原STEP整机截图；共43页，旧页面链接保持有效，未向厂商发送。"
