@@ -9,6 +9,48 @@
   "currentFocus": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
     {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/overview.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/overview.webp",
+      "label": "凌序 · 五视图纠错版总览",
+      "status": "按STEP重做 · 待用户评审",
+      "note": "取消波浪装饰亮条；屏幕倾角、台面、按钮及直握把按原STEP重新分区与出图。侧板下半截镜面沿用此前要求；镜面范围的补充澄清尚未收到回复。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/01-45.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/01-45.webp",
+      "label": "凌序 · 45°（纠错版）",
+      "status": "新生成 · 待用户评审",
+      "note": "以原STEP分区后的同机位底图重做。去掉波浪亮条，修正屏幕与直握把；材质及人物为AI效果，其他把手与转角Options保留。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/02-left45-person.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/02-left45-person.webp",
+      "label": "凌序 · 左前45°＋人物（纠错版）",
+      "status": "新生成 · 待用户评审",
+      "note": "以原STEP分区后的同机位底图重做。去掉波浪亮条，修正屏幕与直握把；材质及人物为AI效果，其他把手与转角Options保留。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/03-left-side.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/03-left-side.webp",
+      "label": "凌序 · 正左侧（纠错版）",
+      "status": "新生成 · 待用户评审",
+      "note": "以原STEP分区后的同机位底图重做。去掉波浪亮条，修正屏幕与直握把；材质及人物为AI效果，其他把手与转角Options保留。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/04-right45-person.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/04-right45-person.webp",
+      "label": "凌序 · 右前45°＋人物（纠错版）",
+      "status": "新生成 · 待用户评审",
+      "note": "以原STEP分区后的同机位底图重做。去掉波浪亮条，修正屏幕与直握把；材质及人物为AI效果，其他把手与转角Options保留。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-r2-20261115/05-runner-view.webp",
+      "thumb": "documents/treadmill/linear-five-views-r2-20261115/05-runner-view.webp",
+      "label": "凌序 · 跑台后端朝屏幕视角（纠错版）",
+      "status": "新生成 · 待用户评审",
+      "note": "以原STEP分区后的同机位底图重做。去掉波浪亮条，修正屏幕与直握把；材质及人物为AI效果，其他把手与转角Options保留。"
+    },
+    {
       "file": "documents/treadmill/s9-compact-20261115/s9.jpg",
       "thumb": "documents/treadmill/s9-compact-20261115/s9.jpg",
       "label": "汇报s9 · 原PDF风格与CMF图表紧凑化",
@@ -56,48 +98,6 @@
       "label": "星弧 · A 深石墨产品效果图",
       "status": "AI效果提议 · 已生成待评审",
       "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图，已补上端转轴内凹圆按钮及局部分缝；按钮是外观提议，未改原STEP。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-20261115/overview.webp",
-      "thumb": "documents/treadmill/linear-five-views-20261115/overview.webp",
-      "label": "凌序 · 五个指定视角总览",
-      "status": "整套已生成 · 待用户评审",
-      "note": "45°、左前45°＋人物、正左侧、右前45°＋人物、跑台后端朝屏幕视角。新STEP外形基准，统一银色机身、B细网格硅胶与镜面下饰板；人物为比例展示。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-20261115/01-45.webp",
-      "thumb": "documents/treadmill/linear-five-views-20261115/01-45.webp",
-      "label": "凌序 · 45°",
-      "status": "新生成 · 待用户评审",
-      "note": "五个指定视角之一。镜头以原STEP截图为依据；两张人物图使用同一形象，保留其他把手与转角Options。AI材质与人物效果，不替代原CAD。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-20261115/02-left45-person.webp",
-      "thumb": "documents/treadmill/linear-five-views-20261115/02-left45-person.webp",
-      "label": "凌序 · 左前45° + 人物",
-      "status": "新生成 · 待用户评审",
-      "note": "五个指定视角之一。镜头以原STEP截图为依据；两张人物图使用同一形象，保留其他把手与转角Options。AI材质与人物效果，不替代原CAD。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-20261115/03-left-side.webp",
-      "thumb": "documents/treadmill/linear-five-views-20261115/03-left-side.webp",
-      "label": "凌序 · 正左侧",
-      "status": "新生成 · 待用户评审",
-      "note": "五个指定视角之一。镜头以原STEP截图为依据；两张人物图使用同一形象，保留其他把手与转角Options。AI材质与人物效果，不替代原CAD。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-20261115/04-right45-person.webp",
-      "thumb": "documents/treadmill/linear-five-views-20261115/04-right45-person.webp",
-      "label": "凌序 · 右前45° + 人物",
-      "status": "新生成 · 待用户评审",
-      "note": "五个指定视角之一。镜头以原STEP截图为依据；两张人物图使用同一形象，保留其他把手与转角Options。AI材质与人物效果，不替代原CAD。"
-    },
-    {
-      "file": "documents/treadmill/linear-five-views-20261115/05-runner-view.webp",
-      "thumb": "documents/treadmill/linear-five-views-20261115/05-runner-view.webp",
-      "label": "凌序 · 跑台后端朝屏幕视角",
-      "status": "新生成 · 待用户评审",
-      "note": "五个指定视角之一。镜头以原STEP截图为依据；两张人物图使用同一形象，保留其他把手与转角Options。AI材质与人物效果，不替代原CAD。"
     },
     {
       "file": "documents/treadmill/mirror-effects-20261115/origin-mirror.webp",
@@ -809,6 +809,11 @@
   ],
   "links": [
     {
+      "label": "凌序 · 五视图纠错版及STEP屏幕/扶手核对",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-five-views-r2-20261115/",
+      "kind": "design"
+    },
+    {
       "label": "第一轮 · 未来产品线畅想工作坊原稿",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#lifestyle-workshop",
       "kind": "review"
@@ -827,11 +832,6 @@
       "label": "星弧 · 三套产品效果大图",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-product-render-20261115/",
       "kind": "review"
-    },
-    {
-      "label": "凌序 · 五个指定视角（整套效果图）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-five-views-20261115/",
-      "kind": "design"
     },
     {
       "label": "曜影 · 120cm尺寸与儿童用途范围核对（未放行）",
@@ -1200,6 +1200,10 @@
     ],
     "decisions": [
       {
+        "title": "凌序侧面亮条取消；屏幕及扶手以原STEP为准",
+        "detail": "用户圈出四张整机图的波浪亮条不要，指出屏幕区域及第五视角扶手错误。采用原STEP实际表面分区，弧形根部为银色、握把为原直段；上层黑屏、前部台面及台面上红按钮按源件呈现。此前侧板下半截镜面暂沿用，未将未回复的补充澄清写作用户新确认。"
+      },
+      {
         "title": "s9图表恢复原稿信息密度",
         "detail": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。"
       },
@@ -1515,6 +1519,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 五视图按STEP屏幕与直握把重做",
+        "detail": "五张与总览重做，附源模型屏幕/扶手核对；两个人物视角保持同一形象。101项源几何顶点及索引哈希不变，取消亮条的平整侧饰板单独标注为外观修订。3D与当前汇报图同步，原五图撤回，其他产品、Options和90°竖放要求保留。新图待用户评审。"
+      },
       {
         "title": "2026-11-15 · 设计回应图与生活方式工作坊",
         "detail": "s13按用户参考改为当前整机线稿、柔和色晕、细引线及三组设计点，线稿由内置image_gen生成，待评审；在第一轮生活方式页后加入原PDF第26页工作坊完整原稿，年份价格功能标注为当时探索设想，支持放大。"
@@ -2163,6 +2171,48 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-five-views-20261115/05-runner-view.webp",
+      "thumb": "documents/treadmill/linear-five-views-20261115/05-runner-view.webp",
+      "label": "凌序 · 跑台后端朝屏幕视角",
+      "status": "用户指出亮条、屏幕与扶手错误 · 已撤回",
+      "note": "原五图存在侧面波浪亮条、屏幕和第五视角扶手造型错误；原图仅留历史，由按STEP分区后的纠错版替代。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-20261115/04-right45-person.webp",
+      "thumb": "documents/treadmill/linear-five-views-20261115/04-right45-person.webp",
+      "label": "凌序 · 右前45° + 人物",
+      "status": "用户指出亮条、屏幕与扶手错误 · 已撤回",
+      "note": "原五图存在侧面波浪亮条、屏幕和第五视角扶手造型错误；原图仅留历史，由按STEP分区后的纠错版替代。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-20261115/03-left-side.webp",
+      "thumb": "documents/treadmill/linear-five-views-20261115/03-left-side.webp",
+      "label": "凌序 · 正左侧",
+      "status": "用户指出亮条、屏幕与扶手错误 · 已撤回",
+      "note": "原五图存在侧面波浪亮条、屏幕和第五视角扶手造型错误；原图仅留历史，由按STEP分区后的纠错版替代。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-20261115/02-left45-person.webp",
+      "thumb": "documents/treadmill/linear-five-views-20261115/02-left45-person.webp",
+      "label": "凌序 · 左前45° + 人物",
+      "status": "用户指出亮条、屏幕与扶手错误 · 已撤回",
+      "note": "原五图存在侧面波浪亮条、屏幕和第五视角扶手造型错误；原图仅留历史，由按STEP分区后的纠错版替代。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-20261115/01-45.webp",
+      "thumb": "documents/treadmill/linear-five-views-20261115/01-45.webp",
+      "label": "凌序 · 45°",
+      "status": "用户指出亮条、屏幕与扶手错误 · 已撤回",
+      "note": "原五图存在侧面波浪亮条、屏幕和第五视角扶手造型错误；原图仅留历史，由按STEP分区后的纠错版替代。"
+    },
+    {
+      "file": "documents/treadmill/linear-five-views-20261115/overview.webp",
+      "thumb": "documents/treadmill/linear-five-views-20261115/overview.webp",
+      "label": "凌序 · 五个指定视角总览",
+      "status": "用户指出亮条、屏幕与扶手错误 · 已撤回",
+      "note": "原五图存在侧面波浪亮条、屏幕和第五视角扶手造型错误；原图仅留历史，由按STEP分区后的纠错版替代。"
+    },
     {
       "file": "documents/treadmill/linear-home-native-20261115/linear-home-native-r2.webp",
       "thumb": "documents/treadmill/linear-home-native-20261115/linear-home-native-r2.webp",
