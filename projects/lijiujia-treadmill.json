@@ -9,6 +9,27 @@
   "currentFocus": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。 新全域STEP已实测；前横梁中心目标700/740/780mm对应立柱45.2°/48.5°/52.1°，只核对上端两件静态相交为0，不等于全机构、锁止和儿童使用通过。现行通用标准不覆盖儿童专用器材；年龄、肘高和步行/跑步用途尚未明确。未把未验证姿态发布为儿童运行3D。 三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。 曜影全域STEP九图获用户评价“基本上没错”；电竞空间方向已纠正为机底朝室内，Easycord改成按T-fal实物的一体短槽护套，旧弹簧外观退出当前展示。新图待评审。 曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧已按最新侧视补图纠正把手尾端下倾及接缝衔接，平整不等于水平；原结构与轴线保留，修正版v2待评审；凌序已有按截图修正的扶手翻转与收平演示，星弧为原轴线折平参考，锁止与连续运动仍待核验。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v2.webp",
+      "thumb": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v2.webp",
+      "label": "星弧 · C 烟灰半透明产品效果图",
+      "status": "AI效果提议 · 已生成待评审",
+      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图，已补上端转轴内凹圆按钮及局部分缝；按钮是外观提议，未改原STEP。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v2.webp",
+      "thumb": "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v2.webp",
+      "label": "星弧 · B 暖银拉丝产品效果图",
+      "status": "AI效果提议 · 已生成待评审",
+      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图，已补上端转轴内凹圆按钮及局部分缝；按钮是外观提议，未改原STEP。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-product-render-20261115/A-graphite-v2.webp",
+      "thumb": "documents/treadmill/xinghu-product-render-20261115/A-graphite-v2.webp",
+      "label": "星弧 · A 深石墨产品效果图",
+      "status": "AI效果提议 · 已生成待评审",
+      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图，已补上端转轴内凹圆按钮及局部分缝；按钮是外观提议，未改原STEP。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
+    },
+    {
       "file": "documents/treadmill/linear-five-views-20261115/overview.webp",
       "thumb": "documents/treadmill/linear-five-views-20261115/overview.webp",
       "label": "凌序 · 五个指定视角总览",
@@ -98,27 +119,6 @@
       "label": "统一审查目录 · 当前工作索引",
       "status": "已上线并经浏览器核验 · 方案待评审",
       "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v1.webp",
-      "thumb": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v1.webp",
-      "label": "星弧 · C 烟灰半透明产品效果图",
-      "status": "AI效果提议 · 已生成待评审",
-      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v1.webp",
-      "thumb": "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v1.webp",
-      "label": "星弧 · B 暖银拉丝产品效果图",
-      "status": "AI效果提议 · 已生成待评审",
-      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-product-render-20261115/A-graphite-v1.webp",
-      "thumb": "documents/treadmill/xinghu-product-render-20261115/A-graphite-v1.webp",
-      "label": "星弧 · A 深石墨产品效果图",
-      "status": "AI效果提议 · 已生成待评审",
-      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
     },
     {
       "file": "documents/treadmill/linear-product-render-20261115/linear-home-mirror-r3.webp",
@@ -816,6 +816,11 @@
   ],
   "links": [
     {
+      "label": "星弧 · 三套产品效果大图",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-product-render-20261115/",
+      "kind": "review"
+    },
+    {
       "label": "凌序 · 五个指定视角（整套效果图）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-five-views-20261115/",
       "kind": "design"
@@ -843,11 +848,6 @@
     {
       "label": "三款通用 · 增稳脚座动作研究",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/foot-study.html",
-      "kind": "review"
-    },
-    {
-      "label": "星弧 · 三套产品效果大图",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-product-render-20261115/",
       "kind": "review"
     },
     {
@@ -1497,6 +1497,14 @@
     ],
     "history": [
       {
+        "title": "2026-11-15 · 星弧侧扶手长度预核发现不足",
+        "detail": "暂按中国大陆现行GB17498.6—2008第5.8条预核：原STEP跑带上表面长1300mm，侧扶手对应至少390mm；现上扶手整组纵向包络约365mm，可握直段更短。建议有效长度至少400mm并复核折平；未改STEP，尚非认证结论。"
+      },
+      {
+        "title": "2026-11-15 · 星弧三套产品效果图已补解锁按钮",
+        "detail": "使用内置imagegen，从原STEP截图出发做A深石墨、B暖银拉丝和C烟灰半透；灯光和构图保持一致，已对照前端包覆与尾端轮廓，本轮已补上端转轴内凹圆按钮与局部分缝，原STEP未改，待用户评审。"
+      },
+      {
         "title": "2026-11-15 · 凌序五个指定视角整套生成",
         "detail": "五张均已生成并保存，另有带编号总览；主评审凌序四张整机图更新，新增第五视角入口。原图、各机位源模型截图和提示词留档，整套待用户评审。其他产品、已确认Options及折叠动作保持。"
       },
@@ -1848,6 +1856,15 @@
     ],
     "visualGroups": [
       {
+        "title": "星弧 · 产品效果图",
+        "note": "AI效果提议 · 待评审",
+        "files": [
+          "documents/treadmill/xinghu-product-render-20261115/A-graphite-v2.webp",
+          "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v2.webp",
+          "documents/treadmill/xinghu-product-render-20261115/C-smoke-v2.webp"
+        ]
+      },
+      {
         "title": "三款镜面底面 · 家居效果图",
         "note": "镜面页已按用户纠正改为三款家居效果图，移除3D截图、镜面色带与表格；星弧/曜影新生成，凌序复用R3。三款均供厂商选用，把手材质选项仅凌序；图面待评审。",
         "files": [
@@ -1871,15 +1888,6 @@
           "documents/treadmill/mirror-effects-20261115/online-mirror-page.jpg",
           "documents/treadmill/manufacturer-options-20261115/manufacturer-stability.jpg",
           "documents/treadmill/manufacturer-options-20261115/review-directory.jpg"
-        ]
-      },
-      {
-        "title": "星弧 · 产品效果图",
-        "note": "AI效果提议 · 待评审",
-        "files": [
-          "documents/treadmill/xinghu-product-render-20261115/A-graphite-v1.webp",
-          "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v1.webp",
-          "documents/treadmill/xinghu-product-render-20261115/C-smoke-v1.webp"
         ]
       },
       {
@@ -2868,6 +2876,27 @@
       "label": "曜影电竞空间 · 旧方向",
       "status": "用户否决 · 空间角度错误",
       "note": "2026-11-15退出当前方案；原图保留以追溯。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v1.webp",
+      "thumb": "documents/treadmill/xinghu-product-render-20261115/C-smoke-v1.webp",
+      "label": "星弧 · C 烟灰半透明产品效果图",
+      "status": "遗漏上端解锁按钮，已由v2替代",
+      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v1.webp",
+      "thumb": "documents/treadmill/xinghu-product-render-20261115/B-warm-silver-v1.webp",
+      "label": "星弧 · B 暖银拉丝产品效果图",
+      "status": "遗漏上端解锁按钮，已由v2替代",
+      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
+    },
+    {
+      "file": "documents/treadmill/xinghu-product-render-20261115/A-graphite-v1.webp",
+      "thumb": "documents/treadmill/xinghu-product-render-20261115/A-graphite-v1.webp",
+      "label": "星弧 · A 深石墨产品效果图",
+      "status": "遗漏上端解锁按钮，已由v2替代",
+      "note": "当前STEP截图作为形体参考，使用内置imagegen提升灯光和材质表现；三版同构图。前端罩壳完整、尾端按参考保留，C为深灰半透明。不替代原生CAD。"
     }
   ]
 }
