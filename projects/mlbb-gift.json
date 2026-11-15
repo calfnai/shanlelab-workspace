@@ -4,7 +4,7 @@
   "en": "02 / EVENT GIFT",
   "description": "MCT确认终稿不变；关键为整场总版仅800套，含官方与摊位分配。摊位购任意商品可获赠，每天50套为次级领取安排。",
   "conversation": "d5ba0668",
-  "note": "当前终稿为用户2026-11-10提供的MCTLOGO款PDF（卡背信息与整包正面效果）。保留早期C原版及修订供追溯；用户确认终稿与官方审批分别记录。 用户11月10日进一步强调：仅此一场，限量获得，发完即止。详细同步图v02已生成，待用户审阅。 2026-11-12展位推广口径更新：本摊位购买任意商品可获赠MCT Event PopSticker Badge，每日50套，配额赠完即止；总版800套包含官方与摊位分配，非卖品，活动结束后不再赠送或售卖。新海报为审阅稿，未送印；原确认终稿继续置顶。 11月12日v09更新：MCT海报以总版800套为核心，每天50套为次要领取说明；总量包括官方与摊位，购买任意商品可获赠，活动后不再赠送或售卖。新视觉与投票执行未视为用户选定或已上线活动。",
+  "note": "当前终稿为用户2026-11-10提供的MCTLOGO款PDF（卡背信息与整包正面效果）。保留早期选定C原版与送审里程碑；细微修订及矢量测试按用户2026-11-15要求清理；用户确认终稿与官方审批分别记录。 用户11月10日进一步强调：仅此一场，限量获得，发完即止。详细同步图v02已生成，待用户审阅。 2026-11-12展位推广口径更新：本摊位购买任意商品可获赠MCT Event PopSticker Badge，每日50套，配额赠完即止；总版800套包含官方与摊位分配，非卖品，活动结束后不再赠送或售卖。新海报为审阅稿，未送印；原确认终稿继续置顶。 11月12日v09更新：MCT海报以总版800套为核心，每天50套为次要领取说明；总量包括官方与摊位，购买任意商品可获赠，活动后不再赠送或售卖。新视觉与投票执行未视为用户选定或已上线活动。",
   "items": [
     {
       "file": "documents/mct-final-20261110/page-1.png",
@@ -47,118 +47,6 @@
       "label": "C — MVP + SAVAGE · 早期已选定概念",
       "status": "历史已选定",
       "note": "2026-11-06曾选定；2026-11-10用户提供终稿PDF，当前以终稿为准。"
-    },
-    {
-      "file": "media/6486087084.png",
-      "thumb": "thumbs/6486087084.webp",
-      "label": "C 款修订 v03 · 01-C-pack-review",
-      "status": "近期修订",
-      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
-    },
-    {
-      "file": "media/006d772e11.png",
-      "thumb": "thumbs/006d772e11.webp",
-      "label": "C 款修订 v03 · 02-black-case-comparison",
-      "status": "近期修订",
-      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
-    },
-    {
-      "file": "media/b586aac331.png",
-      "thumb": "thumbs/b586aac331.webp",
-      "label": "C 款修订 v02 · 01-C-pack-review",
-      "status": "历史版本",
-      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
-    },
-    {
-      "file": "media/ac6c17db78.png",
-      "thumb": "thumbs/ac6c17db78.webp",
-      "label": "C 款修订 v02 · 02-black-case-comparison",
-      "status": "历史版本",
-      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
-    },
-    {
-      "file": "media/008c41b32b.png",
-      "thumb": "thumbs/008c41b32b.webp",
-      "label": "C 款修订 v01 · 01-C-pack-review",
-      "status": "历史版本",
-      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
-    },
-    {
-      "file": "media/4db7398625.png",
-      "thumb": "thumbs/4db7398625.webp",
-      "label": "C 款修订 v01 · 02-black-case-comparison",
-      "status": "历史版本",
-      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
-    },
-    {
-      "file": "media/7441ca0393.png",
-      "thumb": "thumbs/7441ca0393.webp",
-      "label": "C 款修订 v01 · phone-base",
-      "status": "历史版本",
-      "note": "平面图、材质效果图属于不同审阅线；不代表生产定稿。"
-    },
-    {
-      "file": "media/e193b6b01d.png",
-      "thumb": "thumbs/e193b6b01d.webp",
-      "label": "A/B/C 三方向 · A-2026-GGWP",
-      "status": "历史版本",
-      "note": ""
-    },
-    {
-      "file": "media/b1596c069d.png",
-      "thumb": "thumbs/b1596c069d.webp",
-      "label": "A/B/C 三方向 · B-Bangkok-2026",
-      "status": "历史版本",
-      "note": ""
-    },
-    {
-      "file": "media/4bb4f3dc91.png",
-      "thumb": "thumbs/4bb4f3dc91.webp",
-      "label": "四方向品牌修订 · 01-mpl",
-      "status": "历史版本",
-      "note": ""
-    },
-    {
-      "file": "media/aa0881af5d.png",
-      "thumb": "thumbs/aa0881af5d.webp",
-      "label": "四方向品牌修订 · 02-mct-original",
-      "status": "历史版本",
-      "note": ""
-    },
-    {
-      "file": "media/fc62f0a6c8.png",
-      "thumb": "thumbs/fc62f0a6c8.webp",
-      "label": "四方向品牌修订 · 03-mct-ocean",
-      "status": "历史版本",
-      "note": ""
-    },
-    {
-      "file": "media/94c30ad81e.png",
-      "thumb": "thumbs/94c30ad81e.webp",
-      "label": "四方向品牌修订 · 04-mct-2026",
-      "status": "历史版本",
-      "note": ""
-    },
-    {
-      "file": "media/74c2819d2c.png",
-      "thumb": "thumbs/74c2819d2c.webp",
-      "label": "早期官方素材方向 · mct-official-layout",
-      "status": "历史版本",
-      "note": ""
-    },
-    {
-      "file": "media/ca58332024.png",
-      "thumb": "thumbs/ca58332024.webp",
-      "label": "早期官方素材方向 · mct-product-mockup-v3",
-      "status": "历史版本",
-      "note": ""
-    },
-    {
-      "file": "media/17f22c0a10.png",
-      "thumb": "thumbs/17f22c0a10.webp",
-      "label": "早期官方素材方向 · mct-product-mockup-v4-2026",
-      "status": "历史版本",
-      "note": ""
     }
   ],
   "links": [
@@ -195,10 +83,6 @@
     {
       "label": "用户确认终稿 PDF · 2026-11-10",
       "href": "documents/mct-final-20261110/MCTLOGO-final.pdf"
-    },
-    {
-      "label": "A/B/C 平面矢量预览",
-      "href": "documents/mct-vector.html"
     },
     {
       "label": "分发安排补充邮件 · 800份／每天100份 · 待发送",
