@@ -809,6 +809,11 @@
   ],
   "links": [
     {
+      "label": "第一轮 · 未来产品线畅想工作坊原稿",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#lifestyle-workshop",
+      "kind": "review"
+    },
+    {
       "label": "汇报s9 · 原稿风格／CMF紧凑图表",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?rev=s9-compact-20261115#s9",
       "kind": "review"
@@ -1510,6 +1515,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 设计回应图与生活方式工作坊",
+        "detail": "s13按用户参考改为当前整机线稿、柔和色晕、细引线及三组设计点，线稿由内置image_gen生成，待评审；在第一轮生活方式页后加入原PDF第26页工作坊完整原稿，年份价格功能标注为当时探索设想，支持放大。"
+      },
       {
         "title": "2026-11-15 · 90°竖放纠错及另两款姿态复核",
         "detail": "凌序原模型与居家图改为90°，同步评审和汇报。曜影保持90°，修正隐藏件造成的约14毫米可见轮组离地。星弧未套用凌序倾斜算法，当前只开放两轴折平，竖放支撑仍待核对。新图待评审，不宣称三款完成工程验证。"
