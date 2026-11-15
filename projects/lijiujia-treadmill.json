@@ -9,6 +9,13 @@
   "currentFocus": "曜影全域STEP九图获用户评价“基本上没错”；电竞空间方向已纠正为机底朝室内，Easycord改成按T-fal实物的一体短槽护套，旧弹簧外观退出当前展示。新图待评审。 曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧已按最新侧视补图纠正把手尾端下倾及接缝衔接，平整不等于水平；原结构与轴线保留，修正版v2待评审；凌序/星弧旧整机折叠仍撤回。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/linear-product-render-20261115/linear-home-mirror-r3.webp",
+      "thumb": "documents/treadmill/linear-product-render-20261115/linear-home-mirror-r3.webp",
+      "label": "凌序 · 居家镜面效果 R3",
+      "status": "新生成 · 待用户评审",
+      "note": "以新STEP当前竖放截图为几何与姿态依据，呈现镜面机底和居家材质。保留原轮组、脚垫、黑色开口支架及折后把手。AI效果图，未获用户确认；其他把手与转角Options仍保留。"
+    },
+    {
       "file": "documents/treadmill/origin-easycord-scene-20261115/origin-scene-v2.webp",
       "thumb": "documents/treadmill/origin-easycord-scene-20261115/origin-scene-v2.webp",
       "label": "曜影 · 空间方向纠正，机底朝室内",
@@ -697,6 +704,11 @@
   ],
   "links": [
     {
+      "label": "凌序 · 新生成的居家镜面效果 R3",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-product-render-20261115/",
+      "kind": "design"
+    },
+    {
       "label": "星弧 · A/B/C原生STEP材质切换",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-cmf-native-20261115/viewer.html?rev=cmf-controls-fixed",
       "kind": "review"
@@ -1322,6 +1334,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 凌序开始按当前STEP姿态生图",
+        "detail": "新增一张竖放居家镜面效果图R3，作为新生成、待用户评审版本。原图、提示词和模型输入已留档，保留此前版本与各把手/转角选项。"
+      },
       {
         "title": "2026-11-15 · 修正汇报原稿日期误标",
         "detail": "隐藏前轮六方案探索原稿页脚中的错误日期2026 APR 27，保留品牌页脚与其他内容。"
