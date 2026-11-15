@@ -6,8 +6,15 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
-  "currentFocus": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
+  "currentFocus": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。 用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
   "items": [
+    {
+      "file": "documents/treadmill/s9-compact-20261115/s9.jpg",
+      "thumb": "documents/treadmill/s9-compact-20261115/s9.jpg",
+      "label": "汇报s9 · 原PDF风格与CMF图表紧凑化",
+      "status": "已上线核验 · 排版待评审",
+      "note": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。"
+    },
     {
       "file": "documents/treadmill/linear-upright-90-20261115/linear-upright-90.webp",
       "thumb": "documents/treadmill/linear-upright-90-20261115/linear-upright-90.webp",
@@ -802,6 +809,11 @@
   ],
   "links": [
     {
+      "label": "汇报s9 · 原稿风格／CMF紧凑图表",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?rev=s9-compact-20261115#s9",
+      "kind": "review"
+    },
+    {
       "label": "凌序 · 90°竖放修订与三款姿态回查",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-upright-90-20261115/",
       "kind": "review"
@@ -1182,6 +1194,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "s9图表恢复原稿信息密度",
+        "detail": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。"
+      },
       {
         "title": "凌序竖放必须垂直地面，不能倾斜整机凑接地",
         "detail": "同事侧视与用户明确说明：机身90°，抬升架略长并与机身共同支撑。原倾斜版撤回，其他把手与转角Options保留。"
@@ -1869,6 +1885,13 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "汇报s9 · 紧凑原稿图表",
+        "note": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。",
+        "files": [
+          "documents/treadmill/s9-compact-20261115/s9.jpg"
+        ]
+      },
       {
         "title": "星弧 · 产品效果图",
         "note": "AI效果提议 · 待评审",
