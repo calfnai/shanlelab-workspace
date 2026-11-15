@@ -9,18 +9,18 @@
   "currentFocus": "曜影改用新全域STEP与8张补图，9张同源整机图及使用/折平/竖放静态评审已生成；调低39°有干涉，连续折叠、爬坡及竖放稳定性未验证。既有出线与离合片为独立提议，未全部合入新CAD。 星弧（英文 ORBIT / ARC 待定）、曜影、凌序为当前三稿。星弧已按最新侧视补图纠正把手尾端下倾及接缝衔接，平整不等于水平；原结构与轴线保留，修正版v2待评审；凌序/星弧旧整机折叠仍撤回。凌序补图已明确上端固定、图1最终折叠态、竖放脚垫与轮子共同支撑，新STEP原始装配已用于评审；外观以STEP为准，转角与把手供甲方选；运动和接地继续核对。凌序流线硅胶已选B细交叉网格版，其他把手暂保留；底面及下层侧板镜面，电源改可拆卸，取消机底收线。曜影保留10张模型图、现代家居竖放v2及离合片3D入口；前出线120°开口，90°至−30°。新造型/机构均未完成工程验收。",
   "items": [
     {
+      "file": "documents/treadmill/linear-compact-fold-20261115/linear-folded-compact.webp",
+      "thumb": "documents/treadmill/linear-compact-fold-20261115/linear-folded-compact.webp",
+      "label": "凌序 · 抬升架收平与扶手折叠修正版",
+      "status": "已生成并检查 · 待用户评审",
+      "note": "先收平抬升架与推杆，再翻转扶手屏幕、放平立柱；屏幕区域正常接触跑台，扶手末端高于跑台侧板底边。原网格保留，其他把手选项保持。"
+    },
+    {
       "file": "documents/treadmill/xinghu-lineage-20261115/lineage-overview.jpg",
       "thumb": "documents/treadmill/xinghu-lineage-20261115/lineage-overview.jpg",
       "label": "星弧的来路 · 四页连读",
       "status": "已生成 · 浏览器检查通过 · 待评审",
       "note": "按用户提供的原稿148、149页截图匹配设计说明与设计概览，保留原图；串联手绘、比例轮廓、材质交互与当前STEP。历史功能保持探索状态。"
-    },
-    {
-      "file": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
-      "thumb": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
-      "label": "凌序 · 屏幕区域刚好接触跑台",
-      "status": "接触关系用户确认 · 展示终点已修正",
-      "note": "接触不是干涉。按用户纠正，将屏幕区域正常落到跑台作为折叠终点；屏幕组件与所测跑台实体没有穿入体积。保留原几何与转轴，锁止及承载仍待核验。"
     },
     {
       "file": "documents/treadmill/xinghu-native-20261115/xinghu-source-45.webp",
@@ -703,8 +703,8 @@
       "kind": "review"
     },
     {
-      "label": "凌序 · 折叠至屏幕接触跑台（播放／拖动）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-fold-r2-20261115/viewer.html?rev=screen-contact-20261115",
+      "label": "凌序 · 收平抬升架与扶手折叠动画",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-fold-r2-20261115/viewer.html?rev=compact-fold-20261115b",
       "kind": "model"
     },
     {
@@ -1011,6 +1011,10 @@
     ],
     "decisions": [
       {
+        "title": "凌序折平约束：抬升架收至最平，扶手不得低于机身",
+        "detail": "用户纠正：折叠时抬升架应收至最平；扶手屏幕需要继续翻转，不能让扶手落到机身最低轮廓以下。屏幕接触跑台仍为正常接触。"
+      },
+      {
         "title": "凌序折叠终点：屏幕区域与跑台正常接触",
         "detail": "用户明确没有发生干涉，屏幕区域只是刚好触碰跑台。接触即终点，不应报警或据此撤下动作；此前整头锁死的错误诊断不适用于实际折叠。"
       },
@@ -1290,6 +1294,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-15 · 凌序收平抬升架、增加扶手屏幕翻转",
+        "detail": "源网格不删减；抬升架绕原轴收回，原推杆沿轴线联动伸缩。重新求解扶手及立柱终态，屏幕接触跑台、扶手高于跑台侧板底边。动画、实录和终态图已更新，修订图待用户评审。"
+      },
       {
         "title": "2026-11-15 · 三款性格场景配图",
         "detail": "内置image_gen依据当前产品参考生成星弧家庭、曜影电竞房、凌序包豪斯三张场景，已接入汇报第三页与各款产品评审区。两入口共用图片，不重复整套导出；AI视觉提议待评审。"
@@ -1825,6 +1833,13 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
+      "thumb": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
+      "label": "凌序 · 屏幕区域刚好接触跑台",
+      "status": "历史姿态 · 已被收平修正版取代",
+      "note": "抬升架未收平、扶手翻转不足。当前改用抬升架收回、扶手高于机身底部的姿态。"
+    },
     {
       "file": "documents/treadmill/linear-fold-r2-20261115/linear-folded-side.webp",
       "thumb": "documents/treadmill/linear-fold-r2-20261115/linear-folded-side.webp",
