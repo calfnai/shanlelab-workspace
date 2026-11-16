@@ -9,6 +9,41 @@
   "currentFocus": "按用户要求移除光影基准说明、成人比例说明及比例核对图、尺寸说明段；侧面尺寸图移除人物、身高导引和标题，儿童图移除左上两行文字。点睛之笔的机构与外观图取消折叠控件，内容常驻显示，点击说明文字不再收起。已完成公开页与图片核验；不据此改变工程或产品验收状态。",
   "items": [
     {
+      "file": "documents/treadmill/origin-family-current-20261117/origin-adjust-high-user-20261117.jpg",
+      "thumb": "documents/treadmill/origin-family-current-20261117/origin-adjust-high-user-20261117.jpg",
+      "label": "曜影 · 成人 · 最新浅蓝配色",
+      "status": "用户指定当前展示",
+      "note": "与汇报原图一致，完整保留画面和比例；本次更新展示版本，不扩展为尺寸、机构或使用安全验收。"
+    },
+    {
+      "file": "documents/treadmill/origin-family-current-20261117/origin-adjust-low-user-20261117.jpg",
+      "thumb": "documents/treadmill/origin-family-current-20261117/origin-adjust-low-user-20261117.jpg",
+      "label": "曜影 · 儿童 · 最新浅蓝配色",
+      "status": "用户指定当前展示",
+      "note": "与汇报原图一致，完整保留画面和比例；本次更新展示版本，不扩展为尺寸、机构或使用安全验收。"
+    },
+    {
+      "file": "documents/treadmill/origin-family-current-20261117/origin-product-user-20261117.png",
+      "thumb": "documents/treadmill/origin-family-current-20261117/origin-product-user-20261117.png",
+      "label": "曜影 · 当前主推色整机",
+      "status": "用户指定当前展示",
+      "note": "与独立评审页一致；原图或依用户要求仅截取下半机，不重画。"
+    },
+    {
+      "file": "documents/treadmill/origin-family-current-20261117/origin-lower-light-detail.png",
+      "thumb": "documents/treadmill/origin-family-current-20261117/origin-lower-light-detail.png",
+      "label": "曜影 · 主推色下半机灯带细节",
+      "status": "用户指定当前展示",
+      "note": "与独立评审页一致；原图或依用户要求仅截取下半机，不重画。"
+    },
+    {
+      "file": "documents/treadmill/origin-family-current-20261117/p2-linear-user-20261116.png",
+      "thumb": "documents/treadmill/origin-family-current-20261117/p2-linear-user-20261116.png",
+      "label": "凌序 · 竖放镜面 · 用户指定原图",
+      "status": "用户指定当前展示",
+      "note": "与独立评审页一致；原图或依用户要求仅截取下半机，不重画。"
+    },
+    {
       "file": "documents/treadmill/review-content-selection-20261117/linear-main-original.png",
       "thumb": "documents/treadmill/review-content-selection-20261117/linear-main-original.png",
       "label": "凌序 Linear · 用户指定主图",
@@ -114,13 +149,6 @@
       "note": "原图完整保留，无重画、裁切与拉伸。"
     },
     {
-      "file": "documents/treadmill/review-withdrawals-easycord-20261116/tfal-iron-original.jpg",
-      "thumb": "documents/treadmill/review-withdrawals-easycord-20261116/tfal-iron-original.jpg",
-      "label": "T-fal Ultraglide Easycord · 熨斗实物原照",
-      "status": "实物原照片 · 结构参考",
-      "note": "Erin / Eighty MPH Mom原照，完整保留；来源https://eightymphmom.com/t-fal-ultraglide-easycord-iron-review/。"
-    },
-    {
       "file": "documents/treadmill/review-withdrawals-easycord-20261116/tfal-easycord-original.jpg",
       "thumb": "documents/treadmill/review-withdrawals-easycord-20261116/tfal-easycord-original.jpg",
       "label": "Easycord · 出线实物特写",
@@ -149,13 +177,6 @@
       "note": "按用户合集编排：减震层、倾角屏幕与扶手、尾部提手、底部升降结构四张本轮原图，加此前同组直立侧视。原图完整保留，点击分别放大；未重新生图。"
     },
     {
-      "file": "documents/treadmill/origin-adult-scale-r6-20261116/adult-side.webp",
-      "thumb": "documents/treadmill/origin-adult-scale-r6-20261116/adult-side.webp",
-      "label": "曜影 · 成人正侧面 · 165cm比例修正版",
-      "status": "已核对图像比例 · 待用户评审",
-      "note": "165cm从跑面脚底起量，场景按整机长度与人物头脚像素近似核对；含鞋及头发外轮廓。精确比例以原STEP正侧投影为准。当前57°立柱、水平跑面，未改变CAD或认证人体适配。"
-    },
-    {
       "file": "documents/treadmill/screen-baselines-20261116/screen-01-original.png",
       "thumb": "documents/treadmill/screen-baselines-20261116/screen-01-original.png",
       "label": "屏幕方案 · 圆形按键版",
@@ -168,13 +189,6 @@
       "label": "屏幕方案 · 分列按键版",
       "status": "用户指定优先使用 · 两版并列",
       "note": "用户提供原图，2508×627。后续任何可见屏幕优先采用两版，保持完整画面与原比例；尚未二选一。"
-    },
-    {
-      "file": "documents/treadmill/origin-page-edit-20261116/child-use.webp",
-      "thumb": "documents/treadmill/origin-page-edit-20261116/child-use.webp",
-      "label": "曜影 · 120cm适配概念 · 侧面发光版",
-      "status": "用户验收通过 · 2026-11-16",
-      "note": "仅侧面长胶囊饰件柔和橙光；尾端横梁银色、不发光；橙色轴心为金属材质、不发光。儿童图为静态适配概念，安全尚未验证。 图内两行说明已按用户要求移除，画面继续保留。"
     },
     {
       "file": "documents/treadmill/origin-use-lit-r3-20261116/whole-reference.webp",
@@ -259,13 +273,6 @@
       "label": "汇报s9 · 原PDF风格与CMF图表紧凑化",
       "status": "已上线核验 · 排版待评审",
       "note": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。"
-    },
-    {
-      "file": "documents/treadmill/linear-upright-90-20261115/linear-upright-90.webp",
-      "thumb": "documents/treadmill/linear-upright-90-20261115/linear-upright-90.webp",
-      "label": "凌序 · 90°垂直竖放镜面效果",
-      "status": "姿态修订已生成 · 待用户评审",
-      "note": "按同事侧视与原STEP纠正：机身垂直地面，抬升架收拢后共同支撑。替换原倾斜姿态；AI材质与场景效果，非工程验收。"
     },
     {
       "file": "documents/treadmill/linear-upright-90-20261115/source-stand-side.webp",
@@ -1077,6 +1084,10 @@
     ],
     "decisions": [
       {
+        "title": "曜影当前配色、灯带截取及凌序镜面图更新",
+        "detail": "独立评审两张人物图改用汇报已采用的用户原图，放大图同步同一源文件；旧R6成人与银色儿童图移入历史记录，既有确认只按原范围保留。曜影主推色整机更新、灯带用同图下半机截取，T-fal熨斗原照退出展示；凌序竖放镜面用用户指定原图。"
+      },
+      {
         "title": "星弧第15页原图细节、Linear主图与旧文案清理",
         "detail": "第15页改用用户提供的四张清晰原图，展示底部橡胶垫、隐藏转轴、屏幕视线和收纳弧线；同组置于星弧独立评审点睛之笔前部。删除星弧指定的按钮、局部细节、两轴撤回说明和旧饰板CMF图及对应链接。用户指定Linear新主图用于汇报总览、章节封面、收束与独立评审首图。原图完整保留，模型、尺寸、两张屏幕原图及既有把手验收保持。"
       },
@@ -1540,6 +1551,10 @@
       }
     ],
     "history": [
+      {
+        "title": "曜影当前配色、灯带截取及凌序镜面图更新",
+        "detail": "独立评审两张人物图改用汇报已采用的用户原图，放大图同步同一源文件；旧R6成人与银色儿童图移入历史记录，既有确认只按原范围保留。曜影主推色整机更新、灯带用同图下半机截取，T-fal熨斗原照退出展示；凌序竖放镜面用用户指定原图。"
+      },
       {
         "title": "2026-11-17 · 第9页星弧开篇图放大裁切",
         "detail": "按用户要求，将第9页右侧星弧暖棕原图由完整留白改为满幅放大裁切，强化产品与人物的画面关系；原图与点击放大保持，未另存图片副本。"
@@ -2280,6 +2295,17 @@
     ],
     "visualGroups": [
       {
+        "title": "曜影当前配色、灯带截取及凌序镜面图更新",
+        "note": "用户指定当前展示原图",
+        "files": [
+          "documents/treadmill/origin-family-current-20261117/origin-adjust-high-user-20261117.jpg",
+          "documents/treadmill/origin-family-current-20261117/origin-adjust-low-user-20261117.jpg",
+          "documents/treadmill/origin-family-current-20261117/origin-product-user-20261117.png",
+          "documents/treadmill/origin-family-current-20261117/origin-lower-light-detail.png",
+          "documents/treadmill/origin-family-current-20261117/p2-linear-user-20261116.png"
+        ]
+      },
+      {
         "title": "星弧第15页原图细节、Linear主图与旧文案清理",
         "note": "当前原图展示与主图选择，不作为机构或安全验收。",
         "files": [
@@ -2316,7 +2342,6 @@
         "title": "错误图片撤下、Easycord原照与凌序抬升图去人物",
         "note": "错误图不再展示；原照片保持署名与来源，原STEP不改。",
         "files": [
-          "documents/treadmill/review-withdrawals-easycord-20261116/tfal-iron-original.jpg",
           "documents/treadmill/review-withdrawals-easycord-20261116/tfal-easycord-original.jpg",
           "documents/treadmill/review-withdrawals-easycord-20261116/linear-incline-no-person.webp"
         ]
@@ -2507,6 +2532,27 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/origin-adult-scale-r6-20261116/adult-side.webp",
+      "thumb": "documents/treadmill/origin-adult-scale-r6-20261116/adult-side.webp",
+      "label": "曜影 · 成人正侧面 · 165cm比例修正版",
+      "status": "历史版本 · 已由最新配色替换",
+      "note": "165cm从跑面脚底起量，场景按整机长度与人物头脚像素近似核对；含鞋及头发外轮廓。精确比例以原STEP正侧投影为准。当前57°立柱、水平跑面，未改变CAD或认证人体适配。 2026-11-17人物图已切换为用户指定最新浅蓝配色原图；此版退出当前展示，保留历史确认记录。"
+    },
+    {
+      "file": "documents/treadmill/origin-page-edit-20261116/child-use.webp",
+      "thumb": "documents/treadmill/origin-page-edit-20261116/child-use.webp",
+      "label": "曜影 · 120cm适配概念 · 侧面发光版",
+      "status": "历史版本 · 已由最新配色替换",
+      "note": "仅侧面长胶囊饰件柔和橙光；尾端横梁银色、不发光；橙色轴心为金属材质、不发光。儿童图为静态适配概念，安全尚未验证。 图内两行说明已按用户要求移除，画面继续保留。 2026-11-17人物图已切换为用户指定最新浅蓝配色原图；此版退出当前展示，保留历史确认记录。"
+    },
+    {
+      "file": "documents/treadmill/linear-upright-90-20261115/linear-upright-90.webp",
+      "thumb": "documents/treadmill/linear-upright-90-20261115/linear-upright-90.webp",
+      "label": "凌序 · 90°垂直竖放镜面效果",
+      "status": "历史版本 · 已由最新配色替换",
+      "note": "按同事侧视与原STEP纠正：机身垂直地面，抬升架收拢后共同支撑。替换原倾斜姿态；AI材质与场景效果，非工程验收。 2026-11-17人物图已切换为用户指定最新浅蓝配色原图；此版退出当前展示，保留历史确认记录。"
+    },
     {
       "file": "documents/treadmill/origin-adult-woman-r5-20261116/adult-use.webp",
       "thumb": "documents/treadmill/origin-adult-woman-r5-20261116/adult-use.webp",
