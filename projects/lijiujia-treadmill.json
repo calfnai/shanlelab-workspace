@@ -296,32 +296,32 @@
       "note": "内凹按钮、同心弧形分件、底侧柔触区、齐平端盖；材料及固定方式待打样。 局部研究，不代表整机折叠、双侧解锁、线束及承载工程通过。"
     },
     {
-      "file": "documents/treadmill/linear-grip-junction-r2-20261116/01-diagonal-antislip.webp",
-      "thumb": "documents/treadmill/linear-grip-junction-r2-20261116/01-diagonal-antislip.webp",
+      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/01-diagonal-antislip.webp",
+      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/01-diagonal-antislip.webp",
       "label": "凌序 · 斜筋防滑握把（细化）",
-      "status": "材质方案沿用 · 标准连接处新图待评审",
-      "note": "用户要求按2026.11.16两张补图的连接处标准形态重做。沿用斜筋、棕色皮纹与缝线、B细交叉网格、黑色包覆及金属电极四种原材质方案；C2为面板基准。AI示意图，不代表原网格材质覆盖或工程已核验。"
+      "status": "黑屏与指定波形侧饰修正 · 新图待评审",
+      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
     },
     {
-      "file": "documents/treadmill/linear-grip-junction-r2-20261116/02-leather.webp",
-      "thumb": "documents/treadmill/linear-grip-junction-r2-20261116/02-leather.webp",
+      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/02-leather.webp",
+      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/02-leather.webp",
       "label": "凌序 · 皮质握把",
-      "status": "材质方案沿用 · 标准连接处新图待评审",
-      "note": "用户要求按2026.11.16两张补图的连接处标准形态重做。沿用斜筋、棕色皮纹与缝线、B细交叉网格、黑色包覆及金属电极四种原材质方案；C2为面板基准。AI示意图，不代表原网格材质覆盖或工程已核验。"
+      "status": "黑屏与指定波形侧饰修正 · 新图待评审",
+      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
     },
     {
-      "file": "documents/treadmill/linear-grip-junction-r2-20261116/03-fine-grid-silicone.webp",
-      "thumb": "documents/treadmill/linear-grip-junction-r2-20261116/03-fine-grid-silicone.webp",
+      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/03-fine-grid-silicone.webp",
+      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/03-fine-grid-silicone.webp",
       "label": "凌序 · 流线硅胶握把 · B细交叉网格",
-      "status": "材质方案沿用 · 标准连接处新图待评审",
-      "note": "用户要求按2026.11.16两张补图的连接处标准形态重做。沿用斜筋、棕色皮纹与缝线、B细交叉网格、黑色包覆及金属电极四种原材质方案；C2为面板基准。AI示意图，不代表原网格材质覆盖或工程已核验。"
+      "status": "黑屏与指定波形侧饰修正 · 新图待评审",
+      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
     },
     {
-      "file": "documents/treadmill/linear-grip-junction-r2-20261116/04-heart-rate.webp",
-      "thumb": "documents/treadmill/linear-grip-junction-r2-20261116/04-heart-rate.webp",
+      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/04-heart-rate.webp",
+      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/04-heart-rate.webp",
       "label": "凌序 · 心率监测把手",
-      "status": "材质方案沿用 · 标准连接处新图待评审",
-      "note": "用户要求按2026.11.16两张补图的连接处标准形态重做。沿用斜筋、棕色皮纹与缝线、B细交叉网格、黑色包覆及金属电极四种原材质方案；C2为面板基准。AI示意图，不代表原网格材质覆盖或工程已核验。"
+      "status": "黑屏与指定波形侧饰修正 · 新图待评审",
+      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
     },
     {
       "file": "documents/treadmill/poxing-cmf-fold-20261113/hinge-two-piece.webp",
@@ -926,6 +926,10 @@
     ],
     "decisions": [
       {
+        "title": "凌序四款把手图：先用黑屏，侧饰按用户补图",
+        "detail": "用户纠正：四张材质示意图屏幕暂时全部纯黑，不能贴C2画面；跑台机身侧饰必须采用刚提供的深蓝波形。原把手材质不再改动。此条覆盖先前把C2贴入这四张图的做法，C2独立面板选择仍保留。"
+      },
+      {
         "title": "凌序四款把手示意：采用用户补图连接处，保留已确认材质",
         "detail": "只修订四款示意图的标准Y形连接处，斜筋、皮质、B细交叉网格与电极材质沿用。原材质图保留追溯；四张更新图待评审，不替代用户对原材质的认可。"
       },
@@ -1301,6 +1305,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-16 · 四款把手图黑屏和侧饰纠正",
+        "detail": "以上一轮四图为局部编辑目标，仅去除屏幕画面并恢复用户单S波形侧饰。更新当前独立评审、汇报及图库，错误C2配图归档。"
+      },
       {
         "title": "2026-11-16 · 凌序连接处与四款把手示意更新",
         "detail": "内置imagegen以原材质图为编辑目标、两张用户补图为连接处形态依据，生成四张新版。凌序独立评审、材质页和汇报当前配图同步；C2面板沿用，原STEP/3D材质覆盖未改。"
@@ -3371,6 +3379,34 @@
       "label": "凌序客制把手 · 心率监测把手",
       "status": "当前图稿暂正确 · 供甲方选方案 · 旧连接处图稿留档",
       "note": "沿用上一轮折面肩部作统一展示底座，不代表选定拐角。尺寸、承载、互换接口及折叠净距待校核；心率款仅展示接触电极布局，电路与实测未完成。 属于甲方可选方案；基准整机外观以新STEP为准。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-junction-r2-20261116/01-diagonal-antislip.webp",
+      "thumb": "documents/treadmill/linear-grip-junction-r2-20261116/01-diagonal-antislip.webp",
+      "label": "凌序 · 斜筋防滑握把（细化）",
+      "status": "已被用户纠正：不应贴C2画面，缺少指定侧饰",
+      "note": "用户要求按2026.11.16两张补图的连接处标准形态重做。沿用斜筋、棕色皮纹与缝线、B细交叉网格、黑色包覆及金属电极四种原材质方案；C2为面板基准。AI示意图，不代表原网格材质覆盖或工程已核验。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-junction-r2-20261116/02-leather.webp",
+      "thumb": "documents/treadmill/linear-grip-junction-r2-20261116/02-leather.webp",
+      "label": "凌序 · 皮质握把",
+      "status": "已被用户纠正：不应贴C2画面，缺少指定侧饰",
+      "note": "用户要求按2026.11.16两张补图的连接处标准形态重做。沿用斜筋、棕色皮纹与缝线、B细交叉网格、黑色包覆及金属电极四种原材质方案；C2为面板基准。AI示意图，不代表原网格材质覆盖或工程已核验。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-junction-r2-20261116/03-fine-grid-silicone.webp",
+      "thumb": "documents/treadmill/linear-grip-junction-r2-20261116/03-fine-grid-silicone.webp",
+      "label": "凌序 · 流线硅胶握把 · B细交叉网格",
+      "status": "已被用户纠正：不应贴C2画面，缺少指定侧饰",
+      "note": "用户要求按2026.11.16两张补图的连接处标准形态重做。沿用斜筋、棕色皮纹与缝线、B细交叉网格、黑色包覆及金属电极四种原材质方案；C2为面板基准。AI示意图，不代表原网格材质覆盖或工程已核验。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-junction-r2-20261116/04-heart-rate.webp",
+      "thumb": "documents/treadmill/linear-grip-junction-r2-20261116/04-heart-rate.webp",
+      "label": "凌序 · 心率监测把手",
+      "status": "已被用户纠正：不应贴C2画面，缺少指定侧饰",
+      "note": "用户要求按2026.11.16两张补图的连接处标准形态重做。沿用斜筋、棕色皮纹与缝线、B细交叉网格、黑色包覆及金属电极四种原材质方案；C2为面板基准。AI示意图，不代表原网格材质覆盖或工程已核验。"
     }
   ]
 }
