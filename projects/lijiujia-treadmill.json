@@ -9,6 +9,48 @@
   "currentFocus": "按用户要求移除光影基准说明、成人比例说明及比例核对图、尺寸说明段；侧面尺寸图移除人物、身高导引和标题，儿童图移除左上两行文字。点睛之笔的机构与外观图取消折叠控件，内容常驻显示，点击说明文字不再收起。已完成公开页与图片核验；不据此改变工程或产品验收状态。",
   "items": [
     {
+      "file": "documents/treadmill/review-dimensions-20261116/linear-side.svg",
+      "thumb": "documents/treadmill/review-dimensions-20261116/linear-side.svg",
+      "label": "凌序 · 正侧尺寸与屏幕倾角",
+      "status": "原生几何尺寸图 · 水平使用态参考",
+      "note": "整机1448×730×1094mm；跑面1300×435mm，离地172mm；屏幕平面对水平面32.1°。原生平面与明确使用姿态量取，不从效果图反算。"
+    },
+    {
+      "file": "documents/treadmill/review-dimensions-20261116/linear-plan.svg",
+      "thumb": "documents/treadmill/review-dimensions-20261116/linear-plan.svg",
+      "label": "凌序 · 俯视尺寸",
+      "status": "原生几何尺寸图 · 水平使用态参考",
+      "note": "整机1448×730×1094mm；跑面1300×435mm，离地172mm；屏幕平面对水平面32.1°。原生平面与明确使用姿态量取，不从效果图反算。"
+    },
+    {
+      "file": "documents/treadmill/review-dimensions-20261116/origin-side.svg",
+      "thumb": "documents/treadmill/review-dimensions-20261116/origin-side.svg",
+      "label": "曜影 · 正侧尺寸与屏幕倾角",
+      "status": "原生几何尺寸图 · 水平使用态参考",
+      "note": "整机1442×726×1057mm；跑面1300×435mm，离地180mm；屏幕平面对水平面21.5°。原生平面与明确使用姿态量取，不从效果图反算。"
+    },
+    {
+      "file": "documents/treadmill/review-dimensions-20261116/origin-plan.svg",
+      "thumb": "documents/treadmill/review-dimensions-20261116/origin-plan.svg",
+      "label": "曜影 · 俯视尺寸",
+      "status": "原生几何尺寸图 · 水平使用态参考",
+      "note": "整机1442×726×1057mm；跑面1300×435mm，离地180mm；屏幕平面对水平面21.5°。原生平面与明确使用姿态量取，不从效果图反算。"
+    },
+    {
+      "file": "documents/treadmill/review-dimensions-20261116/xinghu-side.svg",
+      "thumb": "documents/treadmill/review-dimensions-20261116/xinghu-side.svg",
+      "label": "星弧 · 正侧尺寸与屏幕倾角",
+      "status": "原生几何尺寸图 · 水平使用态参考",
+      "note": "整机1417×720×1087mm；跑面1300×435mm，离地189mm；屏幕平面对水平面16.8°。原生平面与明确使用姿态量取，不从效果图反算。"
+    },
+    {
+      "file": "documents/treadmill/review-dimensions-20261116/xinghu-plan.svg",
+      "thumb": "documents/treadmill/review-dimensions-20261116/xinghu-plan.svg",
+      "label": "星弧 · 俯视尺寸",
+      "status": "原生几何尺寸图 · 水平使用态参考",
+      "note": "整机1417×720×1087mm；跑面1300×435mm，离地189mm；屏幕平面对水平面16.8°。原生平面与明确使用姿态量取，不从效果图反算。"
+    },
+    {
       "file": "documents/treadmill/lift-cmf-corrections-20261116/origin-side.webp",
       "thumb": "documents/treadmill/lift-cmf-corrections-20261116/origin-side.webp",
       "label": "曜影 · 15°正侧面 · 固定托盘与活动支架",
@@ -77,20 +119,6 @@
       "label": "曜影 · 成人正侧面 · 165cm比例修正版",
       "status": "已核对图像比例 · 待用户评审",
       "note": "165cm从跑面脚底起量，场景按整机长度与人物头脚像素近似核对；含鞋及头发外轮廓。精确比例以原STEP正侧投影为准。当前57°立柱、水平跑面，未改变CAD或认证人体适配。"
-    },
-    {
-      "file": "documents/treadmill/origin-dimensions-angle-20261116/dimensions-side.webp",
-      "thumb": "documents/treadmill/origin-dimensions-angle-20261116/dimensions-side.webp",
-      "label": "曜影 · 正侧面原生几何尺寸标注",
-      "status": "尺寸实测图 · 待评审",
-      "note": "当前57°立柱、0°水平跑面使用态：扶手顶距跑面878、离地1057，跑面离地180；整机原生外廓1442×726×1057。数字来自原STEP，生图只比较观感，未作舒适性或制造放行。 本轮移除人物、身高导引及图内标题，保留机器尺寸标注。"
-    },
-    {
-      "file": "documents/treadmill/origin-dimensions-angle-20261116/dimensions-plan.webp",
-      "thumb": "documents/treadmill/origin-dimensions-angle-20261116/dimensions-plan.webp",
-      "label": "曜影 · 俯视长宽尺寸",
-      "status": "尺寸实测图 · 待评审",
-      "note": "当前57°立柱、0°水平跑面使用态：扶手顶距跑面878、离地1057，跑面离地180；整机原生外廓1442×726×1057。数字来自原STEP，生图只比较观感，未作舒适性或制造放行。"
     },
     {
       "file": "documents/treadmill/screen-baselines-20261116/screen-01-original.png",
@@ -1014,6 +1042,10 @@
     ],
     "decisions": [
       {
+        "title": "三个独立评审页加入机身尺寸与屏幕倾角",
+        "detail": "凌序、曜影、星弧均新增直接展开的机身尺寸环节及目录入口，包含整机长宽高、跑面长宽、跑面离地高度、屏幕平面对水平面的倾角，并提供无人物正侧与俯视原生几何尺寸图。三款屏幕倾角分别32.1°、21.5°、16.8°；屏幕两张原图继续并列，模型、原始STEP及既有选定状态未更改。"
+      },
+      {
         "title": "曜影评审页精简说明与图注",
         "detail": "按用户要求删除R2近景基准长说明、整机与近景生成图注、120cm适配说明及验收日期图注、正侧与俯视尺寸图注、15°抬升长说明及两张抬升图注。共删除两段正文和七段图注，保留原图片、模型、结构与历史验收记录。"
       },
@@ -1469,6 +1501,10 @@
       }
     ],
     "history": [
+      {
+        "title": "三个独立评审页加入机身尺寸与屏幕倾角",
+        "detail": "凌序、曜影、星弧均新增直接展开的机身尺寸环节及目录入口，包含整机长宽高、跑面长宽、跑面离地高度、屏幕平面对水平面的倾角，并提供无人物正侧与俯视原生几何尺寸图。三款屏幕倾角分别32.1°、21.5°、16.8°；屏幕两张原图继续并列，模型、原始STEP及既有选定状态未更改。"
+      },
       {
         "title": "2026-11-16 · 第12页改用正确星弧头图并清理说明",
         "detail": "标题按用户指定为「星弧 ARC｜运动进入日常」，保留渐变粉名称。删除日常家居使用场景副标题、当前长扶手版/生活中的星弧/待评审说明和旧AI图注。单图改用已确认香槟棕色跑步场景头图，完整展示，放大同源；复用既有资产，不新增图片副本。"
@@ -2149,6 +2185,18 @@
     ],
     "visualGroups": [
       {
+        "title": "三个独立评审页加入机身尺寸与屏幕倾角",
+        "note": "单位mm；角度基准为水平面。",
+        "files": [
+          "documents/treadmill/review-dimensions-20261116/linear-side.svg",
+          "documents/treadmill/review-dimensions-20261116/linear-plan.svg",
+          "documents/treadmill/review-dimensions-20261116/origin-side.svg",
+          "documents/treadmill/review-dimensions-20261116/origin-plan.svg",
+          "documents/treadmill/review-dimensions-20261116/xinghu-side.svg",
+          "documents/treadmill/review-dimensions-20261116/xinghu-plan.svg"
+        ]
+      },
+      {
         "title": "曜影抬升分组纠正、星弧错误CMF撤下与汇报原图替换",
         "note": "姿态修正图待评审；用户原图按指定图位替换。",
         "files": [
@@ -2184,10 +2232,7 @@
       {
         "title": "曜影使用态原生尺寸实测",
         "note": "保留两张原生尺寸图；旧女性前侧场景比例被否决，已移入历史。",
-        "files": [
-          "documents/treadmill/origin-dimensions-angle-20261116/dimensions-side.webp",
-          "documents/treadmill/origin-dimensions-angle-20261116/dimensions-plan.webp"
-        ]
+        "files": []
       },
       {
         "title": "曜影人物图 · 成人比例复核",
