@@ -633,8 +633,8 @@
       "kind": "review"
     },
     {
-      "label": "曜影 · 书房竖放遮挡纠错（已去错误灯带，待评审）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=fold-occlusion-20261116#p23",
+      "label": "曜影 · 书房场景（用户指定正确版）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=user-correct-20261116#p23",
       "kind": "design"
     },
     {
@@ -1443,6 +1443,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-16 · 曜影书房图采用用户指定正确版",
+        "detail": "用户否决fold-occlusion版本并提供正确图。汇报「运动之外的日常」直接替换为用户原图内容，保留双屏工作画面、橙色扶手端部及机底半圆柱；页面图和放大图一致，更新缓存标记。旧图退出当前展示。"
+      },
       {
         "title": "2026-11-16 · 首页星弧配图采用用户原图",
         "detail": "用户指定黑框落地窗旁跑步场景用于汇报首页「01 星弧 ARC」。直接采用用户提供1280×784原PNG，并同步点击放大图；其他方案和页序保持。"
