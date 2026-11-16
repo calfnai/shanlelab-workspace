@@ -9,6 +9,34 @@
   "currentFocus": "按用户要求移除光影基准说明、成人比例说明及比例核对图、尺寸说明段；侧面尺寸图移除人物、身高导引和标题，儿童图移除左上两行文字。点睛之笔的机构与外观图取消折叠控件，内容常驻显示，点击说明文字不再收起。已完成公开页与图片核验；不据此改变工程或产品验收状态。",
   "items": [
     {
+      "file": "documents/treadmill/lift-cmf-corrections-20261116/origin-side.webp",
+      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/origin-side.webp",
+      "label": "曜影 · 15°正侧面 · 固定托盘与活动支架",
+      "status": "原生模型修正图 · 待评审",
+      "note": "原生网格重导；几何、15°角度与轮组接地已核对，机构限位及承载未认证。"
+    },
+    {
+      "file": "documents/treadmill/lift-cmf-corrections-20261116/origin-left.webp",
+      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/origin-left.webp",
+      "label": "曜影 · 15°45°视角 · 固定托盘与活动支架",
+      "status": "原生模型修正图 · 待评审",
+      "note": "原生网格重导；几何、15°角度与轮组接地已核对，机构限位及承载未认证。"
+    },
+    {
+      "file": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-left.webp",
+      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-left.webp",
+      "label": "星弧 · 15°45°抬升态 · 无人物",
+      "status": "原生姿态图 · 人物已移除",
+      "note": "原生网格重导；几何、15°角度与轮组接地已核对，机构限位及承载未认证。"
+    },
+    {
+      "file": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-design-exploration-original.png",
+      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-design-exploration-original.png",
+      "label": "星弧 · 用户提供的本轮整机原图",
+      "status": "用户指定 · 汇报第10页",
+      "note": "原图完整保留，无重画、裁切与拉伸。"
+    },
+    {
       "file": "documents/treadmill/review-withdrawals-easycord-20261116/tfal-iron-original.jpg",
       "thumb": "documents/treadmill/review-withdrawals-easycord-20261116/tfal-iron-original.jpg",
       "label": "T-fal Ultraglide Easycord · 熨斗实物原照",
@@ -93,20 +121,6 @@
       "note": "仅侧面长胶囊饰件柔和橙光；尾端横梁银色、不发光；橙色轴心为金属材质、不发光。儿童图为静态适配概念，安全尚未验证。"
     },
     {
-      "file": "documents/treadmill/origin-lift-total-20261115/side.webp",
-      "thumb": "documents/treadmill/origin-lift-total-20261115/side.webp",
-      "label": "曜影 · 工作面对地15.0°正侧核对",
-      "status": "已修订 · 待评审",
-      "note": "1300mm工作面高差336.5mm、水平投影1255.7mm。 装配姿态或外观评审，未完成连续运动、承载及光学工程验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-lift-total-20261115/lower.webp",
-      "thumb": "documents/treadmill/origin-lift-total-20261115/lower.webp",
-      "label": "曜影 · 完整下部总成共同展开",
-      "status": "已修订 · 待评审",
-      "note": "轮架、横向底壳与包覆件同组，轮组和后支撑接地。 装配姿态或外观评审，未完成连续运动、承载及光学工程验证。"
-    },
-    {
       "file": "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
       "thumb": "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
       "label": "曜影 · 后端不发光，侧饰件漫反射",
@@ -124,13 +138,6 @@
       "file": "documents/treadmill/incline-contact-r2-20261115/linear-incline-15.webp",
       "thumb": "documents/treadmill/incline-contact-r2-20261115/linear-incline-15.webp",
       "label": "凌序 · 跑板15°、抬升架展开与轮组接地",
-      "status": "接地姿态已核对 · 待评审",
-      "note": "跑带工作面与水平地面15°；四轮及后支撑接地，原网格保留。原CAD局部实体重叠仍在，推杆限位及承载未核验。"
-    },
-    {
-      "file": "documents/treadmill/incline-contact-r2-20261115/xinghu-incline-15.webp",
-      "thumb": "documents/treadmill/incline-contact-r2-20261115/xinghu-incline-15.webp",
-      "label": "星弧 · 跑板15°、抬升架展开与轮组接地",
       "status": "接地姿态已核对 · 待评审",
       "note": "跑带工作面与水平地面15°；四轮及后支撑接地，原网格保留。原CAD局部实体重叠仍在，推杆限位及承载未核验。"
     },
@@ -163,13 +170,6 @@
       "note": "仅包含本款图稿、模型、局部与选项；移除方案切换和跨款导航。原始图稿与模型几何未重新生成，截图用于记录页面结构。"
     },
     {
-      "file": "documents/treadmill/xinghu-long-grip-20261115/cmf-three-options.webp",
-      "thumb": "documents/treadmill/xinghu-long-grip-20261115/cmf-three-options.webp",
-      "label": "星弧长扶手 · 原生CMF对比",
-      "status": "新版已生成 · 待评审",
-      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
-    },
-    {
       "file": "documents/treadmill/xinghu-long-grip-20261115/fold-board.webp",
       "thumb": "documents/treadmill/xinghu-long-grip-20261115/fold-board.webp",
       "label": "星弧长扶手 · 折平与竖放",
@@ -187,27 +187,6 @@
       "file": "documents/treadmill/xinghu-long-grip-20261115/home-use.webp",
       "thumb": "documents/treadmill/xinghu-long-grip-20261115/home-use.webp",
       "label": "星弧长扶手 · 家居使用",
-      "status": "新版已生成 · 待评审",
-      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-long-grip-20261115/C-product.webp",
-      "thumb": "documents/treadmill/xinghu-long-grip-20261115/C-product.webp",
-      "label": "星弧长扶手 · CMF C",
-      "status": "新版已生成 · 待评审",
-      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-long-grip-20261115/B-product.webp",
-      "thumb": "documents/treadmill/xinghu-long-grip-20261115/B-product.webp",
-      "label": "星弧长扶手 · CMF B",
-      "status": "新版已生成 · 待评审",
-      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-long-grip-20261115/A-product.webp",
-      "thumb": "documents/treadmill/xinghu-long-grip-20261115/A-product.webp",
-      "label": "星弧长扶手 · CMF A",
       "status": "新版已生成 · 待评审",
       "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
     },
@@ -1035,6 +1014,10 @@
     ],
     "decisions": [
       {
+        "title": "曜影抬升分组纠正、星弧错误CMF撤下与汇报原图替换",
+        "detail": "曜影机底托盘和轴套保持机身固定，U形支架与轮组展开，15°及接地检查通过，110项原生网格不改。星弧A/B/C材质、三CMF总览从当前评审、汇报及共享图库撤下；45°抬升图去人物。汇报第10页指定图位采用用户提供的完整原图。"
+      },
+      {
         "title": "错误图片撤下、Easycord原照与凌序抬升图去人物",
         "detail": "用户否决星弧竖放机底局部收线和旧饰板原图，以及曜影连续机底竖放、机底整体、抬升架三张图，均退出评审及共享图库。星弧SVG仅保留左侧按钮位置提议。曜影Easycord补T-fal熨斗实物原照和出线特写，署名并链接原来源。凌序15°抬升45°图由原生模型去人物重导，101项网格变换、原相机、15°及接地姿态保持，非AI重画。"
       },
@@ -1482,6 +1465,10 @@
       }
     ],
     "history": [
+      {
+        "title": "曜影抬升分组纠正、星弧错误CMF撤下与汇报原图替换",
+        "detail": "曜影机底托盘和轴套保持机身固定，U形支架与轮组展开，15°及接地检查通过，110项原生网格不改。星弧A/B/C材质、三CMF总览从当前评审、汇报及共享图库撤下；45°抬升图去人物。汇报第10页指定图位采用用户提供的完整原图。"
+      },
       {
         "title": "2026-11-16 · 星弧第11页主配色更新",
         "detail": "用户指定新上传图一为主配色，左侧主图使用其完整原图并标注主配色，点击放大同源。其他多色选项图片尚待用户继续提供；当前右侧既有三款保持，未将旧选项冒充新图。"
@@ -2114,6 +2101,16 @@
     ],
     "visualGroups": [
       {
+        "title": "曜影抬升分组纠正、星弧错误CMF撤下与汇报原图替换",
+        "note": "姿态修正图待评审；用户原图按指定图位替换。",
+        "files": [
+          "documents/treadmill/lift-cmf-corrections-20261116/origin-side.webp",
+          "documents/treadmill/lift-cmf-corrections-20261116/origin-left.webp",
+          "documents/treadmill/lift-cmf-corrections-20261116/xinghu-left.webp",
+          "documents/treadmill/lift-cmf-corrections-20261116/xinghu-design-exploration-original.png"
+        ]
+      },
+      {
         "title": "错误图片撤下、Easycord原照与凌序抬升图去人物",
         "note": "错误图不再展示；原照片保持署名与来源，原STEP不改。",
         "files": [
@@ -2156,8 +2153,6 @@
         "title": "曜影 · 15°完整下部总成与外观基准",
         "note": "结构姿态图两张；侧饰件光效以原R2近景为准，后端不发光。",
         "files": [
-          "documents/treadmill/origin-lift-total-20261115/side.webp",
-          "documents/treadmill/origin-lift-total-20261115/lower.webp",
           "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
           "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp"
         ]
@@ -2174,14 +2169,10 @@
         "title": "星弧 · 同事长扶手版",
         "note": "当前版本 · 已生成待评审",
         "files": [
-          "documents/treadmill/xinghu-long-grip-20261115/A-product.webp",
-          "documents/treadmill/xinghu-long-grip-20261115/B-product.webp",
-          "documents/treadmill/xinghu-long-grip-20261115/C-product.webp",
           "documents/treadmill/xinghu-long-grip-20261115/home-use.webp",
           "documents/treadmill/xinghu-long-grip-20261115/home-idle.webp",
           "documents/treadmill/xinghu-long-grip-20261115/fold-board.webp",
-          "documents/treadmill/xinghu-long-grip-20261115/xinghu-climb.webp",
-          "documents/treadmill/xinghu-long-grip-20261115/cmf-three-options.webp"
+          "documents/treadmill/xinghu-long-grip-20261115/xinghu-climb.webp"
         ]
       },
       {
@@ -3666,13 +3657,6 @@
       "file": "documents/treadmill/origin-indirect-edge-r2-20261115/whole.webp",
       "thumb": "documents/treadmill/origin-indirect-edge-r2-20261115/whole.webp",
       "label": "曜影 · 简洁轴心与更亮橙色反射（整机）",
-      "status": "用户否决 · 已退出当前",
-      "note": "后横梁不发光；旧抬升图的下壳未随轮架共同展开。新图按真实15°和完整总成重做。"
-    },
-    {
-      "file": "documents/treadmill/incline-contact-r2-20261115/origin-incline-15.webp",
-      "thumb": "documents/treadmill/incline-contact-r2-20261115/origin-incline-15.webp",
-      "label": "曜影 · 跑板15°、抬升架展开与轮组接地",
       "status": "用户否决 · 已退出当前",
       "note": "后横梁不发光；旧抬升图的下壳未随轮架共同展开。新图按真实15°和完整总成重做。"
     },
