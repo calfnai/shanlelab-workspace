@@ -522,6 +522,11 @@
   ],
   "links": [
     {
+      "label": "曜影 · 书房办公与竖放收纳场景（无字，待评审）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p23",
+      "kind": "design"
+    },
+    {
       "label": "曜影 · 15°完整下部总成与后端去光",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-lift-total-20261115#incline-15",
       "kind": "review"
@@ -1243,6 +1248,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-16 · 曜影书房无字场景替换第23页",
+        "detail": "参照原稿source-174的人在书房办公、产品竖放在桌旁的生活内容，使用当前曜影STEP竖放轮廓与用户新光影基准生成无文字场景。侧面胶囊饰板柔和橙色间接光，尾端横梁及轴心不发光。汇报第23页替换原比例人形占位，标题与目录同步为「曜影 ORIGIN｜运动之外的日常」。AI视觉提案待用户评审。"
+      },
       {
         "title": "曜影后端去光与完整下部15°总成纠正",
         "detail": "曜影后横梁不得发光，R2近景原图为用户指定最正确基准并保持原哈希。旧抬升图已撤回，19项源几何的下轮架与两底壳改为同组展开；正侧世界坐标测得工作面15.0°，四轮与后支撑接地。姿态/外观待评审，未作完整机构、载荷或光学验收。"
