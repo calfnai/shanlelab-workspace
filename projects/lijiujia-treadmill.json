@@ -585,6 +585,21 @@
   ],
   "links": [
     {
+      "label": "凌序 · 多角度整机与细节",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p32",
+      "kind": "design"
+    },
+    {
+      "label": "曜影 · 多角度整机与细节",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p24",
+      "kind": "design"
+    },
+    {
+      "label": "星弧 · 多角度整机与细节",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p15",
+      "kind": "design"
+    },
+    {
       "label": "汇报｜凌序多角度整机总览 · 原图合集",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#s38",
       "kind": "review"
@@ -593,11 +608,6 @@
       "label": "曜影 · 成人比例修正版与原生参照",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-adult-scale-r6-20261116#origin-adult-scene-r6",
       "kind": "review"
-    },
-    {
-      "label": "曜影 · 进入家庭生活（闲置与竖放双图）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p23",
-      "kind": "design"
     },
     {
       "label": "曜影 · 使用态尺寸与视角对照",
@@ -621,7 +631,7 @@
     },
     {
       "label": "曜影 · 书房竖放遮挡纠错（已去错误灯带，待评审）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=fold-occlusion-20261116#p22",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=fold-occlusion-20261116#p23",
       "kind": "design"
     },
     {
@@ -636,7 +646,7 @@
     },
     {
       "label": "曜影 · 抬升态跑步场景（AI视觉提案，待评审）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p21",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p22",
       "kind": "design"
     },
     {
@@ -696,12 +706,12 @@
     },
     {
       "label": "汇报末尾 · 三款厂商可选镜面底面",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p34",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p36",
       "kind": "review"
     },
     {
       "label": "汇报末尾 · 三款额外增稳",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p35",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p37",
       "kind": "review"
     },
     {
@@ -741,7 +751,7 @@
     },
     {
       "label": "汇报第22页 · 星弧使用与闲置家居双图",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#p16",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#p17",
       "kind": "review"
     },
     {
@@ -1418,6 +1428,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-16 · 修正删除对象，恢复三款多角度细节",
+        "detail": "用户纠正先前删除对象：要删除截图所示曜影「进入家庭生活」双图页，多角度细节图需要保留。已恢复星弧、曜影、凌序三张总览/细节页，曜影橙光细节及凌序用户原始CAD五图保持；仅删除曜影s28双图页。上一轮三栏新标题、当前模型截图与3D入口保留。总页数35→37，目录、旧来源跳转和共享入口同步。"
+      },
       {
         "title": "2026-11-16 · 三款统一设计来路与当前模型",
         "detail": "三款三栏统一为「01 / 手绘推演」「02 / 探索与凝练」「03 / 本轮整机形态」；第三栏改用各款当前原生模型截图，保留对应3D入口。删除原第25页曜影多角度总览及星弧、凌序同类总览页，原图素材仍保留。总页数38→35，目录、页码、共享链接与旧来源跳转同步。三栏原第11页内容当前按源稿定位为星弧第10页；原CMF合页未覆盖。"
