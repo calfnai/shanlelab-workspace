@@ -9,6 +9,13 @@
   "currentFocus": "按用户要求移除光影基准说明、成人比例说明及比例核对图、尺寸说明段；侧面尺寸图移除人物、身高导引和标题，儿童图移除左上两行文字。点睛之笔的机构与外观图取消折叠控件，内容常驻显示，点击说明文字不再收起。已完成公开页与图片核验；不据此改变工程或产品验收状态。",
   "items": [
     {
+      "file": "documents/treadmill/origin-easycord-user-20261117/user-iron-original.jpg",
+      "thumb": "documents/treadmill/origin-easycord-user-20261117/user-iron-original.jpg",
+      "label": "T-fal Easycord · 用户指定出线参考原图",
+      "status": "用户指定参考图",
+      "note": "用于曜影机构与包覆，完整保留原图和比例；展示熨斗与出线摆动位置，不作为跑台机构认证。"
+    },
+    {
       "file": "documents/treadmill/origin-family-current-20261117/origin-adjust-high-user-20261117.jpg",
       "thumb": "documents/treadmill/origin-family-current-20261117/origin-adjust-high-user-20261117.jpg",
       "label": "曜影 · 成人 · 最新浅蓝配色",
@@ -1084,6 +1091,10 @@
     ],
     "decisions": [
       {
+        "title": "曜影机构与包覆加入用户熨斗原图",
+        "detail": "按用户指定加入768×768的T-fal Easycord熨斗出线参考图，完整显示并支持同一原图放大；此前撤下的旧熨斗照片不恢复。"
+      },
+      {
         "title": "曜影当前配色、灯带截取及凌序镜面图更新",
         "detail": "独立评审两张人物图改用汇报已采用的用户原图，放大图同步同一源文件；旧R6成人与银色儿童图移入历史记录，既有确认只按原范围保留。曜影主推色整机更新、灯带用同图下半机截取，T-fal熨斗原照退出展示；凌序竖放镜面用用户指定原图。"
       },
@@ -1551,6 +1562,10 @@
       }
     ],
     "history": [
+      {
+        "title": "曜影机构与包覆加入用户熨斗原图",
+        "detail": "按用户指定加入768×768的T-fal Easycord熨斗出线参考图，完整显示并支持同一原图放大；此前撤下的旧熨斗照片不恢复。"
+      },
       {
         "title": "2026-11-17 · 删除第7页历史探索补充文字",
         "detail": "按用户要求，仅删除第7页「历史探索 · 本轮继续星弧、曜影、凌序三稿」文本，保留标题、六方案原稿与36页顺序。"
@@ -2302,6 +2317,13 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "曜影机构与包覆加入用户熨斗原图",
+        "note": "用户指定参考图",
+        "files": [
+          "documents/treadmill/origin-easycord-user-20261117/user-iron-original.jpg"
+        ]
+      },
       {
         "title": "曜影当前配色、灯带截取及凌序镜面图更新",
         "note": "用户指定当前展示原图",
