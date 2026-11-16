@@ -596,7 +596,7 @@
     },
     {
       "label": "曜影 · 进入家庭生活（闲置与竖放双图）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p24",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p23",
       "kind": "design"
     },
     {
@@ -621,7 +621,7 @@
     },
     {
       "label": "曜影 · 书房竖放遮挡纠错（已去错误灯带，待评审）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=fold-occlusion-20261116#p23",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=fold-occlusion-20261116#p22",
       "kind": "design"
     },
     {
@@ -636,7 +636,7 @@
     },
     {
       "label": "曜影 · 抬升态跑步场景（AI视觉提案，待评审）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p22",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p21",
       "kind": "design"
     },
     {
@@ -696,12 +696,12 @@
     },
     {
       "label": "汇报末尾 · 三款厂商可选镜面底面",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p37",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p34",
       "kind": "review"
     },
     {
       "label": "汇报末尾 · 三款额外增稳",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p38",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p35",
       "kind": "review"
     },
     {
@@ -741,7 +741,7 @@
     },
     {
       "label": "汇报第22页 · 星弧使用与闲置家居双图",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#p17",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#p16",
       "kind": "review"
     },
     {
@@ -1418,6 +1418,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-16 · 三款统一设计来路与当前模型",
+        "detail": "三款三栏统一为「01 / 手绘推演」「02 / 探索与凝练」「03 / 本轮整机形态」；第三栏改用各款当前原生模型截图，保留对应3D入口。删除原第25页曜影多角度总览及星弧、凌序同类总览页，原图素材仍保留。总页数38→35，目录、页码、共享链接与旧来源跳转同步。三栏原第11页内容当前按源稿定位为星弧第10页；原CMF合页未覆盖。"
+      },
       {
         "title": "2026-11-16 · 第7页取消高亮，删除原第9页",
         "detail": "六方案探索页取消灵伴、曜影、凌序名称底色、加粗与图片描边，六个方案等同展示。删除原第9页「用户需求，进入具体的设计回应」；总页数39→38。页码、目录与共享入口同步顺延；原素材不删除，原s13来源链接跳至后续星弧页。"
