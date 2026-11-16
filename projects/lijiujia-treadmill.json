@@ -116,16 +116,16 @@
     {
       "file": "documents/treadmill/incline-contact-r2-20261115/linear-panel-C2.png",
       "thumb": "documents/treadmill/incline-contact-r2-20261115/linear-panel-C2.png",
-      "label": "凌序 · C2（当前基准）",
-      "status": "用户选定为当前基准 · 已接入模型",
-      "note": "C1和C3退出当前评审，C2沿用原图用于模型与生图素材，备选待用户补图。"
+      "label": "凌序 · C2（既有外壳参考）",
+      "status": "既有外壳与映射参考 · 当前屏幕基准已更新",
+      "note": "C1和C3退出当前评审，C2沿用原图用于模型与生图素材，备选待用户补图。 当前屏幕画面以2026-11-16用户指定的两版原图并列为准，C2外壳另行评审。"
     },
     {
       "file": "documents/treadmill/incline-contact-r2-20261115/linear-panel-C2-model.webp",
       "thumb": "documents/treadmill/incline-contact-r2-20261115/linear-panel-C2-model.webp",
-      "label": "凌序 · C2原面板表面映射",
-      "status": "用户选定为当前基准 · 已接入模型",
-      "note": "C1和C3退出当前评审，C2沿用原图用于模型与生图素材，备选待用户补图。"
+      "label": "凌序 · C2既有表面映射参考",
+      "status": "既有外壳与映射参考 · 当前屏幕基准已更新",
+      "note": "C1和C3退出当前评审，C2沿用原图用于模型与生图素材，备选待用户补图。 当前屏幕画面以2026-11-16用户指定的两版原图并列为准，C2外壳另行评审。"
     },
     {
       "file": "documents/treadmill/independent-reviews-20261115/linear-desktop.jpg",
@@ -578,6 +578,16 @@
   ],
   "links": [
     {
+      "label": "星弧 · 整机／动作／点睛之笔／屏幕",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu/?rev=review-structure-align-20261116",
+      "kind": "review"
+    },
+    {
+      "label": "凌序 · 整机／动作／点睛之笔／屏幕",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear/?rev=review-structure-align-20261116",
+      "kind": "review"
+    },
+    {
       "label": "凌序 · 用户自选把手与转角讨论稿",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear/?rev=linear-review-options-edit-20261116#linear-grips",
       "kind": "review"
@@ -1003,6 +1013,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "凌序与星弧独立评审页结构整理",
+        "detail": "按整机、动作、点睛之笔、屏幕与面板、方案讨论稿整理两页。凌序折叠演示归入动作区，用户自选把手保持直接展示，转角讨论稿仍默认折叠；星弧当前长扶手三种材质与对照图归入点睛之笔直接展示，旧机构与饰板讨论稿折叠。两版用户屏幕原图并列完整展示；旧C2映射与既有面板候选改为外观讨论参考，屏幕画面与外壳分开评审。未重画图片、未恢复撤回图、未变更模型或工程验收状态。"
+      },
       {
         "title": "凌序把手用户选配卖点与转角讨论稿整理",
         "detail": "把手Options面向产品用户选择，属于产品卖点，评审页改为“凌序 · 把手 Options（用户自选）”并更新选配说明；移除“凌序 · 电源线方案纠正”整块；转角环节改名“凌序 · 转角 Options讨论稿”并默认折叠，四张讨论图保留，点击可展开。电源线内容仅退出评审展示，未据此更改技术方案。"
@@ -1443,6 +1457,10 @@
       }
     ],
     "history": [
+      {
+        "title": "凌序与星弧独立评审页结构整理",
+        "detail": "按整机、动作、点睛之笔、屏幕与面板、方案讨论稿整理两页。凌序折叠演示归入动作区，用户自选把手保持直接展示，转角讨论稿仍默认折叠；星弧当前长扶手三种材质与对照图归入点睛之笔直接展示，旧机构与饰板讨论稿折叠。两版用户屏幕原图并列完整展示；旧C2映射与既有面板候选改为外观讨论参考，屏幕画面与外壳分开评审。未重画图片、未恢复撤回图、未变更模型或工程验收状态。"
+      },
       {
         "title": "2026-11-16 · 曜影书房图采用用户指定正确版",
         "detail": "用户否决fold-occlusion版本并提供正确图。汇报「运动之外的日常」直接替换为用户原图内容，保留双屏工作画面、橙色扶手端部及机底半圆柱；页面图和放大图一致，更新缓存标记。旧图退出当前展示。"
