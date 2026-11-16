@@ -282,32 +282,32 @@
       "note": "内凹按钮、同心弧形分件、底侧柔触区、齐平端盖；材料及固定方式待打样。 局部研究，不代表整机折叠、双侧解锁、线束及承载工程通过。"
     },
     {
-      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/01-diagonal-antislip.webp",
-      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/01-diagonal-antislip.webp",
+      "file": "documents/treadmill/linear-grip-console-r4-20261116/01-diagonal-antislip.webp",
+      "thumb": "documents/treadmill/linear-grip-console-r4-20261116/01-diagonal-antislip.webp",
       "label": "凌序 · 斜筋防滑握把（细化）",
-      "status": "黑屏与指定波形侧饰修正 · 新图待评审",
-      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
+      "status": "面板比例修正 · 新图待评审",
+      "note": "四张图的大近景及整机小图均按参考修正为上方窄黑屏、下方宽银色操作面，红色安全键置于银色面上。四款把手材质、连接处及深蓝单S波形侧饰沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
     },
     {
-      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/02-leather.webp",
-      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/02-leather.webp",
+      "file": "documents/treadmill/linear-grip-console-r4-20261116/02-leather.webp",
+      "thumb": "documents/treadmill/linear-grip-console-r4-20261116/02-leather.webp",
       "label": "凌序 · 皮质握把",
-      "status": "黑屏与指定波形侧饰修正 · 新图待评审",
-      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
+      "status": "面板比例修正 · 新图待评审",
+      "note": "四张图的大近景及整机小图均按参考修正为上方窄黑屏、下方宽银色操作面，红色安全键置于银色面上。四款把手材质、连接处及深蓝单S波形侧饰沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
     },
     {
-      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/03-fine-grid-silicone.webp",
-      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/03-fine-grid-silicone.webp",
+      "file": "documents/treadmill/linear-grip-console-r4-20261116/03-fine-grid-silicone.webp",
+      "thumb": "documents/treadmill/linear-grip-console-r4-20261116/03-fine-grid-silicone.webp",
       "label": "凌序 · 流线硅胶握把 · B细交叉网格",
-      "status": "黑屏与指定波形侧饰修正 · 新图待评审",
-      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
+      "status": "面板比例修正 · 新图待评审",
+      "note": "四张图的大近景及整机小图均按参考修正为上方窄黑屏、下方宽银色操作面，红色安全键置于银色面上。四款把手材质、连接处及深蓝单S波形侧饰沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
     },
     {
-      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/04-heart-rate.webp",
-      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/04-heart-rate.webp",
+      "file": "documents/treadmill/linear-grip-console-r4-20261116/04-heart-rate.webp",
+      "thumb": "documents/treadmill/linear-grip-console-r4-20261116/04-heart-rate.webp",
       "label": "凌序 · 心率监测把手",
-      "status": "黑屏与指定波形侧饰修正 · 新图待评审",
-      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
+      "status": "面板比例修正 · 新图待评审",
+      "note": "四张图的大近景及整机小图均按参考修正为上方窄黑屏、下方宽银色操作面，红色安全键置于银色面上。四款把手材质、连接处及深蓝单S波形侧饰沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
     },
     {
       "file": "documents/treadmill/poxing-cmf-fold-20261113/hinge-two-piece.webp",
@@ -912,6 +912,10 @@
     ],
     "decisions": [
       {
+        "title": "凌序面板比例纠正：上方窄黑屏、下方宽银色操作区",
+        "detail": "用户纠正：此前显示区域占比错误。按原参考重做完整面板，黑屏仅为上方窄条，保留宽银色操作面，红色安全键位于银色面上；新图待评审。四款材质不重设，C2独立方案保留。"
+      },
+      {
         "title": "曜影R4成人图比例与文字被否决，撤出当前展示",
         "detail": "用户否决R4成人图：目测比例仍不正确，且不接受图内“成人使用比例复核 / 170cm身高参照 / 原CAD尺寸与57°姿态”文字。成人图已从曜影当前页及共享图库撤下，儿童验收图保留。成人图待重新制作，不将生成提示词或文字标注当作比例核验。"
       },
@@ -1295,6 +1299,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-16 · 四款把手图面板比例纠正",
+        "detail": "以用户原参考为面板几何依据，替换错误的全幅黑屏和下挂安全键；更新四张材质选项的主图与整机小图，旧图退出当前展示。"
+      },
       {
         "title": "曜影R4成人图比例与文字被否决，撤出当前展示",
         "detail": "用户否决R4成人图：目测比例仍不正确，且不接受图内“成人使用比例复核 / 170cm身高参照 / 原CAD尺寸与57°姿态”文字。成人图已从曜影当前页及共享图库撤下，儿童验收图保留。成人图待重新制作，不将生成提示词或文字标注当作比例核验。"
@@ -3407,6 +3415,34 @@
       "label": "曜影 · 170cm与原CAD同尺度侧视",
       "status": "用户否决 · 已撤出当前展示",
       "note": "成人图目测比例仍不正确，图中文字不构成尺度正确的依据；原件留档。CAD参照不再与错误场景图并列作正确性背书。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/01-diagonal-antislip.webp",
+      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/01-diagonal-antislip.webp",
+      "label": "凌序 · 斜筋防滑握把（细化）",
+      "status": "已被用户否决：黑屏占比过大，安全键位于前缘下方",
+      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/02-leather.webp",
+      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/02-leather.webp",
+      "label": "凌序 · 皮质握把",
+      "status": "已被用户否决：黑屏占比过大，安全键位于前缘下方",
+      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/03-fine-grid-silicone.webp",
+      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/03-fine-grid-silicone.webp",
+      "label": "凌序 · 流线硅胶握把 · B细交叉网格",
+      "status": "已被用户否决：黑屏占比过大，安全键位于前缘下方",
+      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-black-screen-r3-20261116/04-heart-rate.webp",
+      "thumb": "documents/treadmill/linear-grip-black-screen-r3-20261116/04-heart-rate.webp",
+      "label": "凌序 · 心率监测把手",
+      "status": "已被用户否决：黑屏占比过大，安全键位于前缘下方",
+      "note": "四张图的大近景和整机小图均为纯黑屏；机身侧饰按用户刚提供的深蓝单S波形恢复。把手材质和标准连接处沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
     }
   ]
 }
