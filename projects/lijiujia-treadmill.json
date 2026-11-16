@@ -578,6 +578,11 @@
   ],
   "links": [
     {
+      "label": "曜影 · 进入家庭生活（闲置与竖放双图）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p25",
+      "kind": "design"
+    },
+    {
       "label": "曜影 · 使用态尺寸与视角对照",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-dimensions-angle-20261116#origin-dimensions-angle-current",
       "kind": "review"
@@ -609,7 +614,7 @@
     },
     {
       "label": "曜影 · 书房竖放遮挡纠错（已去错误灯带，待评审）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=fold-occlusion-20261116#p23",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=fold-occlusion-20261116#p24",
       "kind": "design"
     },
     {
@@ -624,7 +629,7 @@
     },
     {
       "label": "曜影 · 抬升态跑步场景（AI视觉提案，待评审）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p26",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p23",
       "kind": "design"
     },
     {
@@ -1398,6 +1403,10 @@
       }
     ],
     "history": [
+      {
+        "title": "2026-11-16 · 曜影叙事顺序与家庭生活双图",
+        "detail": "第21–25页依次为延续圆形关节与机械秩序、运动进入日常、投入训练的时刻、运动之外的日常、进入家庭生活。最后一页并列新增沙发休息/整机闲置场景与用户指定原竖放图，复用已有图。39页总数不变，页码、目录、链接重新对应。新闲置场景为AI视觉提案待评审。"
+      },
       {
         "title": "曜影使用态尺寸实测与前侧45°视角对照",
         "detail": "按用户要求补两张原生几何尺寸图与165cm女性机头前侧约45°场景，均置于曜影原独立页对照。当前使用态扶手顶距跑面约878mm、离地1057mm，跑面离地180mm；原生外廓约1442×726×1057，跑面1300×435。新场景仅换视角，未加高CAD；原成人/儿童图、当前汇报与3D控件保持。待用户判断高度与视角，不认定舒适性通过。"
