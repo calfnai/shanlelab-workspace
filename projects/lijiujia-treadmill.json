@@ -9,6 +9,27 @@
   "currentFocus": "按用户要求移除光影基准说明、成人比例说明及比例核对图、尺寸说明段；侧面尺寸图移除人物、身高导引和标题，儿童图移除左上两行文字。点睛之笔的机构与外观图取消折叠控件，内容常驻显示，点击说明文字不再收起。已完成公开页与图片核验；不据此改变工程或产品验收状态。",
   "items": [
     {
+      "file": "documents/treadmill/review-withdrawals-easycord-20261116/tfal-iron-original.jpg",
+      "thumb": "documents/treadmill/review-withdrawals-easycord-20261116/tfal-iron-original.jpg",
+      "label": "T-fal Ultraglide Easycord · 熨斗实物原照",
+      "status": "实物原照片 · 结构参考",
+      "note": "Erin / Eighty MPH Mom原照，完整保留；来源https://eightymphmom.com/t-fal-ultraglide-easycord-iron-review/。"
+    },
+    {
+      "file": "documents/treadmill/review-withdrawals-easycord-20261116/tfal-easycord-original.jpg",
+      "thumb": "documents/treadmill/review-withdrawals-easycord-20261116/tfal-easycord-original.jpg",
+      "label": "Easycord · 出线实物特写",
+      "status": "实物原照片 · 结构参考",
+      "note": "Erin / Eighty MPH Mom原照，完整保留；来源https://eightymphmom.com/t-fal-ultraglide-easycord-iron-review/。"
+    },
+    {
+      "file": "documents/treadmill/review-withdrawals-easycord-20261116/linear-incline-no-person.webp",
+      "thumb": "documents/treadmill/review-withdrawals-easycord-20261116/linear-incline-no-person.webp",
+      "label": "凌序 · 15°抬升态45° · 无人物",
+      "status": "原生姿态图 · 人物已移除",
+      "note": "关闭原生人物后按原相机重导；机器和15°接地姿态保持，未据此认证机构与承载。"
+    },
+    {
       "file": "documents/treadmill/xinghu-standing-correct-20261116/standing-approved.webp",
       "thumb": "documents/treadmill/xinghu-standing-correct-20261116/standing-approved.webp",
       "label": "星弧 · 正确竖放外观基准",
@@ -312,9 +333,9 @@
     {
       "file": "documents/treadmill/fold-controls-cord-20261114/poxing-button-cord.svg",
       "thumb": "documents/treadmill/fold-controls-cord-20261114/poxing-button-cord.svg",
-      "label": "星弧 · 实体按钮与竖放机底收线提议",
-      "status": "新增布置提议 · 待评审",
-      "note": "按钮位置、按压与机底走线已加入概念模型；内部传动、线长、弯曲半径及间隙待核验。竖置机底局部图不代表整机折叠或竖放成立。"
+      "label": "星弧 · 实体解锁按钮位置讨论稿",
+      "status": "按钮位置讨论稿 · 收线错误图已删除",
+      "note": "仅保留左侧上部解锁按钮位置；用户否决的机底局部收线图已从原生SVG删除。内部传动、左右联动与下轴释放待设计。"
     },
     {
       "file": "documents/treadmill/poxing-upfold-details-20261114/03-grip-details.webp",
@@ -1014,6 +1035,10 @@
     ],
     "decisions": [
       {
+        "title": "错误图片撤下、Easycord原照与凌序抬升图去人物",
+        "detail": "用户否决星弧竖放机底局部收线和旧饰板原图，以及曜影连续机底竖放、机底整体、抬升架三张图，均退出评审及共享图库。星弧SVG仅保留左侧按钮位置提议。曜影Easycord补T-fal熨斗实物原照和出线特写，署名并链接原来源。凌序15°抬升45°图由原生模型去人物重导，101项网格变换、原相机、15°及接地姿态保持，非AI重画。"
+      },
+      {
         "title": "凌序与星弧独立评审页结构整理",
         "detail": "按整机、动作、点睛之笔、屏幕与面板、方案讨论稿整理两页。凌序折叠演示归入动作区，用户自选把手保持直接展示，转角讨论稿仍默认折叠；星弧当前长扶手三种材质与对照图归入点睛之笔直接展示，旧机构与饰板讨论稿折叠。两版用户屏幕原图并列完整展示；旧C2映射与既有面板候选改为外观讨论参考，屏幕画面与外壳分开评审。未重画图片、未恢复撤回图、未变更模型或工程验收状态。"
       },
@@ -1457,6 +1482,10 @@
       }
     ],
     "history": [
+      {
+        "title": "错误图片撤下、Easycord原照与凌序抬升图去人物",
+        "detail": "用户否决星弧竖放机底局部收线和旧饰板原图，以及曜影连续机底竖放、机底整体、抬升架三张图，均退出评审及共享图库。星弧SVG仅保留左侧按钮位置提议。曜影Easycord补T-fal熨斗实物原照和出线特写，署名并链接原来源。凌序15°抬升45°图由原生模型去人物重导，101项网格变换、原相机、15°及接地姿态保持，非AI重画。"
+      },
       {
         "title": "2026-11-16 · 星弧第二栏合并两张探索原稿",
         "detail": "纠正第二栏误删内容：把整机形态source-148与材质交互source-149上下浓缩成同一组「02 / 探索与凝练」，两张原稿均完整保留并分别可放大。手绘与当前模型两栏不变，仍37页。"
@@ -2076,6 +2105,15 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "错误图片撤下、Easycord原照与凌序抬升图去人物",
+        "note": "错误图不再展示；原照片保持署名与来源，原STEP不改。",
+        "files": [
+          "documents/treadmill/review-withdrawals-easycord-20261116/tfal-iron-original.jpg",
+          "documents/treadmill/review-withdrawals-easycord-20261116/tfal-easycord-original.jpg",
+          "documents/treadmill/review-withdrawals-easycord-20261116/linear-incline-no-person.webp"
+        ]
+      },
       {
         "title": "星弧正确竖放外观基准 · 用户确认",
         "note": "用户明确此图为星弧正确竖放外观：机底朝外、长扶手伸出顶部、银色机身与支架、红色横撑保留、底部支架展开且轮组接地。采用完整原图；当前独立3D竖放外观已修订，原STEP未改写，接地稳定性仍待工程验证。",
@@ -3162,13 +3200,6 @@
       "note": "原图保留；旧动作不作为新全域装配的工程依据。"
     },
     {
-      "file": "documents/treadmill/origin-cord-bottom-20261114/stand.webp",
-      "thumb": "documents/treadmill/origin-cord-bottom-20261114/stand.webp",
-      "label": "曜影09 · 竖放时的连续机底曲面",
-      "status": "历史有机盖版整机 · 新全域STEP已替换当前基准",
-      "note": "原图保留；旧动作不作为新全域装配的工程依据。"
-    },
-    {
       "file": "documents/treadmill/origin-cord-bottom-20261114/stand-front.webp",
       "thumb": "documents/treadmill/origin-cord-bottom-20261114/stand-front.webp",
       "label": "曜影10 · 竖放机底正视",
@@ -3473,20 +3504,6 @@
       "file": "documents/treadmill/origin-native-20261115/origin-stand-side.webp",
       "thumb": "documents/treadmill/origin-native-20261115/origin-stand-side.webp",
       "label": "曜影 · 竖放 · 正侧面",
-      "status": "退出当前外观评审 · 历史或结构参考",
-      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
-    },
-    {
-      "file": "documents/treadmill/origin-cord-bottom-20261114/bottom.webp",
-      "thumb": "documents/treadmill/origin-cord-bottom-20261114/bottom.webp",
-      "label": "曜影 · 微拱主壳与圆润电机舱",
-      "status": "退出当前外观评审 · 历史或结构参考",
-      "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
-    },
-    {
-      "file": "documents/treadmill/origin-cord-bottom-20261114/lift-bottom.webp",
-      "thumb": "documents/treadmill/origin-cord-bottom-20261114/lift-bottom.webp",
-      "label": "曜影 · 原抬升架与随动横桥",
       "status": "退出当前外观评审 · 历史或结构参考",
       "note": "当前按用户正确轴心截图与旧近景金属/光晕分别取用，旧套环处理不再用于当前外观。图文件保留历史或结构参考；既有机构需求保持。"
     },
