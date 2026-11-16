@@ -9,6 +9,13 @@
   "currentFocus": "按用户要求移除光影基准说明、成人比例说明及比例核对图、尺寸说明段；侧面尺寸图移除人物、身高导引和标题，儿童图移除左上两行文字。点睛之笔的机构与外观图取消折叠控件，内容常驻显示，点击说明文字不再收起。已完成公开页与图片核验；不据此改变工程或产品验收状态。",
   "items": [
     {
+      "file": "documents/treadmill/review-entry-audit-20261117/origin-non-full-deck-user-20261117.jpg",
+      "thumb": "documents/treadmill/review-entry-audit-20261117/origin-non-full-deck-user-20261117.jpg",
+      "label": "曜影 · 非全域跑台 · 传统电机布局",
+      "status": "新增方案 · 用户指定展示",
+      "note": "新增传统前置电机方案展示，与原全域方案并列，完整保留用户原图和放大功能。"
+    },
+    {
       "file": "documents/treadmill/origin-easycord-user-20261117/user-iron-original.jpg",
       "thumb": "documents/treadmill/origin-easycord-user-20261117/user-iron-original.jpg",
       "label": "T-fal Easycord · 用户指定出线参考原图",
@@ -1091,6 +1098,10 @@
     ],
     "decisions": [
       {
+        "title": "汇报入口与三款互动核对、曜影新增传统电机方案",
+        "detail": "汇报4处旧模型直链改为三个独立评审页；三页明确抬升和折叠互动入口；曜影导航与模型环节新增醒目的齿轮咬合3D按钮。曜影另增非全域跑台、传统前置电机方案完整原图展示。"
+      },
+      {
         "title": "曜影机构与包覆加入用户熨斗原图",
         "detail": "按用户指定加入768×768的T-fal Easycord熨斗出线参考图，完整显示并支持同一原图放大；此前撤下的旧熨斗照片不恢复。"
       },
@@ -1562,6 +1573,10 @@
       }
     ],
     "history": [
+      {
+        "title": "汇报入口与三款互动核对、曜影新增传统电机方案",
+        "detail": "汇报4处旧模型直链改为三个独立评审页；三页明确抬升和折叠互动入口；曜影导航与模型环节新增醒目的齿轮咬合3D按钮。曜影另增非全域跑台、传统前置电机方案完整原图展示。"
+      },
       {
         "title": "2026-11-17 · 第28页凌序家居场景左右并列",
         "detail": "按用户要求，在凌序「运动进入日常」第28页保留现有原稿家居图，右侧加入新提供的深蓝机身使用原PNG，等宽左右并列、保持图片比例；两张均可点击放大，标题与35页页序保留。"
@@ -2329,6 +2344,13 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "汇报入口与三款互动核对、曜影新增传统电机方案",
+        "note": "新增方案 · 用户指定展示",
+        "files": [
+          "documents/treadmill/review-entry-audit-20261117/origin-non-full-deck-user-20261117.jpg"
+        ]
+      },
       {
         "title": "曜影机构与包覆加入用户熨斗原图",
         "note": "用户指定参考图",
