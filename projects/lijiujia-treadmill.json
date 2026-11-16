@@ -9,6 +9,41 @@
   "currentFocus": "按用户要求移除光影基准说明、成人比例说明及比例核对图、尺寸说明段；侧面尺寸图移除人物、身高导引和标题，儿童图移除左上两行文字。点睛之笔的机构与外观图取消折叠控件，内容常驻显示，点击说明文字不再收起。已完成公开页与图片核验；不据此改变工程或产品验收状态。",
   "items": [
     {
+      "file": "documents/treadmill/review-content-selection-20261117/linear-main-original.png",
+      "thumb": "documents/treadmill/review-content-selection-20261117/linear-main-original.png",
+      "label": "凌序 Linear · 用户指定主图",
+      "status": "用户指定主图",
+      "note": "用于汇报总览、凌序章节封面、收束页及凌序独立评审首图。 原图与比例完整保留；本次为展示内容指定，工程状态不变。"
+    },
+    {
+      "file": "documents/treadmill/review-content-selection-20261117/xinghu-base-detail.png",
+      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-base-detail.png",
+      "label": "星弧 · 底部橡胶垫",
+      "status": "用户指定内容",
+      "note": "第15页及独立页细节图：设置防滑橡胶垫于机器底部，直立状态更稳当。 原图与比例完整保留；本次为展示内容指定，工程状态不变。"
+    },
+    {
+      "file": "documents/treadmill/review-content-selection-20261117/xinghu-hidden-hinge.png",
+      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-hidden-hinge.png",
+      "label": "星弧 · 隐藏式转轴",
+      "status": "用户指定内容",
+      "note": "第15页及独立页细节图。 原图与比例完整保留；本次为展示内容指定，工程状态不变。"
+    },
+    {
+      "file": "documents/treadmill/review-content-selection-20261117/xinghu-screen-angle.png",
+      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-screen-angle.png",
+      "label": "星弧 · 屏幕视线",
+      "status": "用户指定内容",
+      "note": "第15页及独立页细节图：屏幕有角度，不用低头看。 原图与比例完整保留；本次为展示内容指定，工程状态不变。"
+    },
+    {
+      "file": "documents/treadmill/review-content-selection-20261117/xinghu-fold-curve.png",
+      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-fold-curve.png",
+      "label": "星弧 · 收纳弧线",
+      "status": "用户指定内容",
+      "note": "第15页及独立页细节图：收纳状态流畅的弧线。 原图与比例完整保留；本次为展示内容指定，工程状态不变。"
+    },
+    {
       "file": "documents/treadmill/review-dimensions-20261116/linear-side.svg",
       "thumb": "documents/treadmill/review-dimensions-20261116/linear-side.svg",
       "label": "凌序 · 正侧尺寸与屏幕倾角",
@@ -1042,6 +1077,10 @@
     ],
     "decisions": [
       {
+        "title": "星弧第15页原图细节、Linear主图与旧文案清理",
+        "detail": "第15页改用用户提供的四张清晰原图，展示底部橡胶垫、隐藏转轴、屏幕视线和收纳弧线；同组置于星弧独立评审点睛之笔前部。删除星弧指定的按钮、局部细节、两轴撤回说明和旧饰板CMF图及对应链接。用户指定Linear新主图用于汇报总览、章节封面、收束与独立评审首图。原图完整保留，模型、尺寸、两张屏幕原图及既有把手验收保持。"
+      },
+      {
         "title": "三个独立评审页加入机身尺寸与屏幕倾角",
         "detail": "凌序、曜影、星弧均新增直接展开的机身尺寸环节及目录入口，包含整机长宽高、跑面长宽、跑面离地高度、屏幕平面对水平面的倾角，并提供无人物正侧与俯视原生几何尺寸图。三款屏幕倾角分别32.1°、21.5°、16.8°；屏幕两张原图继续并列，模型、原始STEP及既有选定状态未更改。"
       },
@@ -1501,6 +1540,10 @@
       }
     ],
     "history": [
+      {
+        "title": "星弧第15页原图细节、Linear主图与旧文案清理",
+        "detail": "第15页改用用户提供的四张清晰原图，展示底部橡胶垫、隐藏转轴、屏幕视线和收纳弧线；同组置于星弧独立评审点睛之笔前部。删除星弧指定的按钮、局部细节、两轴撤回说明和旧饰板CMF图及对应链接。用户指定Linear新主图用于汇报总览、章节封面、收束与独立评审首图。原图完整保留，模型、尺寸、两张屏幕原图及既有把手验收保持。"
+      },
       {
         "title": "2026-11-17 · 凌序配色补充正侧面与抬升态",
         "detail": "第28页四种配色按组展示两个原图视角：深蓝×银色、深蓝、银灰补充正侧面；深灰×红色补充抬升态。四张补图均为用户提供原PNG，和此前四张45°原图并列保留，不新增页，放大分别指向各自原图。"
@@ -2225,6 +2268,17 @@
     ],
     "visualGroups": [
       {
+        "title": "星弧第15页原图细节、Linear主图与旧文案清理",
+        "note": "当前原图展示与主图选择，不作为机构或安全验收。",
+        "files": [
+          "documents/treadmill/review-content-selection-20261117/linear-main-original.png",
+          "documents/treadmill/review-content-selection-20261117/xinghu-base-detail.png",
+          "documents/treadmill/review-content-selection-20261117/xinghu-hidden-hinge.png",
+          "documents/treadmill/review-content-selection-20261117/xinghu-screen-angle.png",
+          "documents/treadmill/review-content-selection-20261117/xinghu-fold-curve.png"
+        ]
+      },
+      {
         "title": "三个独立评审页加入机身尺寸与屏幕倾角",
         "note": "单位mm；角度基准为水平面。",
         "files": [
@@ -2382,7 +2436,6 @@
         "title": "星弧 · 本轮材质与两片式把手",
         "note": "两张新增概念提议，未选定、未改入装配。可通过上方评审入口操作按钮原理。",
         "files": [
-          "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
           "documents/treadmill/poxing-cmf-fold-20261113/hinge-two-piece.webp"
         ]
       },
@@ -2651,13 +2704,6 @@
       "label": "三款 · 厂商可选镜面底面",
       "status": "用户否决表现方式 · 历史截图页",
       "note": "用户指出3D截图看不出镜面质感、不好看。当前改为家居镜面效果图。"
-    },
-    {
-      "file": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
-      "thumb": "documents/treadmill/poxing-cmf-fold-20261113/cmf-three-options.webp",
-      "label": "星弧 · 旧CMF图（形体错误，已撤回）",
-      "status": "用户指出错误 · 退出当前评审",
-      "note": "前端误露机构，C误画为不透明，尾端包覆与STEP不符。原图保留追溯，当前改用STEP原几何渲染。"
     },
     {
       "file": "documents/treadmill/linear-contact-20261115/linear-folded-contact.webp",
