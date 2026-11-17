@@ -665,9 +665,28 @@
       "label": "凌序 · Bosch IXO 6浅网格原始大图",
       "status": "已找回原始大图 · 纹理参考",
       "note": "iF Design项目页原图2304×1536，无缩放、无锐化或AI重绘，仅无损格式转换。握柄局部观察细交叉纹，独立评审可点开完整原图。来源：https://ifdesign.com/en/winner-ranking/project/ixo-6/260193"
+    },
+    {
+      "file": "documents/treadmill/meeting-annotations-20261117/01-directions.png",
+      "thumb": "documents/treadmill/meeting-annotations-20261117/01-directions.png",
+      "label": "11.17会议 · 三方案意见定位",
+      "status": "会议标注稿 · 编号待核准",
+      "note": "原图完整保留，仅叠加会议意见标注。按现有汇报顺序对照，正式原机型号与方案编号待确认；不替代既有选定及工程验收。"
+    },
+    {
+      "file": "documents/treadmill/meeting-annotations-20261117/02-linear-changes.png",
+      "thumb": "documents/treadmill/meeting-annotations-20261117/02-linear-changes.png",
+      "label": "11.17会议 · 凌序四处修改与屏幕原图",
+      "status": "会议标注稿 · 编号待核准",
+      "note": "原图完整保留，仅叠加会议意见标注。按现有汇报顺序对照，正式原机型号与方案编号待确认；不替代既有选定及工程验收。"
     }
   ],
   "links": [
+    {
+      "label": "11.17会议图示标注 · 两张大图（编号待核准）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/meeting-annotations-20261117/",
+      "kind": "document"
+    },
     {
       "label": "厂商会议模拟QA · 42问与建议回答（会前稿）",
       "href": "documents/treadmill/manufacturer-qa-20261117/index.html",
@@ -1610,6 +1629,10 @@
     ],
     "history": [
       {
+        "title": "11.17会议图示标注 · 待核准对照稿",
+        "detail": "两张原图标注板：三方案意见定位，以及凌序表头减薄圆润、立柱回到原机椭圆管、跑台视觉轻薄、外露件局部包覆。两版屏幕完整并列；会议方案编号、正式型号与冻结范围待核准。未修改CAD、当前选定或既有验收。"
+      },
+      {
         "title": "汇报与三款评审ZIP已传送，接收待确认",
         "detail": "42页汇报、三款独立评审及模型/图片/视频依赖已打包，约104MB；离线页面、三模型、压缩完整性与逐文件哈希核验通过。Tailscale发往calfn-mac，发送端返回成功；接收端保存路径与实际打开未验证。第15页按原要求补入曜影3D入口。"
       },
@@ -2452,6 +2475,14 @@
       }
     ],
     "visualGroups": [
+      {
+        "title": "11.17会议图示标注 · 待核准对照稿",
+        "note": "图示已完成，编号及正式结构基准待核准；非外观改版或工程验收。",
+        "files": [
+          "documents/treadmill/meeting-annotations-20261117/01-directions.png",
+          "documents/treadmill/meeting-annotations-20261117/02-linear-changes.png"
+        ]
+      },
       {
         "title": "汇报入口与三款互动核对、曜影新增传统电机方案",
         "note": "新增方案 · 用户指定展示",
