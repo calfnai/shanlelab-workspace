@@ -669,6 +669,11 @@
   ],
   "links": [
     {
+      "label": "厂商会议模拟QA · 42问与建议回答（会前稿）",
+      "href": "documents/treadmill/manufacturer-qa-20261117/index.html",
+      "kind": "document"
+    },
+    {
       "label": "星弧 · 整机／动作／点睛之笔／屏幕",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu/?rev=review-structure-align-20261116",
       "kind": "review"
@@ -1604,6 +1609,10 @@
       }
     ],
     "history": [
+      {
+        "title": "生成厂商会议模拟QA（未发送）",
+        "detail": "核对当前42页汇报与最新决定，整理42问、建议回答及五句速记；明确尺寸口径差异、机构待验证、厂商选用项与凌序用户把手选择，未新增性能、成本或交期承诺。"
+      },
       {
         "title": "凌序浅网格参考找回2304像素原始大图",
         "detail": "确认原参考为Bosch IXO 6握柄。旧文件与用户此前发送的模糊裁图相同，并非发布时压缩。已从iF Design项目页找回2304×1536完整原图，替换评审与共享图库，页面显示握柄局部并支持完整原图放大，附原始来源。"
