@@ -2,95 +2,18 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "星弧、曜影、凌序三款当前STEP与设计来路统一审查；汇报末尾增加厂商镜面底面和三款通用额外增稳。动作研究、视觉提议与工程核验分开记录。",
+  "description": "11.17会议后仅凌序继续深化；星弧与曜影已放弃。下一版HTML分别用一页说明两款被否决的原因，正文待补充会议记录。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
-  "currentFocus": "按用户要求移除光影基准说明、成人比例说明及比例核对图、尺寸说明段；侧面尺寸图移除人物、身高导引和标题，儿童图移除左上两行文字。点睛之笔的机构与外观图取消折叠控件，内容常驻显示，点击说明文字不再收起。已完成公开页与图片核验；不据此改变工程或产品验收状态。",
+  "note": "方案取舍已明确。曜影和星弧各需一页否决复盘，具体原因以用户补充会议记录为依据，尚未完成正文。凌序新设计与工程仍需核验。",
+  "currentFocus": "仅凌序继续深化：保留原机结构与成熟一键折叠基准，优化表头、立柱、跑台轻薄观感、局部包覆和折叠包装。",
   "items": [
-    {
-      "file": "documents/treadmill/review-entry-audit-20261117/origin-non-full-deck-user-20261117.jpg",
-      "thumb": "documents/treadmill/review-entry-audit-20261117/origin-non-full-deck-user-20261117.jpg",
-      "label": "曜影 · 非全域跑台 · 传统电机布局",
-      "status": "新增方案 · 用户指定展示",
-      "note": "新增传统前置电机方案展示，与原全域方案并列，完整保留用户原图和放大功能。"
-    },
-    {
-      "file": "documents/treadmill/origin-easycord-user-20261117/user-iron-original.jpg",
-      "thumb": "documents/treadmill/origin-easycord-user-20261117/user-iron-original.jpg",
-      "label": "T-fal Easycord · 用户指定出线参考原图",
-      "status": "用户指定参考图",
-      "note": "用于曜影机构与包覆，完整保留原图和比例；展示熨斗与出线摆动位置，不作为跑台机构认证。"
-    },
-    {
-      "file": "documents/treadmill/origin-family-current-20261117/origin-adjust-high-user-20261117.jpg",
-      "thumb": "documents/treadmill/origin-family-current-20261117/origin-adjust-high-user-20261117.jpg",
-      "label": "曜影 · 成人 · 最新浅蓝配色",
-      "status": "用户指定当前展示",
-      "note": "与汇报原图一致，完整保留画面和比例；本次更新展示版本，不扩展为尺寸、机构或使用安全验收。"
-    },
-    {
-      "file": "documents/treadmill/origin-family-current-20261117/origin-adjust-low-user-20261117.jpg",
-      "thumb": "documents/treadmill/origin-family-current-20261117/origin-adjust-low-user-20261117.jpg",
-      "label": "曜影 · 儿童 · 最新浅蓝配色",
-      "status": "用户指定当前展示",
-      "note": "与汇报原图一致，完整保留画面和比例；本次更新展示版本，不扩展为尺寸、机构或使用安全验收。"
-    },
-    {
-      "file": "documents/treadmill/origin-family-current-20261117/origin-product-user-20261117.png",
-      "thumb": "documents/treadmill/origin-family-current-20261117/origin-product-user-20261117.png",
-      "label": "曜影 · 当前主推色整机",
-      "status": "用户指定当前展示",
-      "note": "与独立评审页一致；原图或依用户要求仅截取下半机，不重画。"
-    },
-    {
-      "file": "documents/treadmill/origin-family-current-20261117/origin-lower-light-detail.png",
-      "thumb": "documents/treadmill/origin-family-current-20261117/origin-lower-light-detail.png",
-      "label": "曜影 · 主推色下半机灯带细节",
-      "status": "用户指定当前展示",
-      "note": "与独立评审页一致；原图或依用户要求仅截取下半机，不重画。"
-    },
-    {
-      "file": "documents/treadmill/origin-family-current-20261117/p2-linear-user-20261116.png",
-      "thumb": "documents/treadmill/origin-family-current-20261117/p2-linear-user-20261116.png",
-      "label": "凌序 · 竖放镜面 · 用户指定原图",
-      "status": "用户指定当前展示",
-      "note": "与独立评审页一致；原图或依用户要求仅截取下半机，不重画。"
-    },
     {
       "file": "documents/treadmill/review-content-selection-20261117/linear-main-original.png",
       "thumb": "documents/treadmill/review-content-selection-20261117/linear-main-original.png",
       "label": "凌序 Linear · 用户指定主图",
       "status": "用户指定主图",
       "note": "用于汇报总览、凌序章节封面、收束页及凌序独立评审首图。 原图与比例完整保留；本次为展示内容指定，工程状态不变。"
-    },
-    {
-      "file": "documents/treadmill/review-content-selection-20261117/xinghu-base-detail.png",
-      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-base-detail.png",
-      "label": "星弧 · 底部橡胶垫",
-      "status": "用户指定内容",
-      "note": "第15页及独立页细节图：设置防滑橡胶垫于机器底部，直立状态更稳当。 原图与比例完整保留；本次为展示内容指定，工程状态不变。"
-    },
-    {
-      "file": "documents/treadmill/review-content-selection-20261117/xinghu-hidden-hinge.png",
-      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-hidden-hinge.png",
-      "label": "星弧 · 隐藏式转轴",
-      "status": "用户指定内容",
-      "note": "第15页及独立页细节图。 原图与比例完整保留；本次为展示内容指定，工程状态不变。"
-    },
-    {
-      "file": "documents/treadmill/review-content-selection-20261117/xinghu-screen-angle.png",
-      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-screen-angle.png",
-      "label": "星弧 · 屏幕视线",
-      "status": "用户指定内容",
-      "note": "第15页及独立页细节图：屏幕有角度，不用低头看。 原图与比例完整保留；本次为展示内容指定，工程状态不变。"
-    },
-    {
-      "file": "documents/treadmill/review-content-selection-20261117/xinghu-fold-curve.png",
-      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-fold-curve.png",
-      "label": "星弧 · 收纳弧线",
-      "status": "用户指定内容",
-      "note": "第15页及独立页细节图：收纳状态流畅的弧线。 原图与比例完整保留；本次为展示内容指定，工程状态不变。"
     },
     {
       "file": "documents/treadmill/review-dimensions-20261116/linear-side.svg",
@@ -107,74 +30,11 @@
       "note": "整机1448×730×1094mm；跑面1300×435mm，离地172mm；屏幕平面对水平面32.1°。原生平面与明确使用姿态量取，不从效果图反算。"
     },
     {
-      "file": "documents/treadmill/review-dimensions-20261116/origin-side.svg",
-      "thumb": "documents/treadmill/review-dimensions-20261116/origin-side.svg",
-      "label": "曜影 · 正侧尺寸与屏幕倾角",
-      "status": "原生几何尺寸图 · 水平使用态参考",
-      "note": "整机1442×726×1057mm；跑面1300×435mm，离地180mm；屏幕平面对水平面21.5°。原生平面与明确使用姿态量取，不从效果图反算。"
-    },
-    {
-      "file": "documents/treadmill/review-dimensions-20261116/origin-plan.svg",
-      "thumb": "documents/treadmill/review-dimensions-20261116/origin-plan.svg",
-      "label": "曜影 · 俯视尺寸",
-      "status": "原生几何尺寸图 · 水平使用态参考",
-      "note": "整机1442×726×1057mm；跑面1300×435mm，离地180mm；屏幕平面对水平面21.5°。原生平面与明确使用姿态量取，不从效果图反算。"
-    },
-    {
-      "file": "documents/treadmill/review-dimensions-20261116/xinghu-side.svg",
-      "thumb": "documents/treadmill/review-dimensions-20261116/xinghu-side.svg",
-      "label": "星弧 · 正侧尺寸与屏幕倾角",
-      "status": "原生几何尺寸图 · 水平使用态参考",
-      "note": "整机1417×720×1087mm；跑面1300×435mm，离地189mm；屏幕平面对水平面16.8°。原生平面与明确使用姿态量取，不从效果图反算。"
-    },
-    {
-      "file": "documents/treadmill/review-dimensions-20261116/xinghu-plan.svg",
-      "thumb": "documents/treadmill/review-dimensions-20261116/xinghu-plan.svg",
-      "label": "星弧 · 俯视尺寸",
-      "status": "原生几何尺寸图 · 水平使用态参考",
-      "note": "整机1417×720×1087mm；跑面1300×435mm，离地189mm；屏幕平面对水平面16.8°。原生平面与明确使用姿态量取，不从效果图反算。"
-    },
-    {
-      "file": "documents/treadmill/lift-cmf-corrections-20261116/origin-side.webp",
-      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/origin-side.webp",
-      "label": "曜影 · 15°正侧面 · 固定托盘与活动支架",
-      "status": "原生模型修正图 · 待评审",
-      "note": "原生网格重导；几何、15°角度与轮组接地已核对，机构限位及承载未认证。"
-    },
-    {
-      "file": "documents/treadmill/lift-cmf-corrections-20261116/origin-left.webp",
-      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/origin-left.webp",
-      "label": "曜影 · 15°45°视角 · 固定托盘与活动支架",
-      "status": "原生模型修正图 · 待评审",
-      "note": "原生网格重导；几何、15°角度与轮组接地已核对，机构限位及承载未认证。"
-    },
-    {
-      "file": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-left.webp",
-      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-left.webp",
-      "label": "星弧 · 15°45°抬升态 · 无人物",
-      "status": "原生姿态图 · 人物已移除",
-      "note": "原生网格重导；几何、15°角度与轮组接地已核对，机构限位及承载未认证。"
-    },
-    {
-      "file": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-design-exploration-original.png",
-      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-design-exploration-original.png",
-      "label": "星弧 · 用户提供的本轮整机原图",
-      "status": "用户指定 · 汇报第10页",
-      "note": "原图完整保留，无重画、裁切与拉伸。"
-    },
-    {
       "file": "documents/treadmill/review-withdrawals-easycord-20261116/linear-incline-no-person.webp",
       "thumb": "documents/treadmill/review-withdrawals-easycord-20261116/linear-incline-no-person.webp",
       "label": "凌序 · 15°抬升态45° · 无人物",
       "status": "原生姿态图 · 人物已移除",
       "note": "关闭原生人物后按原相机重导；机器和15°接地姿态保持，未据此认证机构与承载。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-standing-correct-20261116/standing-approved.webp",
-      "thumb": "documents/treadmill/xinghu-standing-correct-20261116/standing-approved.webp",
-      "label": "星弧 · 正确竖放外观基准",
-      "status": "用户确认 · 当前竖放基准",
-      "note": "用户明确此图为星弧正确竖放外观：机底朝外、长扶手伸出顶部、银色机身与支架、红色横撑保留、底部支架展开且轮组接地。采用完整原图；当前独立3D竖放外观已修订，原STEP未改写，接地稳定性仍待工程验证。"
     },
     {
       "file": "documents/treadmill/linear-detail-overview-20261116/overview.png",
@@ -196,27 +56,6 @@
       "label": "屏幕方案 · 分列按键版",
       "status": "用户指定优先使用 · 两版并列",
       "note": "用户提供原图，2508×627。后续任何可见屏幕优先采用两版，保持完整画面与原比例；尚未二选一。"
-    },
-    {
-      "file": "documents/treadmill/origin-use-lit-r3-20261116/whole-reference.webp",
-      "thumb": "documents/treadmill/origin-use-lit-r3-20261116/whole-reference.webp",
-      "label": "曜影 · 用户新提供的光影基准",
-      "status": "用户指定光影参照",
-      "note": "仅侧面长胶囊饰件柔和橙光；尾端横梁银色、不发光；橙色轴心为金属材质、不发光。儿童图为静态适配概念，安全尚未验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
-      "thumb": "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
-      "label": "曜影 · 后端不发光，侧饰件漫反射",
-      "status": "已修订 · 待评审",
-      "note": "只去掉后横梁橙光，保持侧饰件光效。 装配姿态或外观评审，未完成连续运动、承载及光学工程验证。"
-    },
-    {
-      "file": "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp",
-      "thumb": "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp",
-      "label": "曜影 · 去套环、银色拉丝与橙光（近景）",
-      "status": "用户指定当前最正确近景基准",
-      "note": "保留该R2原图，未重生成、重编码或覆写。光效仅限侧面长饰件轮廓，后横梁不发光。"
     },
     {
       "file": "documents/treadmill/incline-contact-r2-20261115/linear-incline-15.webp",
@@ -247,34 +86,6 @@
       "note": "仅包含本款图稿、模型、局部与选项；移除方案切换和跨款导航。原始图稿与模型几何未重新生成，截图用于记录页面结构。"
     },
     {
-      "file": "documents/treadmill/independent-reviews-20261115/xinghu-desktop.jpg",
-      "thumb": "documents/treadmill/independent-reviews-20261115/xinghu-desktop.jpg",
-      "label": "星弧 · 独立评审页面截图",
-      "status": "页面已拆分 · 图稿原状态保留",
-      "note": "仅包含本款图稿、模型、局部与选项；移除方案切换和跨款导航。原始图稿与模型几何未重新生成，截图用于记录页面结构。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-long-grip-20261115/fold-board.webp",
-      "thumb": "documents/treadmill/xinghu-long-grip-20261115/fold-board.webp",
-      "label": "星弧长扶手 · 折平与竖放",
-      "status": "新版已生成 · 待评审",
-      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-long-grip-20261115/home-idle.webp",
-      "thumb": "documents/treadmill/xinghu-long-grip-20261115/home-idle.webp",
-      "label": "星弧长扶手 · 运动之后",
-      "status": "新版已生成 · 待评审",
-      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
-    },
-    {
-      "file": "documents/treadmill/xinghu-long-grip-20261115/home-use.webp",
-      "thumb": "documents/treadmill/xinghu-long-grip-20261115/home-use.webp",
-      "label": "星弧长扶手 · 家居使用",
-      "status": "新版已生成 · 待评审",
-      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。"
-    },
-    {
       "file": "documents/treadmill/s9-compact-20261115/s9.jpg",
       "thumb": "documents/treadmill/s9-compact-20261115/s9.jpg",
       "label": "汇报s9 · 原PDF风格与CMF图表紧凑化",
@@ -289,32 +100,11 @@
       "note": "原几何、原轴线、单位缩放。机身90°，轮组与机身端部同一地面；抬升架转角为展示拟合值，不作机械止挡或锁止定案。"
     },
     {
-      "file": "documents/treadmill/mirror-form-withdrawal-20261115/withdrawal.jpg",
-      "thumb": "documents/treadmill/mirror-form-withdrawal-20261115/withdrawal.jpg",
-      "label": "镜面页纠错 · 星弧与凌序变形图撤下",
-      "status": "错误已撤回 · 两款新效果图待重做",
-      "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。"
-    },
-    {
-      "file": "documents/treadmill/manufacturer-options-20261115/manufacturer-stability.jpg",
-      "thumb": "documents/treadmill/manufacturer-options-20261115/manufacturer-stability.jpg",
-      "label": "三款 · 额外增稳脚座方案",
-      "status": "已上线并经浏览器核验 · 方案待评审",
-      "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。"
-    },
-    {
       "file": "documents/treadmill/manufacturer-options-20261115/review-directory.jpg",
       "thumb": "documents/treadmill/manufacturer-options-20261115/review-directory.jpg",
       "label": "统一审查目录 · 当前工作索引",
       "status": "已上线并经浏览器核验 · 方案待评审",
       "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。"
-    },
-    {
-      "file": "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
-      "thumb": "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
-      "label": "三款完整来路 · 从手稿到当前STEP",
-      "status": "已生成 · 浏览器检查通过 · 待评审",
-      "note": "三款分别串联手稿、上一版整机、上一版CMF与交互及当前STEP；保留原图与设计贡献。"
     },
     {
       "file": "documents/treadmill/linear-compact-fold-20261115/linear-folded-compact.webp",
@@ -387,20 +177,6 @@
       "note": "已有素材直接入版，缺失内容用色块加文字占位。星弧打头阵、曜影居中、凌序压轴；完整PDF存私有主档。"
     },
     {
-      "file": "documents/treadmill/fold-controls-cord-20261114/poxing-button-cord.svg",
-      "thumb": "documents/treadmill/fold-controls-cord-20261114/poxing-button-cord.svg",
-      "label": "星弧 · 实体解锁按钮位置讨论稿",
-      "status": "按钮位置讨论稿 · 收线错误图已删除",
-      "note": "仅保留左侧上部解锁按钮位置；用户否决的机底局部收线图已从原生SVG删除。内部传动、左右联动与下轴释放待设计。"
-    },
-    {
-      "file": "documents/treadmill/poxing-upfold-details-20261114/03-grip-details.webp",
-      "thumb": "documents/treadmill/poxing-upfold-details-20261114/03-grip-details.webp",
-      "label": "星弧 · 按钮、接缝与握持端部",
-      "status": "按明确上翻方向纠正 · 新细节待评审",
-      "note": "内凹按钮、同心弧形分件、底侧柔触区、齐平端盖；材料及固定方式待打样。 局部研究，不代表整机折叠、双侧解锁、线束及承载工程通过。"
-    },
-    {
       "file": "documents/treadmill/linear-grip-side-cut-r5-20261116/01-diagonal-antislip.webp",
       "thumb": "documents/treadmill/linear-grip-side-cut-r5-20261116/01-diagonal-antislip.webp",
       "label": "凌序 · 斜筋防滑握把（细化）",
@@ -427,13 +203,6 @@
       "label": "凌序 · 心率监测把手",
       "status": "用户已验收通过 · 把手外观",
       "note": "2026-11-16用户验收通过。四款正侧面把手图及金属与握把直接切齐的分界作为后续外观基准，沿用已确认材质；本组不含屏幕。 把手为面向产品用户的选配卖点。"
-    },
-    {
-      "file": "documents/treadmill/poxing-cmf-fold-20261113/hinge-two-piece.webp",
-      "thumb": "documents/treadmill/poxing-cmf-fold-20261113/hinge-two-piece.webp",
-      "label": "星弧 · 两片式把手与齿轮按钮",
-      "status": "用户指定外观风格参考 · 原向下箭头已纠正",
-      "note": "继续采用圆润两片式外形风格；用户于2026-11-14明确动作应向上且带屏幕一起，原图的向下箭头不再采用。"
     },
     {
       "file": "documents/treadmill/linear-junction-20261113/01-continuous-radius.webp",
@@ -669,33 +438,23 @@
     {
       "file": "documents/treadmill/meeting-annotations-20261117/01-directions.png",
       "thumb": "documents/treadmill/meeting-annotations-20261117/01-directions.png",
-      "label": "11.17会议 · 三方案意见定位",
-      "status": "会议标注稿 · 编号待核准",
-      "note": "原图完整保留，仅叠加会议意见标注。按现有汇报顺序对照，正式原机型号与方案编号待确认；不替代既有选定及工程验收。"
+      "label": "11.17会议 · 仅凌序继续深化",
+      "status": "方案取舍已明确 · 凌序继续深化",
+      "note": "用户明确：仅凌序继续深化，星弧与曜影整案均已放弃。原图完整保留；该决定不等于凌序新外观或工程已通过。"
     },
     {
       "file": "documents/treadmill/meeting-annotations-20261117/02-linear-changes.png",
       "thumb": "documents/treadmill/meeting-annotations-20261117/02-linear-changes.png",
-      "label": "11.17会议 · 凌序四处修改与屏幕原图",
-      "status": "会议标注稿 · 编号待核准",
-      "note": "原图完整保留，仅叠加会议意见标注。按现有汇报顺序对照，正式原机型号与方案编号待确认；不替代既有选定及工程验收。"
+      "label": "11.17会议 · 凌序深化位置与屏幕原图",
+      "status": "方案取舍已明确 · 凌序继续深化",
+      "note": "用户明确：仅凌序继续深化，星弧与曜影整案均已放弃。原图完整保留；该决定不等于凌序新外观或工程已通过。"
     }
   ],
   "links": [
     {
-      "label": "11.17会议图示标注 · 两张大图（编号待核准）",
+      "label": "11.17会议图示标注 · 仅凌序继续深化",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/meeting-annotations-20261117/",
       "kind": "document"
-    },
-    {
-      "label": "厂商会议模拟QA · 42问与建议回答（会前稿）",
-      "href": "documents/treadmill/manufacturer-qa-20261117/index.html",
-      "kind": "document"
-    },
-    {
-      "label": "星弧 · 整机／动作／点睛之笔／屏幕",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu/?rev=review-structure-align-20261116",
-      "kind": "review"
     },
     {
       "label": "凌序 · 整机／动作／点睛之笔／屏幕",
@@ -708,23 +467,8 @@
       "kind": "review"
     },
     {
-      "label": "曜影 · 点睛之笔（无折叠）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-page-edit-20261116#finishing",
-      "kind": "review"
-    },
-    {
       "label": "凌序 · 多角度整机与细节",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p32",
-      "kind": "design"
-    },
-    {
-      "label": "曜影 · 多角度整机与细节",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p24",
-      "kind": "design"
-    },
-    {
-      "label": "星弧 · 多角度整机与细节",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p15",
       "kind": "design"
     },
     {
@@ -733,84 +477,9 @@
       "kind": "review"
     },
     {
-      "label": "曜影 · 成人比例修正版与原生参照",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-adult-scale-r6-20261116#origin-adult-scene-r6",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 使用态尺寸与视角对照",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-dimensions-angle-20261116#origin-dimensions-angle-current",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 当前3D（已移除人物比例选项）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-remove-person-20261116#motion",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 当前侧面光效与倾角/折叠控件",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-page-controls-20261116#motion",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 侧面发光版成人与120cm适配图",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-use-lit-r3-20261116#origin-use-lit-current",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 书房场景（用户指定正确版）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=user-correct-20261116#p23",
-      "kind": "design"
-    },
-    {
-      "label": "曜影 · 15°完整下部总成与后端去光",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-lift-total-20261115#incline-15",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 简洁轴心与更亮橙色反射（独立评审）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-indirect-edge-r2-20261115#origin-indirect-edge-current",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 抬升态跑步场景（AI视觉提案，待评审）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p22",
-      "kind": "design"
-    },
-    {
       "label": "凌序 · 独立评审（本款图稿、模型与选项）",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear/",
       "kind": "design"
-    },
-    {
-      "label": "曜影 · 独立评审（本款图稿、模型与选项）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/",
-      "kind": "design"
-    },
-    {
-      "label": "星弧 · 独立评审（本款图稿、模型与选项）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu/",
-      "kind": "design"
-    },
-    {
-      "label": "星弧长扶手 · 全部新图",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-long-grip-20261115/",
-      "kind": "review"
-    },
-    {
-      "label": "星弧长扶手 · 当前3D",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-long-grip-20261115/viewer.html",
-      "kind": "review"
-    },
-    {
-      "label": "星弧长扶手 · 三套材质3D",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-long-cmf-20261115/viewer.html",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 成人与120cm静态适配场景",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=origin-use-scenes-20261115#origin",
-      "kind": "review"
     },
     {
       "label": "人群画像与未来产品线畅想",
@@ -823,48 +492,8 @@
       "kind": "review"
     },
     {
-      "label": "凌序 · 90°竖放修订与三款姿态回查",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-upright-90-20261115/",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 120cm尺寸与儿童用途范围核对（未放行）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=origin-child-fit-20261115#origin",
-      "kind": "review"
-    },
-    {
-      "label": "汇报末尾 · 三款厂商可选镜面底面",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p36",
-      "kind": "review"
-    },
-    {
-      "label": "汇报末尾 · 三款额外增稳",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p37",
-      "kind": "review"
-    },
-    {
-      "label": "三款通用 · 增稳脚座动作研究",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/foot-study.html",
-      "kind": "review"
-    },
-    {
-      "label": "三款完整来路 + 星弧当前STEP三套CMF",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=complete-lineages-cmf-20261115#p10",
-      "kind": "review"
-    },
-    {
-      "label": "星弧 · 一家人的日常 · AI场景待评审",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/xinghu.webp",
-      "kind": "review"
-    },
-    {
       "label": "凌序 · 包豪斯之家 · 90°竖放修订待评审",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/linear.webp?rev=upright-90-20261115",
-      "kind": "review"
-    },
-    {
-      "label": "星弧的来路 · 原手绘、整机推敲、材质交互与当前STEP",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=xinghu-lineage-20261115#p10",
       "kind": "review"
     },
     {
@@ -876,16 +505,6 @@
       "label": "在线汇报 · 固定顶部版权栏 · 自由滚动",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation/",
       "kind": "review"
-    },
-    {
-      "label": "汇报第22页 · 星弧使用与闲置家居双图",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#p17",
-      "kind": "review"
-    },
-    {
-      "label": "曜影 · 新全域版3D（使用／折平／竖放／透明）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin-native-20261115/viewer.html",
-      "kind": "3d"
     },
     {
       "label": "HTML 汇报试排 v06 · 16:9自由滚动 · 含封面与前期工作回顾",
@@ -918,11 +537,6 @@
       "kind": "review"
     },
     {
-      "label": "曜影离合片3D · 三态与齿面近看（纠错版）",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/source-detail-20261112/origin-detail.html?rev=origin-cord-bottom-20261114-cbc67bc7#joint",
-      "kind": "3d"
-    },
-    {
       "label": "Z7Pro · 弹簧锁销折叠动画 / 可拖进度",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/z7pro-original/lock-demo/index.html",
       "kind": "3d"
@@ -941,11 +555,6 @@
       "label": "凌序 · 专用STEP未定位 / 精细模型未完成",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=20261112-source-r2#linear",
       "kind": "review"
-    },
-    {
-      "label": "历史 · 三方案粗模型与衍生图 / 细节不足",
-      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/history-simplified-20261112.html",
-      "kind": "history"
     },
     {
       "label": "v05历史 · 结构待复核，非正确折叠依据",
@@ -993,141 +602,41 @@
       "kind": "archive"
     }
   ],
-  "galleryLabel": "三款整机四视图在前 · 模型双拖拉条 · 细节在后",
+  "galleryLabel": "凌序深化与会议结论 · 已放弃方案转入历史",
   "milestone": {
-    "title": "凌序、坡形（大C）折叠否决与撤回",
-    "date": "2026-11-13",
-    "status": "旧折叠已撤回 · 新机构未完成",
-    "summary": "主模型确认活动立柱与固定下梁实体重叠，禁用两款折叠、播放、竖放和对应API；独立坡形两轴研究退出当前交付。",
-    "approvalNote": "取消此前以滑条与矩阵变化代表机构完成的表述；曜影保留操作仍未经工程核验。",
-    "next": "分别确定真实轴线和分件，再做全过程干涉、净距与锁止检查。"
+    "title": "仅凌序继续深化",
+    "date": "2026-11-17",
+    "status": "会议取舍已明确",
+    "summary": "星弧与曜影两款整案均已放弃；后续设计仅围绕凌序推进。",
+    "approvalNote": "确认范围为方案取舍，凌序新外观、成本与工程仍待逐项评审。",
+    "next": "依据另一版会议记录，分别完成曜影、星弧两页否决说明，纳入下一版HTML。"
   },
   "progress": {
     "updated": "2026-11-17",
-    "summary": "按用户要求移除光影基准说明、成人比例说明及比例核对图、尺寸说明段；侧面尺寸图移除人物、身高导引和标题，儿童图移除左上两行文字。点睛之笔的机构与外观图取消折叠控件，内容常驻显示，点击说明文字不再收起。已完成公开页与图片核验；不据此改变工程或产品验收状态。",
+    "summary": "仅凌序继续深化：保留原机结构与成熟一键折叠基准，优化表头、立柱、跑台轻薄观感、局部包覆和折叠包装。",
     "next": [
       {
-        "title": "按原模型重做两款镜面效果图",
-        "detail": "固定原网格、零件与已核对姿态，先核对轮廓及支架轮组，再渲染镜面、灯光和环境；新效果未完成。"
+        "title": "分别完成两页否决复盘",
+        "detail": "曜影一页、星弧一页；依据用户补充会议记录解释当日否决原因，放入下一版汇报HTML。当前仅准备版式，原因正文待原文。"
       },
       {
-        "title": "厂商评估三款共同选用项",
-        "detail": "分别评估镜面覆盖、材料工艺及额外增稳脚座的安装、锁止、接地、折叠净距与抗倾覆；不将独立示意当成已合入三款STEP。"
+        "title": "核准凌序原机结构冻结范围",
+        "detail": "以甲方正式原机3D确认金属立柱截面、成熟一键折叠机构与可改外壳范围。"
       },
       {
-        "title": "核对凌序原机构运动与竖放接地",
-        "detail": "把手动作已按截图修正，不再等待把手是否可相对转动的重复确认。继续核对底部抬升架实际活动件、解锁与锁止、完整扫掠和竖放承载稳定；静态竖放显示两组接地，仅作姿态展示。"
+        "title": "集中深化凌序外观",
+        "detail": "优化表头与扶手厚度、立柱外观、跑台轻薄观感及局部包覆，保留既有屏幕原图并列和已确认握把材质。"
       },
       {
-        "title": "补齐跨对话核对出的展示缺口",
-        "detail": "星弧局部外形、两款可靠整机折叠、主模型整机透明控制、曜影把手高度展示与有效动态录屏仍需补齐；不以旧页、局部动画或占位页当成完成。"
-      },
-      {
-        "title": "细化凌序可拆卸线缆接口",
-        "detail": "镜面机底不增收线件；后续核对机身边界的接口位置、具体规格和装配。"
-      },
-      {
-        "title": "补齐三稿汇报的当前素材",
-        "detail": "确认星弧英文名；三款镜面底面均为厂商可选项；流线硅胶采用B细交叉网格版，再补三稿日常人物、爬坡氛围、调节状态及可用动作录屏。"
-      },
-      {
-        "title": "核对两款按钮、星弧走线与局部外形",
-        "detail": "星弧已换真实STEP，上部研究开放0–75°，90°干涉需修正；按钮联动与下轴锁止待核验。凌序采用可拆卸线缆，星弧收线提议另行评审。"
-      },
-      {
-        "title": "评审曜影新出线与机底曲面",
-        "detail": "先看120°长口与朝天/斜下端位，再看竖放机底、微拱主壳、原后支撑柔和收口和抬升状态；细化线缆弯曲、限位、全零件间隙、散热及真实壳体工艺。"
-      },
-      {
-        "title": "星弧上翻终点、双侧释放与线束适配",
-        "detail": "以向上且带屏幕一起为固定要求，确定真实终点与上下部整机配合，再核对双侧解锁联动、线束循环弯折、夹手区域与承载；细节图需打样。"
-      },
-      {
-        "title": "评审下层侧饰板镜面效果",
-        "detail": "核对左右连续长条的范围、与上层银框分界及竖放观感；镜面基材、工艺、耐刮和边缘防护后续打样确认。"
-      },
-      {
-        "title": "评审三款握把材质修订",
-        "detail": "流线硅胶已选B细交叉网格版；斜筋、皮质、心率暂保留，材料参数与接口另行核验。"
-      },
-      {
-        "title": "先解决两款真实机构约束",
-        "detail": "分别核对固定下梁、活动立柱、扶手与控制台分件、上下转轴、全行程扫掠净距及锁止顺序。禁止挪轴、隐藏固定件来制造折平画面。"
-      },
-      {
-        "title": "星弧两轴关节继续工程核验",
-        "detail": "确认抬高下轴与外侧错层的造型取舍，再做双侧按钮联动、轴承与金属内骨架、齿位、壳体公差和全程干涉/夹手检查。"
-      },
-      {
-        "title": "曜影竖放接地点重新设计",
-        "detail": "原新增前端支座与软鞋已被否决；真实接地、避让与稳定性尚未完成，不能以竖放姿态动画作为验证。"
-      },
-      {
-        "title": "评审四款把手并深化接口",
-        "detail": "确认粗细、皮质、浅纹理硅胶和电极布局方向；随后核对握持尺度、承力芯、防转、包覆分件与折叠净距，心率款需电路和样机实测。"
-      },
-      {
-        "title": "逐款核对本轮整机四视图与动作",
-        "detail": "评审凌序、曜影、星弧的轮廓、人物比例、12°抬升和连续折叠，再决定局部细节。凌序、星弧需对应STEP；曜影原123°端点与120°锁位差异继续保留。"
-      },
-      {
-        "title": "评审星弧两片式把手与齿轮按钮",
-        "detail": "先定上下分件、同轴搭接和折叠终点；再确定齿数、按钮/推杆、轴向限位与两侧同步，当前未改入真实装配。"
-      },
-      {
-        "title": "甲方选择凌序转角与把手Options",
-        "detail": "基准外观以STEP为准；四种转角与四款把手并列供甲方选择，流线硅胶选项图稿为B细交叉网格版。"
-      },
-      {
-        "title": "先过曜影：离合片与整机逐项评审",
-        "detail": "核对30齿深齿的贴合与装配位置；决定原123°折平端与120°锁位的处理，再核对机底饰盖、抬升驱动实际行程与正前方出线。"
-      },
-      {
-        "title": "评审按钮接合结构并核对真实空间",
-        "detail": "确认端面齿/复位方式是否符合原意，核对按压力、齿盘承载、导向与壳体干涉；下轴锁止和两轴联动单独定义。"
-      },
-      {
-        "title": "补齐两款源文件后重建精细模型",
-        "detail": "凌序原始STEP已接收并读取，灵伴专用STEP仍待定位。逐件核对原部件后再制作四态、家中效果和底面美化。"
-      },
-      {
-        "title": "评审完整四态交付",
-        "detail": "核对造型、折叠方向、站立底面和家中放置；补充凌序/灵伴专用STEP后校核概念几何。"
-      },
-      {
-        "title": "评审曜影折叠",
-        "detail": "先翻扶手、再收立柱，检查动作中间姿态；继续核验锁止释放、干涉与竖放。"
-      },
-      {
-        "title": "细化曜影上部转轴",
-        "detail": "扶手包轴、齐平轴盖及拨杆内收为建议，尚未改入同事模型。"
-      },
-      {
-        "title": "补回Option 1三张折叠图",
-        "detail": "先明确扶手自由端起始翻转方向；原错误图已删除。显示屏参与主折叠，保持原立柱与扶手长度。"
-      },
-      {
-        "title": "验收爬坡饰板修订",
-        "detail": "抬升机构藏于外观饰板内，核对外壳体量、缝隙与升降包络。"
-      },
-      {
-        "title": "核对儿童状态",
-        "detail": "保持原扶手长度；现有儿童图已否决，不能靠拉长扶手取得适配。"
-      },
-      {
-        "title": "继续推进辅助竖放脚座",
-        "detail": "固定主梁端座优先，180°旋转脚座为独立候选。需比较轮廓、长短尺寸、接地范围、墙距与转轴避让；研究页的 13 个编号不是 13 个现行候选。"
-      },
-      {
-        "title": "细化Origin正前方摆动出线口",
-        "detail": "以已确认的熨斗式单轴护线套深化正前方出线结构，纵向开口120°，朝天90°至向前斜下30°；外露不好看时加盖板。核对实际安装空间、限位及四态线缆与盖板干涉，当前仅记录用户设计要求。"
-      },
-      {
-        "title": "星弧底部饰板材质深化",
-        "detail": "评审本轮A石墨铝/B暖银铝/C深灰PC+ABS；确定方向后打样色板、端部收口与拆装，核对相对运动边界。"
+        "title": "复核凌序包装与工艺边界",
+        "detail": "检查折平包络、可包覆范围、模具投入和装配，工程与成本尚未冻结。"
       }
     ],
     "decisions": [
+      {
+        "title": "11.17会议取舍纠正 · 仅凌序继续深化",
+        "detail": "用户明确会议结果：仅凌序继续深化，星弧与曜影两款整案均已放弃。撤销此前仅暂停部分路线和编号待核准的错误口径。下一版HTML分别用一页说明曜影、星弧否决原因，正文待用户补充会议记录。"
+      },
       {
         "title": "凌序浅网格参考找回2304像素原始大图",
         "detail": "确认原参考为Bosch IXO 6握柄。旧文件与用户此前发送的模糊裁图相同，并非发布时压缩。已从iF Design项目页找回2304×1536完整原图，替换评审与共享图库，页面显示握柄局部并支持完整原图放大，附原始来源。"
@@ -1629,8 +1138,8 @@
     ],
     "history": [
       {
-        "title": "11.17会议图示标注 · 待核准对照稿",
-        "detail": "两张原图标注板：三方案意见定位，以及凌序表头减薄圆润、立柱回到原机椭圆管、跑台视觉轻薄、外露件局部包覆。两版屏幕完整并列；会议方案编号、正式型号与冻结范围待核准。未修改CAD、当前选定或既有验收。"
+        "title": "11.17会议取舍纠正 · 仅凌序继续深化",
+        "detail": "用户明确会议结果：仅凌序继续深化，星弧与曜影两款整案均已放弃。撤销此前仅暂停部分路线和编号待核准的错误口径。下一版HTML分别用一页说明曜影、星弧否决原因，正文待用户补充会议记录。"
       },
       {
         "title": "汇报与三款评审ZIP已传送，接收待确认",
@@ -2476,13 +1985,211 @@
     ],
     "visualGroups": [
       {
-        "title": "11.17会议图示标注 · 待核准对照稿",
-        "note": "图示已完成，编号及正式结构基准待核准；非外观改版或工程验收。",
+        "title": "11.17会议取舍纠正 · 仅凌序继续深化",
+        "note": "方案取舍已明确；两页独立否决说明正文仍待另一版会议记录。",
         "files": [
           "documents/treadmill/meeting-annotations-20261117/01-directions.png",
           "documents/treadmill/meeting-annotations-20261117/02-linear-changes.png"
         ]
       },
+      {
+        "title": "三个独立评审页加入机身尺寸与屏幕倾角",
+        "note": "单位mm；角度基准为水平面。",
+        "files": [
+          "documents/treadmill/review-dimensions-20261116/linear-side.svg",
+          "documents/treadmill/review-dimensions-20261116/linear-plan.svg"
+        ]
+      },
+      {
+        "title": "错误图片撤下、Easycord原照与凌序抬升图去人物",
+        "note": "错误图不再展示；原照片保持署名与来源，原STEP不改。",
+        "files": [
+          "documents/treadmill/review-withdrawals-easycord-20261116/linear-incline-no-person.webp"
+        ]
+      },
+      {
+        "title": "汇报s9 · 紧凑原稿图表",
+        "note": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。",
+        "files": [
+          "documents/treadmill/s9-compact-20261115/s9.jpg"
+        ]
+      },
+      {
+        "title": "超宽面板 UI · 首轮提案",
+        "note": "原稿为功能占位，本轮补视觉层级和四状态画面；待评审。",
+        "files": [
+          "documents/treadmill/console-ui-20261114/running.svg"
+        ]
+      },
+      {
+        "title": "Option 1 · 爬坡饰板包覆修订",
+        "note": "下部饰板较正确，后续以此方向继续；仅限饰板参考，整机与机构未定版。",
+        "files": [
+          "documents/treadmill/corrections-v07-20261109/option1-incline-covered.webp"
+        ]
+      },
+      {
+        "title": "历史参考 · Option 2 · 80㎡重新生成",
+        "note": "短U形扶手和原圆形轴位；使用、折平、竖放同页查看。 旧概念素材，不是当前三稿已完成状态。",
+        "files": [
+          "documents/treadmill/rebuild-v08-20261109/option2-home80-use.webp",
+          "documents/treadmill/rebuild-v08-20261109/option2-home80-fold-wall.webp"
+        ]
+      },
+      {
+        "title": "历史参考 · Option 2 · 130㎡重新生成",
+        "note": "儿童短扶手低档适配与收合过程。均为待验收的概念修订。 旧概念素材，不是当前三稿已完成状态。",
+        "files": [
+          "documents/treadmill/rebuild-v08-20261109/option2-home130-child.webp",
+          "documents/treadmill/rebuild-v08-20261109/option2-home130-fold.webp"
+        ]
+      },
+      {
+        "title": "历史参考 · Option 2 · 200㎡重新生成",
+        "note": "保留原模型的U形上架与圆形关节。 旧概念素材，不是当前三稿已完成状态。",
+        "files": [
+          "documents/treadmill/rebuild-v08-20261109/option2-home200-use.webp"
+        ]
+      },
+      {
+        "title": "原模型 · 造型对照",
+        "note": "按原部件长度与轴位继续核对。",
+        "files": [
+          "documents/treadmill/reference-20261109/overall.jpg",
+          "documents/treadmill/v04-20261107/overall.jpg"
+        ]
+      },
+      {
+        "title": "Z7Pro · 原件弹簧锁销解锁",
+        "note": "动画可拖进度；原件几何与未确认的动作推演分开标明。",
+        "files": [
+          "documents/treadmill/z7pro-lock-demo-20261112/preview.png"
+        ]
+      }
+    ],
+    "historicalNext": [
+      {
+        "title": "按原模型重做两款镜面效果图",
+        "detail": "固定原网格、零件与已核对姿态，先核对轮廓及支架轮组，再渲染镜面、灯光和环境；新效果未完成。"
+      },
+      {
+        "title": "厂商评估三款共同选用项",
+        "detail": "分别评估镜面覆盖、材料工艺及额外增稳脚座的安装、锁止、接地、折叠净距与抗倾覆；不将独立示意当成已合入三款STEP。"
+      },
+      {
+        "title": "核对凌序原机构运动与竖放接地",
+        "detail": "把手动作已按截图修正，不再等待把手是否可相对转动的重复确认。继续核对底部抬升架实际活动件、解锁与锁止、完整扫掠和竖放承载稳定；静态竖放显示两组接地，仅作姿态展示。"
+      },
+      {
+        "title": "补齐跨对话核对出的展示缺口",
+        "detail": "星弧局部外形、两款可靠整机折叠、主模型整机透明控制、曜影把手高度展示与有效动态录屏仍需补齐；不以旧页、局部动画或占位页当成完成。"
+      },
+      {
+        "title": "细化凌序可拆卸线缆接口",
+        "detail": "镜面机底不增收线件；后续核对机身边界的接口位置、具体规格和装配。"
+      },
+      {
+        "title": "补齐三稿汇报的当前素材",
+        "detail": "确认星弧英文名；三款镜面底面均为厂商可选项；流线硅胶采用B细交叉网格版，再补三稿日常人物、爬坡氛围、调节状态及可用动作录屏。"
+      },
+      {
+        "title": "核对两款按钮、星弧走线与局部外形",
+        "detail": "星弧已换真实STEP，上部研究开放0–75°，90°干涉需修正；按钮联动与下轴锁止待核验。凌序采用可拆卸线缆，星弧收线提议另行评审。"
+      },
+      {
+        "title": "评审曜影新出线与机底曲面",
+        "detail": "先看120°长口与朝天/斜下端位，再看竖放机底、微拱主壳、原后支撑柔和收口和抬升状态；细化线缆弯曲、限位、全零件间隙、散热及真实壳体工艺。"
+      },
+      {
+        "title": "星弧上翻终点、双侧释放与线束适配",
+        "detail": "以向上且带屏幕一起为固定要求，确定真实终点与上下部整机配合，再核对双侧解锁联动、线束循环弯折、夹手区域与承载；细节图需打样。"
+      },
+      {
+        "title": "评审下层侧饰板镜面效果",
+        "detail": "核对左右连续长条的范围、与上层银框分界及竖放观感；镜面基材、工艺、耐刮和边缘防护后续打样确认。"
+      },
+      {
+        "title": "评审三款握把材质修订",
+        "detail": "流线硅胶已选B细交叉网格版；斜筋、皮质、心率暂保留，材料参数与接口另行核验。"
+      },
+      {
+        "title": "先解决两款真实机构约束",
+        "detail": "分别核对固定下梁、活动立柱、扶手与控制台分件、上下转轴、全行程扫掠净距及锁止顺序。禁止挪轴、隐藏固定件来制造折平画面。"
+      },
+      {
+        "title": "星弧两轴关节继续工程核验",
+        "detail": "确认抬高下轴与外侧错层的造型取舍，再做双侧按钮联动、轴承与金属内骨架、齿位、壳体公差和全程干涉/夹手检查。"
+      },
+      {
+        "title": "曜影竖放接地点重新设计",
+        "detail": "原新增前端支座与软鞋已被否决；真实接地、避让与稳定性尚未完成，不能以竖放姿态动画作为验证。"
+      },
+      {
+        "title": "评审四款把手并深化接口",
+        "detail": "确认粗细、皮质、浅纹理硅胶和电极布局方向；随后核对握持尺度、承力芯、防转、包覆分件与折叠净距，心率款需电路和样机实测。"
+      },
+      {
+        "title": "逐款核对本轮整机四视图与动作",
+        "detail": "评审凌序、曜影、星弧的轮廓、人物比例、12°抬升和连续折叠，再决定局部细节。凌序、星弧需对应STEP；曜影原123°端点与120°锁位差异继续保留。"
+      },
+      {
+        "title": "评审星弧两片式把手与齿轮按钮",
+        "detail": "先定上下分件、同轴搭接和折叠终点；再确定齿数、按钮/推杆、轴向限位与两侧同步，当前未改入真实装配。"
+      },
+      {
+        "title": "甲方选择凌序转角与把手Options",
+        "detail": "基准外观以STEP为准；四种转角与四款把手并列供甲方选择，流线硅胶选项图稿为B细交叉网格版。"
+      },
+      {
+        "title": "先过曜影：离合片与整机逐项评审",
+        "detail": "核对30齿深齿的贴合与装配位置；决定原123°折平端与120°锁位的处理，再核对机底饰盖、抬升驱动实际行程与正前方出线。"
+      },
+      {
+        "title": "评审按钮接合结构并核对真实空间",
+        "detail": "确认端面齿/复位方式是否符合原意，核对按压力、齿盘承载、导向与壳体干涉；下轴锁止和两轴联动单独定义。"
+      },
+      {
+        "title": "补齐两款源文件后重建精细模型",
+        "detail": "凌序原始STEP已接收并读取，灵伴专用STEP仍待定位。逐件核对原部件后再制作四态、家中效果和底面美化。"
+      },
+      {
+        "title": "评审完整四态交付",
+        "detail": "核对造型、折叠方向、站立底面和家中放置；补充凌序/灵伴专用STEP后校核概念几何。"
+      },
+      {
+        "title": "评审曜影折叠",
+        "detail": "先翻扶手、再收立柱，检查动作中间姿态；继续核验锁止释放、干涉与竖放。"
+      },
+      {
+        "title": "细化曜影上部转轴",
+        "detail": "扶手包轴、齐平轴盖及拨杆内收为建议，尚未改入同事模型。"
+      },
+      {
+        "title": "补回Option 1三张折叠图",
+        "detail": "先明确扶手自由端起始翻转方向；原错误图已删除。显示屏参与主折叠，保持原立柱与扶手长度。"
+      },
+      {
+        "title": "验收爬坡饰板修订",
+        "detail": "抬升机构藏于外观饰板内，核对外壳体量、缝隙与升降包络。"
+      },
+      {
+        "title": "核对儿童状态",
+        "detail": "保持原扶手长度；现有儿童图已否决，不能靠拉长扶手取得适配。"
+      },
+      {
+        "title": "继续推进辅助竖放脚座",
+        "detail": "固定主梁端座优先，180°旋转脚座为独立候选。需比较轮廓、长短尺寸、接地范围、墙距与转轴避让；研究页的 13 个编号不是 13 个现行候选。"
+      },
+      {
+        "title": "细化Origin正前方摆动出线口",
+        "detail": "以已确认的熨斗式单轴护线套深化正前方出线结构，纵向开口120°，朝天90°至向前斜下30°；外露不好看时加盖板。核对实际安装空间、限位及四态线缆与盖板干涉，当前仅记录用户设计要求。"
+      },
+      {
+        "title": "星弧底部饰板材质深化",
+        "detail": "评审本轮A石墨铝/B暖银铝/C深灰PC+ABS；确定方向后打样色板、端部收口与拆装，核对相对运动边界。"
+      }
+    ],
+    "historicalVisualGroups": [
       {
         "title": "汇报入口与三款互动核对、曜影新增传统电机方案",
         "note": "新增方案 · 用户指定展示",
@@ -2520,18 +2227,6 @@
         ]
       },
       {
-        "title": "三个独立评审页加入机身尺寸与屏幕倾角",
-        "note": "单位mm；角度基准为水平面。",
-        "files": [
-          "documents/treadmill/review-dimensions-20261116/linear-side.svg",
-          "documents/treadmill/review-dimensions-20261116/linear-plan.svg",
-          "documents/treadmill/review-dimensions-20261116/origin-side.svg",
-          "documents/treadmill/review-dimensions-20261116/origin-plan.svg",
-          "documents/treadmill/review-dimensions-20261116/xinghu-side.svg",
-          "documents/treadmill/review-dimensions-20261116/xinghu-plan.svg"
-        ]
-      },
-      {
         "title": "曜影抬升分组纠正、星弧错误CMF撤下与汇报原图替换",
         "note": "姿态修正图待评审；用户原图按指定图位替换。",
         "files": [
@@ -2539,14 +2234,6 @@
           "documents/treadmill/lift-cmf-corrections-20261116/origin-left.webp",
           "documents/treadmill/lift-cmf-corrections-20261116/xinghu-left.webp",
           "documents/treadmill/lift-cmf-corrections-20261116/xinghu-design-exploration-original.png"
-        ]
-      },
-      {
-        "title": "错误图片撤下、Easycord原照与凌序抬升图去人物",
-        "note": "错误图不再展示；原照片保持署名与来源，原STEP不改。",
-        "files": [
-          "documents/treadmill/review-withdrawals-easycord-20261116/tfal-easycord-original.jpg",
-          "documents/treadmill/review-withdrawals-easycord-20261116/linear-incline-no-person.webp"
         ]
       },
       {
@@ -2603,13 +2290,6 @@
         ]
       },
       {
-        "title": "汇报s9 · 紧凑原稿图表",
-        "note": "汇报s9风格／CMF图表按原PDF第139页收紧：撤掉宽大重绘长条，复用原图的11行、绿紫圆点、刻度与配色，右侧宽590px并支持放大；其余50页保留。",
-        "files": [
-          "documents/treadmill/s9-compact-20261115/s9.jpg"
-        ]
-      },
-      {
         "title": "三款共同选用项与当前工作索引",
         "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。",
         "files": [
@@ -2622,13 +2302,6 @@
         "note": "已生成待评审 · 保留历史成果，当前材料未定案。",
         "files": [
           "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg"
-        ]
-      },
-      {
-        "title": "超宽面板 UI · 首轮提案",
-        "note": "原稿为功能占位，本轮补视觉层级和四状态画面；待评审。",
-        "files": [
-          "documents/treadmill/console-ui-20261114/running.svg"
         ]
       },
       {
@@ -2685,51 +2358,6 @@
         "files": [
           "documents/treadmill/current-options-20261112/linear.png",
           "documents/treadmill/current-options-20261112/lynmate.png"
-        ]
-      },
-      {
-        "title": "Option 1 · 爬坡饰板包覆修订",
-        "note": "下部饰板较正确，后续以此方向继续；仅限饰板参考，整机与机构未定版。",
-        "files": [
-          "documents/treadmill/corrections-v07-20261109/option1-incline-covered.webp"
-        ]
-      },
-      {
-        "title": "历史参考 · Option 2 · 80㎡重新生成",
-        "note": "短U形扶手和原圆形轴位；使用、折平、竖放同页查看。 旧概念素材，不是当前三稿已完成状态。",
-        "files": [
-          "documents/treadmill/rebuild-v08-20261109/option2-home80-use.webp",
-          "documents/treadmill/rebuild-v08-20261109/option2-home80-fold-wall.webp"
-        ]
-      },
-      {
-        "title": "历史参考 · Option 2 · 130㎡重新生成",
-        "note": "儿童短扶手低档适配与收合过程。均为待验收的概念修订。 旧概念素材，不是当前三稿已完成状态。",
-        "files": [
-          "documents/treadmill/rebuild-v08-20261109/option2-home130-child.webp",
-          "documents/treadmill/rebuild-v08-20261109/option2-home130-fold.webp"
-        ]
-      },
-      {
-        "title": "历史参考 · Option 2 · 200㎡重新生成",
-        "note": "保留原模型的U形上架与圆形关节。 旧概念素材，不是当前三稿已完成状态。",
-        "files": [
-          "documents/treadmill/rebuild-v08-20261109/option2-home200-use.webp"
-        ]
-      },
-      {
-        "title": "原模型 · 造型对照",
-        "note": "按原部件长度与轴位继续核对。",
-        "files": [
-          "documents/treadmill/reference-20261109/overall.jpg",
-          "documents/treadmill/v04-20261107/overall.jpg"
-        ]
-      },
-      {
-        "title": "Z7Pro · 原件弹簧锁销解锁",
-        "note": "动画可拖进度；原件几何与未确认的动作推演分开标明。",
-        "files": [
-          "documents/treadmill/z7pro-lock-demo-20261112/preview.png"
         ]
       }
     ]
@@ -3095,9 +2723,9 @@
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
       "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
-      "label": "凌序 · 流线硅胶握把",
-      "status": "历史比较稿 · 流线硅胶已选B",
-      "note": "原图保留作比较；等待用户在A–D中重新指认，不作为最终已选硅胶版本。"
+      "label": "凌序 · 柔哑光硅胶握把",
+      "status": "用户否决：与机身流线不匹配 · 退出当前展示",
+      "note": "用户认为仅柔化纹理仍不好看，与机身流线不匹配；原稿保留追溯，不作造型基准。"
     },
     {
       "file": "documents/treadmill/fold-controls-cord-20261114/linear-button-cord.svg",
@@ -3203,13 +2831,6 @@
       "label": "坡形 · 家中竖立收纳",
       "status": "用户否决 · 方向及结构错误 · 退出当前展示",
       "note": "凌序底面镜面遗漏；三款下电机盖及抬升架遗漏、方向反；曜影家居feel错误。原稿仅留追溯，不恢复为当前成果。"
-    },
-    {
-      "file": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
-      "thumb": "documents/treadmill/linear-grips-v2-20261113/03-silicone-soft-v3.webp",
-      "label": "凌序 · 柔哑光硅胶握把",
-      "status": "用户否决：与机身流线不匹配 · 退出当前展示",
-      "note": "用户认为仅柔化纹理仍不好看，与机身流线不匹配；原稿保留追溯，不作造型基准。"
     },
     {
       "file": "documents/treadmill/linear-grips-v2-20261113/03-shallow-silicone.webp",
@@ -4218,6 +3839,508 @@
       "label": "凌序 · 心率监测把手",
       "status": "已被用户否决：屏幕比例仍错误，金属与防滑材料不应渐变连接",
       "note": "四张图的大近景及整机小图均按参考修正为上方窄黑屏、下方宽银色操作面，红色安全键置于银色面上。四款把手材质、连接处及深蓝单S波形侧饰沿用。仅修正这四张选项示意图，不取消另列C2面板方案，也不更改STEP或模型。"
+    },
+    {
+      "file": "documents/treadmill/review-entry-audit-20261117/origin-non-full-deck-user-20261117.jpg",
+      "thumb": "documents/treadmill/review-entry-audit-20261117/origin-non-full-deck-user-20261117.jpg",
+      "label": "曜影 · 非全域跑台 · 传统电机布局",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "新增传统前置电机方案展示，与原全域方案并列，完整保留用户原图和放大功能。",
+      "previousStatus": "新增方案 · 用户指定展示",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/origin-easycord-user-20261117/user-iron-original.jpg",
+      "thumb": "documents/treadmill/origin-easycord-user-20261117/user-iron-original.jpg",
+      "label": "T-fal Easycord · 用户指定出线参考原图",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "用于曜影机构与包覆，完整保留原图和比例；展示熨斗与出线摆动位置，不作为跑台机构认证。",
+      "previousStatus": "用户指定参考图",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/origin-family-current-20261117/origin-adjust-high-user-20261117.jpg",
+      "thumb": "documents/treadmill/origin-family-current-20261117/origin-adjust-high-user-20261117.jpg",
+      "label": "曜影 · 成人 · 最新浅蓝配色",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "与汇报原图一致，完整保留画面和比例；本次更新展示版本，不扩展为尺寸、机构或使用安全验收。",
+      "previousStatus": "用户指定当前展示",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/origin-family-current-20261117/origin-adjust-low-user-20261117.jpg",
+      "thumb": "documents/treadmill/origin-family-current-20261117/origin-adjust-low-user-20261117.jpg",
+      "label": "曜影 · 儿童 · 最新浅蓝配色",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "与汇报原图一致，完整保留画面和比例；本次更新展示版本，不扩展为尺寸、机构或使用安全验收。",
+      "previousStatus": "用户指定当前展示",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/origin-family-current-20261117/origin-product-user-20261117.png",
+      "thumb": "documents/treadmill/origin-family-current-20261117/origin-product-user-20261117.png",
+      "label": "曜影 · 当前主推色整机",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "与独立评审页一致；原图或依用户要求仅截取下半机，不重画。",
+      "previousStatus": "用户指定当前展示",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/origin-family-current-20261117/origin-lower-light-detail.png",
+      "thumb": "documents/treadmill/origin-family-current-20261117/origin-lower-light-detail.png",
+      "label": "曜影 · 主推色下半机灯带细节",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "与独立评审页一致；原图或依用户要求仅截取下半机，不重画。",
+      "previousStatus": "用户指定当前展示",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/origin-family-current-20261117/p2-linear-user-20261116.png",
+      "thumb": "documents/treadmill/origin-family-current-20261117/p2-linear-user-20261116.png",
+      "label": "凌序 · 竖放镜面 · 用户指定原图",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "与独立评审页一致；原图或依用户要求仅截取下半机，不重画。",
+      "previousStatus": "用户指定当前展示",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/review-content-selection-20261117/xinghu-base-detail.png",
+      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-base-detail.png",
+      "label": "星弧 · 底部橡胶垫",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "第15页及独立页细节图：设置防滑橡胶垫于机器底部，直立状态更稳当。 原图与比例完整保留；本次为展示内容指定，工程状态不变。",
+      "previousStatus": "用户指定内容",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/review-content-selection-20261117/xinghu-hidden-hinge.png",
+      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-hidden-hinge.png",
+      "label": "星弧 · 隐藏式转轴",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "第15页及独立页细节图。 原图与比例完整保留；本次为展示内容指定，工程状态不变。",
+      "previousStatus": "用户指定内容",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/review-content-selection-20261117/xinghu-screen-angle.png",
+      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-screen-angle.png",
+      "label": "星弧 · 屏幕视线",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "第15页及独立页细节图：屏幕有角度，不用低头看。 原图与比例完整保留；本次为展示内容指定，工程状态不变。",
+      "previousStatus": "用户指定内容",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/review-content-selection-20261117/xinghu-fold-curve.png",
+      "thumb": "documents/treadmill/review-content-selection-20261117/xinghu-fold-curve.png",
+      "label": "星弧 · 收纳弧线",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "第15页及独立页细节图：收纳状态流畅的弧线。 原图与比例完整保留；本次为展示内容指定，工程状态不变。",
+      "previousStatus": "用户指定内容",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/review-dimensions-20261116/origin-side.svg",
+      "thumb": "documents/treadmill/review-dimensions-20261116/origin-side.svg",
+      "label": "曜影 · 正侧尺寸与屏幕倾角",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "整机1442×726×1057mm；跑面1300×435mm，离地180mm；屏幕平面对水平面21.5°。原生平面与明确使用姿态量取，不从效果图反算。",
+      "previousStatus": "原生几何尺寸图 · 水平使用态参考",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/review-dimensions-20261116/origin-plan.svg",
+      "thumb": "documents/treadmill/review-dimensions-20261116/origin-plan.svg",
+      "label": "曜影 · 俯视尺寸",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "整机1442×726×1057mm；跑面1300×435mm，离地180mm；屏幕平面对水平面21.5°。原生平面与明确使用姿态量取，不从效果图反算。",
+      "previousStatus": "原生几何尺寸图 · 水平使用态参考",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/review-dimensions-20261116/xinghu-side.svg",
+      "thumb": "documents/treadmill/review-dimensions-20261116/xinghu-side.svg",
+      "label": "星弧 · 正侧尺寸与屏幕倾角",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "整机1417×720×1087mm；跑面1300×435mm，离地189mm；屏幕平面对水平面16.8°。原生平面与明确使用姿态量取，不从效果图反算。",
+      "previousStatus": "原生几何尺寸图 · 水平使用态参考",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/review-dimensions-20261116/xinghu-plan.svg",
+      "thumb": "documents/treadmill/review-dimensions-20261116/xinghu-plan.svg",
+      "label": "星弧 · 俯视尺寸",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "整机1417×720×1087mm；跑面1300×435mm，离地189mm；屏幕平面对水平面16.8°。原生平面与明确使用姿态量取，不从效果图反算。",
+      "previousStatus": "原生几何尺寸图 · 水平使用态参考",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/lift-cmf-corrections-20261116/origin-side.webp",
+      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/origin-side.webp",
+      "label": "曜影 · 15°正侧面 · 固定托盘与活动支架",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "原生网格重导；几何、15°角度与轮组接地已核对，机构限位及承载未认证。",
+      "previousStatus": "原生模型修正图 · 待评审",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/lift-cmf-corrections-20261116/origin-left.webp",
+      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/origin-left.webp",
+      "label": "曜影 · 15°45°视角 · 固定托盘与活动支架",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "原生网格重导；几何、15°角度与轮组接地已核对，机构限位及承载未认证。",
+      "previousStatus": "原生模型修正图 · 待评审",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-left.webp",
+      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-left.webp",
+      "label": "星弧 · 15°45°抬升态 · 无人物",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "原生网格重导；几何、15°角度与轮组接地已核对，机构限位及承载未认证。",
+      "previousStatus": "原生姿态图 · 人物已移除",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-design-exploration-original.png",
+      "thumb": "documents/treadmill/lift-cmf-corrections-20261116/xinghu-design-exploration-original.png",
+      "label": "星弧 · 用户提供的本轮整机原图",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "原图完整保留，无重画、裁切与拉伸。",
+      "previousStatus": "用户指定 · 汇报第10页",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/xinghu-standing-correct-20261116/standing-approved.webp",
+      "thumb": "documents/treadmill/xinghu-standing-correct-20261116/standing-approved.webp",
+      "label": "星弧 · 正确竖放外观基准",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "用户明确此图为星弧正确竖放外观：机底朝外、长扶手伸出顶部、银色机身与支架、红色横撑保留、底部支架展开且轮组接地。采用完整原图；当前独立3D竖放外观已修订，原STEP未改写，接地稳定性仍待工程验证。",
+      "previousStatus": "用户确认 · 当前竖放基准",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/origin-use-lit-r3-20261116/whole-reference.webp",
+      "thumb": "documents/treadmill/origin-use-lit-r3-20261116/whole-reference.webp",
+      "label": "曜影 · 用户新提供的光影基准",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "仅侧面长胶囊饰件柔和橙光；尾端横梁银色、不发光；橙色轴心为金属材质、不发光。儿童图为静态适配概念，安全尚未验证。",
+      "previousStatus": "用户指定光影参照",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
+      "thumb": "documents/treadmill/origin-rear-unlit-20261115/whole.webp",
+      "label": "曜影 · 后端不发光，侧饰件漫反射",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "只去掉后横梁橙光，保持侧饰件光效。 装配姿态或外观评审，未完成连续运动、承载及光学工程验证。",
+      "previousStatus": "已修订 · 待评审",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp",
+      "thumb": "documents/treadmill/origin-indirect-edge-r2-20261115/edge-detail.webp",
+      "label": "曜影 · 去套环、银色拉丝与橙光（近景）",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "保留该R2原图，未重生成、重编码或覆写。光效仅限侧面长饰件轮廓，后横梁不发光。",
+      "previousStatus": "用户指定当前最正确近景基准",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/independent-reviews-20261115/xinghu-desktop.jpg",
+      "thumb": "documents/treadmill/independent-reviews-20261115/xinghu-desktop.jpg",
+      "label": "星弧 · 独立评审页面截图",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "仅包含本款图稿、模型、局部与选项；移除方案切换和跨款导航。原始图稿与模型几何未重新生成，截图用于记录页面结构。",
+      "previousStatus": "页面已拆分 · 图稿原状态保留",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/fold-board.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/fold-board.webp",
+      "label": "星弧长扶手 · 折平与竖放",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。",
+      "previousStatus": "新版已生成 · 待评审",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/home-idle.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/home-idle.webp",
+      "label": "星弧长扶手 · 运动之后",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。",
+      "previousStatus": "新版已生成 · 待评审",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/xinghu-long-grip-20261115/home-use.webp",
+      "thumb": "documents/treadmill/xinghu-long-grip-20261115/home-use.webp",
+      "label": "星弧长扶手 · 家居使用",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "同事长扶手STEP已接入；立柱、扶手和接头同步更新。上端圆按钮为独立外观提议；折平恢复STEP保存态，竖放和6°爬坡仅姿态预览，工程与合规尚未认证。",
+      "previousStatus": "新版已生成 · 待评审",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/mirror-form-withdrawal-20261115/withdrawal.jpg",
+      "thumb": "documents/treadmill/mirror-form-withdrawal-20261115/withdrawal.jpg",
+      "label": "镜面页纠错 · 星弧与凌序变形图撤下",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "用户指出镜面生图改变了星弧、凌序原造型；两张图及含它们的合页已从当前汇报和共享图库撤下，凌序R3独立页撤回。准确效果图尚未完成，后续直接沿用原STEP网格渲染，只改材质、灯光与环境。三款厂商可选镜面的要求与仅凌序可选把手保持。",
+      "previousStatus": "错误已撤回 · 两款新效果图待重做",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/manufacturer-options-20261115/manufacturer-stability.jpg",
+      "thumb": "documents/treadmill/manufacturer-options-20261115/manufacturer-stability.jpg",
+      "label": "三款 · 额外增稳脚座方案",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "三款均可由厂商选用镜面底面，并可采用脚座加固机构作为额外增稳；镜面不设消费者选购项。把手材质选项仅属于凌序。完整汇报末尾新增两页，审查目录统一模型、材质、面板、脚座与历史入口；页面已上线核验，新增方案待评审及工程适配。",
+      "previousStatus": "已上线并经浏览器核验 · 方案待评审",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
+      "thumb": "documents/treadmill/three-lineages-cmf-20261115/three-lineages-overview.jpg",
+      "label": "三款完整来路 · 从手稿到当前STEP",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "三款分别串联手稿、上一版整机、上一版CMF与交互及当前STEP；保留原图与设计贡献。",
+      "previousStatus": "已生成 · 浏览器检查通过 · 待评审",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/fold-controls-cord-20261114/poxing-button-cord.svg",
+      "thumb": "documents/treadmill/fold-controls-cord-20261114/poxing-button-cord.svg",
+      "label": "星弧 · 实体解锁按钮位置讨论稿",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "仅保留左侧上部解锁按钮位置；用户否决的机底局部收线图已从原生SVG删除。内部传动、左右联动与下轴释放待设计。",
+      "previousStatus": "按钮位置讨论稿 · 收线错误图已删除",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/poxing-upfold-details-20261114/03-grip-details.webp",
+      "thumb": "documents/treadmill/poxing-upfold-details-20261114/03-grip-details.webp",
+      "label": "星弧 · 按钮、接缝与握持端部",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "内凹按钮、同心弧形分件、底侧柔触区、齐平端盖；材料及固定方式待打样。 局部研究，不代表整机折叠、双侧解锁、线束及承载工程通过。",
+      "previousStatus": "按明确上翻方向纠正 · 新细节待评审",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    },
+    {
+      "file": "documents/treadmill/poxing-cmf-fold-20261113/hinge-two-piece.webp",
+      "thumb": "documents/treadmill/poxing-cmf-fold-20261113/hinge-two-piece.webp",
+      "label": "星弧 · 两片式把手与齿轮按钮",
+      "status": "历史方案 · 已退出本轮深化",
+      "note": "继续采用圆润两片式外形风格；用户于2026-11-14明确动作应向上且带屏幕一起，原图的向下箭头不再采用。",
+      "previousStatus": "用户指定外观风格参考 · 原向下箭头已纠正",
+      "schemeDecision": "仅凌序继续深化；星弧与曜影已放弃"
+    }
+  ],
+  "archivedLinks": [
+    {
+      "label": "厂商会议模拟QA · 42问与建议回答（会前稿）",
+      "href": "documents/treadmill/manufacturer-qa-20261117/index.html",
+      "kind": "document",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "星弧 · 整机／动作／点睛之笔／屏幕",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu/?rev=review-structure-align-20261116",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 点睛之笔（无折叠）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-page-edit-20261116#finishing",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 多角度整机与细节",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p24",
+      "kind": "design",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "星弧 · 多角度整机与细节",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p15",
+      "kind": "design",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 成人比例修正版与原生参照",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-adult-scale-r6-20261116#origin-adult-scene-r6",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 使用态尺寸与视角对照",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-dimensions-angle-20261116#origin-dimensions-angle-current",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 当前3D（已移除人物比例选项）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-remove-person-20261116#motion",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 当前侧面光效与倾角/折叠控件",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-page-controls-20261116#motion",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 侧面发光版成人与120cm适配图",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-use-lit-r3-20261116#origin-use-lit-current",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 书房场景（用户指定正确版）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=user-correct-20261116#p23",
+      "kind": "design",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 15°完整下部总成与后端去光",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-lift-total-20261115#incline-15",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 简洁轴心与更亮橙色反射（独立评审）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/?rev=origin-indirect-edge-r2-20261115#origin-indirect-edge-current",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 抬升态跑步场景（AI视觉提案，待评审）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p22",
+      "kind": "design",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 独立评审（本款图稿、模型与选项）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin/",
+      "kind": "design",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "星弧 · 独立评审（本款图稿、模型与选项）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu/",
+      "kind": "design",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "星弧长扶手 · 全部新图",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-long-grip-20261115/",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "星弧长扶手 · 当前3D",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-long-grip-20261115/viewer.html",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "星弧长扶手 · 三套材质3D",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/xinghu-long-cmf-20261115/viewer.html",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 成人与120cm静态适配场景",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=origin-use-scenes-20261115#origin",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "凌序 · 90°竖放修订与三款姿态回查",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-upright-90-20261115/",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 120cm尺寸与儿童用途范围核对（未放行）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/?rev=origin-child-fit-20261115#origin",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "汇报末尾 · 三款厂商可选镜面底面",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p36",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "汇报末尾 · 三款额外增稳",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/#p37",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "三款通用 · 增稳脚座动作研究",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/foot-study.html",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "三款完整来路 + 星弧当前STEP三套CMF",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=complete-lineages-cmf-20261115#p10",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "星弧 · 一家人的日常 · AI场景待评审",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/scenes-20261115/xinghu.webp",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "星弧的来路 · 原手绘、整机推敲、材质交互与当前STEP",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=xinghu-lineage-20261115#p10",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "汇报第22页 · 星弧使用与闲置家居双图",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/?v=s22-home-20261115#p17",
+      "kind": "review",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影 · 新全域版3D（使用／折平／竖放／透明）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/origin-native-20261115/viewer.html",
+      "kind": "3d",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "曜影离合片3D · 三态与齿面近看（纠错版）",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/source-detail-20261112/origin-detail.html?rev=origin-cord-bottom-20261114-cbc67bc7#joint",
+      "kind": "3d",
+      "status": "历史阶段 · 当前不再推进"
+    },
+    {
+      "label": "历史 · 三方案粗模型与衍生图 / 细节不足",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/history-simplified-20261112.html",
+      "kind": "history",
+      "status": "历史阶段 · 当前不再推进"
+    }
+  ],
+  "cancelledScope": "星弧与曜影两款整案均已放弃，停止后续深化；原稿和既有资料保留为历史，不恢复为当前候选。",
+  "historicalMilestones": [
+    {
+      "title": "凌序、坡形（大C）折叠否决与撤回",
+      "date": "2026-11-13",
+      "status": "旧折叠已撤回 · 新机构未完成",
+      "summary": "主模型确认活动立柱与固定下梁实体重叠，禁用两款折叠、播放、竖放和对应API；独立坡形两轴研究退出当前交付。",
+      "approvalNote": "取消此前以滑条与矩阵变化代表机构完成的表述；曜影保留操作仍未经工程核验。",
+      "next": "分别确定真实轴线和分件，再做全过程干涉、净距与锁止检查。"
     }
   ]
 }
