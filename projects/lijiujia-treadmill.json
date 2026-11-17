@@ -658,6 +658,27 @@
       "label": "Z7Pro · 原件锁销解锁动作",
       "status": "原件局部＋动作推演 · 待核对",
       "note": "16项原部件；可拖进度看提销、转下、弹簧复位。12mm及80°为演示值；按钮传力、折平端锁止未确认。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-texture-details-20261117/02-leather-reference.png",
+      "thumb": "documents/treadmill/linear-grip-texture-details-20261117/02-leather-reference.png",
+      "label": "凌序 · 皮纹与缝线材质参考",
+      "status": "用户提供原图 · 材质参考",
+      "note": "对应凌序用户自选把手的纹理、缝线或电极拼接参考；已验收R5图稿保持原样。心率照片来源Hydra Fitness替换件163386，原水印保留，独立评审页附来源链接。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-texture-details-20261117/03-grid-reference.png",
+      "thumb": "documents/treadmill/linear-grip-texture-details-20261117/03-grid-reference.png",
+      "label": "凌序 · 浅网格纹理参考",
+      "status": "用户提供原图 · 纹理参考",
+      "note": "对应凌序用户自选把手的纹理、缝线或电极拼接参考；已验收R5图稿保持原样。心率照片来源Hydra Fitness替换件163386，原水印保留，独立评审页附来源链接。"
+    },
+    {
+      "file": "documents/treadmill/linear-grip-texture-details-20261117/04-pulse-real.jpg",
+      "thumb": "documents/treadmill/linear-grip-texture-details-20261117/04-pulse-real.jpg",
+      "label": "凌序 · 心率电极实物参考",
+      "status": "替换件实物照片 · 非凌序样件",
+      "note": "对应凌序用户自选把手的纹理、缝线或电极拼接参考；已验收R5图稿保持原样。心率照片来源Hydra Fitness替换件163386，原水印保留，独立评审页附来源链接。"
     }
   ],
   "links": [
@@ -1097,6 +1118,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "凌序扶手补充四款纹理局部与三张材质参考",
+        "detail": "独立评审各款把手下增加已验收图稿的局部放大，皮质和网格并列用户原始参考，心率款新增带来源链接的实物替换件照片。所有图片可点开放大。参考图片不代表凌序实物样件，已验收四款材质与拼接边界保持。"
+      },
       {
         "title": "凌序新增0°—15°连续抬升播放与拖动",
         "detail": "独立评审15°抬升区新增播放过程按钮，进入嵌入模型自动播放；模型新增6秒播放/暂停、0°—15°角度拖动、回到水平。沿用现有原轴抬升与轮组接地求解，原折叠控制继续保留，抬升与折叠互斥。连续动作可视化不扩展为行程、限位或承载认证。"
@@ -1577,6 +1602,10 @@
       }
     ],
     "history": [
+      {
+        "title": "凌序扶手补充四款纹理局部与三张材质参考",
+        "detail": "独立评审各款把手下增加已验收图稿的局部放大，皮质和网格并列用户原始参考，心率款新增带来源链接的实物替换件照片。所有图片可点开放大。参考图片不代表凌序实物样件，已验收四款材质与拼接边界保持。"
+      },
       {
         "title": "精简第27、30、36页指定文案",
         "detail": "删除第27页提案页脚、第36页镜面与把手说明页脚；第30页副标题改为“运动结束，产品回到日常生活。”。"
