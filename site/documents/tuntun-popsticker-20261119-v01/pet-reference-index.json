@@ -1,0 +1,134 @@
+{
+  "references": [
+    {
+      "sku": "SLL-POP-005",
+      "name": "花漾萌友",
+      "series": "纸杯萌宠派对",
+      "file": "source/pet-references/pet-005.jpg"
+    },
+    {
+      "sku": "SLL-POP-010",
+      "name": "甜杯派对",
+      "series": "纸杯萌宠派对",
+      "file": "source/pet-references/pet-010.jpg"
+    },
+    {
+      "sku": "SLL-POP-009",
+      "name": "萌宠聚会",
+      "series": "萌宠图鉴",
+      "file": "source/pet-references/pet-009.jpg"
+    },
+    {
+      "sku": "SLL-POP-036",
+      "name": "艺术萌宠",
+      "series": "萌宠图鉴",
+      "file": "source/pet-references/pet-036.jpg"
+    },
+    {
+      "sku": "SLL-POP-038",
+      "name": "星际奇遇",
+      "series": "萌宠图鉴",
+      "file": "source/pet-references/pet-038.jpg"
+    },
+    {
+      "sku": "SLL-POP-042",
+      "name": "猫咪巡旅",
+      "series": "萌宠图鉴",
+      "file": "source/pet-references/pet-042.jpg"
+    },
+    {
+      "sku": "SLL-POP-047",
+      "name": "几何萌宠",
+      "series": "萌宠图鉴",
+      "file": "source/pet-references/pet-047.jpg"
+    },
+    {
+      "sku": "SLL-POP-021",
+      "name": "捣蛋当家",
+      "series": "疯狂动物",
+      "file": "source/pet-references/pet-021.jpg"
+    },
+    {
+      "sku": "SLL-POP-022",
+      "name": "海岛萌宠",
+      "series": "疯狂动物",
+      "file": "source/pet-references/pet-022.jpg"
+    },
+    {
+      "sku": "SLL-POP-052",
+      "name": "街机酷喵",
+      "series": "街头酷兽",
+      "file": "source/pet-references/pet-052.jpg"
+    },
+    {
+      "sku": "SLL-POP-046",
+      "name": "冬日萌宠",
+      "series": "毛茸好时光",
+      "file": "source/pet-references/pet-046.jpg"
+    },
+    {
+      "sku": "SLL-POP-037",
+      "name": "汪汪小队",
+      "series": "动物小剧场",
+      "file": "source/pet-references/pet-037.jpg"
+    },
+    {
+      "sku": "SLL-POP-039",
+      "name": "像素灵感",
+      "series": "动物小剧场",
+      "file": "source/pet-references/pet-039.jpg"
+    },
+    {
+      "sku": "SLL-POP-040",
+      "name": "春日郊游",
+      "series": "动物小剧场",
+      "file": "source/pet-references/pet-040.jpg"
+    },
+    {
+      "sku": "SLL-POP-049",
+      "name": "汪汪一家",
+      "series": "动物小剧场",
+      "file": "source/pet-references/pet-049.jpg"
+    },
+    {
+      "sku": "SLL-POP-018",
+      "name": "彩框萌宠",
+      "series": "萌宠肖像馆",
+      "file": "source/pet-references/pet-018.jpg"
+    },
+    {
+      "sku": "SLL-POP-043",
+      "name": "花环萌宠",
+      "series": "萌宠肖像馆",
+      "file": "source/pet-references/pet-043.jpg"
+    },
+    {
+      "sku": "SLL-POP-044",
+      "name": "星夜画廊",
+      "series": "萌宠肖像馆",
+      "file": "source/pet-references/pet-044.jpg"
+    },
+    {
+      "sku": "SLL-POP-063",
+      "name": "小困喵",
+      "series": "情绪小绿喵",
+      "file": "source/pet-references/pet-063.jpg"
+    },
+    {
+      "sku": "SLL-POP-064",
+      "name": "疑惑喵",
+      "series": "情绪小绿喵",
+      "file": "source/pet-references/pet-064.jpg"
+    },
+    {
+      "sku": "SLL-POP-065",
+      "name": "骄傲喵",
+      "series": "情绪小绿喵",
+      "file": "source/pet-references/pet-065.jpg"
+    }
+  ],
+  "catalogPackageWidthMm": 147,
+  "catalogPackageHeightMm": 100,
+  "historicalListingHeightMm": 105,
+  "status": "Widths agree; height records differ, not remeasured."
+}

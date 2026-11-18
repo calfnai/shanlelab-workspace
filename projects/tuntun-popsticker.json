@@ -1,46 +1,89 @@
 {
   "id": "tuntun-popsticker",
-  "title": "TUNTUN · 啵啵贴与展陈概念",
+  "title": "TUNTUN · 萌宠组合与快乐补给站",
   "en": "12 / TUNTUN POPSTICKER",
-  "description": "四款完整原画的皮质啵啵贴、niko 现场中岛与轻型展位效果。",
+  "description": "参照现有萌宠款，重做三枚角色贴片、四枚迷你肖像及两种空间；附原图尺度对照。",
   "conversation": "f393b1e3",
   "conversationName": "TUNTUN 啵啵贴与中岛展位概念",
-  "note": "2026-11-19 首轮视觉候选，待用户评审。AI 场景与材质模拟；尺寸、工艺、文字印刷和合作方批准尚未确认。",
+  "note": "v02 新候选，待用户评审。v01 三张图已否决并撤下。包装宽 147mm 来自目录；高度 100/105mm 记录有冲突，单枚 32–45mm 为本轮建议。B 使用原图与标准蒙版直接排版；AI 图不能作为实测或轮廓定稿。",
   "items": [
     {
-      "file": "documents/tuntun-popsticker-20261119-v01/01-product-concept.png",
-      "thumb": "documents/tuntun-popsticker-20261119-v01/01-product-concept.png",
-      "label": "四款皮质啵啵贴 · 产品候选",
+      "file": "documents/tuntun-popsticker-20261119-v01/04-products-multipatch.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/04-products-multipatch.png",
+      "label": "v02 · A 三枚零食小剧场",
       "status": "已生成 · 待用户评审",
-      "note": "完整徽章原画转皮质贴；单徽章背卡与笔记本应用，材料工艺及规格未定版。"
+      "note": "参考纸杯萌宠派对、情绪小绿喵的多枚组合。已修正与手机的相对大小及 SHANLE 标识；生成轮廓仍待标准蒙版落稿。"
     },
     {
-      "file": "documents/tuntun-popsticker-20261119-v01/02-niko-island-concept.png",
-      "thumb": "documents/tuntun-popsticker-20261119-v01/02-niko-island-concept.png",
-      "label": "niko 现场中岛 · TUNTUN 候选",
+      "file": "documents/tuntun-popsticker-20261119-v01/07-four-portraits-scale-proof.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/07-four-portraits-scale-proof.png",
+      "label": "v02 · B 四枚原画与 A6 比例稿",
       "status": "已生成 · 待用户评审",
-      "note": "用户提供现场照片的主题编辑；木托盘中岛、正面联名候选与后方常规挂货。"
+      "note": "原始四图与已确认轮廓蒙版直接排版，宽147mm，四枚高32mm、应用高38mm为建议；高度记录冲突已标出。"
     },
     {
-      "file": "documents/tuntun-popsticker-20261119-v01/03-light-booth-concept.png",
-      "thumb": "documents/tuntun-popsticker-20261119-v01/03-light-booth-concept.png",
-      "label": "MLBB 轻型结构 · TUNTUN 候选",
+      "file": "documents/tuntun-popsticker-20261119-v01/05-niko-snack-island.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/05-niko-snack-island.png",
+      "label": "v02 · niko 快乐补给站中岛",
       "status": "已生成 · 待用户评审",
-      "note": "沿用纸中岛与背景布的组合，替换为 TUNTUN 图案；独立主题概念。"
+      "note": "现场木托盘中岛、六包小包装与手机/包/耳机应用；放大角色为印刷画面，实物尺度仍待核对。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/06-light-snack-booth.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/06-light-snack-booth.png",
+      "label": "v02 · 轻型快乐补给站",
+      "status": "已生成 · 待用户评审",
+      "note": "沿用背景布与纸中岛。小包装、成人手持与应用样品辅助体感判断，非现场测量证明。"
     }
   ],
   "links": [
     {
-      "label": "产品与两种空间 · 大图对照",
+      "label": "v02 产品／原图比例／中岛／展位与21款萌宠参考",
       "href": "documents/tuntun-popsticker-20261119-v01/index.html",
+      "kind": "document"
+    },
+    {
+      "label": "原画与标准蒙版的 SVG 比例稿",
+      "href": "documents/tuntun-popsticker-20261119-v01/07-four-portraits-scale-proof.svg",
+      "kind": "document"
+    },
+    {
+      "label": "尺寸来源与候选值",
+      "href": "documents/tuntun-popsticker-20261119-v01/scale-proof.json",
       "kind": "document"
     }
   ],
-  "currentFocus": "比较四款完整徽章原画的产品转译，以及暖木中岛和纸中岛加背景布两种陈列；待选方向。",
-  "galleryLabel": "首轮产品与空间候选",
+  "currentFocus": "从既有萌宠多枚组合重新设计；比较三枚零食小剧场与四枚迷你肖像，以及快乐补给站的两种空间应用。",
+  "galleryLabel": "v02 新候选与尺度对照",
   "sync": {
     "checkedAt": "2026-11-19",
     "sourceConversation": "f393b1e3",
-    "status": "三张视觉候选已生成，未选定或生产。"
-  }
+    "status": "v01三图已撤出当前展示；v02四张成果待用户评审，保留尺寸冲突与生产未确认状态。"
+  },
+  "withdrawnItems": [
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/01-product-concept.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/01-product-concept.png",
+      "label": "v01 · 四款皮质啵啵贴 · 产品候选",
+      "status": "用户否决 · 已撤出当前展示",
+      "note": "用户认为比例不够写实、设计不够有趣；仅保留追溯，不作为当前候选。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/02-niko-island-concept.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/02-niko-island-concept.png",
+      "label": "v01 · niko 现场中岛 · TUNTUN 候选",
+      "status": "用户否决 · 已撤出当前展示",
+      "note": "用户认为比例不够写实、设计不够有趣；仅保留追溯，不作为当前候选。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/03-light-booth-concept.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/03-light-booth-concept.png",
+      "label": "v01 · MLBB 轻型结构 · TUNTUN 候选",
+      "status": "用户否决 · 已撤出当前展示",
+      "note": "用户认为比例不够写实、设计不够有趣；仅保留追溯，不作为当前候选。"
+    }
+  ],
+  "cancelledScope": [
+    "v01 单枚大徽章、奶油色中岛与展位因比例和创意不合要求已否决，不恢复推荐。"
+  ]
 }

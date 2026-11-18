@@ -1,0 +1,22 @@
+{
+  "card_width_mm": 147,
+  "source_mask_bbox_px": [
+    22,
+    10,
+    393,
+    274
+  ],
+  "proportional_height_mm": 104.60377358490567,
+  "portrait_height_mm": 32,
+  "applied_portrait_height_mm": 38,
+  "reference_paper_mm": [
+    105,
+    148
+  ],
+  "height_conflict_mm": [
+    100,
+    105
+  ],
+  "status": "width from catalog; proportional template height and patch sizes are review proposals",
+  "source_art": "original supplied raster files embedded unchanged"
+}
