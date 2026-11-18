@@ -1,0 +1,58 @@
+{
+  "version": "v03",
+  "date": "2026-11-19",
+  "retained": [
+    {
+      "file": "04-products-multipatch.png",
+      "state": "用户反馈还行，方向暂留；不是生产批准"
+    }
+  ],
+  "candidates": [
+    {
+      "file": "08-mood-trio-063.png",
+      "direction": "参考063的表情与文字组合",
+      "state": "已生成并逐张查看，待用户评审；AI外形与局部尺度仍需源稿校正"
+    },
+    {
+      "file": "09-arcade-collage-052.png",
+      "direction": "参考052的街机窗口拼贴",
+      "state": "已生成并逐张查看，待用户评审；AI外形与局部尺度仍需源稿校正"
+    },
+    {
+      "file": "10-niko-latest-photo-scale.png",
+      "direction": "以最新现场照片替换陈列画面",
+      "state": "已生成并逐张查看，待用户评审；AI外形与局部尺度仍需源稿校正"
+    },
+    {
+      "file": "11-story-shop-booth.png",
+      "direction": "故事、挂货、试贴与物件应用",
+      "state": "已生成并逐张查看，待用户评审；AI外形与局部尺度仍需源稿校正"
+    }
+  ],
+  "withdrawn": [
+    {
+      "file": "07-four-portraits-scale-proof.png",
+      "state": "用户否决，外形与包装错误"
+    },
+    {
+      "file": "05-niko-snack-island.png",
+      "state": "商品尺寸不通过，已撤出当前展示"
+    },
+    {
+      "file": "06-light-snack-booth.png",
+      "state": "用户否决，内容与层次单薄"
+    }
+  ],
+  "packagingSource": "source/pet-references/pet-063-actual-front.jpg",
+  "outlineSource": "source/pet-references/approved-popsticker-outline.png",
+  "widthRecordMm": 147,
+  "heightRecordsConflictMm": [
+    100,
+    105
+  ],
+  "boothFootprintAssumptionM": [
+    3,
+    3
+  ],
+  "limitations": "生成图为视觉候选，不作为包装刀模、实物量测或施工依据。"
+}

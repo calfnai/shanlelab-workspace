@@ -1,64 +1,66 @@
 {
   "id": "tuntun-popsticker",
-  "title": "TUNTUN · 萌宠组合与快乐补给站",
+  "title": "TUNTUN · 表情、街机与故事陈列",
   "en": "12 / TUNTUN POPSTICKER",
-  "description": "参照现有萌宠款，重做三枚角色贴片、四枚迷你肖像及两种空间；附原图尺度对照。",
+  "description": "保留三枚零食方向；新增063表情组合、052街机拼贴，以及最新现场中岛和故事展位。",
   "conversation": "f393b1e3",
   "conversationName": "TUNTUN 啵啵贴与中岛展位概念",
-  "note": "v02 新候选，待用户评审。v01 三张图已否决并撤下。包装宽 147mm 来自目录；高度 100/105mm 记录有冲突，单枚 32–45mm 为本轮建议。B 使用原图与标准蒙版直接排版；AI 图不能作为实测或轮廓定稿。",
+  "note": "v03新候选。04获用户反馈还行，方向暂留；05/06/07因商品尺度、内容和外形问题撤出。重新对照实体吸塑包装及最新现场。宽147mm为目录记录，高100/105mm待实物核验；AI图不作为刀模或施工依据。",
   "items": [
     {
       "file": "documents/tuntun-popsticker-20261119-v01/04-products-multipatch.png",
       "thumb": "documents/tuntun-popsticker-20261119-v01/04-products-multipatch.png",
-      "label": "v02 · A 三枚零食小剧场",
-      "status": "已生成 · 待用户评审",
-      "note": "参考纸杯萌宠派对、情绪小绿喵的多枚组合。已修正与手机的相对大小及 SHANLE 标识；生成轮廓仍待标准蒙版落稿。"
+      "label": "A · 三枚零食小剧场 · 方向暂留",
+      "status": "用户反馈还行 · 保留比较",
+      "note": "保留原图与设计方向，不扩大为包装、生产或整体方案批准。"
     },
     {
-      "file": "documents/tuntun-popsticker-20261119-v01/07-four-portraits-scale-proof.png",
-      "thumb": "documents/tuntun-popsticker-20261119-v01/07-four-portraits-scale-proof.png",
-      "label": "v02 · B 四枚原画与 A6 比例稿",
+      "file": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
+      "label": "v03 · B 表情组合 / 参考063",
       "status": "已生成 · 待用户评审",
-      "note": "原始四图与已确认轮廓蒙版直接排版，宽147mm，四枚高32mm、应用高38mm为建议；高度记录冲突已标出。"
+      "note": "参考表情与文字交织、拼布底纹。实拍包装结构作参照，生成轮廓与新增表情待源稿校正。"
     },
     {
-      "file": "documents/tuntun-popsticker-20261119-v01/05-niko-snack-island.png",
-      "thumb": "documents/tuntun-popsticker-20261119-v01/05-niko-snack-island.png",
-      "label": "v02 · niko 快乐补给站中岛",
+      "file": "documents/tuntun-popsticker-20261119-v01/09-arcade-collage-052.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/09-arcade-collage-052.png",
+      "label": "v03 · C 街机拼贴 / 参考052",
       "status": "已生成 · 待用户评审",
-      "note": "现场木托盘中岛、六包小包装与手机/包/耳机应用；放大角色为印刷画面，实物尺度仍待核对。"
+      "note": "参考窗口层叠与角色互动，两枚角色、奖励星和文字组成一版。生成轮廓待源稿校正。"
     },
     {
-      "file": "documents/tuntun-popsticker-20261119-v01/06-light-snack-booth.png",
-      "thumb": "documents/tuntun-popsticker-20261119-v01/06-light-snack-booth.png",
-      "label": "v02 · 轻型快乐补给站",
+      "file": "documents/tuntun-popsticker-20261119-v01/10-niko-latest-photo-scale.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/10-niko-latest-photo-scale.png",
+      "label": "v03 · 最新现场中岛 / 四包小商品",
       "status": "已生成 · 待用户评审",
-      "note": "沿用背景布与纸中岛。小包装、成人手持与应用样品辅助体感判断，非现场测量证明。"
+      "note": "以最新照片为基准保留商品挂位、木托盘、卡套与护照夹陈列，立牌展示故事与应用；非现场量测。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/11-story-shop-booth.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/11-story-shop-booth.png",
+      "label": "v03 · 快乐营业中 / 故事与试贴",
+      "status": "已生成 · 待用户评审",
+      "note": "增加连续漫画、分组挂货、表情窗口与应用试贴。修订小包装、手机、护照夹尺度，三米级概念占地未实测。"
     }
   ],
   "links": [
     {
-      "label": "v02 产品／原图比例／中岛／展位与21款萌宠参考",
+      "label": "v03 两个新方向、现场对比、故事展位与真实包装",
       "href": "documents/tuntun-popsticker-20261119-v01/index.html",
       "kind": "document"
     },
     {
-      "label": "原画与标准蒙版的 SVG 比例稿",
-      "href": "documents/tuntun-popsticker-20261119-v01/07-four-portraits-scale-proof.svg",
-      "kind": "document"
-    },
-    {
-      "label": "尺寸来源与候选值",
-      "href": "documents/tuntun-popsticker-20261119-v01/scale-proof.json",
+      "label": "当前与撤回版本状态",
+      "href": "documents/tuntun-popsticker-20261119-v01/review-state.json",
       "kind": "document"
     }
   ],
-  "currentFocus": "从既有萌宠多枚组合重新设计；比较三枚零食小剧场与四枚迷你肖像，以及快乐补给站的两种空间应用。",
-  "galleryLabel": "v02 新候选与尺度对照",
+  "currentFocus": "以真实包装与最新现场为基准，比较063表情组合、052街机拼贴；展位通过连续故事、挂货与试贴形成完整体验。",
+  "galleryLabel": "方向暂留与 v03 新候选",
   "sync": {
     "checkedAt": "2026-11-19",
     "sourceConversation": "f393b1e3",
-    "status": "v01三图已撤出当前展示；v02四张成果待用户评审，保留尺寸冲突与生产未确认状态。"
+    "status": "04方向暂留；v03四张候选已生成并逐张查看，待用户评审；错误05/06/07已撤下，Meeko完整手册未公开。"
   },
   "withdrawnItems": [
     {
@@ -81,9 +83,31 @@
       "label": "v01 · MLBB 轻型结构 · TUNTUN 候选",
       "status": "用户否决 · 已撤出当前展示",
       "note": "用户认为比例不够写实、设计不够有趣；仅保留追溯，不作为当前候选。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/07-four-portraits-scale-proof.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/07-four-portraits-scale-proof.png",
+      "label": "v02 · B 四枚原画与 A6 比例稿",
+      "status": "用户指出问题 · 已撤出当前展示",
+      "note": "用户指出椭圆与包装错误，撤回平面比例稿及其当前依据地位；数值控制不能证明实物外形正确。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/05-niko-snack-island.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/05-niko-snack-island.png",
+      "label": "v02 · niko 快乐补给站中岛",
+      "status": "用户指出问题 · 已撤出当前展示",
+      "note": "商品排货尺寸不通过，已撤出当前展示；以最新现场照片为基准重做。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/06-light-snack-booth.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/06-light-snack-booth.png",
+      "label": "v02 · 轻型快乐补给站",
+      "status": "用户指出问题 · 已撤出当前展示",
+      "note": "用户认为单薄、内容少、无聊，已撤出当前展示；重新参考连续日常故事与物件应用。"
     }
   ],
   "cancelledScope": [
-    "v01 单枚大徽章、奶油色中岛与展位因比例和创意不合要求已否决，不恢复推荐。"
+    "v01 单枚大徽章、奶油色中岛与展位因比例和创意不合要求已否决，不恢复推荐。",
+    "v02四肖像平面比例稿、过大排货中岛和单薄轻型展位已撤出当前评审，不恢复推荐。"
   ]
 }

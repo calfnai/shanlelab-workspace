@@ -17,6 +17,8 @@
     100,
     105
   ],
-  "status": "width from catalog; proportional template height and patch sizes are review proposals",
-  "source_art": "original supplied raster files embedded unchanged"
+  "status": "用户否决，已撤回，不作为当前尺寸或轮廓依据",
+  "source_art": "original supplied raster files embedded unchanged",
+  "withdrawnDate": "2026-11-19",
+  "withdrawalReason": "用户指出椭圆与真实包装有误。原平面蒙版稿未正确表达实体包装结构；附注数值不证明外形正确。"
 }

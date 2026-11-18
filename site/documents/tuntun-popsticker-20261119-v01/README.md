@@ -1,29 +1,42 @@
-# TUNTUN × POPSTICKER · v02 萌宠组合与快乐补给站
+# TUNTUN × POPSTICKER · v03 表情、街机与故事陈列
 
-2026-11-19 修订候选。[当前评审页](index.html) 只展示本轮候选与原有萌宠参考。
+[当前评审页](index.html) 沿用唯一入口。本目录名称保持初始 v01，当前状态以本文件与 [版本状态](review-state.json) 为准。
 
-## 当前图稿
+## 本轮状态
 
-- [A · 三枚零食小剧场](04-products-multipatch.png)：三只带食物的独立角色贴片，蓝棋盘与短语错落组合；成人手、手机和回形针用于观察体感大小。
-- [B · 四枚迷你肖像与 A6 比例对照](07-four-portraits-scale-proof.png)：四张用户原图直接排版，单枚高 32mm 为候选；右侧应用图高 38mm 为候选。
-- [B · 原始 SVG 比例稿](07-four-portraits-scale-proof.svg) 与 [尺寸依据](scale-proof.json)。外形直接使用已确认蒙版，整体等比缩放；原图以原始字节嵌入。
-- [niko · 快乐补给站中岛](05-niko-snack-island.png)：保留用户现场木托盘、常规款货架，补上小包装与手机、包、耳机的应用表达。
-- [轻型展位 · 快乐补给站](06-light-snack-booth.png)：沿用背景布与纸中岛，区分放大的印刷角色和小尺寸实物商品。
+- [04 三枚零食小剧场](04-products-multipatch.png)：用户反馈“还行”，保留方向继续比较，原图不改；不是生产或包装定稿批准。
+- [08 表情组合](08-mood-trio-063.png)：参考用户指定 063 的表情、文字与拼布组合，新增 YUM / ZZZ / YAY，待评审。
+- [09 街机拼贴](09-arcade-collage-052.png)：参考用户指定 052 的窗口色块与角色互动，待评审。
+- [10 最新现场中岛](10-niko-latest-photo-scale.png)：以最新现场照替换图面，四包小商品保留在背板中间，应用立牌与售卖包装分开呈现。
+- [11 快乐营业中展位](11-story-shop-booth.png)：沿用纸中岛构造，增加连续故事、分组挂货、表情窗口、试贴与生活物件应用。
 
-## 参考与尺寸边界
+## 包装与空间依据
 
-已收集 21 款相关萌宠原图，重点参考花漾萌友、甜杯派对、海岛萌宠、星夜画廊、小困喵，以及三张现有实拍。清单在 [pet-reference-index.json](pet-reference-index.json)，原图与实拍在 `source/pet-references/`；没有将其他宠物角色作为 TUNTUN 新图案。
+重新查看现有 063 的实体正面，以及纸杯萌宠、疯狂动物实拍：印刷内卡、顶端挂孔区、两侧印刷弧线、浅透明 PET 罩和凸边是不同结构，不能用平面椭圆代替实体包装。固定轮廓保持原图横向比例、曲率和两侧弧线，不以普通椭圆替代。
 
-现有目录的整版宽为 147mm。目录高度记录 100mm，旧上架图记录 105mm，尚未实物复核。B 稿按已确认轮廓比例得 104.6mm，不冒充实测。A 的单枚约 35–45mm 为探索值；AI 实物图与场景不能作为量测或轮廓定稿。印刷和生产必须回到原图、标准蒙版及实物核对。
+- [现有 063 实体包装照片](source/pet-references/pet-063-actual-front.jpg)
+- [固定品牌轮廓原图](source/pet-references/approved-popsticker-outline.png)
+- [最新现场照片](source/niko-latest-site-20261119.jpg)
+- [用户指定 063](source/pet-references/pet-063.jpg) / [052](source/pet-references/pet-052.jpg)
 
-## 完整提示词与可编辑源
+目录整版宽 147mm，高度有 100 / 105mm 两种记录，待实物核验。本轮小贴片约 35–42mm 仅为设计候选。产品图使用原 04 的构图作为修订基准，空间图使用最新现场的既有商品大小与挂位。图像生成仍可能改变边界、五官或局部大小，图片不承担量测或印刷源稿功能。
 
-A 与两张场景使用内置 imagegen：[A 组合设计](prompts/04-products-multipatch.txt)、[A 尺度与品牌修正](prompts/04b-products-scale-correction.txt)、[niko 中岛](prompts/05-niko-snack-island.txt)、[niko 应用图修正](prompts/05b-niko-application-correction.txt)、[轻型展位](prompts/06-light-snack-booth.txt)。
+展位以约 3m × 3m 的概念占地探索，未取得场地方实测图；台面高度、层板、柜体与通道须进一步结构落图。Meeko 手册第 8、17 页用于参考连续日常故事及跨物件应用，不照搬其角色或品牌。用户提供的完整手册和阅读渲染保存在本地归档，未公开。
 
-B 由 [build-scale-proof.py](build-scale-proof.py) 用原画和原蒙版生成 SVG，经 rsvg-convert 渲染预览；不重绘角色。当前页由 [build-review.py](build-review.py) 生成，维持一个入口。
+## 完整提示词与制作方式
 
-## 已否决方向
+使用内置 imagegen。所有选用结果保存本目录；初次尺寸不通过的生成稿只留本地历史，未进入当前页面。
 
-v01 三张图因比例不够写实、创意不够有趣被用户否决，已撤出当前页和共享图库。原文件与提示词保留追溯，不恢复为当前候选。本目录沿用初始名称，当前状态以本文件及页面 v02 为准。
+- [08 初稿](prompts/08-mood-trio-063.txt) / [08 构图修订](prompts/08b-mood-fixed-composition.txt)
+- [09 初稿](prompts/09-arcade-collage-052.txt) / [09 构图修订](prompts/09b-arcade-fixed-composition.txt)
+- [10 现场替换](prompts/10-niko-latest-photo-scale.txt) / [10 立牌文案](prompts/10b-niko-placard-copy.txt)
+- [11 故事展位](prompts/11-story-shop-booth.txt) / [11 商品尺度与图案修订](prompts/11b-booth-product-scale-and-identity.txt)
+- [评审页构建源](build-review.py)
 
-所有新设计仍待用户评审，未选定、未打样、未获合作方批准。
+## 撤回与历史
+
+v01 三张图已因比例、创意不足被用户否决，不恢复。
+
+v02 的 [07 四枚肖像比例稿](07-four-portraits-scale-proof.png) 被用户指出外形及包装错误，已撤回。其 SVG、build-scale-proof.py、scale-proof.json 仅保留历史，不再作为当前轮廓或尺寸依据，不能因脚本控制了数值就认定外形正确。
+
+v02 的 05 中岛商品排货尺寸不通过；06 轻型展位被指出单薄、空、无聊，两张都撤出当前评审。保留文件用于追溯，不作为当前候选。

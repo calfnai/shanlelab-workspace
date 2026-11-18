@@ -1,34 +1,36 @@
-"""Keep one current review page, with real pet references and withdrawn v01 excluded."""
+"""Build the single current TUNTUN review. Withdrawn images stay in history only."""
 from pathlib import Path
-import json
 from html import escape
-
-ROOT = Path(__file__).resolve().parent
-references = json.loads((ROOT / 'pet-reference-index.json').read_text())['references']
-cards = ''.join(f'<figure class="ref"><a href="{escape(r["file"])}" target="_blank" rel="noopener"><img loading="lazy" src="{escape(r["file"])}" alt="{escape(r["name"])}"></a><figcaption><b>{escape(r["name"])}</b><br>{escape(r["sku"])} · {escape(r["series"])}</figcaption></figure>' for r in references)
-
-def figure(path, alt, caption):
-    return f'<figure><a href="{path}" target="_blank" rel="noopener"><img src="{path}" alt="{alt}"></a><figcaption>{caption}</figcaption></figure>'
-
-page = '''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>TUNTUN · 从萌宠款重新做 · v02</title>
-<style>
-:root{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;color:#173778;background:#f6f3ea;line-height:1.65}*{box-sizing:border-box}body{margin:0}header,main,footer{max-width:1480px;margin:auto;padding:30px 5vw}header{padding-top:45px}small{color:#bc551e;letter-spacing:2px}h1{font-size:clamp(30px,4.6vw,60px);line-height:1.16;margin:12px 0 20px}h2{font-size:27px;line-height:1.35;margin-bottom:10px}p{max-width:1000px;color:#506278}a{color:inherit}nav{display:flex;gap:10px;flex-wrap:wrap}nav a{background:#193f8d;color:white;padding:9px 16px;border-radius:24px;text-decoration:none}section{margin:0 0 55px;scroll-margin-top:24px}figure{margin:0}img{display:block;width:100%;height:auto;border-radius:10px;background:#fff}figure>a{display:block}figcaption{font-size:13px;color:#5c6c80;padding:10px 0}.pair{display:grid;grid-template-columns:1fr 1fr;gap:18px}.pair img{aspect-ratio:4/3;object-fit:contain}.ref-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}.ref img{aspect-ratio:1.4;object-fit:contain;background:#fff}.ref figcaption{font-size:12px}.note{padding:17px 22px;border-left:5px solid #fa8427;background:#ffebc6;color:#3e4c60;border-radius:4px}details{padding:23px;border:1px solid #bcc6d5;border-radius:12px}details[open] summary{margin-bottom:25px}summary{cursor:pointer;font-size:18px;font-weight:650}.proof-links{display:flex;gap:20px;flex-wrap:wrap;margin:12px 0}.photos{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}.photos img{aspect-ratio:3/4;object-fit:contain}footer{border-top:1px solid #c9cbd0;font-size:13px;color:#607185;padding-bottom:45px}@media(max-width:760px){header,main,footer{padding-left:18px;padding-right:18px}.pair,.photos{grid-template-columns:1fr}.ref-grid{grid-template-columns:1fr 1fr}h2{font-size:23px}}
-</style>
-<header><small>SHANLE LAB · TUNTUN · V02 / 2026.11.19</small><h1>TUNTUN 快乐补给站</h1><p>参考现有萌宠款的多枚组合、动作错落、文字与小道具，重新探索「三枚零食小剧场」与「四枚迷你肖像」。上一轮比例与创意已被否决，旧图已撤出当前展示。</p><nav aria-label="当前图稿"><a href="#a">A · 三枚小剧场</a><a href="#b">B · 四枚肖像与比例</a><a href="#niko">暖木中岛</a><a href="#booth">轻型展位</a><a href="#references">萌宠参考</a></nav></header>
-<main><section id="a"><h2>A · 一包三枚，角色与零食组成小剧场</h2><p>参考「纸杯萌宠派对」「情绪小绿喵」的组合关系：将角色连同食物拆成独立贴片，以蓝色棋盘、橘黄点缀与 YUM / SLURP / CHILL 形成节奏。</p>'''
-page += figure('04-products-multipatch.png','三枚 TUNTUN 皮质贴片、手机与成人手的产品体感稿','AI 体感稿 · 已修正包与手机的相对大小及品牌标识；生成外形细节仍须按标准蒙版落稿。')
-page += '''</section><section id="b"><h2>B · 四枚迷你肖像，原图直接做尺度对照</h2><p>参考「萌宠肖像馆」的小尺寸多枚组合，保留四张完整原画。用已确认轮廓蒙版等比排版，以 A6 纸张作稳定参照。</p><div class="note">整版宽 147mm 来自现有目录；高度存在 100 / 105mm 两种记录，尚未实物复核。下图按标准轮廓等比得约 104.6mm。四枚肖像高 32mm、右侧应用高 38mm 均为本轮候选。</div>'''
-page += figure('07-four-portraits-scale-proof.png','四枚 TUNTUN 原始肖像与 A6 纸张的固定比例排版','原画与原蒙版直接排版 · 尺度由 SVG 控制；非生产刀模。')
-page += '''<div class="proof-links"><a href="07-four-portraits-scale-proof.svg" target="_blank" rel="noopener">打开原始 SVG 比例稿</a><a href="scale-proof.json" target="_blank" rel="noopener">尺寸依据与候选值</a></div></section><section id="niko"><h2>中岛 · 选一份今天的快乐</h2><p>保留现场木托盘与后方常规款挂货；前面用三种零食情绪作入口，手机、帆布包与耳机承担应用展示。销售包装保持手掌级大小。</p><div class="pair">'''
-page += figure('source/niko-supplied-site-original.jpg','用户提供的 niko 现场原照片','用户现场原照片')
-page += figure('05-niko-snack-island.png','TUNTUN 快乐补给站在同一 niko 中岛的陈列候选','v02 场景候选 · 小包装与小贴片，放大的角色属于印刷主视觉。')
-page += '''</div></section><section id="booth"><h2>展位 · 同一套快乐补给站，延续轻型结构</h2><p>沿用背景布与纸中岛，强化角色、情绪与生活物件的联系；保留可用台面，将看主视觉、选角色和看应用连起来。</p>'''
-page += figure('06-light-snack-booth.png','TUNTUN 快乐补给站的轻型展位候选','v02 视觉候选 · 现场结构与产品比例仍须按实际平面和实物核验。')
-page += '''</section><section id="references"><h2>这轮具体参考了哪些现有萌宠款</h2><p>重点参考花漾萌友、甜杯派对、海岛萌宠、星夜画廊、小困喵的组合与实物呈现；相关 21 款原图保留在下方，点击可放大。</p><div class="photos">'''
-page += figure('source/pet-references/pet-real-multipack.jpg','现有纸杯萌宠派对的真实包装照片','现有实拍：多枚组合、浅 PET 罩与薄层皮质贴片')
-page += figure('source/pet-references/pet-real-phone-scale.jpg','现有萌宠贴片在真实手机上的应用照片','现有实拍：贴片相对手机的大小')
-page += figure('source/pet-references/pet-real-animal-pack.jpg','现有疯狂动物系列的真实包装照片','现有实拍：文字、主角与小配件的层次')
-page += f'''</div><details><summary>展开 21 款相关萌宠原图</summary><div class="ref-grid">{cards}</div></details></section></main><footer>A 产品与两张场景由内置 imagegen 生成；B 为原画与标准蒙版的直接排版。新设计均待用户评审，图片中的文字、图案和外形不替代印刷源稿。尺寸记录有冲突的部分已明确保留，未作为实测结论。<br><a href="README.md">本地原稿、提示词与版本状态</a></footer></html>'''
-(ROOT / 'index.html').write_text(page)
-print(f'Updated one current review page; {len(references)} source pet designs; v01 images excluded.')
+import json
+R = Path(__file__).resolve().parent
+refs = json.loads((R/'pet-reference-index.json').read_text())['references']
+def fig(file, title, caption, cls=''):
+    return f'<figure class="{cls}"><a href="{file}" target="_blank" rel="noopener"><img src="{file}" alt="{escape(title)}" loading="lazy"></a><figcaption><strong>{escape(title)}</strong><span>{escape(caption)}</span></figcaption></figure>'
+page = r'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>TUNTUN · 表情、街机与故事陈列 · v03</title><style>
+:root{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;color:#16356b;background:#f6f3eb;line-height:1.65}*{box-sizing:border-box}body{margin:0}header,main,footer{max-width:1536px;margin:auto;padding:28px 4vw}header{padding-top:48px}h1{font-size:clamp(32px,5.5vw,68px);line-height:1.12;margin:15px 0 22px;letter-spacing:-1px}h2{font-size:clamp(23px,3vw,34px);line-height:1.3;margin:0 0 12px}h3{font-size:22px;margin:8px 0 12px}small,.eyebrow{font-size:12px;letter-spacing:2px;color:#a85722}p{color:#5c6a7c;max-width:1000px;margin:10px 0 22px}a{color:inherit}nav{display:flex;gap:9px;flex-wrap:wrap;margin:22px 0}nav a,.switch button{border:1px solid #1b448a;border-radius:24px;padding:8px 17px;text-decoration:none;background:transparent;color:#173c7c;font:inherit;font-size:14px;cursor:pointer}nav a:first-child,.switch button[aria-pressed=true]{background:#173c7c;color:white}.status{display:inline-block;background:#e0edde;color:#3a634a;border-radius:5px;padding:5px 11px;font-size:13px}.note{background:#fff0cf;border-left:4px solid #ecae38;padding:13px 20px;color:#4e5260;border-radius:4px;margin:20px 0}.lead{font-size:17px}section{margin:35px 0 70px;scroll-margin-top:22px}figure{margin:0}figure>a{display:block}img{width:100%;height:auto;display:block;background:#fff;border-radius:10px}figcaption{padding:11px 1px 20px;font-size:13px;color:#5a6c83}figcaption strong{display:block;color:#233f69;font-size:15px;margin-bottom:2px}figcaption span{display:block}.pair{display:grid;grid-template-columns:1fr 1fr;gap:20px}.pair img{aspect-ratio:3/2;object-fit:contain}.ref-pair{display:grid;grid-template-columns:1.5fr 1fr;gap:24px;align-items:center}.ref-pair img{aspect-ratio:3/2;object-fit:contain}.ref-pair .outline img{aspect-ratio:1.4;max-width:409px;margin:auto}.directions{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:28px}.directions img{aspect-ratio:1.4;object-fit:contain}.ref-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}.ref-grid img{aspect-ratio:1.4;object-fit:contain}.switch{display:flex;gap:10px;margin:16px 0}.scene{aspect-ratio:4/3;object-fit:contain}.retained{max-width:1100px}details{background:#edece5;padding:20px;border-radius:10px;margin:20px 0}summary{cursor:pointer;font-weight:650}details[open] summary{margin-bottom:20px}footer{border-top:1px solid #cbd0d7;font-size:13px;color:#607087;padding-bottom:45px}footer p{margin-bottom:12px}.source-link{font-size:13px}.smallprint{font-size:13px}.compare-label{font-size:13px;color:#a85722;margin-bottom:8px}@media(max-width:760px){header,main,footer{padding-left:18px;padding-right:18px}.pair,.ref-pair,.directions{grid-template-columns:1fr}.ref-grid{grid-template-columns:1fr 1fr}section{margin-bottom:48px}.lead{font-size:15px}}
+</style></head><body><header><small>SHANLE LAB × TUNTUN · V03 / 2026.11.19</small><h1>今天的快乐，<br>有表情，也有小故事。</h1><p class="lead">保留「三枚零食小剧场」方向；新增表情组合与街机拼贴。中岛回到最新现场照片的商品尺度，展位增加故事、挂货与生活物件应用。</p><span class="status">04 方向暂留 · 新图待评审</span><nav aria-label="当前评审"><a href="#products">两个新方向</a><a href="#niko">最新现场中岛</a><a href="#booth">故事展位</a><a href="#packaging">真实包装</a><a href="#retained">保留的 04</a></nav></header><main><section id="products"><span class="eyebrow">01 / TWO NEW DIRECTIONS</span><h2>把现有萌宠款的玩法，变成 TUNTUN 自己的语言</h2><div class="directions"><div><h3>B · 今天是什么表情？</h3><p>参考 063 的表情、文字与拼布关系。三枚独立头像，用 YUM / ZZZ / YAY 区分状态。</p>'''
+page += fig('08-mood-trio-063.png','B · TUNTUN MOOD CLUB','表情衍生候选 · 薄层 PU、透明吸塑与手机应用。')
+page += '</div><div><h3>C · 快乐加一格</h3><p>参考 052 的窗口拼贴与角色互动。披萨、椰子、奖励星与短语形成街机式小场景。</p>'
+page += fig('09-arcade-collage-052.png','C · TUNTUN PLAY CLUB','街机拼贴候选 · 两个角色与文字、小配件组成一版。')
+page += '</div></div><details><summary>对照用户指定的 063 / 052 原款</summary><div class="pair">'
+page += fig('source/pet-references/pet-063.jpg','063 · 小困喵','参考组合方式、表情与文字的关系。')
+page += fig('source/pet-references/pet-052.jpg','052 · 街机酷喵','参考层叠窗口、色块与角色互动。')
+page += r'''</div></details></section><section id="niko"><span class="eyebrow">02 / SAME SITE, SMALL REAL PRODUCTS</span><h2>大画面负责吸引，小商品保持售卖尺度</h2><p>以最新现场照为基准，保留四包商品在背板中的大小与挂位，以及木托盘、后方挂货、前排卡套和护照夹。立牌展示故事与应用，销售包装不再排成大号方袋。</p><div class="switch" role="group" aria-label="同画幅现场对比"><button type="button" data-photo="10-niko-latest-photo-scale.png" data-caption="修订候选 · 四包小商品、四张应用立牌与原有生活周边。" aria-pressed="true">替换后</button><button type="button" data-photo="source/niko-latest-site-20261119.jpg" data-caption="用户最新现场原照片 · 本轮空间参照。" aria-pressed="false">最新现场原照</button></div><figure><a id="scene-link" href="10-niko-latest-photo-scale.png" target="_blank" rel="noopener"><img class="scene" id="scene-photo" src="10-niko-latest-photo-scale.png" alt="最新 niko 现场的 TUNTUN 陈列修订候选"></a><figcaption id="scene-caption">修订候选 · 四包小商品、四张应用立牌与原有生活周边。</figcaption></figure><p class="smallprint">这是现场替换视觉稿；保留照片中的尺度关系，不据此反推家具实测尺寸。</p></section><section id="booth"><span class="eyebrow">03 / A LITTLE CHARACTER WORLD</span><h2>快乐营业中：看故事、选款、试贴</h2><p>借鉴 Meeko 手册第 8、17 页的连续日常故事，以及同一图案在不同物件上的呼应。沿用纸中岛构造，增加漫画层板、三组挂货、表情窗口与试贴台；手机、护照夹和包装按小实物呈现。</p>'''
+page += fig('11-story-shop-booth.png','TUNTUN · 快乐营业中','AI 空间候选 · 放大角色属于印刷画面；售卖包装和应用样品为小实物。')
+page += '<p class="smallprint">按约 3m × 3m 的概念占地探索，未取得场地方实测图。中岛构造延续既有 MLBB 纸中岛，新增墙板、层板与柜体仍需结构落图。</p></section><section id="packaging"><span class="eyebrow">04 / REAL PACKAGE FIRST</span><h2>包装结构回到实拍，撤回错误的平面比例稿</h2><p>真实包装包含扁圆横向内卡、顶端挂孔区、两侧印刷弧线，以及浅透明 PET 罩和凸边。不能将一张平面椭圆当作整个实体包装，也不能用普通椭圆替代固定轮廓。</p><div class="ref-pair">'
+page += fig('source/pet-references/pet-063-actual-front.jpg','现有 063 · 实体包装正面照片','实拍是包装结构参照；不是本轮新产品。')
+page += fig('source/pet-references/approved-popsticker-outline.png','固定品牌轮廓原图','保持原图整体比例及两侧弧线；生成图不能替代源稿。','outline')
+page += '</div><div class="note">07 四枚肖像比例稿已因外形与包装表现错误撤回。目录整版宽记为 147mm，高度存在 100 / 105mm 两种记录，待实物核验；本轮不再用“标注尺寸”证明生成图正确。</div></section><section id="retained"><span class="eyebrow">05 / RETAINED DIRECTION</span><h2>04 · 三枚零食小剧场，保留继续比较</h2><p>用户反馈“还行”：记录为方向暂留，原图不改，不扩大为生产或整体包装批准。</p><div class="retained">'
+page += fig('04-products-multipatch.png','A · TUNTUN SNACK CLUB','三枚独立角色与零食小剧场 · 本轮保持原图。')
+page += '</div></section><section id="references"><details><summary>其余现有萌宠款与实拍参考</summary><div class="ref-grid">'
+for r in refs:
+    if r['file'].endswith(('pet-063.jpg','pet-052.jpg')):continue
+    page += fig(r['file'],r['name'],r['sku']+' · '+r['series'])
+page += '</div><div class="pair">'
+page += fig('source/pet-references/pet-real-multipack.jpg','现有多枚组合实拍','薄层贴片、内卡和透明罩。')
+page += fig('source/pet-references/pet-real-phone-scale.jpg','现有手机应用实拍','观察小贴片与手机的实际关系。')
+page += r'''</div></details></section></main><footer><p>本轮新图由内置 imagegen 生成，属于视觉候选；角色、文字与包装边界仍需原资产落稿。Meeko 手册仅在本地作为参考，未随页面公开。</p><p>v01 三图、v02 的 05 / 06 / 07 已撤出当前评审，历史原文件保留。<a href="README.md">状态与提示词索引</a> · <a href="review-state.json">版本状态</a></p></footer><script>
+document.querySelectorAll('[data-photo]').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('[data-photo]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));document.getElementById('scene-photo').src=button.dataset.photo;document.getElementById('scene-photo').alt=button.dataset.caption;document.getElementById('scene-link').href=button.dataset.photo;document.getElementById('scene-caption').textContent=button.dataset.caption;}));
+</script></body></html>'''
+(R/'index.html').write_text(page)
+print('Built single v03 review; retained 04, two product directions and two spaces; withdrawn 05/06/07 excluded.')
