@@ -1,0 +1,771 @@
+{
+  "updated": "2026-11-19",
+  "scope": "store-design handoff snapshot",
+  "baseUrl": "https://calfnai.github.io/shanlelab-workspace/",
+  "projects": [
+    {
+      "id": "booth-3x3",
+      "title": "MLBB 3×3展位",
+      "currentFocus": "以11月19日用户提供的正背面设计师接近最终稿为当前参考；主牌1385×1000mm、总高1850mm，待最后确认与源文件导出。",
+      "note": "11.19收到用户提供正背面，明确称“差不多最终稿”；收录为当前设计师参考，尚未送印确认。主牌尺寸更新为1385×1000mm、总高1850mm，旧尺寸册1387×1001仅保留已发送里程碑。背面26挂位；新定孔与可达性待按实物复核。 背景布画面尺寸已由用户确认为宽3000×高3000mm；地面占地不能由布面尺寸推定。 最新修正：参考图下方木托盘／叉车板不存在，改为纸桌；旧670mm托盘高度作废，开稿尺寸按750mm修订，待制造核对。 最新结构数量锁定：一个纸中岛＋一片背景布，不延续重型墙柜或额外独立台架；布的必要支撑由场地方／搭建方核对。 11.13结构方向已更新：纸中岛替代重型墙柜；此前空间效果图仅供历史追溯，不再作为现行结构。新结构v06整体效果已生成；该图沿用80cm桌高，仅看摆位，最新尺寸以v07的75cm修订为准。 海外展位品牌排字统一POPSTICKER；历史源图仅保留追溯。本轮用户指定A3板与钻石贴票，替代A4人工计票提案；500枚为拟定首批，未下单印制。原产品轮廓与主品牌识别保留，场景生成图不作为准确轮廓／小字或施工证明。Switch 2以官方尺寸拟合，保护包尺寸待实物核对。v11两面外背墙保持备选，v10单面文字外背板仍为用户否决，不恢复推荐。 Layla正式商品正面以11月12日新确认原图为准；空间图只作应用和摆位示意，不作为SKU主图。 11.16设计师总交接包已执行发送到calfnmac；发送命令退出0，接收端文件与打开状态未核实。",
+      "cancelledScope": [
+        "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
+        "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
+        "v10单面蓝底文字外背板被用户明确否决：缺椭圆、缺独立MLBB面、只做一面。不要恢复推荐。",
+        "11.13用户确认停用此前重型墙柜展位结构，采用指定纸中岛。"
+      ],
+      "images": [
+        {
+          "label": "11.19 · 设计师接近最终稿 · 正面联名款",
+          "status": "用户提供 · 当前参考／待最后确认",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-handoff-v09-20261114/current-designer-art/front.jpg"
+        },
+        {
+          "label": "11.19 · 设计师接近最终稿 · 背面常规款",
+          "status": "用户提供 · 当前参考／待最后确认",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-handoff-v09-20261114/current-designer-art/back.jpg"
+        },
+        {
+          "label": "11.18 · 新活动画面应用 · 独立中岛",
+          "status": "已生成 · 待用户评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-paper-island-current/current-mlbb-island.png"
+        },
+        {
+          "label": "v08 · 160cm人物／最高排商品3D标注",
+          "status": "已完成 · 平均人体模型非实测",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-reach-v08-20261113/01-back-highest-row.png"
+        },
+        {
+          "label": "v08 · 侧面可达性 · 碰到与拿下不同",
+          "status": "板厚4cm参考情形 · 待实人试取",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-reach-v08-20261113/07-side-thin-board.png"
+        },
+        {
+          "label": "11.13 · v07 · 新增左右双开储物柜门尺寸标注",
+          "status": "已完成 · 开稿参考非生产刀模",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-dimensions-v07-20261113/page-1.png"
+        },
+        {
+          "label": "v06 · 整个展位效果 · 纸中岛＋3×3米背景布",
+          "status": "已生成 · 待视觉评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-scene-v06-20261113/01-overall-scene.png"
+        },
+        {
+          "label": "11.13 · v05 · 新增左右双开储物柜门尺寸标注",
+          "status": "上一版尺寸 · 80cm桌高已由75cm修订版替代",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-dimensions-v05-20261113/page-1.png"
+        },
+        {
+          "label": "11.13 · 平面设计尺寸标注册 · 正侧面／俯视／背面",
+          "status": "上一版尺寸 · 80cm桌高已由75cm修订版替代",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-dimensions-20261113/page-1.png"
+        },
+        {
+          "label": "11.13 · 叉车板移除 · 内收纸桌结构修正",
+          "status": "已生成 · 结构效果待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-paper-table-20261113/01-paper-table-corrected.png"
+        },
+        {
+          "label": "纸桌面2×1米／内收桌身暂1.4×0.5米",
+          "status": "暂定尺寸 · 待制造核对",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-paper-table-20261113/02-table-dimensions.png"
+        },
+        {
+          "label": "11.13 · 一个纸中岛＋一片背景布 · 布局关系",
+          "status": "旧结构示意 · 托盘部分已纠正",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-paper-cloth-20261113/01-layout.png"
+        },
+        {
+          "label": "11.12 · v13 · POPSTICKER英文标识展位",
+          "status": "历史结构 · 已改用纸中岛",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v13-20261112/01-booth-render.png"
+        },
+        {
+          "label": "v13 · 英文椭圆品牌外墙平面",
+          "status": "备选 · 未选定",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v13-20261112/D-wall-A-oval.png"
+        },
+        {
+          "label": "11.12 · v12 · 电竞应用与A3钻石贴票摆位",
+          "status": "历史结构 · 已改用纸中岛",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v12-20261112/01-booth-render.png"
+        },
+        {
+          "label": "11.12 · 亲手贴一颗钻石 · 互动近景",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v12-20261112/02-voting-interaction.png"
+        },
+        {
+          "label": "11.12 · 钻石不干胶 · 16×13mm／拟500枚",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v12-20261112/07-voting-sticker-batch-review.png"
+        },
+        {
+          "label": "11.12 · A3横版投票板 · 420×297mm",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v12-20261112/03-vote-board-A3-420x297mm.png"
+        },
+        {
+          "label": "11.12 · A3板／取贴盘／游戏道具台面分配",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v12-20261112/08-island-placement.png"
+        },
+        {
+          "label": "11.12 · v11 · 三组完整双面新搭配",
+          "status": "备选 · 未选定",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v11-20261112/01-three-new-paired-options.jpg"
+        },
+        {
+          "label": "旧稿找回 · 红色大包／银灰应用双外墙",
+          "status": "备选 · 未选定",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v11-20261112/A-historical-applications.png"
+        },
+        {
+          "label": "11.12 · B · 红色大包＋MCT外转角",
+          "status": "备选 · 未选定",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v11-20261112/B-exterior-corner.png"
+        },
+        {
+          "label": "11.12 · D · 椭圆品牌＋MLBB外转角",
+          "status": "备选 · 未选定",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v11-20261112/D-exterior-corner.png"
+        },
+        {
+          "label": "旧稿找回 · 蓝橙双贴纸主角",
+          "status": "备选 · 未选定",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v11-20261112/E-historical-stickers.png"
+        },
+        {
+          "label": "11.12 · v10 · A4台牌实际摆位方向",
+          "status": "历史空间参考 · 道具与投票改v12",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v10-20261112/01-booth-render.png"
+        },
+        {
+          "label": "11.12 · A4台牌占地与位置",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v10-20261112/04-vote-placement.png"
+        },
+        {
+          "label": "11.12 · v09 · ONLY 800／WIN 601",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v09-20261112/07-poster-review-pair.jpg"
+        },
+        {
+          "label": "11.12 · 下一款由你决定 · A2投票板",
+          "status": "尺寸不采用 · v10缩为A4",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v09-20261112/05-vote-next-420x594mm.png"
+        },
+        {
+          "label": "11.12 · v09 · 两张新海报上墙",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v09-20261112/02-right-wall-elevation.png"
+        },
+        {
+          "label": "11.12 · v08 · 一个标题／三个Logo／两个分区",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v08-20261112/02-right-wall-elevation.png"
+        },
+        {
+          "label": "11.12 · v08 · 小公仔与整排卡牌空间参考",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v08-20261112/01-booth-render.png"
+        },
+        {
+          "label": "11.12 · Layla首发／MCT购任意商品赠礼",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v08-20261112/07-poster-review-pair.jpg"
+        },
+        {
+          "label": "11.12 · Mars两张500×280mm横版供稿尺寸",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v08-20261112/05-mars-poster-brief.png"
+        },
+        {
+          "label": "11.11 · v07 · 70cm柜顶＋两层板／上说明下挂货",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v07-20261111/02-mlbb-wall-elevation.png"
+        },
+        {
+          "label": "11.11 · v07 · 提高地柜后的空间参考",
+          "status": "空间参考 · 以原资产正立面核对",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v07-20261111/01-booth-render.png"
+        },
+        {
+          "label": "11.11 · v06 · 层板面70/110/150 cm",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v06-20261111/02-mlbb-wall-elevation.png"
+        },
+        {
+          "label": "11.11 · v06 · 合作方货架真实尺度方向",
+          "status": "空间参考 · 尺寸与轮廓以原图核对",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v06-20261111/01-booth-render.png"
+        },
+        {
+          "label": "11.10 · v05 · 合作方三层横向层板",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v05-20261110/02-mlbb-wall-elevation.png"
+        },
+        {
+          "label": "11.10 · v05 · 三层横板空间参考",
+          "status": "空间参考 · 轮廓待贴图纠正",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v05-20261110/01-booth-render.png"
+        },
+        {
+          "label": "11.10 · v04 · 整面MLBB专区原资产正立面",
+          "status": "已生成 · 待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v04-20261110/02-mlbb-wall-elevation.png"
+        },
+        {
+          "label": "11.10 · v04 · 整墙专区空间氛围",
+          "status": "空间参考 · 轮廓待贴图纠正",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v04-20261110/01-booth-render.png"
+        },
+        {
+          "label": "11.05 · v03 · 01-booth-render",
+          "status": "历史方向 · 整墙MLBB要求前",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/be4162bafc.png"
+        },
+        {
+          "label": "11.05 · v02 · 01-booth-render",
+          "status": "历史版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/3569a230d0.png"
+        },
+        {
+          "label": "11.05 · v02 · 02-layout-plan",
+          "status": "历史版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/754bd6264f.png"
+        },
+        {
+          "label": "11.05 · v01 · 01-booth-render",
+          "status": "历史版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/ff2da7119b.png"
+        },
+        {
+          "label": "11.05 · v01 · 02-layout-plan",
+          "status": "历史版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/dee39a503e.png"
+        },
+        {
+          "label": "早期展位 v13 · 三开位-展示与储物-概念图",
+          "status": "历史版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/b48f7258c1.png"
+        },
+        {
+          "label": "早期展位 v11 · 泰国站-v12-中岛MPL-MCT",
+          "status": "历史版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/07956d9d74.png"
+        },
+        {
+          "label": "早期展位 v11 · 泰国站-去PIMPLE-周边层板效果图",
+          "status": "历史版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/ed928c862f.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "11.19 · 设计师接近最终稿说明 · 正背面与尺寸口径",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-handoff-v09-20261114/current-designer-art/status.txt"
+        },
+        {
+          "label": "设计师总交接包 · 效果图／75cm尺寸册／15个SVG／离线3D",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-handoff-v09-20261114/index.html"
+        },
+        {
+          "label": "直接下载总包 ZIP · 2026-11-14",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-handoff-v09-20261114/designer-handoff.zip"
+        },
+        {
+          "label": "离线可旋转3D · 下载后用浏览器打开／已本地验证",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-reach-v08-20261113/reach-offline.html"
+        },
+        {
+          "label": "互动3D · 160cm最高排取货校核／原位与后移15cm对比",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/booth-reach-160-v08/"
+        },
+        {
+          "label": "160cm取货校核说明与来源",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-reach-v08-20261113/reach-notes.txt"
+        },
+        {
+          "label": "v07 · 75cm桌高修订尺寸册 · 5页PDF＋15个SVG模板",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-dimensions-v07-20261113/index.html"
+        },
+        {
+          "label": "下载平面设计师开稿包ZIP · 暂拟尺寸有标注",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-dimensions-v07-20261113/designer-start-pack-v07.zip"
+        },
+        {
+          "label": "v06 整体空间效果 · 看背景布与纸中岛摆位",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-scene-v06-20261113/index.html"
+        },
+        {
+          "label": "v05 双开柜门尺寸册 · 5页PDF＋15个SVG模板",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-dimensions-v05-20261113/index.html"
+        },
+        {
+          "label": "下载平面设计师开稿包ZIP · 暂拟尺寸有标注",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-dimensions-v05-20261113/designer-start-pack-v05.zip"
+        },
+        {
+          "label": "设计师尺寸标注册 · 4页PDF＋11个SVG模板",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-dimensions-20261113/index.html"
+        },
+        {
+          "label": "下载平面设计师开稿包ZIP · 暂拟尺寸有标注",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-designer-dimensions-20261113/designer-start-pack-v04.zip"
+        },
+        {
+          "label": "纸桌结构修正：无叉车板／脚部内收空间",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-paper-table-20261113/index.html"
+        },
+        {
+          "label": "11.13 · 两件式展位布局与结构说明",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-paper-cloth-20261113/index.html"
+        },
+        {
+          "label": "11.13 · 纸中岛结构与正背面陈列确认",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-paper-island-20261113/structure-brief.txt"
+        },
+        {
+          "label": "v13 · POPSTICKER英文标识／外墙平面",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v13-20261112/index.html"
+        },
+        {
+          "label": "v12 · A3钻石贴票／电竞应用场景",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v12-20261112/index.html"
+        },
+        {
+          "label": "钻石贴＋A3板审阅交付包 ZIP · 未下单印制",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v12-20261112/diamond-voting-review-pack-v12.zip"
+        },
+        {
+          "label": "v11 · 三组新双面搭配＋两组旧稿参考",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v11-20261112/index.html"
+        },
+        {
+          "label": "v10 · A4摆位参考（外背板已否决）",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v10-20261112/index.html"
+        },
+        {
+          "label": "A4投票牌 PDF · 297×210mm · 审阅稿",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v10-20261112/03-vote-tabletop-A4-297x210mm.pdf"
+        },
+        {
+          "label": "11.12 · v09 · 总限量／钻石机会／下一款投票",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v09-20261112/index.html"
+        },
+        {
+          "label": "11.12 · v08展位、玩法海报与Mars供稿尺寸",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v08-20261112/index.html"
+        },
+        {
+          "label": "查看v07 · 柜顶陈列与说明/挂货",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v07-20261111/index.html"
+        },
+        {
+          "label": "查看v06 · 层板高度与商品尺度",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v06-20261111/index.html"
+        },
+        {
+          "label": "查看v05 · 合作方三层横向层板",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v05-20261110/index.html"
+        },
+        {
+          "label": "查看泰国展位v04 · 专区与领取/购买说明",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/mlbb-booth-v04-20261110/index.html"
+        },
+        {
+          "label": "凡几／Nowre／通用3×3历史资料（非当前MLBB稿）",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-3x3-history/index.html"
+        }
+      ]
+    },
+    {
+      "id": "niko",
+      "title": "niko and… 展位",
+      "currentFocus": "纸展位已选定；柱区两面纸板方孔挂货。",
+      "note": "纸方案已选定；新v15模型与渲染待用户核对。红色单层纸台、双面椭圆、柱区纸板方孔插钩已建入模型。原实样与历史保留。",
+      "cancelledScope": null,
+      "images": [
+        {
+          "label": "纸展位 v15 · 整体",
+          "status": "新模型渲染 · 待核对",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-paper-final-v15/preview/paper-overall.png"
+        },
+        {
+          "label": "纸展位 v15 · 中岛正面",
+          "status": "新模型渲染 · 待核对",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-paper-final-v15/preview/paper-island.png"
+        },
+        {
+          "label": "纸展位 v15 · 中岛背面",
+          "status": "新模型渲染 · 待核对",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-paper-final-v15/preview/paper-back.png"
+        },
+        {
+          "label": "纸展位 v15 · 柱子区",
+          "status": "新模型渲染 · 待核对",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-paper-final-v15/preview/paper-column.png"
+        },
+        {
+          "label": "纸展位 v15 · 方孔与挂钩细节",
+          "status": "新模型渲染 · 待核对",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-paper-final-v15/preview/paper-slot-detail.png"
+        },
+        {
+          "label": "纸展具 · 实样照片",
+          "status": "用户选定方案 · 实样",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/niko-paper-selected-20261113/island-sample.jpg"
+        },
+        {
+          "label": "柱区纸板方孔 · 结构实物照片",
+          "status": "用户确认结构",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/niko-paper-selected-20261113/column-slot-board.jpg"
+        },
+        {
+          "label": "圣诞礼盒 · 实物照片",
+          "status": "用户提供实物",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/niko-paper-selected-20261113/gift-sample.jpg"
+        },
+        {
+          "label": "复古磁带款 · 产品宣传图",
+          "status": "用户提供宣传图",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/niko-paper-selected-20261113/product-1.jpg"
+        },
+        {
+          "label": "niko and…联名圣诞款 · 产品宣传图",
+          "status": "用户提供宣传图",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/niko-paper-selected-20261113/product-2.jpg"
+        },
+        {
+          "label": "冬日针织款 · 产品宣传图",
+          "status": "用户提供宣传图",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/niko-paper-selected-20261113/product-3.jpg"
+        },
+        {
+          "label": "圣诞祝福款 · 产品宣传图",
+          "status": "用户提供宣传图",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/niko-paper-selected-20261113/product-4.jpg"
+        },
+        {
+          "label": "水管吊海洋板 · 中岛",
+          "status": "历史方案 · 前期模型渲染",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-comparison/preview/pipe-island.png"
+        },
+        {
+          "label": "水管吊海洋板 · 柱子区",
+          "status": "历史方案 · 前期模型渲染",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-comparison/preview/pipe-column.png"
+        },
+        {
+          "label": "水管吊海洋板 · 中岛背面",
+          "status": "历史方案 · 前期模型渲染",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-comparison/preview/pipe-back.png"
+        },
+        {
+          "label": "水管吊海洋板 · 整体",
+          "status": "历史方案 · 前期模型渲染",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-comparison/preview/pipe-overall.png"
+        },
+        {
+          "label": "纯纸板 · 中岛",
+          "status": "历史方案 · 前期模型渲染",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-comparison/preview/paper-island.png"
+        },
+        {
+          "label": "纯纸板 · 柱子区",
+          "status": "历史方案 · 前期模型渲染",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-comparison/preview/paper-column.png"
+        },
+        {
+          "label": "纯纸板 · 中岛背面",
+          "status": "历史方案 · 前期模型渲染",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-comparison/preview/paper-back.png"
+        },
+        {
+          "label": "纯纸板 · 整体",
+          "status": "历史方案 · 前期模型渲染",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-comparison/preview/paper-overall.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "纸展位 v15 · 新模型",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-paper-final-v15/viewer.html"
+        },
+        {
+          "label": "水管海洋板方案 · 前期3D参考",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-comparison/viewer.html?scheme=pipe"
+        },
+        {
+          "label": "纸方案 · 前期3D参考",
+          "url": "https://calfnai.github.io/shanlelab-workspace/demos/niko-comparison/viewer.html?scheme=paper"
+        },
+        {
+          "label": "圣诞提案 v04 · PDF",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/闪乐LAB-nikoand圣诞联动完整方案-v04.pdf"
+        },
+        {
+          "label": "联名创作说明 · 两页",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/niko-concept/创作说明.html"
+        }
+      ]
+    },
+    {
+      "id": "hangzhou-xinwuji-space",
+      "title": "杭州新物集 SPACE",
+      "currentFocus": "比较两个option的空间占用、选款展示、包袋应用与携带安装方式，等待最终选择。",
+      "note": "电视架方案当前用反面密集选款画面，旧正面v01转历史；四笼方案继续使用用户指定原图。两版结构方案并行保留。",
+      "cancelledScope": null,
+      "images": [
+        {
+          "label": "候选 · 椭圆单杆落地架 v02反面选款",
+          "status": "用户已指定使用反面 · 效果待评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/hangzhou-space-oval-stand-v02-reverse-20261113/concept.png"
+        },
+        {
+          "label": "候选 · 四笼网格 × 新KT四面混合陈列",
+          "status": "用户指定为另一个候选 · 未最终选定",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/hangzhou-space-cage-kt-20261113/concept.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "电视架v02 · 反面选款说明",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/hangzhou-space-oval-stand-v02-reverse-20261113/notes.md"
+        },
+        {
+          "label": "用户指定的反面原稿",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/hangzhou-space-oval-stand-v02-reverse-20261113/source-face.png"
+        },
+        {
+          "label": "四笼KT方案 · 图面尺寸与候选状态",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/hangzhou-space-cage-kt-20261113/notes.md"
+        }
+      ]
+    },
+    {
+      "id": "nowre",
+      "title": "NOWRE · B1独立场地",
+      "currentFocus": "核实实际可带道具，将密集选款、POP实物应用、取货空间和柜内备货一起规划。",
+      "note": "只依据B1手册安排场地；不带ART，保留POP实物应用示范。新效果图尚未完成，道具可用数量待核实。",
+      "cancelledScope": "NOWRE不带任何ART STICKER；此前ART阶梯架、ART To_GO画面及艺术贴应用展示均停止沿用。v01/v02用户已否决，旧A1与3×3尺寸及挂钩估算也不适用。 双塔Option 2已否决，不再深化；POP应用展示必须保留。",
+      "images": [
+        {
+          "label": "Option 1 · 整面35位选款",
+          "status": "用户保留候选 · 缺应用展示，需修改",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-render-v03/overall.png"
+        },
+        {
+          "label": "Option 2 · 左右双塔36位／中央试贴",
+          "status": "用户已否决 · 虚构双塔、浪费空间",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-option2-20261112/overall.png"
+        },
+        {
+          "label": "B1 v02 · 参考真实案例重新陈列",
+          "status": "用户已否决 · 含ART且展示量不足",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-render-v02/overall.png"
+        },
+        {
+          "label": "B1 v02 · 柜面与商品近景",
+          "status": "用户已否决 · 含ART且展示量不足",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-render-v02/counter.png"
+        },
+        {
+          "label": "NOWRE B1 v01 · 柜面陈列整体效果",
+          "status": "用户已否决 · 历史记录",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-render-v01/overall.png"
+        },
+        {
+          "label": "B1手册 · 原结构与展开尺寸",
+          "status": "用户指定的当前唯一场地依据",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-20261111/b1-reference.png"
+        },
+        {
+          "label": "B1手册 · 原柜体与官方侧牌",
+          "status": "场地依据 · 不是陈列提案",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-review-20261112/cabinet.webp"
+        },
+        {
+          "label": "真实案例 · CTE 2026 的选款与应用关系",
+          "status": "品牌陈列参考 · 不是NOWRE方案",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-review-20261112/cte2026.webp"
+        },
+        {
+          "label": "真实道具 · 啵啵贴纸架实拍",
+          "status": "现有案例参考 · 本次可带数量待核实",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-review-20261112/paper-rack.webp"
+        }
+      ],
+      "links": [
+        {
+          "label": "本页图片来源与版本状态",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-review-20261112/sources.md"
+        },
+        {
+          "label": "历史已否决 · 双塔Option 2对比说明",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-option2-20261112/comparison.md"
+        },
+        {
+          "label": "v03 · 35展示位与柜内备货的核算边界",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-render-v03/capacity.md"
+        },
+        {
+          "label": "历史已否决 · v02 · 具体案例依据与适配说明",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-render-v02/references.md"
+        },
+        {
+          "label": "用户指定的真实陈列案例库",
+          "url": "https://calfn.com/SHANLE_LAB_Retail_Cases/"
+        },
+        {
+          "label": "B1 v01 · 新陈列方案与道具提案",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-render-v01/proposal.md"
+        },
+        {
+          "label": "B1当前依据与使用限制",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/nowre-b1-20261111/basis.md"
+        }
+      ]
+    },
+    {
+      "id": "chengdu-2c2d",
+      "title": "成都 2C2D · 联名产品与店内陈列",
+      "currentFocus": "店内陈列优化；研究头部增加几十厘米级的小装置。造型、尺寸及安装方式尚未确认。",
+      "note": "2026-11-06 按用户最新说明归并。巨型入口装置计划已取消；当前仅推进店内陈列优化，头部增加几十厘米级的小装置仍处于设想阶段。现有 v19 等图稿是下一步修改的基础，不是这次小装置的完成图。",
+      "cancelledScope": "巨型入口／门口装置：用户已取消。其 GLB／STEP、建模脚本及专用检查文件已于 2026-11-06 移出原项目；原效果图保留作历史参考，不作为当前方案。",
+      "images": [
+        {
+          "label": "店内陈列 · v19 · 新L形专区-v19-橙色凸起招牌效果",
+          "status": "现有参考 · 待小装置调整",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/f40c69a17d.png"
+        },
+        {
+          "label": "店内陈列 · v18 · 新L形专区-v18-全品类与视觉锤",
+          "status": "店内其他版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/b9379a8d39.png"
+        },
+        {
+          "label": "店内陈列 · v18 · 首版-联名包装缩放前",
+          "status": "店内其他版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/5d61bdc1bd.png"
+        },
+        {
+          "label": "店内陈列 · v17 · 新L形专区-v17-统一陈列效果",
+          "status": "店内其他版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/d00244b498.png"
+        },
+        {
+          "label": "店内陈列 · v17 · 首版-联名包装放大待修正",
+          "status": "店内其他版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/2554f06d19.png"
+        },
+        {
+          "label": "联名产品 · 三套独立椭圆包装 v03",
+          "status": "产品层面阶段稿",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/8445a405cc.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "联名产品 · 三套椭圆包装评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/chengdu-2c2d/成都三套贴纸.html"
+        },
+        {
+          "label": "早期产品讨论 · 网页对话",
+          "url": "https://aion.welovetiktok.com/#/conversation/fd0f753c"
+        }
+      ]
+    },
+    {
+      "id": "booth-4x4",
+      "title": "4×4 展位 · 凡几归属待核对",
+      "currentFocus": null,
+      "note": "已将找到的 4×4 成果单独收录；原目录和交接尚未标注“凡几”，与本次提到的凡几项目是否同一条线仍待核对。4×2 已否决，不混入本项目。v02 写实图仍有灯数、商品排数与招牌比例问题，不能视为最终确认。",
+      "cancelledScope": null,
+      "images": [
+        {
+          "label": "4×4 · v02 灯具校核稿",
+          "status": "当前比较提案",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-4x4-comparison/render-4x4-v02-light-review.png"
+        },
+        {
+          "label": "4×4 · 同尺度平面",
+          "status": "平面提案",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-4x4-comparison/plan-4x4.png"
+        },
+        {
+          "label": "4×4 · v01 初稿",
+          "status": "其他版本",
+          "url": "https://calfnai.github.io/shanlelab-workspace/media/04750c619d.png"
+        },
+        {
+          "label": "3×3 · 同组比较图",
+          "status": "对比参考",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-4x4-comparison/render-3x3-v01.png"
+        },
+        {
+          "label": "3×3／4×4 · 同尺度平面对照",
+          "status": "比较提案",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-4x4-comparison/plans-comparison.png"
+        },
+        {
+          "label": "真实商品陈列数量核对",
+          "status": "图稿核对",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-4x4-comparison/merchandise-check.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "完整 3×3／4×4 比较评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/booth-4x4-comparison/index.html"
+        }
+      ]
+    },
+    {
+      "id": "tuntun-popsticker",
+      "title": "TUNTUN · 萌宠组合与快乐补给站",
+      "currentFocus": "从既有萌宠多枚组合重新设计；比较三枚零食小剧场与四枚迷你肖像，以及快乐补给站的两种空间应用。",
+      "note": "v02 新候选，待用户评审。v01 三张图已否决并撤下。包装宽 147mm 来自目录；高度 100/105mm 记录有冲突，单枚 32–45mm 为本轮建议。B 使用原图与标准蒙版直接排版；AI 图不能作为实测或轮廓定稿。",
+      "cancelledScope": [
+        "v01 单枚大徽章、奶油色中岛与展位因比例和创意不合要求已否决，不恢复推荐。"
+      ],
+      "images": [
+        {
+          "label": "v02 · A 三枚零食小剧场",
+          "status": "已生成 · 待用户评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/tuntun-popsticker-20261119-v01/04-products-multipatch.png"
+        },
+        {
+          "label": "v02 · B 四枚原画与 A6 比例稿",
+          "status": "已生成 · 待用户评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/tuntun-popsticker-20261119-v01/07-four-portraits-scale-proof.png"
+        },
+        {
+          "label": "v02 · niko 快乐补给站中岛",
+          "status": "已生成 · 待用户评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/tuntun-popsticker-20261119-v01/05-niko-snack-island.png"
+        },
+        {
+          "label": "v02 · 轻型快乐补给站",
+          "status": "已生成 · 待用户评审",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/tuntun-popsticker-20261119-v01/06-light-snack-booth.png"
+        }
+      ],
+      "links": [
+        {
+          "label": "v02 产品／原图比例／中岛／展位与21款萌宠参考",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/tuntun-popsticker-20261119-v01/index.html"
+        },
+        {
+          "label": "原画与标准蒙版的 SVG 比例稿",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/tuntun-popsticker-20261119-v01/07-four-portraits-scale-proof.svg"
+        },
+        {
+          "label": "尺寸来源与候选值",
+          "url": "https://calfnai.github.io/shanlelab-workspace/documents/tuntun-popsticker-20261119-v01/scale-proof.json"
+        }
+      ]
+    }
+  ]
+}
