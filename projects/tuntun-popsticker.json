@@ -1,0 +1,46 @@
+{
+  "id": "tuntun-popsticker",
+  "title": "TUNTUN · 啵啵贴与展陈概念",
+  "en": "12 / TUNTUN POPSTICKER",
+  "description": "四款完整原画的皮质啵啵贴、niko 现场中岛与轻型展位效果。",
+  "conversation": "f393b1e3",
+  "conversationName": "TUNTUN 啵啵贴与中岛展位概念",
+  "note": "2026-11-19 首轮视觉候选，待用户评审。AI 场景与材质模拟；尺寸、工艺、文字印刷和合作方批准尚未确认。",
+  "items": [
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/01-product-concept.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/01-product-concept.png",
+      "label": "四款皮质啵啵贴 · 产品候选",
+      "status": "已生成 · 待用户评审",
+      "note": "完整徽章原画转皮质贴；单徽章背卡与笔记本应用，材料工艺及规格未定版。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/02-niko-island-concept.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/02-niko-island-concept.png",
+      "label": "niko 现场中岛 · TUNTUN 候选",
+      "status": "已生成 · 待用户评审",
+      "note": "用户提供现场照片的主题编辑；木托盘中岛、正面联名候选与后方常规挂货。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/03-light-booth-concept.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/03-light-booth-concept.png",
+      "label": "MLBB 轻型结构 · TUNTUN 候选",
+      "status": "已生成 · 待用户评审",
+      "note": "沿用纸中岛与背景布的组合，替换为 TUNTUN 图案；独立主题概念。"
+    }
+  ],
+  "links": [
+    {
+      "label": "产品与两种空间 · 大图对照",
+      "href": "documents/tuntun-popsticker-20261119-v01/index.html",
+      "kind": "document"
+    }
+  ],
+  "currentFocus": "比较四款完整徽章原画的产品转译，以及暖木中岛和纸中岛加背景布两种陈列；待选方向。",
+  "galleryLabel": "首轮产品与空间候选",
+  "sync": {
+    "checkedAt": "2026-11-19",
+    "sourceConversation": "f393b1e3",
+    "status": "三张视觉候选已生成，未选定或生产。"
+  }
+}
