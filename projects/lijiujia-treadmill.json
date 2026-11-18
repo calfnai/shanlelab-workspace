@@ -2,10 +2,10 @@
   "id": "lijiujia-treadmill",
   "title": "立久佳 LIjiujia · 跑步机设计",
   "en": "11 / LIJIUJIA · TREADMILL",
-  "description": "11.17会议后仅凌序继续深化；星弧与曜影已放弃。下一版HTML分别用一页说明两款被否决的原因，正文待补充会议记录。",
+  "description": "11.17会议后仅凌序继续深化；星弧与曜影整案已放弃。已依据原会议记录完成两页否决说明，并纳入汇报第43—44页；第45页列出凌序九条修改要求。",
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
-  "note": "方案取舍已明确。曜影和星弧各需一页否决复盘，具体原因以用户补充会议记录为依据，尚未完成正文。凌序新设计与工程仍需核验。",
+  "note": "两页否决说明已完成并配原模型图，直接意见与项目共用约束分别标明。原会议已包含原因，无需等待其他记录。风险意见不代表测试失败；凌序九条要求已整理，新设计与工程仍需评审。",
   "currentFocus": "仅凌序继续深化：保留原机结构与成熟一键折叠基准，优化表头、立柱、跑台轻薄观感、局部包覆和折叠包装。",
   "items": [
     {
@@ -439,18 +439,50 @@
       "file": "documents/treadmill/meeting-annotations-20261117/01-directions.png",
       "thumb": "documents/treadmill/meeting-annotations-20261117/01-directions.png",
       "label": "11.17会议 · 仅凌序继续深化",
-      "status": "方案取舍已明确 · 凌序继续深化",
-      "note": "用户明确：仅凌序继续深化，星弧与曜影整案均已放弃。原图完整保留；该决定不等于凌序新外观或工程已通过。"
+      "status": "会议说明已完成 · 凌序继续深化",
+      "purpose": "decision-review",
+      "note": "依据原11.17会议记录及用户补充修改点完成；星弧与曜影整案已放弃，两款配图仅用于解释否决原因。凌序新设计与工程仍需评审。"
     },
     {
       "file": "documents/treadmill/meeting-annotations-20261117/02-linear-changes.png",
       "thumb": "documents/treadmill/meeting-annotations-20261117/02-linear-changes.png",
       "label": "11.17会议 · 凌序深化位置与屏幕原图",
-      "status": "方案取舍已明确 · 凌序继续深化",
-      "note": "用户明确：仅凌序继续深化，星弧与曜影整案均已放弃。原图完整保留；该决定不等于凌序新外观或工程已通过。"
+      "status": "会议说明已完成 · 凌序继续深化",
+      "purpose": "decision-review",
+      "note": "依据原11.17会议记录及用户补充修改点完成；星弧与曜影整案已放弃，两款配图仅用于解释否决原因。凌序新设计与工程仍需评审。"
+    },
+    {
+      "file": "documents/treadmill/meeting-annotations-20261117/03-origin-rejection.png",
+      "thumb": "documents/treadmill/meeting-annotations-20261117/03-origin-rejection.png",
+      "label": "曜影 · 本轮否决原因详解",
+      "status": "会议说明已完成 · 凌序继续深化",
+      "purpose": "decision-review",
+      "note": "依据原11.17会议记录及用户补充修改点完成；星弧与曜影整案已放弃，两款配图仅用于解释否决原因。凌序新设计与工程仍需评审。"
+    },
+    {
+      "file": "documents/treadmill/meeting-annotations-20261117/04-xinghu-rejection.png",
+      "thumb": "documents/treadmill/meeting-annotations-20261117/04-xinghu-rejection.png",
+      "label": "星弧 · 本轮否决原因详解",
+      "status": "会议说明已完成 · 凌序继续深化",
+      "purpose": "decision-review",
+      "note": "依据原11.17会议记录及用户补充修改点完成；星弧与曜影整案已放弃，两款配图仅用于解释否决原因。凌序新设计与工程仍需评审。"
+    },
+    {
+      "file": "documents/treadmill/meeting-annotations-20261117/05-linear-revisions.png",
+      "thumb": "documents/treadmill/meeting-annotations-20261117/05-linear-revisions.png",
+      "label": "凌序 · 九条深化要求",
+      "status": "会议说明已完成 · 凌序继续深化",
+      "purpose": "decision-review",
+      "note": "依据原11.17会议记录及用户补充修改点完成；星弧与曜影整案已放弃，两款配图仅用于解释否决原因。凌序新设计与工程仍需评审。"
     }
   ],
   "links": [
+    {
+      "label": "两款否决原因详解与凌序九条修改",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/meeting-annotations-20261117/rejection-pages.html",
+      "kind": "document",
+      "purpose": "decision-review"
+    },
     {
       "label": "11.17会议图示标注 · 仅凌序继续深化",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/meeting-annotations-20261117/",
@@ -507,7 +539,7 @@
       "kind": "review"
     },
     {
-      "label": "HTML 汇报试排 v06 · 16:9自由滚动 · 含封面与前期工作回顾",
+      "label": "完整HTML汇报 · 45页 · 含会议取舍与凌序深化",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/presentation-20261115/",
       "kind": "review"
     },
@@ -604,20 +636,20 @@
   ],
   "galleryLabel": "凌序深化与会议结论 · 已放弃方案转入历史",
   "milestone": {
-    "title": "仅凌序继续深化",
-    "date": "2026-11-17",
-    "status": "会议取舍已明确",
-    "summary": "星弧与曜影两款整案均已放弃；后续设计仅围绕凌序推进。",
-    "approvalNote": "确认范围为方案取舍，凌序新外观、成本与工程仍待逐项评审。",
-    "next": "依据另一版会议记录，分别完成曜影、星弧两页否决说明，纳入下一版HTML。"
+    "title": "否决原因两页成稿 · 仅凌序继续深化",
+    "date": "2026-11-18",
+    "status": "会议说明已完成",
+    "summary": "曜影、星弧各一页否决说明，凌序九条要求另列一页，已加入现有汇报第43—45页。",
+    "approvalNote": "用户已确认方案取舍；本轮说明稿已完成，凌序新外观、成本与工程仍待逐项评审。",
+    "next": "按九条要求深化凌序，检查头部折叠方向、握持、连续侧饰、下盖板与撑杆及贴片镜面。"
   },
   "progress": {
-    "updated": "2026-11-17",
+    "updated": "2026-11-18",
     "summary": "仅凌序继续深化：保留原机结构与成熟一键折叠基准，优化表头、立柱、跑台轻薄观感、局部包覆和折叠包装。",
     "next": [
       {
-        "title": "分别完成两页否决复盘",
-        "detail": "曜影一页、星弧一页；依据用户补充会议记录解释当日否决原因，放入下一版汇报HTML。当前仅准备版式，原因正文待原文。"
+        "title": "按九条要求深化凌序",
+        "detail": "屏幕可斜而构件尽量不斜、头部换向折叠、细扶手、连续侧饰、后墩弧面、下盖板注意撑杆、贴片非玻璃镜面、插拔电源线；彩色跑道允许探索。"
       },
       {
         "title": "核准凌序原机结构冻结范围",
@@ -633,6 +665,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "11.17会议说明三页成稿 · 否决原因与凌序修改",
+        "detail": "已从原会议记录逐项展开曜影安全、承载、工程、结构和包装问题，以及星弧定位、异形立柱与大壳模具投入、可能偏小众等原因。两款各一页，新增凌序九条要求一页，纳入现有汇报第43—45页；取消等待其他会议记录的占位。仅凌序继续深化。"
+      },
       {
         "title": "11.17会议取舍纠正 · 仅凌序继续深化",
         "detail": "用户明确会议结果：仅凌序继续深化，星弧与曜影两款整案均已放弃。撤销此前仅暂停部分路线和编号待核准的错误口径。下一版HTML分别用一页说明曜影、星弧否决原因，正文待用户补充会议记录。"
@@ -1137,6 +1173,10 @@
       }
     ],
     "history": [
+      {
+        "title": "11.17会议说明三页成稿 · 否决原因与凌序修改",
+        "detail": "已从原会议记录逐项展开曜影安全、承载、工程、结构和包装问题，以及星弧定位、异形立柱与大壳模具投入、可能偏小众等原因。两款各一页，新增凌序九条要求一页，纳入现有汇报第43—45页；取消等待其他会议记录的占位。仅凌序继续深化。"
+      },
       {
         "title": "11.17会议取舍纠正 · 仅凌序继续深化",
         "detail": "用户明确会议结果：仅凌序继续深化，星弧与曜影两款整案均已放弃。撤销此前仅暂停部分路线和编号待核准的错误口径。下一版HTML分别用一页说明曜影、星弧否决原因，正文待用户补充会议记录。"
@@ -1985,6 +2025,17 @@
     ],
     "visualGroups": [
       {
+        "title": "11.17会议说明三页成稿 · 否决原因与凌序修改",
+        "note": "两款否决原因各一页，凌序九条修改一页；已完成并纳入汇报。两款原图仅用于决策复盘，不恢复为当前候选。",
+        "files": [
+          "documents/treadmill/meeting-annotations-20261117/01-directions.png",
+          "documents/treadmill/meeting-annotations-20261117/02-linear-changes.png",
+          "documents/treadmill/meeting-annotations-20261117/03-origin-rejection.png",
+          "documents/treadmill/meeting-annotations-20261117/04-xinghu-rejection.png",
+          "documents/treadmill/meeting-annotations-20261117/05-linear-revisions.png"
+        ]
+      },
+      {
         "title": "11.17会议取舍纠正 · 仅凌序继续深化",
         "note": "方案取舍已明确；两页独立否决说明正文仍待另一版会议记录。",
         "files": [
@@ -2187,6 +2238,22 @@
       {
         "title": "星弧底部饰板材质深化",
         "detail": "评审本轮A石墨铝/B暖银铝/C深灰PC+ABS；确定方向后打样色板、端部收口与拆装，核对相对运动边界。"
+      },
+      {
+        "title": "分别完成两页否决复盘",
+        "detail": "曜影一页、星弧一页；依据用户补充会议记录解释当日否决原因，放入下一版汇报HTML。当前仅准备版式，原因正文待原文。"
+      },
+      {
+        "title": "核准凌序原机结构冻结范围",
+        "detail": "以甲方正式原机3D确认金属立柱截面、成熟一键折叠机构与可改外壳范围。"
+      },
+      {
+        "title": "集中深化凌序外观",
+        "detail": "优化表头与扶手厚度、立柱外观、跑台轻薄观感及局部包覆，保留既有屏幕原图并列和已确认握把材质。"
+      },
+      {
+        "title": "复核凌序包装与工艺边界",
+        "detail": "检查折平包络、可包覆范围、模具投入和装配，工程与成本尚未冻结。"
       }
     ],
     "historicalVisualGroups": [
@@ -4341,6 +4408,14 @@
       "summary": "主模型确认活动立柱与固定下梁实体重叠，禁用两款折叠、播放、竖放和对应API；独立坡形两轴研究退出当前交付。",
       "approvalNote": "取消此前以滑条与矩阵变化代表机构完成的表述；曜影保留操作仍未经工程核验。",
       "next": "分别确定真实轴线和分件，再做全过程干涉、净距与锁止检查。"
+    },
+    {
+      "title": "仅凌序继续深化",
+      "date": "2026-11-17",
+      "status": "会议取舍已明确",
+      "summary": "星弧与曜影两款整案均已放弃；后续设计仅围绕凌序推进。",
+      "approvalNote": "确认范围为方案取舍，凌序新外观、成本与工程仍待逐项评审。",
+      "next": "依据另一版会议记录，分别完成曜影、星弧两页否决说明，纳入下一版HTML。"
     }
   ]
 }
