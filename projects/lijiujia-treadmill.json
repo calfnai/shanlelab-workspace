@@ -632,6 +632,11 @@
       "label": "完整项目私有主档 · 需仓库权限",
       "href": "https://github.com/calfnai/lijiujia-project",
       "kind": "archive"
+    },
+    {
+      "label": "11.19补充归档与恢复清单 · 需私有仓库权限",
+      "href": "https://github.com/calfnai/lijiujia-project/releases/tag/local-supplement-20261119",
+      "kind": "archive"
     }
   ],
   "galleryLabel": "凌序深化与会议结论 · 已放弃方案转入历史",
@@ -665,6 +670,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "11.19私有主档补齐与本地清理",
+        "detail": "已将1,041个本地历史与过程文件补存私有GitHub Release并核验校验和；清理旧检查产物和交接ZIP等约209MiB。原始CAD、当前模型输入、屏幕原图、已确认图稿及会议原件保留；设计状态不变，仅凌序继续深化。"
+      },
       {
         "title": "会议说明逐点配图 · 15处局部与6个图标",
         "detail": "按用户要求，在汇报第43—45页每个小点旁添加原图局部或语义图标，共15处局部、6个图标。齿轮、扶手、立柱、表头、盖板等显示区域；平台复用、大众定位、周期和未定接口位置的插拔电源用图标。只更新说明稿，不恢复已放弃方案。"
