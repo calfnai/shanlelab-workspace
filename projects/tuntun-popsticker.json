@@ -2,31 +2,31 @@
   "id": "tuntun-popsticker",
   "title": "TUNTUN · 表情、街机与故事陈列",
   "en": "12 / TUNTUN POPSTICKER",
-  "description": "保留三枚零食方向；新增063表情组合、052街机拼贴，以及最新现场中岛和故事展位。",
+  "description": "两套贴纸内容和纸卡背景获认可；本轮修订完整品牌标识、POP STICKER专用字标与真实包装外形。",
   "conversation": "f393b1e3",
   "conversationName": "TUNTUN 啵啵贴与中岛展位概念",
-  "note": "v03新候选。04获用户反馈还行，方向暂留；05/06/07因商品尺度、内容和外形问题撤出。重新对照实体吸塑包装及最新现场。宽147mm为目录记录，高100/105mm待实物核验；AI图不作为刀模或施工依据。",
+  "note": "v04两张产品修订：B/C贴纸内容与纸卡背景已获用户认可，完整标识与外形三项修复待复核；采用实拍包装正面作底。04方向暂留，中岛和故事展位保留v03。宽147mm为目录记录，高100/105mm待实物核验，不作为刀模或施工依据。",
   "items": [
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
+      "label": "v04 · B 表情组合 / 参考063 · 标识与外形修订",
+      "status": "内容与背景获认可 · 三项修订待复核",
+      "note": "保留已认可的贴纸内容与纸卡设计，以实拍包装正面作底修订完整SHANLE LAB标识、POP STICKER专用字标及实体包形；本轮修订待用户复核，非生产刀模。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/09-arcade-collage-052.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/09-arcade-collage-052.png",
+      "label": "v04 · C 街机拼贴 / 参考052 · 标识与外形修订",
+      "status": "内容与背景获认可 · 三项修订待复核",
+      "note": "保留已认可的贴纸内容与纸卡设计，以实拍包装正面作底修订完整SHANLE LAB标识、POP STICKER专用字标及实体包形；本轮修订待用户复核，非生产刀模。"
+    },
     {
       "file": "documents/tuntun-popsticker-20261119-v01/04-products-multipatch.png",
       "thumb": "documents/tuntun-popsticker-20261119-v01/04-products-multipatch.png",
       "label": "A · 三枚零食小剧场 · 方向暂留",
       "status": "用户反馈还行 · 保留比较",
       "note": "保留原图与设计方向，不扩大为包装、生产或整体方案批准。"
-    },
-    {
-      "file": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
-      "thumb": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
-      "label": "v03 · B 表情组合 / 参考063",
-      "status": "已生成 · 待用户评审",
-      "note": "参考表情与文字交织、拼布底纹。实拍包装结构作参照，生成轮廓与新增表情待源稿校正。"
-    },
-    {
-      "file": "documents/tuntun-popsticker-20261119-v01/09-arcade-collage-052.png",
-      "thumb": "documents/tuntun-popsticker-20261119-v01/09-arcade-collage-052.png",
-      "label": "v03 · C 街机拼贴 / 参考052",
-      "status": "已生成 · 待用户评审",
-      "note": "参考窗口层叠与角色互动，两枚角色、奖励星和文字组成一版。生成轮廓待源稿校正。"
     },
     {
       "file": "documents/tuntun-popsticker-20261119-v01/10-niko-latest-photo-scale.png",
@@ -45,7 +45,7 @@
   ],
   "links": [
     {
-      "label": "v03 两个新方向、现场对比、故事展位与真实包装",
+      "label": "v04 标识与包装外形修订 / 已认可内容与原始品牌资产",
       "href": "documents/tuntun-popsticker-20261119-v01/index.html",
       "kind": "document"
     },
@@ -55,12 +55,12 @@
       "kind": "document"
     }
   ],
-  "currentFocus": "以真实包装与最新现场为基准，比较063表情组合、052街机拼贴；展位通过连续故事、挂货与试贴形成完整体验。",
-  "galleryLabel": "方向暂留与 v03 新候选",
+  "currentFocus": "保留B/C贴纸内容和纸卡背景，仅修订两套标识与实体包形；本轮修订待用户复核。",
+  "galleryLabel": "内容与背景获认可 · 标识及外形修订",
   "sync": {
     "checkedAt": "2026-11-19",
     "sourceConversation": "f393b1e3",
-    "status": "04方向暂留；v03四张候选已生成并逐张查看，待用户评审；错误05/06/07已撤下，Meeko完整手册未公开。"
+    "status": "B/C内容与纸卡背景获认可；三项修订已生成并逐张核对，待用户复核。采用实拍底版，未将条件性认可扩大为整图批准。"
   },
   "withdrawnItems": [
     {

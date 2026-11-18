@@ -1,5 +1,5 @@
 {
-  "version": "v03",
+  "version": "v04",
   "date": "2026-11-19",
   "retained": [
     {
@@ -11,12 +11,12 @@
     {
       "file": "08-mood-trio-063.png",
       "direction": "参考063的表情与文字组合",
-      "state": "已生成并逐张查看，待用户评审；AI外形与局部尺度仍需源稿校正"
+      "state": "贴纸内容与纸卡背景已获认可；两套标识与包装外形修订已生成，待用户复核"
     },
     {
       "file": "09-arcade-collage-052.png",
       "direction": "参考052的街机窗口拼贴",
-      "state": "已生成并逐张查看，待用户评审；AI外形与局部尺度仍需源稿校正"
+      "state": "贴纸内容与纸卡背景已获认可；两套标识与包装外形修订已生成，待用户复核"
     },
     {
       "file": "10-niko-latest-photo-scale.png",
@@ -54,5 +54,30 @@
     3,
     3
   ],
-  "limitations": "生成图为视觉候选，不作为包装刀模、实物量测或施工依据。"
+  "limitations": "生成图为视觉候选，不作为包装刀模、实物量测或施工依据。",
+  "decisions": [
+    {
+      "date": "2026-11-19",
+      "scope": [
+        "08-mood-trio-063.png",
+        "09-arcade-collage-052.png"
+      ],
+      "acceptedParts": [
+        "贴纸内容",
+        "纸卡背景"
+      ],
+      "correctionsRequired": [
+        "SHANLE LAB品牌logo",
+        "POP STICKER专用logo",
+        "外包装轮廓及弧线"
+      ],
+      "approval": "修复三项后可用的条件性认可，不是修订图已经获用户复核"
+    }
+  ],
+  "currentRepairStatus": "两张实拍底版修订已生成并逐张查看；标识与外形修订待用户复核",
+  "brandAssets": [
+    "source/pet-references/shanlelab-logo-original.png",
+    "source/brand/popsticker-logo-original-white.png",
+    "source/brand/brand-assets-reference.svg"
+  ]
 }
