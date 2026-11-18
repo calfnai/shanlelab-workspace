@@ -446,6 +446,11 @@
   ],
   "links": [
     {
+      "label": "ChatGPT跨端接续 · 近期工作、工作方式与文件入口",
+      "href": "documents/overseas-chatgpt-sync/current.md",
+      "kind": "document"
+    },
+    {
       "label": "Cloudflare 海外 Hub",
       "href": "https://shanle-lab-overseas.pages.dev/"
     },
