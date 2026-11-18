@@ -1,25 +1,39 @@
 {
   "id": "tuntun-popsticker",
-  "title": "TUNTUN · 表情、街机与故事陈列",
+  "title": "TUNTUN · 定稿产品与生活应用",
   "en": "12 / TUNTUN POPSTICKER",
-  "description": "两套贴纸内容和纸卡背景获认可；本轮修订完整品牌标识、POP STICKER专用字标与真实包装外形。",
+  "description": "两款产品已确认定稿；补齐手持包装与手机、包包两张应用场景。",
   "conversation": "f393b1e3",
   "conversationName": "TUNTUN 啵啵贴与中岛展位概念",
-  "note": "v04两张产品修订：B/C贴纸内容与纸卡背景已获用户认可，完整标识与外形三项修复待复核；采用实拍包装正面作底。04方向暂留，中岛和故事展位保留v03。宽147mm为目录记录，高100/105mm待实物核验，不作为刀模或施工依据。",
+  "note": "2026.11.19用户确认B表情组合、C街机拼贴两款产品定稿，原图保持不变。新增两张应用图单独待评审，04方向暂留，中岛与故事展位继续保留v03候选。",
   "items": [
     {
       "file": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
       "thumb": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
-      "label": "v04 · B 表情组合 / 参考063 · 标识与外形修订",
-      "status": "内容与背景获认可 · 三项修订待复核",
-      "note": "保留已认可的贴纸内容与纸卡设计，以实拍包装正面作底修订完整SHANLE LAB标识、POP STICKER专用字标及实体包形；本轮修订待用户复核，非生产刀模。"
+      "label": "v04 · B 表情组合 / 参考063 · 产品定稿",
+      "status": "用户确认定稿 · 2026.11.19",
+      "note": "贴纸、纸卡、完整SHANLE LAB标识、POP STICKER专用字标和包装外形均获用户确认；定稿原图保持不变。"
     },
     {
       "file": "documents/tuntun-popsticker-20261119-v01/09-arcade-collage-052.png",
       "thumb": "documents/tuntun-popsticker-20261119-v01/09-arcade-collage-052.png",
-      "label": "v04 · C 街机拼贴 / 参考052 · 标识与外形修订",
-      "status": "内容与背景获认可 · 三项修订待复核",
-      "note": "保留已认可的贴纸内容与纸卡设计，以实拍包装正面作底修订完整SHANLE LAB标识、POP STICKER专用字标及实体包形；本轮修订待用户复核，非生产刀模。"
+      "label": "v04 · C 街机拼贴 / 参考052 · 产品定稿",
+      "status": "用户确认定稿 · 2026.11.19",
+      "note": "贴纸、纸卡、完整SHANLE LAB标识、POP STICKER专用字标和包装外形均获用户确认；定稿原图保持不变。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/12-phone-application.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/12-phone-application.png",
+      "label": "v05 · 手持包装与手机应用",
+      "status": "已生成 · 应用场景待用户评审",
+      "note": "沿用定稿表情款，YAY头像用于正常手机；成人手掌与完整手机作尺度参照。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/13-bag-application.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/13-bag-application.png",
+      "label": "v05 · 包包应用 / 四枚小贴片",
+      "status": "已生成 · 应用场景待用户评审",
+      "note": "沿用定稿街机款，披萨、椰子、星星和短语贴组成小幅场景；保持完整成人包身作参照。"
     },
     {
       "file": "documents/tuntun-popsticker-20261119-v01/04-products-multipatch.png",
@@ -45,7 +59,7 @@
   ],
   "links": [
     {
-      "label": "v04 标识与包装外形修订 / 已认可内容与原始品牌资产",
+      "label": "v05 定稿产品与手机、包包应用 / 当前完整页面",
       "href": "documents/tuntun-popsticker-20261119-v01/index.html",
       "kind": "document"
     },
@@ -53,14 +67,19 @@
       "label": "当前与撤回版本状态",
       "href": "documents/tuntun-popsticker-20261119-v01/review-state.json",
       "kind": "document"
+    },
+    {
+      "label": "两款产品定稿记录与文件指纹",
+      "href": "documents/tuntun-popsticker-20261119-v01/product-finalization.json",
+      "kind": "document"
     }
   ],
-  "currentFocus": "保留B/C贴纸内容和纸卡背景，仅修订两套标识与实体包形；本轮修订待用户复核。",
-  "galleryLabel": "内容与背景获认可 · 标识及外形修订",
+  "currentFocus": "两款产品已确认定稿；补齐两张应用场景，等待应用图评审。",
+  "galleryLabel": "两款用户定稿产品 · 手机与包包应用",
   "sync": {
     "checkedAt": "2026-11-19",
     "sourceConversation": "f393b1e3",
-    "status": "B/C内容与纸卡背景获认可；三项修订已生成并逐张核对，待用户复核。采用实拍底版，未将条件性认可扩大为整图批准。"
+    "status": "用户确认两款产品定稿；原图保持不变，新增两张生活应用图已生成并逐张查看，单独待用户评审。"
   },
   "withdrawnItems": [
     {

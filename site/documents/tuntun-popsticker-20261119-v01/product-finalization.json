@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-19",
+  "state": "用户确认产品定稿",
+  "scope": "TUNTUN MOOD CLUB 与 TUNTUN PLAY CLUB 两套产品视觉设计",
+  "products": [
+    {
+      "file": "08-mood-trio-063.png",
+      "sha256": "65bd5eee6ad726c5b2541ccbaf790cb49ed3c3065714cc5e120d5be828d855f7",
+      "state": "用户确认定稿，原图保留"
+    },
+    {
+      "file": "09-arcade-collage-052.png",
+      "sha256": "3ca617829771c1d332594f420d2673feafe7912c3a7214fc8a35ee2f6a61d20e",
+      "state": "用户确认定稿，原图保留"
+    }
+  ],
+  "applications": "新增手机和包包应用图单独作为应用候选，不改变两款产品定稿。"
+}

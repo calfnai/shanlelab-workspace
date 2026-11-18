@@ -1,5 +1,5 @@
 {
-  "version": "v04",
+  "version": "v05",
   "date": "2026-11-19",
   "retained": [
     {
@@ -9,16 +9,6 @@
   ],
   "candidates": [
     {
-      "file": "08-mood-trio-063.png",
-      "direction": "参考063的表情与文字组合",
-      "state": "贴纸内容与纸卡背景已获认可；两套标识与包装外形修订已生成，待用户复核"
-    },
-    {
-      "file": "09-arcade-collage-052.png",
-      "direction": "参考052的街机窗口拼贴",
-      "state": "贴纸内容与纸卡背景已获认可；两套标识与包装外形修订已生成，待用户复核"
-    },
-    {
       "file": "10-niko-latest-photo-scale.png",
       "direction": "以最新现场照片替换陈列画面",
       "state": "已生成并逐张查看，待用户评审；AI外形与局部尺度仍需源稿校正"
@@ -27,6 +17,16 @@
       "file": "11-story-shop-booth.png",
       "direction": "故事、挂货、试贴与物件应用",
       "state": "已生成并逐张查看，待用户评审；AI外形与局部尺度仍需源稿校正"
+    },
+    {
+      "file": "12-phone-application.png",
+      "direction": "表情款手持包装与手机应用",
+      "state": "已生成并逐张查看，待用户评审；沿用已定稿产品贴纸。"
+    },
+    {
+      "file": "13-bag-application.png",
+      "direction": "街机款独立贴片用于包包",
+      "state": "已生成并逐张查看，待用户评审；沿用已定稿产品贴纸。"
     }
   ],
   "withdrawn": [
@@ -54,7 +54,7 @@
     3,
     3
   ],
-  "limitations": "生成图为视觉候选，不作为包装刀模、实物量测或施工依据。",
+  "limitations": "定稿范围为两款产品视觉设计；应用场景与空间图不作为实物量测、刀模或施工依据。",
   "decisions": [
     {
       "date": "2026-11-19",
@@ -72,12 +72,35 @@
         "外包装轮廓及弧线"
       ],
       "approval": "修复三项后可用的条件性认可，不是修订图已经获用户复核"
+    },
+    {
+      "date": "2026-11-19",
+      "scope": [
+        "08-mood-trio-063.png",
+        "09-arcade-collage-052.png"
+      ],
+      "approval": "用户确认两款产品定稿，含贴纸、纸卡、两套品牌标识和包装外形；新增应用场景另行评审。"
     }
   ],
-  "currentRepairStatus": "两张实拍底版修订已生成并逐张查看；标识与外形修订待用户复核",
+  "currentRepairStatus": "两套品牌标识与包装外形修订已获用户确认，两款产品定稿；定稿图原文件保持不变。",
   "brandAssets": [
     "source/pet-references/shanlelab-logo-original.png",
     "source/brand/popsticker-logo-original-white.png",
     "source/brand/brand-assets-reference.svg"
-  ]
+  ],
+  "finalized": [
+    {
+      "file": "08-mood-trio-063.png",
+      "direction": "参考063的表情与文字组合",
+      "state": "用户确认产品定稿",
+      "confirmedAt": "2026-11-19"
+    },
+    {
+      "file": "09-arcade-collage-052.png",
+      "direction": "参考052的街机窗口拼贴",
+      "state": "用户确认产品定稿",
+      "confirmedAt": "2026-11-19"
+    }
+  ],
+  "currentApplicationStatus": "两张应用图已生成并逐张核对；手机与包包应用单独待评审，产品定稿不变。"
 }
