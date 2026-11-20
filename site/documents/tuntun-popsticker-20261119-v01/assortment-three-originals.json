@@ -1,0 +1,36 @@
+{
+  "name": "TUNTUN SNACK CLUB · 三角色与六枚小贴",
+  "state": "新增组合候选，待用户评审",
+  "arrangement": "本版先按三角色同一包制作；最终分包方式尚未确认",
+  "mainPieces": 3,
+  "miniPieces": 6,
+  "totalPieces": 9,
+  "sourceOriginals": [
+    "source/three-originals-20261120/pizza-original.jpg",
+    "source/three-originals-20261120/pink-icecream-original.jpg",
+    "source/three-originals-20261120/coconut-original.jpg"
+  ],
+  "minis": [
+    "披萨",
+    "双球甜筒",
+    "椰子",
+    "YUM!",
+    "SWEET!",
+    "CHILL!"
+  ],
+  "finalProductsPreserved": [
+    "08-mood-trio-063.png",
+    "09-arcade-collage-052.png"
+  ],
+  "date": "2026-11-20",
+  "images": [
+    {
+      "file": "14-three-originals-minipatches.png",
+      "sha256": "d71925d49d1f5c1d5b8a6e7287633be8d6dcf6eb830910578eedfd589562e405"
+    },
+    {
+      "file": "15-three-originals-sticker-pieces.png",
+      "sha256": "d5a8ea0eadcea620e6d3492774716bbc92d722f362ed260fca48a01c64445a39"
+    }
+  ]
+}

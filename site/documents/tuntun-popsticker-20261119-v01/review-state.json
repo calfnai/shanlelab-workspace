@@ -1,6 +1,6 @@
 {
-  "version": "v05",
-  "date": "2026-11-19",
+  "version": "v06",
+  "date": "2026-11-20",
   "retained": [
     {
       "file": "04-products-multipatch.png",
@@ -27,6 +27,16 @@
       "file": "13-bag-application.png",
       "direction": "街机款独立贴片用于包包",
       "state": "已生成并逐张查看，待用户评审；沿用已定稿产品贴纸。"
+    },
+    {
+      "file": "14-three-originals-minipatches.png",
+      "direction": "三张角色原图与六枚小贴同包组合",
+      "state": "已生成并逐张查看，新增组合候选待用户评审。"
+    },
+    {
+      "file": "15-three-originals-sticker-pieces.png",
+      "direction": "三枚角色与六枚小贴的展开图",
+      "state": "已生成并逐张查看，短语字色与包装版统一；候选待用户评审。"
     }
   ],
   "withdrawn": [
@@ -80,6 +90,15 @@
         "09-arcade-collage-052.png"
       ],
       "approval": "用户确认两款产品定稿，含贴纸、纸卡、两套品牌标识和包装外形；新增应用场景另行评审。"
+    },
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "14-three-originals-minipatches.png",
+        "15-three-originals-sticker-pieces.png"
+      ],
+      "request": "在本轮披萨、冰淇淋、椰子三张原图基础上增加小贴纸，组合成新产品。",
+      "approval": "制作请求；新组合图尚未获用户确认。"
     }
   ],
   "currentRepairStatus": "两套品牌标识与包装外形修订已获用户确认，两款产品定稿；定稿图原文件保持不变。",
@@ -102,5 +121,31 @@
       "confirmedAt": "2026-11-19"
     }
   ],
-  "currentApplicationStatus": "两张应用图已生成并逐张核对；手机与包包应用单独待评审，产品定稿不变。"
+  "currentApplicationStatus": "两张应用图已生成并逐张核对；手机与包包应用单独待评审，产品定稿不变。",
+  "newAssortment": {
+    "name": "TUNTUN SNACK CLUB · 三角色与六枚小贴",
+    "state": "新增组合候选，待用户评审",
+    "arrangement": "本版先按三角色同一包制作；最终分包方式尚未确认",
+    "mainPieces": 3,
+    "miniPieces": 6,
+    "totalPieces": 9,
+    "sourceOriginals": [
+      "source/three-originals-20261120/pizza-original.jpg",
+      "source/three-originals-20261120/pink-icecream-original.jpg",
+      "source/three-originals-20261120/coconut-original.jpg"
+    ],
+    "minis": [
+      "披萨",
+      "双球甜筒",
+      "椰子",
+      "YUM!",
+      "SWEET!",
+      "CHILL!"
+    ],
+    "finalProductsPreserved": [
+      "08-mood-trio-063.png",
+      "09-arcade-collage-052.png"
+    ]
+  },
+  "currentNewAssortmentStatus": "三角色与六枚小贴的包装版、展开图均已生成并逐张查看，新增组合待用户评审；08 / 09 原定稿不变。"
 }

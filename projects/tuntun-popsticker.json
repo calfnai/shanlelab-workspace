@@ -1,11 +1,11 @@
 {
   "id": "tuntun-popsticker",
-  "title": "TUNTUN · 定稿产品与生活应用",
+  "title": "TUNTUN · 定稿与三角色零食组合",
   "en": "12 / TUNTUN POPSTICKER",
-  "description": "两款产品已确认定稿；补齐手持包装与手机、包包两张应用场景。",
+  "description": "两款定稿保留；新增三角色＋六枚小贴的同包组合候选及贴片展开图。",
   "conversation": "f393b1e3",
   "conversationName": "TUNTUN 啵啵贴与中岛展位概念",
-  "note": "2026.11.19用户确认B表情组合、C街机拼贴两款产品定稿，原图保持不变。新增两张应用图单独待评审，04方向暂留，中岛与故事展位继续保留v03候选。",
+  "note": "2026.11.19确认的B/C两款产品定稿原图不变。2026.11.20按本轮披萨、粉色冰淇淋、椰子三张原图，先做三角色同一包＋六枚小贴候选，包装版与展开图分别生成并核对。新组合待评审；手机、包包、中岛与展位保留原状态。",
   "items": [
     {
       "file": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
@@ -20,6 +20,20 @@
       "label": "v04 · C 街机拼贴 / 参考052 · 产品定稿",
       "status": "用户确认定稿 · 2026.11.19",
       "note": "贴纸、纸卡、完整SHANLE LAB标识、POP STICKER专用字标和包装外形均获用户确认；定稿原图保持不变。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/14-three-originals-minipatches.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/14-three-originals-minipatches.png",
+      "label": "v06 · 三角色＋六枚小贴 / 同包组合",
+      "status": "已生成 · 新组合待用户评审",
+      "note": "本轮三张角色原图作为主贴，搭配披萨、甜筒、椰子与YUM! / SWEET! / CHILL!六枚小贴；共九枚，先按同一包制作候选。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/15-three-originals-sticker-pieces.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/15-three-originals-sticker-pieces.png",
+      "label": "v06 · 九枚贴片展开 / 主贴与小贴",
+      "status": "已生成 · 新组合待用户评审",
+      "note": "三枚原图角色、三枚食物与三枚短语，展示主次大小；短语配色与包装版统一。"
     },
     {
       "file": "documents/tuntun-popsticker-20261119-v01/12-phone-application.png",
@@ -59,7 +73,7 @@
   ],
   "links": [
     {
-      "label": "v05 定稿产品与手机、包包应用 / 当前完整页面",
+      "label": "v06 三角色与六枚小贴 / 定稿、应用和空间完整页",
       "href": "documents/tuntun-popsticker-20261119-v01/index.html",
       "kind": "document"
     },
@@ -72,14 +86,19 @@
       "label": "两款产品定稿记录与文件指纹",
       "href": "documents/tuntun-popsticker-20261119-v01/product-finalization.json",
       "kind": "document"
+    },
+    {
+      "label": "三角色新组合 / 九枚贴片内容与状态",
+      "href": "documents/tuntun-popsticker-20261119-v01/assortment-three-originals.json",
+      "kind": "document"
     }
   ],
-  "currentFocus": "两款产品已确认定稿；补齐两张应用场景，等待应用图评审。",
-  "galleryLabel": "两款用户定稿产品 · 手机与包包应用",
+  "currentFocus": "新组合候选：三张原图角色＋六枚小贴，包装与展开图待评审；原有两款定稿保持不变。",
+  "galleryLabel": "两款用户定稿 · 三角色与小贴新组合",
   "sync": {
-    "checkedAt": "2026-11-19",
+    "checkedAt": "2026-11-20",
     "sourceConversation": "f393b1e3",
-    "status": "用户确认两款产品定稿；原图保持不变，新增两张生活应用图已生成并逐张查看，单独待用户评审。"
+    "status": "已完成三张原图＋六枚小贴的新组合包装版与展开图，并逐张查看；新组合待用户评审，原两款定稿保持不变。"
   },
   "withdrawnItems": [
     {

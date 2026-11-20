@@ -1,4 +1,4 @@
-# TUNTUN × POPSTICKER · 两款产品定稿与生活应用
+# TUNTUN × POPSTICKER · 三角色零食组合与定稿产品
 
 [当前评审页](index.html) 沿用唯一入口。本目录名称保持初始 v01，当前状态以本文件与 [版本状态](review-state.json) 为准。
 
@@ -7,12 +7,16 @@
 - [04 三枚零食小剧场](04-products-multipatch.png)：用户反馈“还行”，保留方向继续比较，原图不改；不是生产或包装定稿批准。
 - [08 表情组合](08-mood-trio-063.png)：参考用户指定 063 的表情、文字与拼布组合，新增 YUM / ZZZ / YAY。2026.11.19 用户确认产品定稿，原图保持不变。
 - [09 街机拼贴](09-arcade-collage-052.png)：参考用户指定 052 的窗口色块与角色互动。2026.11.19 用户确认产品定稿，原图保持不变。
+- [14 三角色与六枚小贴](14-three-originals-minipatches.png)：2026.11.20 按本轮提供的披萨、粉色冰淇淋、椰子原图制作新组合候选；先按三只角色放同一包排布，新增 3 枚食物和 3 枚短语小贴，待用户评审。
+- [15 贴片展开](15-three-originals-sticker-pieces.png)：展示同一组合的 3 枚角色主贴与 6 枚小贴，以及大小层次；候选，非新增定稿。
 - [12 手持包装与手机应用](12-phone-application.png)：使用定稿表情款，YAY 头像贴在手机壳上；新增应用图单独评审。
 - [13 包包应用](13-bag-application.png)：使用定稿街机款的披萨、椰子、星星与短语贴，组成小幅随身场景；新增应用图单独评审。
 - [10 最新现场中岛](10-niko-latest-photo-scale.png)：以最新现场照替换图面，四包小商品保留在背板中间，应用立牌与售卖包装分开呈现。
 - [11 快乐营业中展位](11-story-shop-booth.png)：沿用纸中岛构造，增加连续故事、分组挂货、表情窗口、试贴与生活物件应用。
 
 ## 包装与空间依据
+
+本轮三张源文件原样保存：[披萨](source/three-originals-20261120/pizza-original.jpg)、[冰淇淋](source/three-originals-20261120/pink-icecream-original.jpg)、[椰子](source/three-originals-20261120/coconut-original.jpg)。新组合以三枚约 38–42mm 的角色为主贴，搭配约 12–15mm 食物与约 18–22mm 宽短语小贴，均为视觉模拟目标；六枚小贴分别为披萨、甜筒、椰子、YUM!、SWEET!、CHILL!。包装沿用已确认的结构和品牌资产；新组合独立评审，不替换 08 / 09 定稿。
 
 重新查看现有 063 的实体正面，以及纸杯萌宠、疯狂动物实拍：印刷内卡、顶端挂孔区、两侧印刷弧线、浅透明 PET 罩和凸边是不同结构，不能用平面椭圆代替实体包装。固定轮廓保持原图横向比例、曲率和两侧弧线，不以普通椭圆替代。
 
@@ -39,6 +43,8 @@ SHANLE LAB 采用原始兔耳图形与下方单行横排英文的完整组合；
 - 当前 09：[实拍包装底版](prompts/09e-real-package-base.txt) / [完整品牌组合修订](prompts/09f-full-logo-lockup.txt)
 - 手机应用：[场景提示词](prompts/12-phone-application.txt) / [尺度修订](prompts/12b-phone-scale.txt)
 - 包包应用：[场景提示词](prompts/13-bag-application.txt) / [尺度与独立贴片修订](prompts/13b-bag-scale.txt)
+- 三角色组合：[产品组合提示词](prompts/14-three-originals-minipatches.txt) / [轮廓修订](prompts/14b-three-originals-outline.txt)
+- 九枚贴片展开：[完整提示词](prompts/15-three-originals-sticker-pieces.txt) / [三枚短语贴统一](prompts/15b-match-mini-word-stickers.txt)
 - [10 现场替换](prompts/10-niko-latest-photo-scale.txt) / [10 立牌文案](prompts/10b-niko-placard-copy.txt)
 - [11 故事展位](prompts/11-story-shop-booth.txt) / [11 商品尺度与图案修订](prompts/11b-booth-product-scale-and-identity.txt)
 - [评审页构建源](build-review.py)
