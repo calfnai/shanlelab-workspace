@@ -474,9 +474,28 @@
       "status": "会议说明已完成 · 凌序继续深化",
       "purpose": "decision-review",
       "note": "每个小点旁配原图局部或对应图标；齿轮、扶手、立柱、表头等显示具体区域，平台复用、定位和周期等用图标。两款已放弃，凌序新设计与工程仍需评审。"
+    },
+    {
+      "file": "documents/treadmill/linear-reference-cmf-20261121/01-geo-frame.webp",
+      "thumb": "documents/treadmill/linear-reference-cmf-20261121/01-geo-frame.webp",
+      "label": "凌序 · Ossby GEO浅灰框架语言",
+      "status": "新生成外观提议 · 待用户评审",
+      "note": "浅灰哑光平面包覆、炭黑内侧回边、几何肩部；保留R5细网格与切齐分界。仅外观研究，未修改CAD，未完成工程验证。"
+    },
+    {
+      "file": "documents/treadmill/linear-reference-cmf-20261121/02-warm-white.webp",
+      "thumb": "documents/treadmill/linear-reference-cmf-20261121/02-warm-white.webp",
+      "label": "凌序 · Braun暖白壳体语言",
+      "status": "新生成外观提议 · 待用户评审",
+      "note": "暖白圆角壳体、黑色连续细边、柔和面起伏；参考为Braun Powerdrill概念图，作者及量产身份未核实。仅外观研究，未修改CAD，未完成工程验证。"
     }
   ],
   "links": [
+    {
+      "label": "凌序 · 两组外观语言与CMF套用／高清参考原图",
+      "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-reference-cmf-20261121/",
+      "kind": "review"
+    },
     {
       "label": "两款否决原因详解与凌序九条修改",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/meeting-annotations-20261117/rejection-pages.html",
@@ -649,7 +668,7 @@
     "next": "按反向折叠与原小扳机触发要求深化，检查行程、让位、锁止及折后包装包络。"
   },
   "progress": {
-    "updated": "2026-11-19",
+    "updated": "2026-11-21",
     "summary": "仅凌序继续深化：头部折叠方向反过来，触发仍用原本的小扳机；继续优化表头、立柱、跑台轻薄观感、局部包覆与包装。",
     "next": [
       {
@@ -1202,6 +1221,10 @@
       }
     ],
     "history": [
+      {
+        "title": "两件参考高清图核对与两组凌序外观提议",
+        "detail": "自行车确认为Ossby GEO，取得iF 3840像素图及官方同款折叠图；Braun同款Powerdrill完整图3840×3840，首发作者和量产身份未核实。A浅灰几何框架、B暖白圆角壳体，两图已生成、待评审，不替换原确认主图。"
+      },
       {
         "title": "11.17历史离线评审包加载修复",
         "detail": "用户反馈直接打开HTML无法加载模型；已复现本地fetch被浏览器拦截，改为模型数据内嵌，完整解压后双击index.html，无需Python或服务器。Chromium禁网下42页146张图、三款模型与滑条通过；仅修复历史包，不更新设计，不代表接收者设备已验证。"
