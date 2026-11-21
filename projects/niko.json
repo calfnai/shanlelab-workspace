@@ -559,7 +559,20 @@
       },
       "islandBackPositions": 26,
       "retailPreview": "documents/niko-final-20261121/retail-case-preview.html",
-      "retailPublication": "更新稿已完成并检查；原站尚未上传"
+      "retailPublication": "更新稿已完成并检查；原站尚未上传",
+      "fullSitePackage": {
+        "createdAt": "2026-11-21",
+        "fileName": "SHANLE_LAB_Retail_Cases-full-20261121.zip",
+        "bytes": 91488880,
+        "files": 506,
+        "originalCases": 26,
+        "originalPublicFiles": 435,
+        "localReferencesChecked": 864,
+        "brokenReferences": 0,
+        "offlineVerified": true,
+        "delivery": "file.kiwi临时传输；公开站点仍未上传",
+        "sha256": "c4b05bb3a66a4a9ab332a70560b7c8d73eab11c7da352f11348ce7972a70653d"
+      }
     }
   },
   "conversationName": "niko and 设计最终版回顾",
