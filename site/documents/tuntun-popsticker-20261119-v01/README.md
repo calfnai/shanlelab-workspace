@@ -2,6 +2,10 @@
 
 [当前评审页](index.html) 沿用唯一入口。本目录名称保持初始 v01，当前状态以本文件与 [版本状态](review-state.json) 为准。
 
+## 设计过程 HTML
+
+[设计过程 · 图文复盘](design-process.html)：原画与目标、063 / 052 参考、品牌与包装纠错、空间陈列、生活应用及六枚组合。包含参考款切换、现场对比、原图放大与打印样式；沿用现有原图，不新增产品设计或改变定稿状态。页面、样式与交互源文件为 `design-process.html`、`design-process.css`、`design-process.js`。
+
 ## 本轮状态
 
 - [04 三枚零食小剧场](04-products-multipatch.png)：用户反馈“还行”，保留方向继续比较，原图不改；不是生产或包装定稿批准。

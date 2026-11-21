@@ -5,7 +5,7 @@
   "description": "两款原定稿保留；最新零食组合为三只兔子＋三枚食物英文连体小贴，共六枚。",
   "conversation": "f393b1e3",
   "conversationName": "TUNTUN 啵啵贴与中岛展位概念",
-  "note": "用户最新更正并明确六枚结构：三只兔子各一枚，另有披萨＋YUM!、冰淇淋＋SWEET!、椰子＋CHILL!各一枚小贴。英文与小食物相连，兔子独立。已完成六枚包装与展开图，待评审；08 / 09原定稿不变，其他应用与空间图保留。",
+  "note": "用户最新更正并明确六枚结构：三只兔子各一枚，另有披萨＋YUM!、冰淇淋＋SWEET!、椰子＋CHILL!各一枚小贴。英文与小食物相连，兔子独立。已完成六枚包装与展开图，待评审；08 / 09原定稿不变，其他应用与空间图保留。 新增设计过程HTML图文复盘，覆盖参考、纠错、定稿、应用与六枚组合；原有定稿和候选状态保持。",
   "items": [
     {
       "file": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
@@ -73,6 +73,11 @@
   ],
   "links": [
     {
+      "label": "设计过程 · 图文复盘",
+      "href": "documents/tuntun-popsticker-20261119-v01/design-process.html",
+      "kind": "document"
+    },
+    {
       "label": "v08 六枚组合修订 / 当前完整页",
       "href": "documents/tuntun-popsticker-20261119-v01/index.html",
       "kind": "document"
@@ -98,7 +103,7 @@
   "sync": {
     "checkedAt": "2026-11-21",
     "sourceConversation": "f393b1e3",
-    "status": "已按用户最新明确要求生成六枚包装与展开图并逐张查看；兔子与食物英文小贴分别独立，新图待评审；三枚旧稿退出当前展示。"
+    "status": "设计过程HTML图文复盘已完成并加入入口；两款产品定稿原图不变，六枚组合、应用和空间图保持待评审。"
   },
   "withdrawnItems": [
     {
