@@ -1,4 +1,5 @@
 function renderNiko(p){
+ if(p.comparison.finalInstallation){renderNikoInstalled(p);return;}
  if(p.comparison.selected){renderNikoSelected(p);return;}
  const c=p.comparison,root=c.root;shown=[...p.items,...c.details,...c.references];
  const idx=(scheme,zone)=>shown.findIndex(x=>x.label===({pipe:'水管吊海洋板',paper:'纯纸板'})[scheme]+' · '+({island:'中岛',column:'柱子区',back:'中岛背面',overall:'整体'})[zone]);
@@ -14,6 +15,21 @@ function renderNiko(p){
  document.querySelectorAll('.model-card iframe').forEach(f=>{if(f.contentWindow?.ready){f.contentWindow.postMessage({type:'niko-zone',zone:z},location.origin);}else{const u=new URL(f.src);u.searchParams.set('zone',z);f.src=u.href;}});
  document.querySelectorAll('.model-card h3 a').forEach(a=>{const u=new URL(a.href);u.searchParams.set('zone',z);a.href=u.href;});};
  document.querySelector('#niko-scope').onchange=changeScope;
+}
+
+function renderNikoInstalled(p){
+ const c=p.comparison,f=c.finalInstallation;
+ shown=[...p.items,...c.details,...c.references];
+ const photos=p.items.filter(x=>x.selectedRole==='final-installation');
+ const draw=x=>art(x,shown.indexOf(x));
+ const primary=photos.find(x=>x.finalSlug==='overall');
+ const history=p.items.filter(x=>x.selectedRole!=='final-installation');
+ $('#content').innerHTML=`<section class="work-title niko-title"><a href="#home" class="back">← 返回全部项目</a><div class="eyebrow">SHANLE LAB × niko and… / 最终现场 · 2026.11.21归档</div><h1>纸展位，已经落地。</h1><p>用户确认本组实拍为最终现场。双面纸展具中岛、两面方孔纸板柱墙、礼盒应用与咖啡联动共同完成。</p><div class="dimension-strip"><span><small>中岛背面 · 可见挂位</small><b>26位 / 5排</b></span><span><small>POP STICKER柱墙</small><b>36位 / 6 × 6</b></span><span><small>ART STICKER柱墙</small><b>35位 / 5 × 7</b></span></div><p class="comparison-footnote">挂位数按现场照片逐排记录，含重复款；不是独立SKU数或库存量。2026.11.21是照片确认与归档日，不是已核实的安装日期。</p><div class="actions"><a href="${f.report}" target="_blank" rel="noopener">18页工作报告 · 从设计到实装 ↗</a><a href="${f.pdf}" target="_blank" rel="noopener">下载工作报告PDF ↓</a><a href="${f.retailPreview}" target="_blank" rel="noopener">案例网站更新稿 · 待上传原站 ↗</a></div></section>
+ <section class="comparison-section"><div class="compare-heading"><div><small>01 / FINAL INSTALLATION</small><h2>先看最终现场</h2></div></div><article class="scheme-effect"><button class="comparison-image" data-image="${shown.indexOf(primary)}" aria-label="放大最终现场全景" style="aspect-ratio:3/2"><img src="${primary.file}" alt="${primary.label}" loading="eager"></button><div class="effect-caption">最终实拍 · 中岛与两面柱区，保留门店真实材料和陈列</div></article><div class="niko-scope-bar"><label for="niko-final-scope">查看范围</label><select id="niko-final-scope"><option value="all">整体 · 全部现场</option><option value="island">中岛 · 正背面与结构</option><option value="column">柱子区 · 两面挂货墙</option><option value="application">应用 · 礼盒与活动物料</option></select><span>现场照片优先 · 原模型留在过程档案</span></div><div class="comparison-grid" id="niko-final-gallery">${photos.filter(x=>x!==primary).map(x=>`<div data-photo-zone="${x.finalZone}">${draw(x)}</div>`).join('')}</div></section>
+ <section class="comparison-section"><div class="compare-heading"><div><small>02 / DESIGN TO INSTALLATION</small><h2>完整过程，单独成册。</h2><p>从旧专柜与圣诞联动提案，到双方案比较、单排管架／脚座／方柱校正、纸结构定案、实样与v15模型，最后以本批实装照片收尾。</p></div></div><div class="actions"><a href="${f.report}" target="_blank" rel="noopener">阅读图文报告 ↗</a><a href="${f.pdf}" target="_blank" rel="noopener">下载PDF ↓</a></div><div class="detail-table"><table><tbody><tr><th>实际完成</th><td>纸中岛与红纸台，正面主题／限定，背面26位；柱区POP36位、ART35位；小包、护照夹、礼盒、明信片、台卡、吊旗与咖啡区联动。</td></tr><tr><th>此前设计输入</th><td>叉车板台面200×100×67cm；方柱127×127cm；两面板各120×140cm、底边70cm、顶部15cm banner。以上不是本次竣工实测。</td></tr><tr><th>模型与现场差异</th><td>v15柱面孔位排布仍为示意，纸芯与局部支撑也与现场有差别；模型保留为过程参考。最终陈列数量与材料外观以实拍为准。</td></tr><tr><th>记录边界</th><td>照片证明现场设置；没有销售、库存、活动核销、竣工测量或结构验收数据，不能据照片推断经营效果。</td></tr></tbody></table></div></section>
+ <details class="reference-fold" id="niko-installed-history"><summary>展开过程模型、实样与历史方案 · 不替代最终现场</summary><p class="comparison-footnote">纸方案于2026.11.13选定。v15是随后重建的陈列模型；孔位、板厚、纸台高度等未实测内容不作为竣工尺寸。</p><article class="model-card"><h3>纸展位v15 · 过程模型<a href="${c.currentRender.root}viewer.html" target="_blank" rel="noopener">全屏查看 ↗</a></h3><iframe title="v15过程模型，非竣工模型" data-src="${c.currentRender.root}viewer.html?zone=overall&embed=1"></iframe><div class="model-bottom"><span>拖动旋转 · 历史设计参考</span><a href="${c.currentRender.root}models/paper.glb" download>下载GLB ↓</a></div></article><div class="comparison-grid">${history.map(draw).join('')}</div><details class="reference-fold"><summary>早期原稿与结构参考</summary><div class="comparison-grid">${[...c.details,...c.references].map(draw).join('')}</div></details><div class="actions">${p.links.filter(l=>!['current-3d'].includes(l.kind)).map(l=>`<a href="${encodeURI(l.href)}" target="_blank" rel="noopener">${l.label} ↗</a>`).join('')}${conversationLink(p)}</div></details>`;
+ document.querySelector('#niko-final-scope').onchange=e=>{const zone=e.target.value;document.querySelectorAll('[data-photo-zone]').forEach(el=>el.hidden=zone!=='all'&&el.dataset.photoZone!==zone);};
+ document.querySelector('#niko-installed-history').ontoggle=e=>{if(!e.target.open)return;const frame=e.target.querySelector('iframe');if(!frame.src)frame.src=frame.dataset.src;};
 }
 
 function renderNikoSelected(p){

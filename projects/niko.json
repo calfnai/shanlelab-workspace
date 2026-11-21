@@ -2,10 +2,200 @@
   "id": "niko",
   "title": "niko and… 展位",
   "en": "04 / DISPLAY",
-  "description": "纸展位已定案；v15已重做模型与整体、中岛、柱区、方孔细节渲染。",
+  "description": "用户确认最终现场：纸中岛、POP36位／ART35位柱墙、礼盒应用与咖啡联动；18页工作报告。",
   "conversation": "ea860ae7",
-  "note": "纸方案已选定；新v15模型与渲染待用户核对。红色单层纸台、双面椭圆、柱区纸板方孔插钩已建入模型。原实样与历史保留。",
+  "note": "最终实拍已归档；历史模型、实样及方案过程保留。照片不替代竣工测量、结构验收或业绩统计。",
   "items": [
+    {
+      "file": "documents/niko-final-20261121/assets/overall.webp",
+      "thumb": "documents/niko-final-20261121/assets/overall-thumb.webp",
+      "label": "整体实装",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "overall",
+      "finalZone": "all"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/front.webp",
+      "thumb": "documents/niko-final-20261121/assets/front-thumb.webp",
+      "label": "中岛正面与台面",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "front",
+      "finalZone": "island"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/back.webp",
+      "thumb": "documents/niko-final-20261121/assets/back-thumb.webp",
+      "label": "中岛背面26位",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "back",
+      "finalZone": "island"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/art-wall.webp",
+      "thumb": "documents/niko-final-20261121/assets/art-wall-thumb.webp",
+      "label": "ART墙35位",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "art-wall",
+      "finalZone": "column"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/pop-wall.webp",
+      "thumb": "documents/niko-final-20261121/assets/pop-wall-thumb.webp",
+      "label": "POP墙36位",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "pop-wall",
+      "finalZone": "column"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/exclusive.webp",
+      "thumb": "documents/niko-final-20261121/assets/exclusive-thumb.webp",
+      "label": "联名限定位特写",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "exclusive",
+      "finalZone": "island"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/follow.webp",
+      "thumb": "documents/niko-final-20261121/assets/follow-thumb.webp",
+      "label": "关注与明信片",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "follow",
+      "finalZone": "application"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/activities.webp",
+      "thumb": "documents/niko-final-20261121/assets/activities-thumb.webp",
+      "label": "现场活动导览",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "activities",
+      "finalZone": "application"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/postcard.webp",
+      "thumb": "documents/niko-final-20261121/assets/postcard-thumb.webp",
+      "label": "明信片正反面",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "postcard",
+      "finalZone": "application"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/gift-angle.webp",
+      "thumb": "documents/niko-final-20261121/assets/gift-angle-thumb.webp",
+      "label": "礼盒斜视",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "gift-angle",
+      "finalZone": "application"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/cafe.webp",
+      "thumb": "documents/niko-final-20261121/assets/cafe-thumb.webp",
+      "label": "咖啡联动",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "cafe",
+      "finalZone": "application"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/gift-context.webp",
+      "thumb": "documents/niko-final-20261121/assets/gift-context-thumb.webp",
+      "label": "礼盒与库存",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "gift-context",
+      "finalZone": "application"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/passport.webp",
+      "thumb": "documents/niko-final-20261121/assets/passport-thumb.webp",
+      "label": "护照夹应用",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "passport",
+      "finalZone": "application"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/back-structure.webp",
+      "thumb": "documents/niko-final-20261121/assets/back-structure-thumb.webp",
+      "label": "纸芯侧面与柱区",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "back-structure",
+      "finalZone": "island"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/gift-side.webp",
+      "thumb": "documents/niko-final-20261121/assets/gift-side-thumb.webp",
+      "label": "纸结构与应用小包",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "gift-side",
+      "finalZone": "application"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/gift.webp",
+      "thumb": "documents/niko-final-20261121/assets/gift-thumb.webp",
+      "label": "礼盒实物正视",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "gift",
+      "finalZone": "application"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/pop-detail.webp",
+      "thumb": "documents/niko-final-20261121/assets/pop-detail-thumb.webp",
+      "label": "POP深库存挂钩",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "pop-detail",
+      "finalZone": "column"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/banner.webp",
+      "thumb": "documents/niko-final-20261121/assets/banner-thumb.webp",
+      "label": "吊旗与柱墙",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "banner",
+      "finalZone": "column"
+    },
+    {
+      "file": "documents/niko-final-20261121/assets/shoppers.webp",
+      "thumb": "documents/niko-final-20261121/assets/shoppers-thumb.webp",
+      "label": "顾客浏览现场",
+      "status": "最终现场 · 用户确认",
+      "note": "用户于2026-11-21提供并明确为最终现场；归档日期不等于安装日期。",
+      "selectedRole": "final-installation",
+      "finalSlug": "shoppers",
+      "finalZone": "all"
+    },
     {
       "file": "demos/niko-paper-final-v15/preview/paper-overall.png",
       "thumb": "demos/niko-paper-final-v15/preview/paper-overall.png",
@@ -165,6 +355,16 @@
     }
   ],
   "links": [
+    {
+      "label": "从设计到实装 · 工作报告",
+      "href": "documents/niko-final-20261121/index.html",
+      "kind": "report"
+    },
+    {
+      "label": "Retail Cases更新稿 · 待上传原站",
+      "href": "documents/niko-final-20261121/retail-case-preview.html",
+      "kind": "preview"
+    },
     {
       "label": "纸展位 v15 · 新模型",
       "href": "demos/niko-paper-final-v15/viewer.html",
@@ -331,7 +531,7 @@
       "island": "纸展具",
       "column": "两面纸板开方孔，插钩吊货",
       "modelStatus": "v15模型与渲染已生成，待用户核对",
-      "installationStatus": "未记录安装验收"
+      "installationStatus": "用户提供最终现场照片并确认已落地 · 2026-11-21归档"
     },
     "columnHanging": {
       "material": "纸板",
@@ -346,6 +546,20 @@
       "version": "v15",
       "model": "models/paper.glb",
       "note": "红色单层纸台、双面椭圆、真孔与独立挂钩已建模；礼盒与小包用实物图作为台面示例。台高、纸厚、孔及应用物尺寸未实测，为比例示意。"
+    },
+    "finalInstallation": {
+      "confirmedAt": "2026-11-21",
+      "status": "用户确认最终现场",
+      "photoCount": 19,
+      "report": "documents/niko-final-20261121/index.html",
+      "pdf": "documents/niko-final-20261121/niko-christmas-work-report.pdf",
+      "columnPositions": {
+        "pop": 36,
+        "art": 35
+      },
+      "islandBackPositions": 26,
+      "retailPreview": "documents/niko-final-20261121/retail-case-preview.html",
+      "retailPublication": "更新稿已完成并检查；原站尚未上传"
     }
   },
   "conversationName": "niko and 设计最终版回顾",
