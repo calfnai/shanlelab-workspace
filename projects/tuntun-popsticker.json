@@ -1,11 +1,11 @@
 {
   "id": "tuntun-popsticker",
-  "title": "TUNTUN · 定稿与三枚一体贴",
+  "title": "TUNTUN · 定稿与六枚组合",
   "en": "12 / TUNTUN POPSTICKER",
-  "description": "两款原定稿保留；零食组合修订为每包三枚，角色、食物和短语共用连续外轮廓。",
+  "description": "两款原定稿保留；最新零食组合为三只兔子＋三枚食物英文连体小贴，共六枚。",
   "conversation": "f393b1e3",
   "conversationName": "TUNTUN 啵啵贴与中岛展位概念",
-  "note": "2026.11.21用户否定九枚拆分，明确要求一包仅三枚：披萨＋YUM!、冰淇淋＋SWEET!、椰子＋CHILL!。已完成三枚一体贴展开与包装修订图，按连续外轮廓收拢细碎边缘，新图待评审。08 / 09原定稿保持不变，应用与空间图保留原状态。",
+  "note": "用户最新更正并明确六枚结构：三只兔子各一枚，另有披萨＋YUM!、冰淇淋＋SWEET!、椰子＋CHILL!各一枚小贴。英文与小食物相连，兔子独立。已完成六枚包装与展开图，待评审；08 / 09原定稿不变，其他应用与空间图保留。",
   "items": [
     {
       "file": "documents/tuntun-popsticker-20261119-v01/08-mood-trio-063.png",
@@ -22,18 +22,18 @@
       "note": "贴纸、纸卡、完整SHANLE LAB标识、POP STICKER专用字标和包装外形均获用户确认；定稿原图保持不变。"
     },
     {
-      "file": "documents/tuntun-popsticker-20261119-v01/16-three-piece-package.png",
-      "thumb": "documents/tuntun-popsticker-20261119-v01/16-three-piece-package.png",
-      "label": "v07 · 每包三枚 / 连体结构包装修订",
-      "status": "已生成 · 三枚一体贴修订待用户评审",
-      "note": "包装仅三枚，footer为3 PIECES；披萨＋YUM!、冰淇淋＋SWEET!、椰子＋CHILL!，每组共用一枚外轮廓。"
+      "file": "documents/tuntun-popsticker-20261119-v01/18-six-piece-package.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/18-six-piece-package.png",
+      "label": "v08 · 六枚装包装 / 三只兔子＋三枚食物英文",
+      "status": "已生成 · 六枚组合修订待用户评审",
+      "note": "包装标注6 PIECES；兔子上无英文，三个食物小图标分别与YUM! / SWEET! / CHILL!合成三枚连体小贴。"
     },
     {
-      "file": "documents/tuntun-popsticker-20261119-v01/17-three-integrated-stickers.png",
-      "thumb": "documents/tuntun-popsticker-20261119-v01/17-three-integrated-stickers.png",
-      "label": "v07 · 三枚一体贴展开 / 角色与短语共用轮廓",
-      "status": "已生成 · 三枚一体贴修订待用户评审",
-      "note": "每组角色、手中食物与文字为一整枚，收拢细碎边缘；独立小贴数量为零。"
+      "file": "documents/tuntun-popsticker-20261119-v01/19-six-piece-sticker-set.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/19-six-piece-sticker-set.png",
+      "label": "v08 · 六枚展开 / 角色独立、食物英文连体",
+      "status": "已生成 · 六枚组合修订待用户评审",
+      "note": "上排三只兔子各一枚，下排披萨＋YUM!、冰淇淋＋SWEET!、椰子＋CHILL!各一枚，共六枚。"
     },
     {
       "file": "documents/tuntun-popsticker-20261119-v01/12-phone-application.png",
@@ -73,7 +73,7 @@
   ],
   "links": [
     {
-      "label": "v07 三枚一体贴修订 / 当前完整页",
+      "label": "v08 六枚组合修订 / 当前完整页",
       "href": "documents/tuntun-popsticker-20261119-v01/index.html",
       "kind": "document"
     },
@@ -88,17 +88,17 @@
       "kind": "document"
     },
     {
-      "label": "三枚一体贴 / 每包数量与当前结构",
+      "label": "六枚组合 / 三只兔子与三枚食物英文小贴",
       "href": "documents/tuntun-popsticker-20261119-v01/assortment-three-originals.json",
       "kind": "document"
     }
   ],
-  "currentFocus": "按用户要求修订为每包三枚一体贴，YUM披萨 / SWEET冰淇淋 / CHILL椰子；九枚拆分方案撤回。",
-  "galleryLabel": "两款用户定稿 · 三枚一体贴修订",
+  "currentFocus": "三只兔子独立＋三枚食物英文连体小贴，共六枚；按最新明确要求修订，图像待评审。",
+  "galleryLabel": "两款用户定稿 · 六枚组合修订",
   "sync": {
     "checkedAt": "2026-11-21",
     "sourceConversation": "f393b1e3",
-    "status": "用户明确每包仅三枚并要求短语与对应角色共用外轮廓；新包装与展开修订已生成并逐张查看，待评审；九枚旧图撤出当前展示。"
+    "status": "已按用户最新明确要求生成六枚包装与展开图并逐张查看；兔子与食物英文小贴分别独立，新图待评审；三枚旧稿退出当前展示。"
   },
   "withdrawnItems": [
     {
@@ -156,11 +156,25 @@
       "label": "v06 · 九枚拆分展开 · 已撤回",
       "status": "用户否决 · 九枚拆分已撤回",
       "note": "数量过多、包装放不下且细碎轮廓不利于切边；用户要求改为三枚角色、食物与短语一体贴。历史原图保留。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/16-three-piece-package.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/16-three-piece-package.png",
+      "label": "v07 · 三枚结构旧稿 · 已由六枚更正替代",
+      "status": "已被最新六枚结构替代 · 历史",
+      "note": "用户更正为三只兔子独立＋三枚食物英文组合小贴，共六枚；此三枚角色英文合并旧稿保留历史。"
+    },
+    {
+      "file": "documents/tuntun-popsticker-20261119-v01/17-three-integrated-stickers.png",
+      "thumb": "documents/tuntun-popsticker-20261119-v01/17-three-integrated-stickers.png",
+      "label": "v07 · 三枚结构旧稿 · 已由六枚更正替代",
+      "status": "已被最新六枚结构替代 · 历史",
+      "note": "用户更正为三只兔子独立＋三枚食物英文组合小贴，共六枚；此三枚角色英文合并旧稿保留历史。"
     }
   ],
   "cancelledScope": [
     "v01 单枚大徽章、奶油色中岛与展位因比例和创意不合要求已否决，不恢复推荐。",
     "v02四肖像平面比例稿、过大排货中岛和单薄轻型展位已撤出当前评审，不恢复推荐。",
-    "v06九枚拆分方案被否决；不再将食物或短语拆成独立小贴，当前零食组合仅三枚一体贴。"
+    "v06九枚拆分和v07三枚角色英文合并均已被六枚结构替代；当前是三只兔子独立，另外三枚食物英文连体小贴。"
   ]
 }

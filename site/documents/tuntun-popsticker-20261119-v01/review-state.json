@@ -1,5 +1,5 @@
 {
-  "version": "v07",
+  "version": "v08",
   "date": "2026-11-21",
   "retained": [
     {
@@ -29,14 +29,14 @@
       "state": "已生成并逐张查看，待用户评审；沿用已定稿产品贴纸。"
     },
     {
-      "file": "16-three-piece-package.png",
-      "direction": "每包三枚角色与短语一体贴",
-      "state": "已生成并逐张查看，三枚数量及共用外轮廓按用户要求修订，图像待用户评审。"
+      "file": "18-six-piece-package.png",
+      "direction": "三只兔子与三枚食物英文小贴，六枚装包装",
+      "state": "已生成并逐张查看，符合最新六枚组合要求，图像待用户评审。"
     },
     {
-      "file": "17-three-integrated-stickers.png",
-      "direction": "YUM披萨 / SWEET冰淇淋 / CHILL椰子，三枚展开",
-      "state": "已生成并逐张查看，每组角色、食物和文字为一枚；图像待用户评审。"
+      "file": "19-six-piece-sticker-set.png",
+      "direction": "六枚展开：三只兔子独立，三枚食物英文各自连体",
+      "state": "已生成并逐张查看，英文不连在兔子上；图像待用户评审。"
     }
   ],
   "withdrawn": [
@@ -59,6 +59,14 @@
     {
       "file": "15-three-originals-sticker-pieces.png",
       "state": "用户否决九枚拆分；数量过多、包装放不下、细碎切边不合适，改为三枚一体贴。"
+    },
+    {
+      "file": "16-three-piece-package.png",
+      "state": "用户更正数量与组合方式后被六枚结构替代；三只兔子与三枚食物英文组合贴应彼此独立。"
+    },
+    {
+      "file": "17-three-integrated-stickers.png",
+      "state": "用户更正数量与组合方式后被六枚结构替代；三只兔子与三枚食物英文组合贴应彼此独立。"
     }
   ],
   "packagingSource": "source/pet-references/pet-063-actual-front.jpg",
@@ -116,6 +124,15 @@
       ],
       "correction": "一包仅三枚一体贴：披萨与YUM!一体、冰淇淋与SWEET!一体、椰子与CHILL!一体；每组共用连续外轮廓。",
       "approval": "三枚结构为用户明确要求；新修订图仍须独立评审。"
+    },
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "18-six-piece-package.png",
+        "19-six-piece-sticker-set.png"
+      ],
+      "correction": "用户更正为六枚并明确：三只兔子各一枚；披萨＋YUM!、冰淇淋＋SWEET!、椰子＋CHILL!各为一枚食物英文连体小贴。",
+      "approval": "六枚结构为用户最新明确要求；新图待独立评审。"
     }
   ],
   "currentRepairStatus": "两套品牌标识与包装外形修订已获用户确认，两款产品定稿；定稿图原文件保持不变。",
@@ -140,12 +157,12 @@
   ],
   "currentApplicationStatus": "两张应用图已生成并逐张核对；手机与包包应用单独待评审，产品定稿不变。",
   "newAssortment": {
-    "name": "TUNTUN SNACK CLUB · 三枚一体贴",
-    "state": "三枚结构为用户要求，修订图待用户评审",
-    "arrangement": "一包三枚，角色、手中食物与短语共用每枚连续外轮廓",
+    "name": "TUNTUN SNACK CLUB · 六枚组合",
+    "state": "六枚结构已明确，修订图待用户评审",
+    "arrangement": "一包六枚：三只兔子独立，另配三枚食物英文连体小贴",
     "mainPieces": 3,
-    "miniPieces": 0,
-    "totalPieces": 3,
+    "miniPieces": 3,
+    "totalPieces": 6,
     "sourceOriginals": [
       "source/three-originals-20261120/pizza-original.jpg",
       "source/three-originals-20261120/pink-icecream-original.jpg",
@@ -155,24 +172,45 @@
       "08-mood-trio-063.png",
       "09-arcade-collage-052.png"
     ],
-    "integratedPieces": 3,
     "pieces": [
       {
+        "kind": "rabbit",
+        "theme": "披萨兔",
+        "word": null
+      },
+      {
+        "kind": "rabbit",
+        "theme": "冰淇淋兔",
+        "word": null
+      },
+      {
+        "kind": "rabbit",
+        "theme": "椰子兔",
+        "word": null
+      },
+      {
+        "kind": "food-word",
         "theme": "披萨",
         "word": "YUM!",
-        "contourIntent": "角色、披萨与短语共用一块连续材料及一个外轮廓"
+        "contourIntent": "小披萨与YUM!共用一个连续外轮廓"
       },
       {
+        "kind": "food-word",
         "theme": "冰淇淋",
         "word": "SWEET!",
-        "contourIntent": "角色、冰淇淋与短语共用一块连续材料及一个外轮廓"
+        "contourIntent": "小冰淇淋与SWEET!共用一个连续外轮廓"
       },
       {
+        "kind": "food-word",
         "theme": "椰子",
         "word": "CHILL!",
-        "contourIntent": "角色、椰子与短语共用一块连续材料及一个外轮廓"
+        "contourIntent": "小椰子与CHILL!共用一个连续外轮廓"
       }
-    ]
+    ],
+    "rabbitPieces": 3,
+    "foodWordPieces": 3,
+    "wordsOnRabbits": false,
+    "separateWordPieces": 0
   },
-  "currentNewAssortmentStatus": "三枚一体贴与包装修订均已生成并逐张查看；九枚拆分方案已撤回，16 / 17 待用户评审。"
+  "currentNewAssortmentStatus": "六枚包装与展开图均已生成并逐张查看：三只兔子独立，三枚小食物分别与YUM! / SWEET! / CHILL!连体；18 / 19 待用户评审。"
 }
