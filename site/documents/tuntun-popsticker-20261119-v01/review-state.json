@@ -1,6 +1,6 @@
 {
-  "version": "v06",
-  "date": "2026-11-20",
+  "version": "v07",
+  "date": "2026-11-21",
   "retained": [
     {
       "file": "04-products-multipatch.png",
@@ -29,14 +29,14 @@
       "state": "已生成并逐张查看，待用户评审；沿用已定稿产品贴纸。"
     },
     {
-      "file": "14-three-originals-minipatches.png",
-      "direction": "三张角色原图与六枚小贴同包组合",
-      "state": "已生成并逐张查看，新增组合候选待用户评审。"
+      "file": "16-three-piece-package.png",
+      "direction": "每包三枚角色与短语一体贴",
+      "state": "已生成并逐张查看，三枚数量及共用外轮廓按用户要求修订，图像待用户评审。"
     },
     {
-      "file": "15-three-originals-sticker-pieces.png",
-      "direction": "三枚角色与六枚小贴的展开图",
-      "state": "已生成并逐张查看，短语字色与包装版统一；候选待用户评审。"
+      "file": "17-three-integrated-stickers.png",
+      "direction": "YUM披萨 / SWEET冰淇淋 / CHILL椰子，三枚展开",
+      "state": "已生成并逐张查看，每组角色、食物和文字为一枚；图像待用户评审。"
     }
   ],
   "withdrawn": [
@@ -51,6 +51,14 @@
     {
       "file": "06-light-snack-booth.png",
       "state": "用户否决，内容与层次单薄"
+    },
+    {
+      "file": "14-three-originals-minipatches.png",
+      "state": "用户否决九枚拆分；数量过多、包装放不下、细碎切边不合适，改为三枚一体贴。"
+    },
+    {
+      "file": "15-three-originals-sticker-pieces.png",
+      "state": "用户否决九枚拆分；数量过多、包装放不下、细碎切边不合适，改为三枚一体贴。"
     }
   ],
   "packagingSource": "source/pet-references/pet-063-actual-front.jpg",
@@ -99,6 +107,15 @@
       ],
       "request": "在本轮披萨、冰淇淋、椰子三张原图基础上增加小贴纸，组合成新产品。",
       "approval": "制作请求；新组合图尚未获用户确认。"
+    },
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "14-three-originals-minipatches.png",
+        "15-three-originals-sticker-pieces.png"
+      ],
+      "correction": "一包仅三枚一体贴：披萨与YUM!一体、冰淇淋与SWEET!一体、椰子与CHILL!一体；每组共用连续外轮廓。",
+      "approval": "三枚结构为用户明确要求；新修订图仍须独立评审。"
     }
   ],
   "currentRepairStatus": "两套品牌标识与包装外形修订已获用户确认，两款产品定稿；定稿图原文件保持不变。",
@@ -123,29 +140,39 @@
   ],
   "currentApplicationStatus": "两张应用图已生成并逐张核对；手机与包包应用单独待评审，产品定稿不变。",
   "newAssortment": {
-    "name": "TUNTUN SNACK CLUB · 三角色与六枚小贴",
-    "state": "新增组合候选，待用户评审",
-    "arrangement": "本版先按三角色同一包制作；最终分包方式尚未确认",
+    "name": "TUNTUN SNACK CLUB · 三枚一体贴",
+    "state": "三枚结构为用户要求，修订图待用户评审",
+    "arrangement": "一包三枚，角色、手中食物与短语共用每枚连续外轮廓",
     "mainPieces": 3,
-    "miniPieces": 6,
-    "totalPieces": 9,
+    "miniPieces": 0,
+    "totalPieces": 3,
     "sourceOriginals": [
       "source/three-originals-20261120/pizza-original.jpg",
       "source/three-originals-20261120/pink-icecream-original.jpg",
       "source/three-originals-20261120/coconut-original.jpg"
     ],
-    "minis": [
-      "披萨",
-      "双球甜筒",
-      "椰子",
-      "YUM!",
-      "SWEET!",
-      "CHILL!"
-    ],
     "finalProductsPreserved": [
       "08-mood-trio-063.png",
       "09-arcade-collage-052.png"
+    ],
+    "integratedPieces": 3,
+    "pieces": [
+      {
+        "theme": "披萨",
+        "word": "YUM!",
+        "contourIntent": "角色、披萨与短语共用一块连续材料及一个外轮廓"
+      },
+      {
+        "theme": "冰淇淋",
+        "word": "SWEET!",
+        "contourIntent": "角色、冰淇淋与短语共用一块连续材料及一个外轮廓"
+      },
+      {
+        "theme": "椰子",
+        "word": "CHILL!",
+        "contourIntent": "角色、椰子与短语共用一块连续材料及一个外轮廓"
+      }
     ]
   },
-  "currentNewAssortmentStatus": "三角色与六枚小贴的包装版、展开图均已生成并逐张查看，新增组合待用户评审；08 / 09 原定稿不变。"
+  "currentNewAssortmentStatus": "三枚一体贴与包装修订均已生成并逐张查看；九枚拆分方案已撤回，16 / 17 待用户评审。"
 }

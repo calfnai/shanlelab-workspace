@@ -1,36 +1,53 @@
 {
-  "name": "TUNTUN SNACK CLUB · 三角色与六枚小贴",
-  "state": "新增组合候选，待用户评审",
-  "arrangement": "本版先按三角色同一包制作；最终分包方式尚未确认",
+  "name": "TUNTUN SNACK CLUB · 三枚一体贴",
+  "state": "三枚结构为用户要求，修订图待用户评审",
+  "arrangement": "一包三枚，角色、手中食物与短语共用每枚连续外轮廓",
   "mainPieces": 3,
-  "miniPieces": 6,
-  "totalPieces": 9,
+  "miniPieces": 0,
+  "totalPieces": 3,
   "sourceOriginals": [
     "source/three-originals-20261120/pizza-original.jpg",
     "source/three-originals-20261120/pink-icecream-original.jpg",
     "source/three-originals-20261120/coconut-original.jpg"
   ],
-  "minis": [
-    "披萨",
-    "双球甜筒",
-    "椰子",
-    "YUM!",
-    "SWEET!",
-    "CHILL!"
-  ],
   "finalProductsPreserved": [
     "08-mood-trio-063.png",
     "09-arcade-collage-052.png"
   ],
-  "date": "2026-11-20",
-  "images": [
+  "integratedPieces": 3,
+  "pieces": [
     {
-      "file": "14-three-originals-minipatches.png",
-      "sha256": "d71925d49d1f5c1d5b8a6e7287633be8d6dcf6eb830910578eedfd589562e405"
+      "theme": "披萨",
+      "word": "YUM!",
+      "contourIntent": "角色、披萨与短语共用一块连续材料及一个外轮廓"
     },
     {
-      "file": "15-three-originals-sticker-pieces.png",
-      "sha256": "d5a8ea0eadcea620e6d3492774716bbc92d722f362ed260fca48a01c64445a39"
+      "theme": "冰淇淋",
+      "word": "SWEET!",
+      "contourIntent": "角色、冰淇淋与短语共用一块连续材料及一个外轮廓"
+    },
+    {
+      "theme": "椰子",
+      "word": "CHILL!",
+      "contourIntent": "角色、椰子与短语共用一块连续材料及一个外轮廓"
     }
-  ]
+  ],
+  "date": "2026-11-21",
+  "images": [
+    {
+      "file": "16-three-piece-package.png",
+      "sha256": "386a87adf61fc2a0780e2a9b8fe2d32e8bad5069955c61678a527188e64525e2"
+    },
+    {
+      "file": "17-three-integrated-stickers.png",
+      "sha256": "d957bd3693f652a46f93ab2894c505546a1c0a17c0a649363d6d5ac7a45edc1f"
+    }
+  ],
+  "supersedes": {
+    "files": [
+      "14-three-originals-minipatches.png",
+      "15-three-originals-sticker-pieces.png"
+    ],
+    "state": "九枚拆分被用户否决，已撤出当前展示"
+  }
 }
