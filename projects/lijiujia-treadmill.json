@@ -492,7 +492,7 @@
   ],
   "links": [
     {
-      "label": "凌序 · 两组外观语言与CMF套用／高清参考原图",
+      "label": "凌序 · 外观CMF套用／Ossby 14张参考与Braun高清细节",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-reference-cmf-20261121/",
       "kind": "review"
     },
@@ -1221,6 +1221,10 @@
       }
     ],
     "history": [
+      {
+        "title": "参考图库扩充：Ossby 14张与Braun原图细节查看",
+        "detail": "Ossby 13张长边1920–3840像素及1张720像素折叠图，包含9张新增来源图。Braun同款确认1张3840×3840原图，新增6处同图局部窗口；未找到可确认的其他视角。网页支持原始像素查看及来源链接，未改CAD。"
+      },
       {
         "title": "两件参考高清图核对与两组凌序外观提议",
         "detail": "自行车确认为Ossby GEO，取得iF 3840像素图及官方同款折叠图；Braun同款Powerdrill完整图3840×3840，首发作者和量产身份未核实。A浅灰几何框架、B暖白圆角壳体，两图已生成、待评审，不替换原确认主图。"
