@@ -4,7 +4,7 @@
   "en": "04 / DISPLAY",
   "description": "用户确认最终现场：纸中岛、POP36位／ART35位柱墙、礼盒应用与咖啡联动；18页工作报告。",
   "conversation": "ea860ae7",
-  "note": "最终实拍已归档；历史模型、实样及方案过程保留。照片不替代竣工测量、结构验收或业绩统计。",
+  "note": "最终实拍与18页报告已归档。报告已补齐圆孔模板失配／木板过重的放弃原因、纸板长挂钩要求；报告其他阅读入口已删除。历史模型、实样及方案过程保留。",
   "items": [
     {
       "file": "documents/niko-final-20261121/assets/overall.webp",
@@ -572,6 +572,12 @@
         "offlineVerified": true,
         "delivery": "file.kiwi临时传输；公开站点仍未上传",
         "sha256": "c4b05bb3a66a4a9ab332a70560b7c8d73eab11c7da352f11348ce7972a70653d"
+      },
+      "reportCorrection": {
+        "date": "2026-11-21",
+        "materialDecision": "从犹豫到直接放弃圆孔模板：公差大、买回来的圆孔挂钩挂不上、木板过重；最终纸板方孔配长挂钩。",
+        "evidence": "用户补充说明与IMG_1485.HEIC实样照片",
+        "reportExternalReadingLinks": "已全部删除"
       }
     }
   },
