@@ -6,7 +6,7 @@
   "conversation": "5669f0c6",
   "conversationName": "工业设计概念稿整理与成果缺口评估",
   "note": "02已明确：凌序头部折叠方向反过来，触发机关仍用原本的小扳机。方向改变与触发沿用同时成立；此前仅作条件讨论、方向未定的整理已撤回。包装效率欠佳属于凌序表头，在页头单列。三页20点均已配图：14处原图局部、6个语义图标；反向折叠的行程、让位与锁止尺寸仍需工程核验。",
-  "currentFocus": "仅凌序继续深化：头部折叠方向反过来，触发仍用原本的小扳机；继续优化表头、立柱、跑台轻薄观感、局部包覆与包装。",
+  "currentFocus": "仅凌序继续深化：以暖白圆角黑白款融合Ossby GEO与Braun语言，去掉跑台左右小流线型设计；头部与立柱保留真实分件，头部反方向折叠且沿用原小扳机。厂家拟移植同厂UOK一键折叠为用户转述计划，内部机构与适配尚待核验。",
   "items": [
     {
       "file": "documents/treadmill/review-content-selection-20261117/linear-main-original.png",
@@ -476,23 +476,23 @@
       "note": "每个小点旁配原图局部或对应图标；齿轮、扶手、立柱、表头等显示具体区域，平台复用、定位和周期等用图标。两款已放弃，凌序新设计与工程仍需评审。"
     },
     {
-      "file": "documents/treadmill/linear-reference-cmf-20261121/01-geo-frame.webp",
-      "thumb": "documents/treadmill/linear-reference-cmf-20261121/01-geo-frame.webp",
-      "label": "凌序 · Ossby GEO浅灰框架语言",
+      "file": "documents/treadmill/linear-fold-language-20261121/03-fused-side.webp",
+      "thumb": "documents/treadmill/linear-fold-language-20261121/03-fused-side.webp",
+      "label": "凌序黑白款 · Ossby GEO × Braun 融合正侧外观",
       "status": "新生成外观提议 · 待用户评审",
-      "note": "浅灰哑光平面包覆、炭黑内侧回边、几何肩部；保留R5细网格与切齐分界。仅外观研究，未修改CAD，未完成工程验证。"
+      "note": "以用户认为接近正确的暖白圆角壳体为方向，融合Ossby GEO几何骨架与Braun克制壳体语言；保留头部/立柱独立切口，去掉跑台左右小流线型装饰。未修改CAD；新外观及切口尺寸待评审，内部机构未核验。"
     },
     {
-      "file": "documents/treadmill/linear-reference-cmf-20261121/02-warm-white.webp",
-      "thumb": "documents/treadmill/linear-reference-cmf-20261121/02-warm-white.webp",
-      "label": "凌序 · Braun暖白壳体语言",
+      "file": "documents/treadmill/linear-fold-language-20261121/04-fused-details.webp",
+      "thumb": "documents/treadmill/linear-fold-language-20261121/04-fused-details.webp",
+      "label": "凌序黑白款 · 头部切口／握持拼接／纯净侧壳细节",
       "status": "新生成外观提议 · 待用户评审",
-      "note": "暖白圆角壳体、黑色连续细边、柔和面起伏；参考为Braun Powerdrill概念图，作者及量产身份未核实。仅外观研究，未修改CAD，未完成工程验证。"
+      "note": "局部展示暖白头部与立柱真实分件、黑色细网格握持和金属直接切齐分界、去小流线装饰后的侧壳。凌序头部仍按反方向折叠、原小扳机沿用深化；图稿不代表CAD、锁止、传动或让位已完成。"
     }
   ],
   "links": [
     {
-      "label": "凌序 · 外观CMF套用／Ossby 14张参考与Braun高清细节",
+      "label": "凌序黑白款 · 融合外观／真实切口／UOK逐帧／建模参考",
       "href": "https://calfnai.github.io/lijiujia-z7pro-model/iterations/linear-reference-cmf-20261121/",
       "kind": "review"
     },
@@ -669,8 +669,12 @@
   },
   "progress": {
     "updated": "2026-11-21",
-    "summary": "仅凌序继续深化：头部折叠方向反过来，触发仍用原本的小扳机；继续优化表头、立柱、跑台轻薄观感、局部包覆与包装。",
+    "summary": "仅凌序继续深化：以暖白圆角黑白款融合Ossby GEO与Braun语言，去掉跑台左右小流线型设计；头部与立柱保留真实分件，头部反方向折叠且沿用原小扳机。厂家拟移植同厂UOK一键折叠为用户转述计划，内部机构与适配尚待核验。",
     "next": [
+      {
+        "title": "按真实分件完善凌序黑白款与同事建模参考",
+        "detail": "围绕暖白圆角方向融合Ossby GEO与Braun语言，去掉两侧小流线；依据Z7 Pro原版分件与厂家UOK组件核对两处轴线、真实切口、反向折头、原小扳机、全行程让位及重锁条件。新图仅供外观评审，需厂家提供内部组件和尺寸再完成建模。"
+      },
       {
         "title": "按九条要求深化凌序",
         "detail": "屏幕可斜而构件尽量不斜、头部反向折叠且触发沿用原小扳机、细扶手、连续侧饰、后墩弧面、下盖板注意撑杆、贴片非玻璃镜面、插拔电源线；彩色跑道允许探索。"
@@ -689,6 +693,10 @@
       }
     ],
     "decisions": [
+      {
+        "title": "凌序黑白款方向纠正 · 真实切口与融合外观参考",
+        "detail": "用户指出旧A不采用，旧B暖白圆角壳体仅接近正确，遗漏Z7 Pro原折叠方式中的分件切口；两旧图退出当前展示并保留历史。本轮新增融合正侧与细节图，去掉两侧小流线型设计，保留头部反向折叠与原小扳机要求。UOK GIF已逐帧审视；厂家拟移植一键折叠属于用户转述计划。两新图待用户评审，未验收、未修改CAD、未核验内部机构。"
+      },
       {
         "title": "11.17历史离线评审包加载修复",
         "detail": "用户反馈直接打开HTML无法加载模型；已复现本地fetch被浏览器拦截，改为模型数据内嵌，完整解压后双击index.html，无需Python或服务器。Chromium禁网下42页146张图、三款模型与滑条通过；仅修复历史包，不更新设计，不代表接收者设备已验证。"
@@ -2101,6 +2109,14 @@
     ],
     "visualGroups": [
       {
+        "title": "凌序黑白款 · 融合外观与真实分件参考",
+        "note": "两张新生成外观图待用户评审；暖白方向不等于图稿验收。头部反向折叠且沿用原小扳机；厂家拟移植UOK为用户转述计划。未修改CAD、未核验内部机构。",
+        "files": [
+          "documents/treadmill/linear-fold-language-20261121/03-fused-side.webp",
+          "documents/treadmill/linear-fold-language-20261121/04-fused-details.webp"
+        ]
+      },
+      {
         "title": "凌序头部反向折叠 · 原小扳机触发",
         "note": "两款否决原因各一页，凌序九条修改一页；每点旁均附局部或图标。两款原图仅用于决策复盘，不恢复为当前候选。",
         "files": [
@@ -2562,6 +2578,22 @@
     ]
   },
   "reviewArchive": [
+    {
+      "file": "documents/treadmill/linear-reference-cmf-20261121/01-geo-frame.webp",
+      "thumb": "documents/treadmill/linear-reference-cmf-20261121/01-geo-frame.webp",
+      "label": "凌序 · Ossby GEO浅灰框架语言",
+      "status": "历史外观提议 · 已退出当前展示",
+      "note": "浅灰哑光平面包覆、炭黑内侧回边、几何肩部；保留R5细网格与切齐分界。仅外观研究，未修改CAD，未完成工程验证。 2026-11-21：用户明确A浅灰框架版本不采用；已由本轮暖白黑白融合外观图替代。",
+      "previousStatus": "新生成外观提议 · 待用户评审"
+    },
+    {
+      "file": "documents/treadmill/linear-reference-cmf-20261121/02-warm-white.webp",
+      "thumb": "documents/treadmill/linear-reference-cmf-20261121/02-warm-white.webp",
+      "label": "凌序 · Braun暖白壳体语言",
+      "status": "历史外观提议 · 已退出当前展示",
+      "note": "暖白圆角壳体、黑色连续细边、柔和面起伏；参考为Braun Powerdrill概念图，作者及量产身份未核实。仅外观研究，未修改CAD，未完成工程验证。 2026-11-21：用户明确B暖白圆角壳体仅接近正确，但遗漏源于Z7 Pro折叠方式的头部与立柱真实切口；已由本轮分件融合外观图替代，未作为验收。",
+      "previousStatus": "新生成外观提议 · 待用户评审"
+    },
     {
       "file": "documents/treadmill/origin-adult-scale-r6-20261116/adult-side.webp",
       "thumb": "documents/treadmill/origin-adult-scale-r6-20261116/adult-side.webp",
