@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-11-21T18:13+08:00",
+  "project": "overseas-catalogs",
+  "scope": "Lifestyle product data update",
+  "platforms": [
+    {
+      "name": "Cloudflare Pages",
+      "url": "https://shanle-lab-lifestyle-online-list.pages.dev/",
+      "status": "deployed and verified",
+      "checks": [
+        "Published JSON matches source bytes and SHA-256",
+        "12 records; 11 active; 1 discontinued; 7 EAN values",
+        "EAN search and old share-link compatibility",
+        "CSV download, XLSX values as text, and PDF content",
+        "1440px desktop and 390px mobile grid and list layouts",
+        "Selection drawer fully on screen after animation; close button not obscured by currency controls"
+      ],
+      "screenshots": [
+        "cloudflare-desktop.png",
+        "cloudflare-mobile.png",
+        "cloudflare-selection.png"
+      ],
+      "deployment": "a0dcb3b8"
+    },
+    {
+      "name": "Vercel",
+      "url": "https://shanle-lab-lifestyle-online-list.vercel.app/",
+      "status": "deployed and verified",
+      "deployment": "dpl_HVmXtCcyYmJfeCPFzURvbFzVEag9",
+      "alias": "shanle-lab-lifestyle-online-list.vercel.app",
+      "checks": [
+        "Published JSON matches source and Cloudflare bytes and SHA-256",
+        "12 records; 11 active; 1 discontinued; 7 EAN values",
+        "EAN and Chinese search; old share-link compatibility",
+        "CSV download, XLSX values as text, and PDF content",
+        "1440px desktop and 390px mobile grid and list layouts",
+        "Selection drawer bounds and close button not obscured"
+      ],
+      "screenshots": [
+        "vercel-desktop.png"
+      ]
+    }
+  ],
+  "pending": [
+    "4 conflicting wholesale quotes await business confirmation",
+    "5 EAN values missing",
+    "New DB002 product image missing",
+    "Customization MOQ to confirm",
+    "User visual review and acceptance pending"
+  ],
+  "privacy": "No source quotation sheet, internal strategy pricing, purchasing data, or internal notes included."
+}

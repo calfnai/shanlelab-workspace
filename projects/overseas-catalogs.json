@@ -7,7 +7,7 @@
   "conversation": "2ec10d3f",
   "conversationName": "SHANLE及SHANLE LAB产品列表与使用说明",
   "note": "这是持续维护项目，不以一次发布或一张图解标记完成。下方区分本轮线上可见、历史交付与尚待复核事项，所有截图和资源核对均注明日期。",
-  "currentFocus": "分类优先改为明确分区：所选类别独立展示，结束后用全宽横向区域分隔其他款式，不在同排混排。六个选款页面统一；ArtSticker 授权分区仍固定在末尾。",
+  "currentFocus": "Lifestyle 按最新周边产品资料补充定价口径、EAN、规格与在售状态；Cloudflare 与 Vercel 均已上线验证。4款价格冲突、5个缺失EAN及新款图片／定制MOQ仍待补齐。",
   "items": [
     {
       "file": "documents/artsticker-handbook/v04/ArtSticker-Corrections-v04.jpg",
@@ -442,6 +442,34 @@
       "label": "ArtSticker v02 · 原版KV融入手册",
       "status": "历史v02 · 官方账号KV已另存v03",
       "note": "KV从用户已有130页品牌书提取，不拉伸、不重绘，不标成小红书来源。"
+    },
+    {
+      "file": "documents/overseas-progress/lifestyle-data-update/cloudflare-desktop.png",
+      "thumb": "documents/overseas-progress/lifestyle-data-update/cloudflare-desktop.webp",
+      "label": "Lifestyle 最新产品资料 · Cloudflare 桌面",
+      "status": "线上实拍 · 2026-11-21 · 待用户复核",
+      "note": "12条记录：11款在售、1款停产；补入7个EAN、定价与产品规格。4款冲突批发价标为待确认，不以零价替代。"
+    },
+    {
+      "file": "documents/overseas-progress/lifestyle-data-update/cloudflare-mobile.png",
+      "thumb": "documents/overseas-progress/lifestyle-data-update/cloudflare-mobile.webp",
+      "label": "Lifestyle 最新产品资料 · Cloudflare 手机",
+      "status": "线上实拍 · 2026-11-21 · 待用户复核",
+      "note": "390px网格实拍；EAN可搜索，缺失条码与新款缺图明确待补。选款、数据导出与旧分享链接已回归检查，视觉验收待用户复核。"
+    },
+    {
+      "file": "documents/overseas-progress/lifestyle-data-update/cloudflare-selection.png",
+      "thumb": "documents/overseas-progress/lifestyle-data-update/cloudflare-selection.webp",
+      "label": "Lifestyle 选款抽屉 · Cloudflare 手机",
+      "status": "线上实拍 · 2026-11-21 · 待用户复核",
+      "note": "等待入场动画结束后拍摄；选款抽屉边界与关闭按钮已复测，币种栏不再遮挡。报价待确认与停产记录在清单中明确提示。"
+    },
+    {
+      "file": "documents/overseas-progress/lifestyle-data-update/vercel-desktop.png",
+      "thumb": "documents/overseas-progress/lifestyle-data-update/vercel-desktop.webp",
+      "label": "Lifestyle 最新产品资料 · Vercel 桌面",
+      "status": "线上实拍 · 2026-11-21 · 待用户复核",
+      "note": "原Vercel正式别名已更新；与Cloudflare发布数据逐字节一致，搜索、旧链接、导出和桌面／手机显示已回归。4款冲突批发价及缺失资料继续待确认。"
     }
   ],
   "links": [
@@ -468,8 +496,8 @@
     }
   ],
   "workbench": {
-    "checkedAt": "2026-11-07T17:17+08:00",
-    "summary": "定制入口改为 ArtSticker 1,000 / 三材质、PopSticker 5,000 / 单一 PU 的对比；共用流程前置，包装进入独立指南。Pimple 默认 US/EU，中文款按钮切换；授权区域紧邻品牌，八站统一 favicon。",
+    "checkedAt": "2026-11-21T18:13+08:00",
+    "summary": "2026-11-21 本轮核对 Lifestyle：12条记录、11款在售、1款停产，补入7个EAN及产品规格；Cloudflare与Vercel均已上线并回归检查。4款冲突批发价保留待确认，缺失条码、图片与定制MOQ继续补齐。其他站点保留各自历史核对状态。",
     "sites": [
       {
         "key": "cloudflare-hub",
@@ -537,11 +565,11 @@
       {
         "key": "lifestyle",
         "title": "Lifestyle 生活用品",
-        "url": "https://shanle-lab-lifestyle-online-list.vercel.app/",
-        "status": "本轮线上可见",
-        "summary": "线上显示 11 款，可见货号、报价、MOQ、产品详情与 Select 入口。",
-        "image": 6,
-        "detail": "截图为本次实际部署页面的视口记录。 本轮 Header 已统一，固定提供 Back to Hub。 分类控件已统一为优先展示，点击不再缩减商品总数。"
+        "url": "https://shanle-lab-lifestyle-online-list.pages.dev/",
+        "status": "两平台已上线并验证 · 待确认数据继续补齐",
+        "summary": "12条记录、11款在售、1款停产；已补入7个EAN、定价口径、产品规格和状态。",
+        "image": 62,
+        "detail": "2026-11-21 Cloudflare与Vercel均已正式发布，两站线上JSON与本地发布文件逐字节一致。EAN／中文搜索、旧分享链接、CSV下载、XLSX文本单元格、PDF内容、1440px／390px网格与列表以及选款抽屉边界／关闭按钮均已回归；币种栏不遮挡抽屉。4款冲突批发价显示待确认；5个EAN、新DB002产品图及定制MOQ待补。用户验收未完成。"
       },
       {
         "key": "pimple-asia",
@@ -604,6 +632,16 @@
         "title": "定制入口 · 手机",
         "image": 11,
         "url": "https://shanle-lab-overseas.vercel.app/customization/"
+      },
+      {
+        "title": "Lifestyle 最新资料 · 手机",
+        "image": 63,
+        "url": "https://shanle-lab-lifestyle-online-list.pages.dev/"
+      },
+      {
+        "title": "Lifestyle 选款抽屉 · 手机",
+        "image": 64,
+        "url": "https://shanle-lab-lifestyle-online-list.pages.dev/"
       }
     ],
     "guideImage": 12,
@@ -756,6 +794,13 @@
       }
     ],
     "tasks": [
+      {
+        "priority": "先做",
+        "title": "补齐 Lifestyle 待确认数据",
+        "body": "确认4款冲突批发报价的适用口径；补齐5个EAN、新DB002图片及定制MOQ。网页已明确标为待确认，不将缺失价格写为零。",
+        "status": "需用户／业务确认",
+        "source": "https://shanle-lab-lifestyle-online-list.pages.dev/"
+      },
       {
         "priority": "先做",
         "title": "用户逐版审阅选款纸",
@@ -1037,9 +1082,26 @@
         "body": "原38/39页星座花合为新第82页12款同页；RichToo更名，131为Mushroomee，140独立Go ART，137–139归Starfy。按shanle-lab.com五主题作大章、艺术家系列作子章，ART综合组拆入对应主题；Disney/Hasbro仍最后。119页、171款、45子系列封面，官网31款直接或SKU别名对齐，另121款按内容延展归类待复核；在线目录未覆盖。",
         "source": "documents/artsticker-handbook/v04/index.html",
         "status": "已生成并检查 · 待用户审阅"
+      },
+      {
+        "date": "2026-11-21",
+        "title": "Lifestyle 补充最新产品资料与EAN",
+        "body": "最新周边资料已核对为12条记录、11款在售、1款停产，补入7个EAN与产品规格。Cloudflare与Vercel均已实际发布；搜索、旧分享链接、导出与抽屉叠层检查通过。4款价格冲突、5个EAN、新款图片及定制MOQ保持待确认。未将原始报价表或内部采购信息放入公开工作区。",
+        "source": "https://shanle-lab-lifestyle-online-list.pages.dev/",
+        "status": "两平台已上线验证 · 待确认数据继续补齐 · 待用户复核"
       }
     ],
     "resources": [
+      {
+        "title": "Lifestyle 资料更新 · 核对记录",
+        "detail": "2026-11-21：Cloudflare与Vercel线上文件一致性、交互、导出与抽屉回归；仅记录检查范围与待确认项，不附原始报价表。",
+        "href": "documents/overseas-progress/lifestyle-data-update/evidence.json"
+      },
+      {
+        "title": "Lifestyle 正式入口 · Vercel",
+        "detail": "2026-11-21 已更新并验证；与Cloudflare使用一致产品数据。",
+        "href": "https://shanle-lab-lifestyle-online-list.vercel.app/"
+      },
       {
         "title": "ArtSticker v04 · 系列纠错与官网主题分章预览",
         "detail": "119页、171款；12款星座花同页，RichToo／Mushroomee／Go ART／Starfy修正。",
