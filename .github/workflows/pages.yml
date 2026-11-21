@@ -38,8 +38,8 @@ jobs:
           PAGES_ARTIFACT_ID: ${{ steps.artifact.outputs.artifact_id }}
         with:
           script: |
-            const artifactId = process.env.PAGES_ARTIFACT_ID;
-            if (!artifactId) throw new Error('Upload did not return an artifact ID');
+            const artifactId = Number(process.env.PAGES_ARTIFACT_ID);
+            if (!Number.isSafeInteger(artifactId) || artifactId <= 0) throw new Error('Upload did not return a valid artifact ID');
             const { owner, repo } = context.repo;
             const { data } = await github.request('POST /repos/{owner}/{repo}/pages/deployments', {
               owner, repo, artifact_id: artifactId,
