@@ -561,7 +561,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "最新三维图：独立3000×3000同视觉地毯覆盖几乎整个展位地面，铺过中岛底部至前沿；原背景布及2.8米高平脚架保留，黑柜垂直背景。",
+  "currentFocus": "英文尺寸页与三维标注整套更新：移除Study only与未确认的摆位间距，保留设备尺寸及地毯终点。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
@@ -649,7 +649,7 @@
   "sync": {
     "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "整体三维图已直接标注背景、黑柜、中岛与地毯尺寸及地毯前沿终点；背景尺寸页脚仅保留3000 W x 2800 H。修正版整套已向calfnmac发送，接收打开未验证。"
+    "status": "已移除Study only与[P]及自行推算的位置坐标、600侧间距和1800后距；保留已确定的设备尺寸、垂直关系与3000×3000地毯范围。 更新版整套已向calfnmac发送，接收打开未验证。"
   },
   "withdrawnItems": [
     {
@@ -685,6 +685,15 @@
       "status": "Sender-side transfer completed; recipient receipt/opening unverified",
       "bytes": 33106780,
       "sha256": "ef0f27851558c306ca47c919589554c5371eb9c7e430af737c58b262d05697d1"
+    },
+    {
+      "date": "2026-11-22",
+      "target": "calfnmac",
+      "package": "POPSTICKER-展位整套-尺寸标注更新版-20261122.zip",
+      "contents": "Complete set; Study only and [P] removed, unconfirmed placement coordinates and gap dimensions removed. Keeps confirmed fixture dimensions and carpet extent.",
+      "status": "Sender-side transfer completed; recipient receipt/opening unverified",
+      "bytes": 33093183,
+      "sha256": "f8f7054556505eef84158eac44ca23b314e7a99e64ceb040943c6ef2499709e7"
     }
   ]
 }
