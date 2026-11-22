@@ -9,30 +9,30 @@
     {
       "file": "documents/booth-paper-island-current/current-booth-front.png",
       "thumb": "documents/booth-paper-island-current/current-booth-front.png",
-      "label": "当前整体 · 2800高平脚架／原布落地",
+      "label": "当前三维整体 · 3×3米整铺地毯",
       "status": "已生成 · 待评审",
-      "note": "用户选定背景架3000W×2800H；原布3000×3000，约200落地余量含转折；黑柜2米与背景垂直，灯数4+4+2。"
+      "note": "独立3000×3000地毯从背景铺过中岛底部并至前沿；原布及2800高背景架不变；黑柜2米与背景垂直，灯数4+4+2。"
     },
     {
       "file": "documents/booth-paper-island-current/current-all-fixtures-dimensions-en.png",
       "thumb": "documents/booth-paper-island-current/current-all-fixtures-dimensions-en.png",
       "label": "完整英文尺寸 · 01 · 背景布／黑柜／中岛正侧面",
       "status": "已绘制 · 设计协调稿",
-      "note": "背景架3000W×2800H，原布3000×3000，落地余量约200含转折；黑柜2000×2000×400，中岛1850总高；已移除多余未定构造项。"
+      "note": "地毯3000×3000，近乎整铺展位地面；独立于原3000×3000背景布。背景架3000W×2800H、黑柜2000×2000×400、中岛1850总高。"
     },
     {
       "file": "documents/booth-paper-island-current/current-island-dimensions-en.png",
       "thumb": "documents/booth-paper-island-current/current-island-dimensions-en.png",
       "label": "完整英文尺寸 · 02 · 中岛部件细尺寸",
       "status": "已绘制 · 设计协调稿",
-      "note": "背景架3000W×2800H，原布3000×3000，落地余量约200含转折；黑柜2000×2000×400，中岛1850总高；已移除多余未定构造项。"
+      "note": "地毯3000×3000，近乎整铺展位地面；独立于原3000×3000背景布。背景架3000W×2800H、黑柜2000×2000×400、中岛1850总高。"
     },
     {
       "file": "documents/booth-paper-island-current/current-layout-dimensions-en.png",
       "thumb": "documents/booth-paper-island-current/current-layout-dimensions-en.png",
       "label": "完整英文尺寸 · 03 · L形俯视与摆位尺寸",
       "status": "已绘制 · 设计协调稿",
-      "note": "背景架3000W×2800H，原布3000×3000，落地余量约200含转折；黑柜2000×2000×400，中岛1850总高；已移除多余未定构造项。"
+      "note": "地毯3000×3000，近乎整铺展位地面；独立于原3000×3000背景布。背景架3000W×2800H、黑柜2000×2000×400、中岛1850总高。"
     },
     {
       "file": "documents/booth-paper-island-current/current-booth-dimensions.png",
@@ -561,7 +561,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "用户指定3000宽×2800高平脚背景架，原3000×3000布料不换材质，约200含转折落地余量；更新整体与完整英文尺寸，无额外未定构造标记。",
+  "currentFocus": "最新三维图：独立3000×3000同视觉地毯覆盖几乎整个展位地面，铺过中岛底部至前沿；原背景布及2.8米高平脚架保留，黑柜垂直背景。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
@@ -649,7 +649,7 @@
   "sync": {
     "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "最新2.8米背景架整包已发往calfnmac，发送端完成；接收端收取和打开未核实，图稿评审状态不变。"
+    "status": "整铺3×3米地毯三维图及英文尺寸已更新，待用户评审；此前发送给calfnmac的ZIP是旧地面方案，本轮未重发。"
   },
   "withdrawnItems": [
     {
