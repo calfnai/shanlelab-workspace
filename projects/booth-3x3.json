@@ -7,39 +7,39 @@
   "note": "11.19收到用户提供正背面，明确称“差不多最终稿”；收录为当前设计师参考，尚未送印确认。主牌尺寸更新为1385×1000mm、总高1850mm，旧尺寸册1387×1001仅保留已发送里程碑。背面26挂位；新定孔与可达性待按实物复核。 背景布画面尺寸已由用户确认为宽3000×高3000mm；地面占地不能由布面尺寸推定。 最新修正：参考图下方木托盘／叉车板不存在，改为纸桌；旧670mm托盘高度作废，开稿尺寸按750mm修订，待制造核对。 最新结构数量锁定：一个纸中岛＋一片背景布，不延续重型墙柜或额外独立台架；布的必要支撑由场地方／搭建方核对。 11.13结构方向已更新：纸中岛替代重型墙柜；此前空间效果图仅供历史追溯，不再作为现行结构。新结构v06整体效果已生成；该图沿用80cm桌高，仅看摆位，最新尺寸以v07的75cm修订为准。 海外展位品牌排字统一POPSTICKER；历史源图仅保留追溯。本轮用户指定A3板与钻石贴票，替代A4人工计票提案；500枚为拟定首批，未下单印制。原产品轮廓与主品牌识别保留，场景生成图不作为准确轮廓／小字或施工证明。Switch 2以官方尺寸拟合，保护包尺寸待实物核对。v11两面外背墙保持备选，v10单面文字外背板仍为用户否决，不恢复推荐。 Layla正式商品正面以11月12日新确认原图为准；空间图只作应用和摆位示意，不作为SKU主图。 11.16设计师总交接包已执行发送到calfnmac；发送命令退出0，接收端文件与打开状态未核实。",
   "items": [
     {
+      "file": "documents/booth-paper-island-current/current-booth-front.png",
+      "thumb": "documents/booth-paper-island-current/current-booth-front.png",
+      "label": "当前整体 · 2800高平脚架／原布落地",
+      "status": "已生成 · 待评审",
+      "note": "用户选定背景架3000W×2800H；原布3000×3000，约200落地余量含转折；黑柜2米与背景垂直，灯数4+4+2。"
+    },
+    {
       "file": "documents/booth-paper-island-current/current-all-fixtures-dimensions-en.png",
       "thumb": "documents/booth-paper-island-current/current-all-fixtures-dimensions-en.png",
       "label": "完整英文尺寸 · 01 · 背景布／黑柜／中岛正侧面",
       "status": "已绘制 · 设计协调稿",
-      "note": "已知外尺寸和中岛部件尺寸齐全；P为暂拟摆位，TBC为未提供内部构造，不推测裁切或挂孔。"
+      "note": "背景架3000W×2800H，原布3000×3000，落地余量约200含转折；黑柜2000×2000×400，中岛1850总高；已移除多余未定构造项。"
     },
     {
       "file": "documents/booth-paper-island-current/current-island-dimensions-en.png",
       "thumb": "documents/booth-paper-island-current/current-island-dimensions-en.png",
       "label": "完整英文尺寸 · 02 · 中岛部件细尺寸",
       "status": "已绘制 · 设计协调稿",
-      "note": "已知外尺寸和中岛部件尺寸齐全；P为暂拟摆位，TBC为未提供内部构造，不推测裁切或挂孔。"
+      "note": "背景架3000W×2800H，原布3000×3000，落地余量约200含转折；黑柜2000×2000×400，中岛1850总高；已移除多余未定构造项。"
     },
     {
       "file": "documents/booth-paper-island-current/current-layout-dimensions-en.png",
       "thumb": "documents/booth-paper-island-current/current-layout-dimensions-en.png",
       "label": "完整英文尺寸 · 03 · L形俯视与摆位尺寸",
       "status": "已绘制 · 设计协调稿",
-      "note": "已知外尺寸和中岛部件尺寸齐全；P为暂拟摆位，TBC为未提供内部构造，不推测裁切或挂孔。"
+      "note": "背景架3000W×2800H，原布3000×3000，落地余量约200含转折；黑柜2000×2000×400，中岛1850总高；已移除多余未定构造项。"
     },
     {
       "file": "documents/booth-paper-island-current/current-booth-dimensions.png",
       "thumb": "documents/booth-paper-island-current/current-booth-dimensions.png",
-      "label": "L形整体 · 直接尺寸标注",
-      "status": "已生成 · 待评审",
-      "note": "背景布3000×3000，黑柜2000×2000×400，中岛2000×1000、总高1850；图上加尺寸，不改变设计。"
-    },
-    {
-      "file": "documents/booth-paper-island-current/current-booth-front.png",
-      "thumb": "documents/booth-paper-island-current/current-booth-front.png",
-      "label": "11.22 · L形修正 · 2米黑柜垂直3米背景",
-      "status": "已生成 · 待评审",
-      "note": "黑柜2000W×2000H×400D，沿左侧向前伸，与3000W×3000H背景布垂直90°；中岛总高1850。图稿待评审，尺寸依平面原稿。"
+      "label": "此前图上尺寸参考 · 背景高度已更新",
+      "status": "历史标注 · 当前请看英文尺寸三页",
+      "note": "此前按3000竖向背景标注，现改为2800高支架及3000长布料，见当前尺寸页。"
     },
     {
       "file": "documents/booth-paper-island-current/current-backdrop-3000x3000.png",
@@ -561,7 +561,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "用户更正：黑柜2×2米、深0.4米，必须垂直于3×3米背景布，沿左侧形成90°L形；整体图和毫米平面已修正，待用户评审。",
+  "currentFocus": "用户指定3000宽×2800高平脚背景架，原3000×3000布料不换材质，约200含转折落地余量；更新整体与完整英文尺寸，无额外未定构造标记。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
@@ -649,7 +649,7 @@
   "sync": {
     "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "补齐背景布、黑柜、中岛的英文尺寸三页与ZIP，含正侧立面、中岛分件及L形俯视；灯数修订4+4+2，未提供结构数据TBC。"
+    "status": "选定背景架及原布落地方案已更新图稿；当前英文尺寸不再有TBC，灯数4+4+2；旧3000高背景标注仅留历史。"
   },
   "withdrawnItems": [
     {
