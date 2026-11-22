@@ -401,9 +401,9 @@
     {
       "file": "documents/mct-back-sale-selection-current/selection-26-review.png",
       "thumb": "documents/mct-back-sale-selection-current/selection-26-review-thumb.webp",
-      "label": "中岛背面选款调整 · 8款加入讨论",
-      "status": "调整讨论稿 · 货号待核",
-      "note": "新增8款进入讨论：007、006、013、015、023、024、052为用户提出，059已接受；021用户明确要求保留。032待定、不占位；072原表无对应货号，尚未核对，不作为最终26款确认。036、019仅为额外移出建议，未经用户批准。正面赛事联名与抽钻款另计。"
+      "label": "中岛背面26款现场陈列mockup",
+      "status": "本轮清单已应用 · 货号待核",
+      "note": "本轮26款清单已应用至背面mockup，小图Excel已制作。019、036、021保留；013、015移出；032未列入。原口述072在原表无对应，本轮暂按071移出，货号仍待核。正面赛事联名与抽钻款另计；背面概念用于陈列视觉核对，非实装或印刷批准。"
     }
   ],
   "links": [
@@ -565,6 +565,11 @@
     {
       "label": "凡几／Nowre／通用3×3历史资料（非当前MLBB稿）",
       "href": "documents/booth-3x3-history/index.html"
+    },
+    {
+      "label": "中岛背面26款选款表 · 小图Excel（约104 KB）",
+      "href": "documents/mct-back-sale-selection-current/selection-26-thumbnails.xlsx",
+      "kind": "document"
     }
   ],
   "conversationName": "MLBB展位重设计",
