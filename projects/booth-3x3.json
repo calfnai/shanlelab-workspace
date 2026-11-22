@@ -9,9 +9,9 @@
     {
       "file": "documents/booth-paper-island-current/current-booth-front.png",
       "thumb": "documents/booth-paper-island-current/current-booth-front.png",
-      "label": "11.22 · MCT元素背景／黑柜／射灯整体",
+      "label": "11.22 · L形修正 · 2米黑柜垂直3米背景",
       "status": "已生成 · 待评审",
-      "note": "背景布禁MLBB字标及Logo，使用MCT官方SEA标识、海浪与抽钻概念；黑柜与中岛结构保持。视觉图待评审。"
+      "note": "黑柜2000W×2000H×400D，沿左侧向前伸，与3000W×3000H背景布垂直90°；中岛总高1850。图稿待评审，尺寸依平面原稿。"
     },
     {
       "file": "documents/booth-paper-island-current/current-backdrop-3000x3000.png",
@@ -23,9 +23,9 @@
     {
       "file": "documents/booth-paper-island-current/current-booth-rear.png",
       "thumb": "documents/booth-paper-island-current/current-booth-rear.png",
-      "label": "11.22 · 中岛背面 · 常规款挂货与射灯",
-      "status": "已生成 · 待评审",
-      "note": "使用用户背面设计，常规款挂货示意；包装和挂位尺寸需按实物与原稿核对。"
+      "label": "背面挂货图案参考 · 原摆位已替代",
+      "status": "图案参考 · 非当前摆位",
+      "note": "此图仅保留26位背面挂货和图案细节，原空间关系已由L形整体图替代，不作现行摆位依据。"
     },
     {
       "file": "documents/booth-designer-handoff-v09-20261114/current-designer-art/front.jpg",
@@ -523,7 +523,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "背景布禁用MLBB字标／Logo，以MCT官方SEA标识、海浪、旋涡和抽钻概念呈现电竞联名；保留POPSTICKER主识别、黑柜、中岛、射灯。",
+  "currentFocus": "用户更正：黑柜2×2米、深0.4米，必须垂直于3×3米背景布，沿左侧形成90°L形；整体图和毫米平面已修正，待用户评审。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
@@ -611,7 +611,7 @@
   "sync": {
     "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "MCT背景布平面与正背面场景已更新待评审；用户限制仅针对背景布，中岛和商品原设计保留。"
+    "status": "L形方向与2米／3米相对尺寸已更新；原平行摆位不再作为当前推荐，背面旧图仅留图案参考。"
   },
   "withdrawnItems": [
     {
