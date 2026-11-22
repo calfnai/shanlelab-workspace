@@ -1,0 +1,54 @@
+{
+  "id": "hangzhou-xinwuji-space",
+  "title": "杭州新物集 SPACE",
+  "en": "06C / HANGZHOU XINWUJI SPACE",
+  "description": "已移至新区域落地：大公仔旁的既有白色网格隔断，单面集中陈列。当前以用户提供的三张最终实拍为准。",
+  "note": "2026-11-22用户确认结案。仅保留2026-11-21三张最终落地实拍及说明；旧候选、旧版与模型已清理。",
+  "conversation": "213cccac",
+  "conversationName": "【已结案】杭州新物集 SPACE",
+  "currentFocus": "项目已结案，不再推进或自动重新收录。",
+  "items": [
+    {
+      "file": "documents/hangzhou-space-final-site-20261121/IMG_1808.jpg",
+      "thumb": "documents/hangzhou-space-final-site-20261121/IMG_1808.webp",
+      "label": "当前实景 · 正面与新位置",
+      "status": "用户提供的最终落地实拍 · 2026-11-21",
+      "note": "可见陈列与右侧大公仔背景的位置关系。"
+    },
+    {
+      "file": "documents/hangzhou-space-final-site-20261121/IMG_1807.jpg",
+      "thumb": "documents/hangzhou-space-final-site-20261121/IMG_1807.webp",
+      "label": "当前实景 · 整体斜视",
+      "status": "用户提供的最终落地实拍 · 2026-11-21",
+      "note": "可见既有网格隔断、侧面场地信息板和后方桌椅。"
+    },
+    {
+      "file": "documents/hangzhou-space-final-site-20261121/IMG_1809.jpg",
+      "thumb": "documents/hangzhou-space-final-site-20261121/IMG_1809.webp",
+      "label": "当前实景 · 挂货与应用细节",
+      "status": "用户提供的最终落地实拍 · 2026-11-21",
+      "note": "可见同钩多包挂货、包袋及护照夹贴纸应用，以及新KT物料。"
+    }
+  ],
+  "links": [
+    {
+      "label": "当前实景 · 场地变更说明",
+      "href": "documents/hangzhou-space-final-site-20261121/notes.md"
+    }
+  ],
+  "progress": {
+    "updated": "2026-11-22",
+    "summary": "已完成，结案存档并移出共享工作区。",
+    "decisions": [
+      {
+        "title": "用户确认结案",
+        "detail": "用户明确新物集已完成并close file，要求移出工作区、存档、删除模型和旧版。"
+      }
+    ],
+    "next": []
+  },
+  "lifecycle": "archived",
+  "status": "已完成 · 结案存档",
+  "archivedAt": "2026-11-22",
+  "archiveReason": "用户明确新物集已完成并close file，要求移出工作区、存档、删除模型和旧版。"
+}

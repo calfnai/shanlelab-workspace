@@ -512,39 +512,6 @@
       ]
     },
     {
-      "id": "hangzhou-xinwuji-space",
-      "title": "杭州新物集 SPACE",
-      "currentFocus": "比较两个option的空间占用、选款展示、包袋应用与携带安装方式，等待最终选择。",
-      "note": "电视架方案当前用反面密集选款画面，旧正面v01转历史；四笼方案继续使用用户指定原图。两版结构方案并行保留。",
-      "cancelledScope": null,
-      "images": [
-        {
-          "label": "候选 · 椭圆单杆落地架 v02反面选款",
-          "status": "用户已指定使用反面 · 效果待评审",
-          "url": "https://calfnai.github.io/shanlelab-workspace/documents/hangzhou-space-oval-stand-v02-reverse-20261113/concept.png"
-        },
-        {
-          "label": "候选 · 四笼网格 × 新KT四面混合陈列",
-          "status": "用户指定为另一个候选 · 未最终选定",
-          "url": "https://calfnai.github.io/shanlelab-workspace/documents/hangzhou-space-cage-kt-20261113/concept.png"
-        }
-      ],
-      "links": [
-        {
-          "label": "电视架v02 · 反面选款说明",
-          "url": "https://calfnai.github.io/shanlelab-workspace/documents/hangzhou-space-oval-stand-v02-reverse-20261113/notes.md"
-        },
-        {
-          "label": "用户指定的反面原稿",
-          "url": "https://calfnai.github.io/shanlelab-workspace/documents/hangzhou-space-oval-stand-v02-reverse-20261113/source-face.png"
-        },
-        {
-          "label": "四笼KT方案 · 图面尺寸与候选状态",
-          "url": "https://calfnai.github.io/shanlelab-workspace/documents/hangzhou-space-cage-kt-20261113/notes.md"
-        }
-      ]
-    },
-    {
       "id": "nowre",
       "title": "NOWRE · B1独立场地",
       "currentFocus": "核实实际可带道具，将密集选款、POP实物应用、取货空间和柜内备货一起规划。",

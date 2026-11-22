@@ -13,13 +13,12 @@
 
 ## 第一步：从项目 JSON 找到当前工作，别只看仓库首页
 
-先按用户提到的项目读取下表对应清单。用户要求全面了解店铺设计时才遍历七个项目；单项任务只读该项目和必要关联资料。不要扫描整仓、所有历史或下载全部大文件。
+先按用户提到的项目读取下表对应清单。用户要求全面了解店铺设计时才遍历表中项目；单项任务只读该项目和必要关联资料。不要扫描整仓、所有历史或下载全部大文件。
 
 | 工作线 | 权威项目清单（可直接读取的 JSON） | 网页评审入口 |
 | --- | --- | --- |
 | niko and… | https://raw.githubusercontent.com/calfnai/shanlelab-workspace/main/projects/niko.json | https://calfnai.github.io/shanlelab-workspace/#niko |
 | MLBB 3×3 | https://raw.githubusercontent.com/calfnai/shanlelab-workspace/main/projects/booth-3x3.json | https://calfnai.github.io/shanlelab-workspace/#booth-3x3 |
-| 杭州新物集 SPACE | https://raw.githubusercontent.com/calfnai/shanlelab-workspace/main/projects/hangzhou-xinwuji-space.json | https://calfnai.github.io/shanlelab-workspace/#hangzhou-xinwuji-space |
 | NOWRE B1 | https://raw.githubusercontent.com/calfnai/shanlelab-workspace/main/projects/nowre.json | https://calfnai.github.io/shanlelab-workspace/#nowre |
 | 成都 2C2D | https://raw.githubusercontent.com/calfnai/shanlelab-workspace/main/projects/chengdu-2c2d.json | https://calfnai.github.io/shanlelab-workspace/#chengdu-2c2d |
 | 4×4 | https://raw.githubusercontent.com/calfnai/shanlelab-workspace/main/projects/booth-4x4.json | https://calfnai.github.io/shanlelab-workspace/#booth-4x4 |
