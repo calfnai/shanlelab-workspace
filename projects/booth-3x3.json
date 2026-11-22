@@ -9,9 +9,9 @@
     {
       "file": "documents/booth-paper-island-current/current-booth-front.png",
       "thumb": "documents/booth-paper-island-current/current-booth-front.png",
-      "label": "当前三维整体 · 3×3米整铺地毯",
+      "label": "当前三维整体 · 英文尺寸与地毯终点标注",
       "status": "已生成 · 待评审",
-      "note": "独立3000×3000地毯从背景铺过中岛底部并至前沿；原布及2800高背景架不变；黑柜2米与背景垂直，灯数4+4+2。"
+      "note": "直接标注背景3000W×2800H、黑柜2000W×400D×2000H、中岛2000W×1000D×1850H及台面750H；地毯3000×3000，前沿终点有箭头标记。"
     },
     {
       "file": "documents/booth-paper-island-current/current-all-fixtures-dimensions-en.png",
@@ -649,7 +649,7 @@
   "sync": {
     "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "3×3米整铺地毯新版整套ZIP已向calfnmac发送，发送端完成；接收落盘及打开情况未验证。"
+    "status": "整体三维图已直接标注背景、黑柜、中岛与地毯尺寸及地毯前沿终点；背景尺寸页脚仅保留3000 W x 2800 H。修正版整套已向calfnmac发送，接收打开未验证。"
   },
   "withdrawnItems": [
     {
@@ -676,6 +676,15 @@
       "status": "Sender-side transfer completed; recipient receipt/opening unverified",
       "bytes": 31055227,
       "sha256": "035c75008309286612b1b8b638e0fb8e509ad7adb486769130b53620c06abdfa"
+    },
+    {
+      "date": "2026-11-22",
+      "target": "calfnmac",
+      "package": "POPSTICKER-展位整套-尺寸标注修正版-20261122.zip",
+      "contents": "Dimension-annotated current front render, clean render, 3 English dimension sheets PNG/SVG, backdrop art and island references. Removed redundant backdrop footer; only 3000 W x 2800 H.",
+      "status": "Sender-side transfer completed; recipient receipt/opening unverified",
+      "bytes": 33106780,
+      "sha256": "ef0f27851558c306ca47c919589554c5371eb9c7e430af737c58b262d05697d1"
     }
   ]
 }
