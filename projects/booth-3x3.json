@@ -404,6 +404,13 @@
       "label": "中岛背面26款现场陈列mockup",
       "status": "本轮清单已应用 · 货号待核",
       "note": "现有背面mockup对应26款PopSticker。中岛货盘已另加4类周边及备货数量，原26款保留，每款备货数量已填；表格沿用原字段并保留条码，护照夹售价采用换算取整公式；笔记本及POP-Bag售价按用户指定设置；红色笔记本价格已按用户确认补齐；型号、条码及红色原图仍待核，POP-Bag条码待补；072暂按071移出待核。"
+    },
+    {
+      "label": "背景布朝外背面 · 银色电竞耳机",
+      "file": "documents/booth-paper-island-current/current-backdrop-outward.png",
+      "status": "已生成 · 待用户确认",
+      "note": "3000W×2800H画面比例；银色电竞耳机应用MCT贴纸，游戏机保护包应用Layla贴纸；橙色POPSTICKER视觉锤、MCT浪纹，无MLBB字标。概念设计，非印刷生产文件。",
+      "thumb": "documents/booth-paper-island-current/current-backdrop-outward.png"
     }
   ],
   "links": [
@@ -568,7 +575,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "英文尺寸页与三维标注整套更新：移除Study only与未确认的摆位间距，保留设备尺寸及地毯终点。",
+  "currentFocus": "背景布朝外背面新稿：银色电竞耳机＋MCT贴纸、游戏机保护包＋Layla贴纸，保留橙色POPSTICKER视觉锤；待用户确认。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
@@ -656,7 +663,7 @@
   "sync": {
     "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "已移除Study only与[P]及自行推算的位置坐标、600侧间距和1800后距；保留已确定的设备尺寸、垂直关系与3000×3000地毯范围。 更新版整套已向calfnmac发送，接收打开未验证。"
+    "status": "朝外背面设计稿已生成并加入共享页；原展位布局、内侧画面与已发送整套文件保留。"
   },
   "withdrawnItems": [
     {
