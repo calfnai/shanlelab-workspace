@@ -7,6 +7,20 @@
   "note": "11.19收到用户提供正背面，明确称“差不多最终稿”；收录为当前设计师参考，尚未送印确认。主牌尺寸更新为1385×1000mm、总高1850mm，旧尺寸册1387×1001仅保留已发送里程碑。背面26挂位；新定孔与可达性待按实物复核。 背景布画面尺寸已由用户确认为宽3000×高3000mm；地面占地不能由布面尺寸推定。 最新修正：参考图下方木托盘／叉车板不存在，改为纸桌；旧670mm托盘高度作废，开稿尺寸按750mm修订，待制造核对。 最新结构数量锁定：一个纸中岛＋一片背景布，不延续重型墙柜或额外独立台架；布的必要支撑由场地方／搭建方核对。 11.13结构方向已更新：纸中岛替代重型墙柜；此前空间效果图仅供历史追溯，不再作为现行结构。新结构v06整体效果已生成；该图沿用80cm桌高，仅看摆位，最新尺寸以v07的75cm修订为准。 海外展位品牌排字统一POPSTICKER；历史源图仅保留追溯。本轮用户指定A3板与钻石贴票，替代A4人工计票提案；500枚为拟定首批，未下单印制。原产品轮廓与主品牌识别保留，场景生成图不作为准确轮廓／小字或施工证明。Switch 2以官方尺寸拟合，保护包尺寸待实物核对。v11两面外背墙保持备选，v10单面文字外背板仍为用户否决，不恢复推荐。 Layla正式商品正面以11月12日新确认原图为准；空间图只作应用和摆位示意，不作为SKU主图。 11.16设计师总交接包已执行发送到calfnmac；发送命令退出0，接收端文件与打开状态未核实。",
   "items": [
     {
+      "file": "documents/booth-paper-island-current/current-booth-front.png",
+      "thumb": "documents/booth-paper-island-current/current-booth-front.png",
+      "label": "11.22 · 更新整体 · 平整背景／黑柜／射灯",
+      "status": "已生成 · 待评审",
+      "note": "黑柜2000W×2000H×400D，岛按用户最新正面；渲染用于视觉评审，平面尺寸与轮廓以原稿为准。"
+    },
+    {
+      "file": "documents/booth-paper-island-current/current-booth-rear.png",
+      "thumb": "documents/booth-paper-island-current/current-booth-rear.png",
+      "label": "11.22 · 中岛背面 · 常规款挂货与射灯",
+      "status": "已生成 · 待评审",
+      "note": "使用用户背面设计，常规款挂货示意；包装和挂位尺寸需按实物与原稿核对。"
+    },
+    {
       "file": "documents/booth-designer-handoff-v09-20261114/current-designer-art/front.jpg",
       "thumb": "documents/booth-designer-handoff-v09-20261114/current-designer-art/front-thumb.webp",
       "label": "11.19 · 设计师接近最终稿 · 正面联名款",
@@ -352,6 +366,11 @@
   ],
   "links": [
     {
+      "label": "11.22 · 更新版整体／背面／摆位",
+      "href": "documents/booth-paper-island-current/index.html",
+      "kind": "document"
+    },
+    {
       "label": "11.19 · 设计师接近最终稿说明 · 正背面与尺寸口径",
       "href": "documents/booth-designer-handoff-v09-20261114/current-designer-art/status.txt",
       "kind": "document"
@@ -497,7 +516,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "以11月19日用户提供的正背面设计师接近最终稿为当前参考；主牌1385×1000mm、总高1850mm，待最后确认与源文件导出。",
+  "currentFocus": "11月22日：背景布去皱、增加2000×2000×400黑柜，中岛采用用户最新正背设计并加入射灯；整体与背面效果待评审。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
@@ -583,9 +602,9 @@
     ]
   },
   "sync": {
-    "checkedAt": "2026-11-18",
+    "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "新活动画面独立中岛效果已生成待评审；未改动结构尺寸确认或已发送设计师交接里程碑。"
+    "status": "最新展位效果已生成待评审；保留11月14日已发送交接包及用户11月19日设计参考状态。"
   },
   "withdrawnItems": [
     {
