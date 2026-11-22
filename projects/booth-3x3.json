@@ -649,7 +649,7 @@
   "sync": {
     "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "整铺3×3米地毯三维图及英文尺寸已更新，待用户评审；此前发送给calfnmac的ZIP是旧地面方案，本轮未重发。"
+    "status": "3×3米整铺地毯新版整套ZIP已向calfnmac发送，发送端完成；接收落盘及打开情况未验证。"
   },
   "withdrawnItems": [
     {
@@ -667,6 +667,15 @@
       "package": "POPSTICKER-展位更新-2.8米背景架-英文尺寸与效果图.zip",
       "contents": "Current render,3 English dimension sheets PNG/SVG, original fabric art and selected stand reference",
       "status": "Sender-side transfer completed; recipient receipt/opening unverified"
+    },
+    {
+      "date": "2026-11-22",
+      "target": "calfnmac",
+      "package": "POPSTICKER-展位整套-3x3整铺地毯-20261122.zip",
+      "contents": "Latest full-floor-carpet 3D render, 3 English dimension sheets PNG/SVG, original backdrop art PNG/SVG, selected stand reference and original island front/side/back design artwork; 14 files",
+      "status": "Sender-side transfer completed; recipient receipt/opening unverified",
+      "bytes": 31055227,
+      "sha256": "035c75008309286612b1b8b638e0fb8e509ad7adb486769130b53620c06abdfa"
     }
   ]
 }
