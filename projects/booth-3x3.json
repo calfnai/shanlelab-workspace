@@ -7,6 +7,27 @@
   "note": "11.19收到用户提供正背面，明确称“差不多最终稿”；收录为当前设计师参考，尚未送印确认。主牌尺寸更新为1385×1000mm、总高1850mm，旧尺寸册1387×1001仅保留已发送里程碑。背面26挂位；新定孔与可达性待按实物复核。 背景布画面尺寸已由用户确认为宽3000×高3000mm；地面占地不能由布面尺寸推定。 最新修正：参考图下方木托盘／叉车板不存在，改为纸桌；旧670mm托盘高度作废，开稿尺寸按750mm修订，待制造核对。 最新结构数量锁定：一个纸中岛＋一片背景布，不延续重型墙柜或额外独立台架；布的必要支撑由场地方／搭建方核对。 11.13结构方向已更新：纸中岛替代重型墙柜；此前空间效果图仅供历史追溯，不再作为现行结构。新结构v06整体效果已生成；该图沿用80cm桌高，仅看摆位，最新尺寸以v07的75cm修订为准。 海外展位品牌排字统一POPSTICKER；历史源图仅保留追溯。本轮用户指定A3板与钻石贴票，替代A4人工计票提案；500枚为拟定首批，未下单印制。原产品轮廓与主品牌识别保留，场景生成图不作为准确轮廓／小字或施工证明。Switch 2以官方尺寸拟合，保护包尺寸待实物核对。v11两面外背墙保持备选，v10单面文字外背板仍为用户否决，不恢复推荐。 Layla正式商品正面以11月12日新确认原图为准；空间图只作应用和摆位示意，不作为SKU主图。 11.16设计师总交接包已执行发送到calfnmac；发送命令退出0，接收端文件与打开状态未核实。 2026-11-22：最新背景架、英文尺寸及效果整包已通过Tailscale发送至calfnmac；发送端报告完成，对方接收／打开未核实。",
   "items": [
     {
+      "file": "documents/booth-paper-island-current/backface-wireframes/A-brand-use.png",
+      "thumb": "documents/booth-paper-island-current/backface-wireframes/A-brand-use-thumb.webp",
+      "label": "11.23 · 两块背面线框 · A 品牌＋电竞用途（推荐）",
+      "status": "信息布局提案 · 未选定",
+      "note": "大墙3000×2800，黑柜背面2000×2000；品牌与用途优先，柜背解释产品并引导选款。"
+    },
+    {
+      "file": "documents/booth-paper-island-current/backface-wireframes/B-event-entry.png",
+      "thumb": "documents/booth-paper-island-current/backface-wireframes/B-event-entry-thumb.webp",
+      "label": "11.23 · 两块背面线框 · B MCT总量稀缺＋Layla引流",
+      "status": "信息布局提案 · 未选定",
+      "note": "800来自现有设计师稿；价格和活动规则需最终核准。"
+    },
+    {
+      "file": "documents/booth-paper-island-current/backface-wireframes/C-vote-photo.png",
+      "thumb": "documents/booth-paper-island-current/backface-wireframes/C-vote-photo-thumb.webp",
+      "label": "11.23 · 两块背面线框 · C 品牌打卡＋新品投票",
+      "status": "信息布局提案 · 未选定",
+      "note": "橙／绿下一款预热；线上投票为提案，保留中岛A3钻石贴票。"
+    },
+    {
       "file": "documents/booth-paper-island-current/current-booth-front.png",
       "thumb": "documents/booth-paper-island-current/current-booth-front.png",
       "label": "当前三维整体 · 英文尺寸与地毯终点标注",
@@ -415,6 +436,11 @@
   ],
   "links": [
     {
+      "label": "11.23 · 两块朝外背面 · 三组线框及SVG下载",
+      "href": "documents/booth-paper-island-current/backface-wireframes/index.html",
+      "kind": "document"
+    },
+    {
       "label": "完整英文尺寸三页 · PNG／SVG ZIP",
       "href": "documents/booth-paper-island-current/current-complete-dimensions-en.zip",
       "kind": "document"
@@ -575,7 +601,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "背景布朝外背面新稿：银色电竞耳机＋MCT贴纸、游戏机保护包＋Layla贴纸，保留橙色POPSTICKER视觉锤；待用户确认。",
+  "currentFocus": "比较主背景墙朝外背面与黑柜背面的三组信息布局：A品牌用途、B活动引流、C打卡投票；均为未选定提案。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
