@@ -640,6 +640,20 @@ window.WORKSPACE= {
       "note": "11.23用户选择A方向，指出原线框口号压在画面底部，与视线高度说明冲突；当前A已修正口号和扫码高度。 11.19收到用户提供正背面，明确称“差不多最终稿”；收录为当前设计师参考，尚未送印确认。主牌尺寸更新为1385×1000mm、总高1850mm，旧尺寸册1387×1001仅保留已发送里程碑。背面26挂位；新定孔与可达性待按实物复核。 背景布画面尺寸已由用户确认为宽3000×高3000mm；地面占地不能由布面尺寸推定。 最新修正：参考图下方木托盘／叉车板不存在，改为纸桌；旧670mm托盘高度作废，开稿尺寸按750mm修订，待制造核对。 最新结构数量锁定：一个纸中岛＋一片背景布，不延续重型墙柜或额外独立台架；布的必要支撑由场地方／搭建方核对。 11.13结构方向已更新：纸中岛替代重型墙柜；此前空间效果图仅供历史追溯，不再作为现行结构。新结构v06整体效果已生成；该图沿用80cm桌高，仅看摆位，最新尺寸以v07的75cm修订为准。 海外展位品牌排字统一POPSTICKER；历史源图仅保留追溯。本轮用户指定A3板与钻石贴票，替代A4人工计票提案；500枚为拟定首批，未下单印制。原产品轮廓与主品牌识别保留，场景生成图不作为准确轮廓／小字或施工证明。Switch 2以官方尺寸拟合，保护包尺寸待实物核对。v11两面外背墙保持备选，v10单面文字外背板仍为用户否决，不恢复推荐。 Layla正式商品正面以11月12日新确认原图为准；空间图只作应用和摆位示意，不作为SKU主图。 11.16设计师总交接包已执行发送到calfnmac；发送命令退出0，接收端文件与打开状态未核实。 2026-11-22：最新背景架、英文尺寸及效果整包已通过Tailscale发送至calfnmac；发送端报告完成，对方接收／打开未核实。",
       "items": [
         {
+          "file": "documents/booth-paper-island-current/backface-wireframes/application-headset.png",
+          "thumb": "documents/booth-paper-island-current/backface-wireframes/application-headset-thumb.webp",
+          "label": "A方向 · 银色电竞耳机 × MCT贴纸",
+          "status": "已生成应用图 · 待评审",
+          "note": "竖向产品摄影方向；SEA／MVP／SAVAGE三枚皮革贴纸。精确图案与比例需按原稿复核，非产品实拍。"
+        },
+        {
+          "file": "documents/booth-paper-island-current/backface-wireframes/application-case.png",
+          "thumb": "documents/booth-paper-island-current/backface-wireframes/application-case-thumb.webp",
+          "label": "A方向 · 游戏机保护包 × Layla贴纸",
+          "status": "已生成应用图 · 待评审",
+          "note": "横向黑色保护包，使用笑脸奖杯与哭脸两枚Layla图案。生成式应用示意，非产品实拍或印刷终稿。"
+        },
+        {
           "file": "documents/booth-paper-island-current/backface-wireframes/A-brand-use.png",
           "thumb": "documents/booth-paper-island-current/backface-wireframes/A-brand-use-thumb.webp",
           "label": "11.23 · A方向深化 · 口号移至站立视线区",
@@ -1234,7 +1248,7 @@ window.WORKSPACE= {
         }
       ],
       "conversationName": "MLBB展位重设计",
-      "currentFocus": "用户选择A品牌＋电竞用途方向深化；已将墙底口号移到离地约1.5–1.8米的站立视线区，柜背操作区和扫码入口同步上移，当前线框待评审。",
+      "currentFocus": "A品牌＋电竞用途方向深化：两张应用图已生成，银色耳机配MCT、黑色游戏机保护包配Layla；对应已上移口号的线框区域，待评审。",
       "cancelledScope": [
         "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
         "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
