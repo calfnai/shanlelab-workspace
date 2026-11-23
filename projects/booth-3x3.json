@@ -703,7 +703,7 @@
   "sync": {
     "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "朝外背面设计稿已生成并加入共享页；原展位布局、内侧画面与已发送整套文件保留。"
+    "status": "背景布朝外背面设计图已于2026-11-23发送calfnmac；发送端完成，接收打开未验证。"
   },
   "withdrawnItems": [
     {
@@ -748,6 +748,15 @@
       "status": "Sender-side transfer completed; recipient receipt/opening unverified",
       "bytes": 33093183,
       "sha256": "f8f7054556505eef84158eac44ca23b314e7a99e64ceb040943c6ef2499709e7"
+    },
+    {
+      "date": "2026-11-23",
+      "target": "calfnmac",
+      "package": "current-backdrop-outward.png",
+      "contents": "Outward-facing backdrop: silver gaming headset and console carrying case graphic",
+      "status": "Sender-side transfer completed; recipient receipt/opening unverified",
+      "bytes": 2578077,
+      "sha256": "5136b31825cbdea4780bbdaec988448e757e065016e6fd08c89db74fca842019"
     }
   ]
 }
