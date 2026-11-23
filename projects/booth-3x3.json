@@ -9,16 +9,16 @@
     {
       "file": "documents/booth-paper-island-current/backface-wireframes/application-headset.png",
       "thumb": "documents/booth-paper-island-current/backface-wireframes/application-headset-thumb.webp",
-      "label": "A方向 · 银色电竞耳机 × MCT贴纸",
-      "status": "已生成应用图 · 待评审",
-      "note": "竖向产品摄影方向；SEA／MVP／SAVAGE三枚皮革贴纸。精确图案与比例需按原稿复核，非产品实拍。"
+      "label": "A方向 · 明亮橙蓝重做 · 银色电竞耳机 × MCT贴纸",
+      "status": "风格重做 · 待用户评审",
+      "note": "用户否决上一版暗色霓虹风；当前已替换为明亮背景、橙蓝撞色与薄皮革贴附感。生成式方向稿，原图细节待核对。"
     },
     {
       "file": "documents/booth-paper-island-current/backface-wireframes/application-case.png",
       "thumb": "documents/booth-paper-island-current/backface-wireframes/application-case-thumb.webp",
-      "label": "A方向 · 游戏机保护包 × Layla贴纸",
-      "status": "已生成应用图 · 待评审",
-      "note": "横向黑色保护包，使用笑脸奖杯与哭脸两枚Layla图案。生成式应用示意，非产品实拍或印刷终稿。"
+      "label": "A方向 · 明亮橙蓝重做 · 游戏机保护包 × Layla贴纸",
+      "status": "风格重做 · 待用户评审",
+      "note": "用户否决上一版暗色霓虹风；当前已替换为明亮背景、橙蓝撞色与薄皮革贴附感。生成式方向稿，原图细节待核对。"
     },
     {
       "file": "documents/booth-paper-island-current/backface-wireframes/A-brand-use.png",
@@ -615,7 +615,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "A品牌＋电竞用途方向深化：两张应用图已生成，银色耳机配MCT、黑色游戏机保护包配Layla；对应已上移口号的线框区域，待评审。",
+  "currentFocus": "两张应用图按用户风格反馈重做为明亮橙蓝品牌摄影：银色耳机配MCT、浅灰游戏机保护包配Layla。旧暗色风格被否决，当前图待评审。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
