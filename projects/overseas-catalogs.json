@@ -10,6 +10,13 @@
   "currentFocus": "Lifestyle 按最新周边产品资料补充定价口径、EAN、规格与在售状态；Cloudflare 与 Vercel 均已上线验证。4款价格冲突、5个缺失EAN及新款图片／定制MOQ仍待补齐。",
   "items": [
     {
+      "file": "documents/onsite-selection-guide/preview.png",
+      "thumb": "documents/onsite-selection-guide/preview.webp",
+      "label": "ArtSticker 现场选款引导单 · A4 中英文",
+      "status": "已生成并检查 · 待用户审阅",
+      "note": "扫码进入指定ArtSticker选款区；三步选款、核对数量、工作人员确认下单。A4一页，100%打印。PDF已渲染检查，二维码解码通过；手机实扫与现场打印效果待确认。"
+    },
+    {
       "file": "documents/artsticker-handbook/v04/ArtSticker-Corrections-v04.jpg",
       "thumb": "documents/artsticker-handbook/v04/ArtSticker-Corrections-v04.webp",
       "label": "ArtSticker v04 · 花款合页、系列归属与官网主题分章",
@@ -473,6 +480,11 @@
     }
   ],
   "links": [
+    {
+      "label": "现场扫码选款引导单 · A4 打印 PDF",
+      "href": "documents/onsite-selection-guide/SHANLE-LAB-Onsite-Selection-Guide-A4.pdf",
+      "kind": "document"
+    },
     {
       "label": "ChatGPT跨端接续 · 近期工作、工作方式与文件入口",
       "href": "documents/overseas-chatgpt-sync/current.md",
