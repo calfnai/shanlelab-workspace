@@ -469,11 +469,11 @@
       "note": "按用户灯型图：绿色为铲灯、黄色为筒灯；本稿应用于无背景布备选，黑柜3铲灯＋中岛2筒灯，白光。非用户确认的取消背景布决定。"
     },
     {
-      "label": "第一周 · 融入Mars Coolplay／右前方替换中岛",
+      "label": "第一周 · 中岛2米长边平行右侧边界",
       "file": "documents/booth-paper-island-current/week1-marscoolplay-integration.png",
       "thumb": "documents/booth-paper-island-current/week1-marscoolplay-integration.png",
-      "status": "已生成 · 待用户评审",
-      "note": "用户明确：第一周在Mars Coolplay展位内，以原SHANLE中岛替换截图红圈右前方白色中岛；第二周才独立设摊。此图仅展示第一周合摊位置，不带独立黑柜、地毯或背景布。"
+      "status": "方向已按用户要求修正 · 待评审",
+      "note": "仅原中岛进驻Mars Coolplay右前方：中岛2000长边与展位右侧5000边界平行，正面朝右侧通道。替换此前被用户否定的朝镜头斜摆图。第二周为独立展位。"
     }
   ],
   "links": [
@@ -648,7 +648,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "两周分开：第一周仅原中岛进驻Mars Coolplay右前方；第二周独立展位。第一周合摊效果图已生成待评审。",
+  "currentFocus": "第一周合摊中岛方向已修正：2米长边平行Mars Coolplay右侧边界，面向右侧通道；待用户评审。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
@@ -736,7 +736,7 @@
   "sync": {
     "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "已按用户更新活动阶段：第一周合摊、第二周独立。原独立摊位及有无背景布备选保留，不将第一周效果图标为已批准。"
+    "status": "已替换用户否定的斜摆效果图，当前第一周图为2米长边平行右边界的摆法。"
   },
   "withdrawnItems": [
     {
@@ -798,7 +798,8 @@
       "format": "Within Mars Coolplay booth",
       "placement": "Replace front-right white island circled in user reference",
       "fixtures": "Original SHANLE LAB paper island only",
-      "status": "User-specified arrangement; integration render pending review"
+      "status": "User-specified arrangement; integration render pending review",
+      "orientation": "2000 mm long edge parallel to Mars Coolplay right-side 5000 mm boundary; front facing right aisle"
     },
     {
       "stage": "week2",
