@@ -1,0 +1,113 @@
+{
+  "id": "taggy-instagram",
+  "title": "TAGGY · Instagram 内容评审",
+  "en": "12 / TAGGY",
+  "description": "11/24 原始 brief 与第一轮 12 张未获认可结果，供外部 AI 对照评审。",
+  "conversation": "6afb64c0",
+  "conversationName": "TAGGY 内容生产难度评估",
+  "note": "用户对本轮结果不满意。保留原始 brief、提示词、12 张原 PNG 和 3 张已下载原片；仅生成 6/15 条，其余未完成。未发布到 Instagram。",
+  "items": [
+    {
+      "file": "documents/taggy-instagram-review/posts/01-01.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/01-01.webp",
+      "label": "01-01 · 街头出行与随拍",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/01-02.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/01-02.webp",
+      "label": "01-02 · 街头出行与随拍",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/01-03.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/01-03.webp",
+      "label": "01-03 · 街头出行与随拍",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/01-04.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/01-04.webp",
+      "label": "01-04 · 街头出行与随拍",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/03-01.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/03-01.webp",
+      "label": "03-01 · 周末逛市集",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/03-02.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/03-02.webp",
+      "label": "03-02 · 周末逛市集",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/03-03.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/03-03.webp",
+      "label": "03-03 · 周末逛市集",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/05-01.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/05-01.webp",
+      "label": "05-01 · 朋友桌游夜",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/05-02.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/05-02.webp",
+      "label": "05-02 · 朋友桌游夜",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/11-01.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/11-01.webp",
+      "label": "11-01 · Mr. TAGGY 怎么帮我找东西？",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/12-01.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/12-01.webp",
+      "label": "12-01 · Mr. TAGGY 适合我的手机吗？",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    },
+    {
+      "file": "documents/taggy-instagram-review/posts/15-01.png",
+      "thumb": "documents/taggy-instagram-review/thumbs/15-01.webp",
+      "label": "15-01 · Mr. TAGGY 的电池能用多久？",
+      "status": "用户不满意 · 待外部点评",
+      "note": "第一轮 AI 生成原结果；未确认定稿。"
+    }
+  ],
+  "links": [
+    {
+      "label": "Brief × 结果 · 完整评审页",
+      "href": "documents/taggy-instagram-review/index.html"
+    },
+    {
+      "label": "完整评审包（含原始 brief 和参考原片）",
+      "href": "documents/taggy-instagram-review/review-package.zip"
+    },
+    {
+      "label": "原始 Excel brief",
+      "href": "documents/taggy-instagram-review/original-brief.xlsx"
+    },
+    {
+      "label": "外部 AI 评审说明",
+      "href": "documents/taggy-instagram-review/review-notes.md"
+    }
+  ]
+}
