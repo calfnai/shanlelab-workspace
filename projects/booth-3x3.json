@@ -453,6 +453,20 @@
       "status": "已生成 · 待用户确认",
       "note": "3000W×2800H画面比例；银色电竞耳机应用MCT贴纸，游戏机保护包应用Layla贴纸；橙色POPSTICKER视觉锤、MCT浪纹，无MLBB字标。概念设计，非印刷生产文件。",
       "thumb": "documents/booth-paper-island-current/current-backdrop-outward.png"
+    },
+    {
+      "label": "备选 · 无背景布整体效果",
+      "file": "documents/booth-paper-island-current/current-booth-no-backdrop.png",
+      "thumb": "documents/booth-paper-island-current/current-booth-no-backdrop.png",
+      "status": "已生成 · 待用户确认",
+      "note": "去除背景布、支架及其4盏灯；保留黑柜、中岛及3000×3000整铺地毯，黑柜4灯＋中岛2灯。原带背景布方案保留。"
+    },
+    {
+      "label": "备选 · 无背景布／铲灯＋筒灯",
+      "file": "documents/booth-paper-island-current/current-booth-no-backdrop-lighting.png",
+      "thumb": "documents/booth-paper-island-current/current-booth-no-backdrop-lighting.png",
+      "status": "已生成 · 待用户确认",
+      "note": "按用户灯型图：绿色为铲灯、黄色为筒灯；本稿应用于无背景布备选，黑柜3铲灯＋中岛2筒灯，白光。非用户确认的取消背景布决定。"
     }
   ],
   "links": [
@@ -627,7 +641,7 @@
     }
   ],
   "conversationName": "MLBB展位重设计",
-  "currentFocus": "两张应用图按用户风格反馈重做为明亮橙蓝品牌摄影：银色耳机配MCT、浅灰游戏机保护包配Layla。旧暗色风格被否决，当前图待评审。",
+  "currentFocus": "无背景布备选已按灯型参考更新，黑柜3铲灯、中岛2筒灯；待用户确认适用版本与效果。",
   "cancelledScope": [
     "本次泰国展位不使用ArtSticker；撤下旧半墙ArtSticker陈列。",
     "右墙独立700 mm层板取消，由700 mm地柜顶替代。",
@@ -715,7 +729,7 @@
   "sync": {
     "checkedAt": "2026-11-22",
     "sourceConversation": "d1139134",
-    "status": "背景布朝外背面设计图已于2026-11-23发送calfnmac；发送端完成，接收打开未验证。"
+    "status": "2026-11-27完成铲灯＋筒灯效果备选，已保留原方案和用户灯型参考。"
   },
   "withdrawnItems": [
     {
